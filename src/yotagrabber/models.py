@@ -65,4 +65,3 @@ def update_models():
         .reset_index(drop=True)
     )
     models.to_json("output/models.json", orient="records", indent=2)
-    return models
