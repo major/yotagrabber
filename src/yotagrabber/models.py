@@ -66,7 +66,3 @@ def update_models():
     )
     models.to_json("output/models.json", orient="records", indent=2)
     return models
-
-
-if __name__ == "__main__":
-    print(generate_models())
