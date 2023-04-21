@@ -1,0 +1,111 @@
+query {
+  locateVehiclesByZip(
+    zipCode: "78108"
+    brand: "TOYOTA"
+    pageNo: 1
+    pageSize: 250
+    seriesCodes: "4runner"
+    distance: 20
+    leadid: "442061c2-e5e2-43fd-9c32-ef1423adccbe"
+  ) {
+    pagination {
+      pageNo
+      pageSize
+      totalPages
+      totalRecords
+    }
+    vehicleSummary {
+      vin
+      stockNum
+      brand
+      marketingSeries
+      year
+      isTempVin
+      dealerCd
+      dealerCategory
+      distributorCd
+      holdStatus
+      weightRating
+      isPreSold
+      dealerMarketingName
+      dealerWebsite
+      isSmartPath
+      distance
+      isUnlockPriceDealer
+      transmission {
+        transmissionType
+      }
+      price {
+        advertizedPrice
+        nonSpAdvertizedPrice
+        totalMsrp
+        sellingPrice
+        dph
+        dioTotalMsrp
+        dioTotalDealerSellingPrice
+        dealerCashApplied
+        baseMsrp
+      }
+      options {
+        optionCd
+        marketingName
+        marketingLongName
+        optionType
+        packageInd
+      }
+      mpg {
+        city
+        highway
+        combined
+      }
+      model {
+        modelCd
+        marketingName
+        marketingTitle
+      }
+      media {
+        type
+        href
+        imageTag
+        source
+      }
+      intColor {
+        colorCd
+        colorSwatch
+        marketingName
+        nvsName
+      }
+      extColor {
+        colorCd
+        colorSwatch
+        marketingName
+        colorHexCd
+        nvsName
+      }
+      eta {
+        currFromDate
+        currToDate
+      }
+      engine {
+        engineCd
+        name
+      }
+      drivetrain {
+        code
+        title
+        bulletlist
+      }
+      family
+      cab {
+        code
+        title
+        bulletlist
+      }
+      bed {
+        code
+        title
+        bulletlist
+      }
+    }
+  }
+}

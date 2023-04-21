@@ -1,0 +1,33 @@
+query {
+  models(zipCd: "ZIPCODE", brand: "T") {
+    asShown
+    cityMPG
+    disclaimer
+    family
+    families {
+      seqNo
+      familiyType
+    }
+    hoverImage
+    hwyMPG
+    image
+    modelCode
+    msrp
+    series
+    shortDescription
+    title
+    year
+    mpgDisclaimerCode
+    mpgeDisclaimerCode
+    msrpDisclaimerCode
+    mpge
+    range
+    topLabel {
+      iconField
+      textField
+    }
+    bottomLabel {
+      textField
+    }
+  }
+}
