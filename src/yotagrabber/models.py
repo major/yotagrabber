@@ -4,7 +4,7 @@ import json
 import pandas as pd
 from python_graphql_client import GraphqlClient
 
-import config
+from yotagrabber import config
 
 # Set to True to use local data and skip requests to the Toyota website.
 USE_LOCAL_DATA_ONLY = False
