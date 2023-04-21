@@ -7,7 +7,7 @@ from python_graphql_client import GraphqlClient
 import config
 
 # Set to True to use local data and skip requests to the Toyota website.
-USE_LOCAL_DATA_ONLY = True
+USE_LOCAL_DATA_ONLY = False
 
 
 def get_models_query():
@@ -44,7 +44,7 @@ def query_toyota():
     return result
 
 
-def generate_models():
+def update_models():
     """Generate a JSON file containing Toyota models."""
     result = read_local_data() if USE_LOCAL_DATA_ONLY else query_toyota()
 
