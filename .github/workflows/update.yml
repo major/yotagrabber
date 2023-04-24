@@ -61,7 +61,7 @@ jobs:
         id: set-matrix
         run: |
           export MODELS=$(jq -cr "[.[].modelCode]" output/models.json | sed 's/\"/\\"/g')
-          echo "::set-output name=matrix::{\"models\":$MODELS}"
+          echo "matrix={\"models\": $MODELS}" >> $GITHUB_OUTPUT
 
   update_each_model:
     name: "Update each model"
