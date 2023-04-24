@@ -7,7 +7,7 @@ from python_graphql_client import GraphqlClient
 from yotagrabber import config
 
 # Set to True to use local data and skip requests to the Toyota website.
-USE_LOCAL_DATA_ONLY = True
+USE_LOCAL_DATA_ONLY = False
 
 
 def get_models_query():
@@ -16,7 +16,7 @@ def get_models_query():
         query = fileh.read()
 
     # Replace the zip code with a random zip code.
-    query.replace("ZIPCODE", config.random_zip_code())
+    query = query.replace("ZIPCODE", config.random_zip_code())
 
     return query
 

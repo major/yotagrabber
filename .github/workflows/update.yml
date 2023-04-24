@@ -103,6 +103,6 @@ jobs:
           git add output
           timestamp=$(date -u)
           git commit -m "Updating ${MODEL} vehicle data: ${timestamp}" || exit 0
-          git status
+          git clean -fxd
           git pull --rebase
           git push
