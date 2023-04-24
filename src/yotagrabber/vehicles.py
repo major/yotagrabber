@@ -85,7 +85,7 @@ def update_vehicles():
     result = read_local_data() if USE_LOCAL_DATA_ONLY else get_all_pages()
 
     # Write the raw data to a file.
-    result.to_json(f"output/{MODEL}_raw.json", orient="records", indent=2)
+    result.to_json(f"output/{MODEL}_raw.json.zst", orient="records", indent=2)
 
     # Get the models from the result.
     # models = result["data"]["models"]
