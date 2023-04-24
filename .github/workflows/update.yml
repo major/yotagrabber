@@ -75,10 +75,25 @@ jobs:
       max-parallel: 1
       matrix: ${{fromJSON(needs.update_model_list.outputs.matrix)}}
     steps:
+      - uses: actions/checkout@v3
+
+      - name: Install poetry
+        run: pipx install poetry
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+          cache: poetry
+
+      - name: Install dependencies
+        run: poetry install --only main
+
       - name: Get vehicles matching model
         run: poetry run update_vehicles
         env:
           MODEL: ${{ matrix.model }}
+          PYTHONUNBUFFERED: 1
 
       - name: Commit and push if it changed
         run: |-
