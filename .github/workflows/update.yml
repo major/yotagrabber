@@ -61,20 +61,22 @@ jobs:
         id: set-matrix
         run: |
           export MODELS=$(jq -cr "[.[].modelCode]" output/models.json)
-          echo -n 'matrix={"models": ' >> $GITHUB_OUTPUT
+          echo -n 'matrix={"model": ' >> $GITHUB_OUTPUT
           echo -n $MODELS >> $GITHUB_OUTPUT
           echo '}' >> $GITHUB_OUTPUT
 
           cat $GITHUB_OUTPUT
 
   update_each_model:
-    name: "Update each model"
+    name: "Vehicle"
     needs: update_model_list
     runs-on: ubuntu-latest
     strategy:
-      max-parallel: 2
+      max-parallel: 1
       matrix: ${{fromJSON(needs.update_model_list.outputs.matrix)}}
     steps:
       - name: Check environment
         run: |
           env | sort
+        with:
+          MODEL: ${{ matrix.model }}
