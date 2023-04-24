@@ -78,5 +78,5 @@ jobs:
       - name: Check environment
         run: |
           env | sort
-        with:
+        env:
           MODEL: ${{ matrix.model }}
