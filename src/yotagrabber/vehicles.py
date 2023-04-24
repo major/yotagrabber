@@ -1,4 +1,5 @@
 """Get a list of Toyota vehicles from the Toyota website."""
+import datetime
 import os
 import json
 import random
@@ -11,7 +12,7 @@ from python_graphql_client import GraphqlClient
 from yotagrabber import config
 
 # Set to True to use local data and skip requests to the Toyota website.
-USE_LOCAL_DATA_ONLY = False
+USE_LOCAL_DATA_ONLY = True
 
 # Get the model that we should be searching for.
 MODEL = os.environ.get("MODEL")
@@ -33,10 +34,7 @@ def get_vehicles_query():
 
 def read_local_data():
     """Read local raw data from the disk instead of querying Toyota."""
-    with open(f"output/{MODEL}_raw.json", "r") as fileh:
-        result = json.load(fileh)
-
-    return result
+    return pd.read_json(f"output/{MODEL}_raw.json.zst")
 
 
 def query_toyota(page_number):
@@ -82,25 +80,95 @@ def update_vehicles():
     if not MODEL:
         sys.exit("Set the MODEL environment variable first")
 
-    result = read_local_data() if USE_LOCAL_DATA_ONLY else get_all_pages()
+    df = read_local_data() if USE_LOCAL_DATA_ONLY else get_all_pages()
 
     # Write the raw data to a file.
-    result.to_json(f"output/{MODEL}_raw.json.zst", orient="records", indent=2)
+    if not USE_LOCAL_DATA_ONLY:
+        df.to_json(f"output/{MODEL}_raw.json.zst", orient="records", indent=2)
 
-    # Get the models from the result.
-    # models = result["data"]["models"]
-    # df = pd.json_normalize(models)
+    # Add dealer data.
+    dealers = pd.read_csv(f"{config.BASE_DIRECTORY}/data/dealers.csv")[
+        ["dealerId", "state"]
+    ]
+    dealers.rename(columns={"state": "Dealer State"}, inplace=True)
+    df["dealerCd"] = df["dealerCd"].apply(pd.to_numeric)
+    df = df.merge(dealers, left_on="dealerCd", right_on="dealerId")
 
-    # # Build a view and write it out as JSON.
-    # models = (
-    #     df[
-    #         [
-    #             "modelCode",
-    #             "title",
-    #             "image",
-    #         ]
-    #     ]
-    #     .sort_values("modelCode", ascending=True)
-    #     .reset_index(drop=True)
-    # )
-    # models.to_json("output/models.json", orient="records", indent=2)
+    renames = {
+        "vin": "VIN",
+        "price.baseMsrp": "Base MSRP",
+        "model.marketingName": "Model",
+        "extColor.marketingName": "Color",
+        "dealerCategory": "Shipping Status",
+        "dealerMarketingName": "Dealer",
+        "dealerWebsite": "Dealer Website",
+        "isPreSold": "Pre-Sold",
+        "holdStatus": "Hold Status",
+        "year": "Year",
+        "drivetrain.code": "Drivetrain",
+    }
+
+    with open(f"output/models.json", "r") as fileh:
+        title = [x["title"] for x in json.load(fileh) if x["modelCode"] == MODEL][0]
+
+    df = (
+        df[
+            [
+                "vin",
+                "dealerCategory",
+                "price.baseMsrp",
+                "price.dioTotalDealerSellingPrice",
+                "isPreSold",
+                "holdStatus",
+                "year",
+                "drivetrain.code",
+                "media",
+                "model.marketingName",
+                "extColor.marketingName",
+                "dealerMarketingName",
+                "dealerWebsite",
+                "Dealer State",
+            ]
+        ]
+        .copy(deep=True)
+        .rename(columns=renames)
+    )
+
+    # Remove the model name (like 4Runner) from the model column (like TRD Pro).
+    df["Model"] = df["Model"].str.replace(f"{title} ", "")
+
+    # Clean up missing colors and colors with extra tags.
+    df = df[df["Color"].notna()]
+    df["Color"] = df["Color"].str.replace(" [extra_cost_color]", "", regex=False)
+
+    # Calculate the dealer price + markup.
+    df["Dealer Price"] = df["Base MSRP"] + df["price.dioTotalDealerSellingPrice"]
+    df["Dealer Price"] = df["Dealer Price"].fillna(df["Base MSRP"])
+    df["Markup"] = df["Dealer Price"] - df["Base MSRP"]
+    df.drop(columns=["price.dioTotalDealerSellingPrice"], inplace=True)
+
+    # Remove any old models that might still be there.
+    last_year = datetime.date.today().year - 1
+    df.drop(df[df["Year"] < last_year].index, inplace=True)
+
+    statuses = {
+        None: "No",
+        False: "No",
+        True: "Yes",
+    }
+    df.replace({"Pre-Sold": statuses}, inplace=True)
+
+    statuses = {
+        "A": "Factory to port",
+        "F": "Port to dealer",
+        "G": "At dealer",
+    }
+    df.replace({"Shipping Status": statuses}, inplace=True)
+
+    df["Image"] = df["media"].apply(
+        lambda x: [x["href"] for x in x if x["type"] == "carjellyimage"][0]
+    )
+    df.drop(columns=["media"], inplace=True)
+
+    # Write the data to a file.
+    df.to_json(f"output/{MODEL}.json", orient="records", indent=2, lines=True)
