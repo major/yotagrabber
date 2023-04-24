@@ -60,8 +60,12 @@ jobs:
       - name: Generate a list of models for the actions matrix
         id: set-matrix
         run: |
-          export MODELS=$(jq -cr "[.[].modelCode]" output/models.json | sed 's/\"/\\"/g')
-          echo "matrix={\"models\": $MODELS}" >> $GITHUB_OUTPUT
+          export MODELS=$(jq -cr "[.[].modelCode]" output/models.json)
+          echo -n 'matrix={"models": ' >> $GITHUB_OUTPUT
+          echo -n $MODELS >> $GITHUB_OUTPUT
+          echo '}' >> $GITHUB_OUTPUT
+
+          cat $GITHUB_OUTPUT
 
   update_each_model:
     name: "Update each model"
