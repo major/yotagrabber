@@ -74,6 +74,8 @@ jobs:
     strategy:
       max-parallel: 1
       matrix: ${{fromJSON(needs.update_model_list.outputs.matrix)}}
+    env:
+      MODEL: ${{ matrix.model }}
     steps:
       - uses: actions/checkout@v3
 
@@ -92,7 +94,6 @@ jobs:
       - name: Get vehicles matching model
         run: poetry run update_vehicles
         env:
-          MODEL: ${{ matrix.model }}
           PYTHONUNBUFFERED: 1
 
       - name: Commit and push if it changed
@@ -102,5 +103,6 @@ jobs:
           git add output
           timestamp=$(date -u)
           git commit -m "Updating ${MODEL} vehicle data: ${timestamp}" || exit 0
+          git status
           git pull --rebase
           git push
