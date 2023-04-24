@@ -19,29 +19,25 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  update:
-    name: "Update data"
+  update_model_list:
+    name: "Update model list"
     runs-on: ubuntu-latest
-
+    outputs:
+      matrix: ${{ steps.set-matrix.outputs.matrix }}
     steps:
       - uses: actions/checkout@v3
+
+      - name: Install poetry
+        run: pipx install poetry
 
       - name: Set up Python 3.11
         uses: actions/setup-python@v4
         with:
           python-version: "3.11"
-
-      - name: Install Poetry
-        uses: Gr1N/setup-poetry@v8
-
-      - name: Cache Python dependencies
-        uses: actions/cache@v3
-        with:
-          path: ~/.cache/pypoetry/virtualenvs
-          key: ${{ runner.os }}-poetry-${{ hashFiles('poetry.lock') }}
+          cache: poetry
 
       - name: Install dependencies
-        run: poetry install --no-dev
+        run: poetry install --only main
 
       - name: Get the latest models
         run: poetry run update_models
@@ -57,3 +53,20 @@ jobs:
           git pull --rebase
           git commit -m "Auto-update: ${timestamp}" || exit 0
           git push
+
+      - name: Generate a list of models for the actions matrix
+        id: set-matrix
+        run: |
+          export MODELS=$(jq -cr "[.[].modelCode]" output/models.json | sed 's/\"/\\"/g')
+          echo "::set-output name=matrix::{\"models\":$MODELS}"
+
+  update_each_model:
+    name: "Update each model"
+    needs: update_model_list
+    runs-on: ubuntu-latest
+    strategy:
+      matrix: ${{fromJSON(needs.update_model_list.outputs.matrix)}}
+    steps:
+      - name: Check environment
+        run: |
+          env | sort
