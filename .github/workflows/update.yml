@@ -75,7 +75,8 @@ jobs:
     needs: update_model_list
     runs-on: ubuntu-latest
     strategy:
-      max-parallel: 2
+      fail-fast: false
+      max-parallel: 1
       matrix: ${{fromJSON(needs.update_model_list.outputs.matrix)}}
     env:
       MODEL: ${{ matrix.model }}
