@@ -54,6 +54,10 @@ jobs:
           git add output
           timestamp=$(date -u)
           git commit -m "Updating models list: ${timestamp}" || exit 0
+          # Sometimes there are leftover .pyc files.
+          git clean -fxd
+          git status
+          git pull --rebase
           git push
 
       - name: Generate a list of models for the actions matrix
@@ -102,4 +106,8 @@ jobs:
           git add output
           timestamp=$(date -u)
           git commit -m "Updating ${MODEL} vehicle data: ${timestamp}" || exit 0
+          # Sometimes there are leftover .pyc files.
+          git clean -fxd
+          git status
+          git pull --rebase
           git push
