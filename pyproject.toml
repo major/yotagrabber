@@ -20,6 +20,7 @@ pytest-sugar = "^0.9.7"
 pytest = "^7.3.1"
 pytest-xdist = "^3.2.1"
 pytest-cov = "^4.0.0"
+pandas-stubs = "^2.0.0.230412"
 
 [build-system]
 requires = ["poetry-core"]
@@ -27,3 +28,4 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
 update_models = 'yotagrabber.models:update_models'
+update_vehicles = 'yotagrabber.vehicles:update_vehicles'

@@ -53,7 +53,7 @@ jobs:
           git config user.email "major@mhtx.net"
           git add output
           timestamp=$(date -u)
-          git commit -m "Auto-update: ${timestamp}" || exit 0
+          git commit -m "Updating models list: ${timestamp}" || exit 0
           git pull --rebase
           git push
 
@@ -75,8 +75,17 @@ jobs:
       max-parallel: 1
       matrix: ${{fromJSON(needs.update_model_list.outputs.matrix)}}
     steps:
-      - name: Check environment
-        run: |
-          env | sort
+      - name: Get vehicles matching model
+        run: poetry run update_vehicles
         env:
           MODEL: ${{ matrix.model }}
+
+      - name: Commit and push if it changed
+        run: |-
+          git config user.name "Major Hayden"
+          git config user.email "major@mhtx.net"
+          git add output
+          timestamp=$(date -u)
+          git commit -m "Updating ${MODEL} vehicle data: ${timestamp}" || exit 0
+          git pull --rebase
+          git push

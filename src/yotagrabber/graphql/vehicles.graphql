@@ -1,12 +1,12 @@
 query {
   locateVehiclesByZip(
-    zipCode: "78108"
+    zipCode: "ZIPCODE"
     brand: "TOYOTA"
-    pageNo: 1
+    pageNo: PAGENUMBER
     pageSize: 250
-    seriesCodes: "4runner"
-    distance: 20
-    leadid: "442061c2-e5e2-43fd-9c32-ef1423adccbe"
+    seriesCodes: "MODELCODE"
+    distance: DISTANCEMILES
+    leadid: "LEADIDUUID"
   ) {
     pagination {
       pageNo
