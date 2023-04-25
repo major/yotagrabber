@@ -12,7 +12,7 @@ from python_graphql_client import GraphqlClient
 from yotagrabber import config
 
 # Set to True to use local data and skip requests to the Toyota website.
-USE_LOCAL_DATA_ONLY = False
+USE_LOCAL_DATA_ONLY = True
 
 # Get the model that we should be searching for.
 MODEL = os.environ.get("MODEL")
@@ -85,6 +85,11 @@ def update_vehicles():
     # Write the raw data to a file.
     if not USE_LOCAL_DATA_ONLY:
         df.to_json(f"output/{MODEL}_raw.json.zst", orient="records", indent=2)
+
+    # Stop here if there are no vehicles to list.
+    if df.empty:
+        print(f"No vehicles found for model: {MODEL}")
+        return
 
     # Add dealer data.
     dealers = pd.read_csv(f"{config.BASE_DIRECTORY}/data/dealers.csv")[
