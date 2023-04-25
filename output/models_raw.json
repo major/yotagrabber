@@ -152,33 +152,138 @@
         }
       },
       {
-        "asShown": "$69,845 as shown [global_msrp_disclaimer]",
-        "cityMPG": "20",
-        "disclaimer": "[global_epa_2023_tundra_hybrid_disclaimer]",
+        "asShown": "$43,325 as shown [global_msrp_disclaimer]",
+        "cityMPG": "21",
+        "disclaimer": "[global_prelim_mpg_2023_disclaimer]",
         "family": [
-          "Trucks",
+          "Cars &amp; Minivan"
+        ],
+        "families": [
+          {
+            "seqNo": 4,
+            "familiyType": "Cars &amp; Minivan"
+          }
+        ],
+        "hoverImage": null,
+        "hwyMPG": "28",
+        "image": "https://www.toyota.com/imgix/content/dam/toyota/jellies/relative/2023/grcorolla/base.png",
+        "modelCode": "grcorolla",
+        "msrp": "35900",
+        "series": "GR Corolla",
+        "shortDescription": null,
+        "title": "GR Corolla",
+        "year": "2023",
+        "mpgDisclaimerCode": "[global_prelim_mpg_2023_disclaimer]",
+        "mpgeDisclaimerCode": "",
+        "msrpDisclaimerCode": "[global_msrp_disclaimer]",
+        "mpge": null,
+        "range": null,
+        "topLabel": {
+          "iconField": null,
+          "textField": ""
+        },
+        "bottomLabel": {
+          "textField": ""
+        }
+      },
+      {
+        "asShown": "$54,445 as shown [global_msrp_disclaimer]",
+        "cityMPG": "16",
+        "disclaimer": "[global_epa_2022_4runner_disclaimer]",
+        "family": [
+          "Crossovers &amp; SUVs"
+        ],
+        "families": [
+          {
+            "seqNo": 10,
+            "familiyType": "Crossovers &amp; SUVs"
+          }
+        ],
+        "hoverImage": null,
+        "hwyMPG": "19",
+        "image": "https://www.toyota.com/imgix/content/dam/toyota/jellies/relative/2023/4runner/base.png",
+        "modelCode": "4runner",
+        "msrp": "39555",
+        "series": "4Runner",
+        "shortDescription": null,
+        "title": "4Runner",
+        "year": "2023",
+        "mpgDisclaimerCode": "[global_epa_2022_4runner_disclaimer]",
+        "mpgeDisclaimerCode": "",
+        "msrpDisclaimerCode": "[global_msrp_disclaimer]",
+        "mpge": null,
+        "range": null,
+        "topLabel": {
+          "iconField": null,
+          "textField": ""
+        },
+        "bottomLabel": {
+          "textField": ""
+        }
+      },
+      {
+        "asShown": "$61,685 as shown [global_msrp_disclaimer]",
+        "cityMPG": "25",
+        "disclaimer": "[global_epa_2023_supra_disclaimer]",
+        "family": [
+          "Cars &amp; Minivan"
+        ],
+        "families": [
+          {
+            "seqNo": 12,
+            "familiyType": "Cars &amp; Minivan"
+          }
+        ],
+        "hoverImage": null,
+        "hwyMPG": "32",
+        "image": "https://www.toyota.com/imgix/content/dam/toyota/jellies/relative/2023/grsupra/base.png",
+        "modelCode": "grsupra",
+        "msrp": "44040",
+        "series": "GR Supra",
+        "shortDescription": null,
+        "title": "GR Supra",
+        "year": "2023",
+        "mpgDisclaimerCode": "[global_epa_2023_supra_disclaimer]",
+        "mpgeDisclaimerCode": "",
+        "msrpDisclaimerCode": "[global_msrp_disclaimer]",
+        "mpge": null,
+        "range": null,
+        "topLabel": {
+          "iconField": null,
+          "textField": ""
+        },
+        "bottomLabel": {
+          "textField": ""
+        }
+      },
+      {
+        "asShown": "$27,065 as shown [global_msrp_disclaimer]",
+        "cityMPG": "53",
+        "disclaimer": "[global_epa_2023_corolla_hybrid_disclaimer]",
+        "family": [
+          "Cars &amp; Minivan",
           "Electrified"
         ],
         "families": [
           {
-            "seqNo": 3,
-            "familiyType": "Trucks"
+            "seqNo": 6,
+            "familiyType": "Cars &amp; Minivan"
           },
           {
-            "seqNo": 13,
+            "seqNo": 7,
             "familiyType": "Electrified"
           }
         ],
         "hoverImage": null,
-        "hwyMPG": "24",
-        "image": "https://www.toyota.com/imgix/content/dam/toyota/jellies/relative/2023/tundrahybrid/base.png",
-        "modelCode": "tundrahybrid",
-        "msrp": "54915",
-        "series": "Tundra i-FORCE MAX",
+        "hwyMPG": "46",
+        "image": "https://www.toyota.com/imgix/content/dam/toyota/jellies/relative/2023/corollahybrid/base.png",
+        "modelCode": "corollahybrid",
+        "msrp": "22800",
+        "series": "Corolla Hybrid",
         "shortDescription": null,
-        "title": "Tundra i-FORCE MAX",
+        "title": "Corolla Hybrid",
         "year": "2023",
-        "mpgDisclaimerCode": "[global_epa_2023_tundra_hybrid_disclaimer]",
+        "mpgDisclaimerCode": "[global_epa_2023_corolla_hybrid_disclaimer]",
         "mpgeDisclaimerCode": "",
         "msrpDisclaimerCode": "[global_msrp_disclaimer]",
         "mpge": null,
@@ -272,33 +377,33 @@
         }
       },
       {
-        "asShown": "$27,065 as shown [global_msrp_disclaimer]",
-        "cityMPG": "53",
-        "disclaimer": "[global_epa_2023_corolla_hybrid_disclaimer]",
+        "asShown": "$69,845 as shown [global_msrp_disclaimer]",
+        "cityMPG": "20",
+        "disclaimer": "[global_epa_2023_tundra_hybrid_disclaimer]",
         "family": [
-          "Cars &amp; Minivan",
+          "Trucks",
           "Electrified"
         ],
         "families": [
           {
-            "seqNo": 6,
-            "familiyType": "Cars &amp; Minivan"
+            "seqNo": 3,
+            "familiyType": "Trucks"
           },
           {
-            "seqNo": 7,
+            "seqNo": 13,
             "familiyType": "Electrified"
           }
         ],
         "hoverImage": null,
-        "hwyMPG": "46",
-        "image": "https://www.toyota.com/imgix/content/dam/toyota/jellies/relative/2023/corollahybrid/base.png",
-        "modelCode": "corollahybrid",
-        "msrp": "22800",
-        "series": "Corolla Hybrid",
+        "hwyMPG": "24",
+        "image": "https://www.toyota.com/imgix/content/dam/toyota/jellies/relative/2023/tundrahybrid/base.png",
+        "modelCode": "tundrahybrid",
+        "msrp": "54915",
+        "series": "Tundra i-FORCE MAX",
         "shortDescription": null,
-        "title": "Corolla Hybrid",
+        "title": "Tundra i-FORCE MAX",
         "year": "2023",
-        "mpgDisclaimerCode": "[global_epa_2023_corolla_hybrid_disclaimer]",
+        "mpgDisclaimerCode": "[global_epa_2023_tundra_hybrid_disclaimer]",
         "mpgeDisclaimerCode": "",
         "msrpDisclaimerCode": "[global_msrp_disclaimer]",
         "mpge": null,
@@ -312,96 +417,176 @@
         }
       },
       {
-        "asShown": "$54,445 as shown [global_msrp_disclaimer]",
-        "cityMPG": "16",
-        "disclaimer": "[global_epa_2022_4runner_disclaimer]",
+        "asShown": "$28,465 as shown [global_msrp_disclaimer]",
+        "cityMPG": "31",
+        "disclaimer": "[global_epa_2023_corolla_cross_disclaimer]",
         "family": [
           "Crossovers &amp; SUVs"
         ],
         "families": [
           {
-            "seqNo": 10,
+            "seqNo": 8,
             "familiyType": "Crossovers &amp; SUVs"
           }
         ],
         "hoverImage": null,
-        "hwyMPG": "19",
-        "image": "https://www.toyota.com/imgix/content/dam/toyota/jellies/relative/2023/4runner/base.png",
-        "modelCode": "4runner",
-        "msrp": "39555",
-        "series": "4Runner",
+        "hwyMPG": "33",
+        "image": "https://www.toyota.com/imgix/content/dam/toyota/jellies/relative/2023/corollacross/base.png",
+        "modelCode": "corollacross",
+        "msrp": "23060",
+        "series": "Corolla Cross",
         "shortDescription": null,
-        "title": "4Runner",
+        "title": "Corolla Cross",
         "year": "2023",
-        "mpgDisclaimerCode": "[global_epa_2022_4runner_disclaimer]",
+        "mpgDisclaimerCode": "[global_epa_2023_corolla_cross_disclaimer]",
         "mpgeDisclaimerCode": "",
         "msrpDisclaimerCode": "[global_msrp_disclaimer]",
         "mpge": null,
         "range": null,
         "topLabel": {
           "iconField": null,
-          "textField": ""
+          "textField": "Hybrid Available"
         },
         "bottomLabel": {
           "textField": ""
         }
       },
       {
-        "asShown": "$61,685 as shown [global_msrp_disclaimer]",
-        "cityMPG": "25",
-        "disclaimer": "[global_epa_2023_supra_disclaimer]",
+        "asShown": "$34,720 as shown [global_msrp_disclaimer]",
+        "cityMPG": "51",
+        "disclaimer": "[global_epa_2023_camry_disclaimer]",
+        "family": [
+          "Cars &amp; Minivan",
+          "Electrified"
+        ],
+        "families": [
+          {
+            "seqNo": 9,
+            "familiyType": "Cars &amp; Minivan"
+          },
+          {
+            "seqNo": 9,
+            "familiyType": "Electrified"
+          }
+        ],
+        "hoverImage": null,
+        "hwyMPG": "53",
+        "image": "https://www.toyota.com/imgix/content/dam/toyota/jellies/relative/2023/camryhybrid/base.png",
+        "modelCode": "camryhybrid",
+        "msrp": "28355",
+        "series": "Camry Hybrid",
+        "shortDescription": null,
+        "title": "Camry Hybrid",
+        "year": "2023",
+        "mpgDisclaimerCode": "[global_epa_2023_camry_disclaimer]",
+        "mpgeDisclaimerCode": "",
+        "msrpDisclaimerCode": "[global_msrp_disclaimer]",
+        "mpge": null,
+        "range": null,
+        "topLabel": {
+          "iconField": null,
+          "textField": "Hybrid"
+        },
+        "bottomLabel": {
+          "textField": ""
+        }
+      },
+      {
+        "asShown": "$21,975 as shown [global_msrp_disclaimer]",
+        "cityMPG": "32",
+        "disclaimer": "[global_epa_2023_corolla_disclaimer]",
         "family": [
           "Cars &amp; Minivan"
         ],
         "families": [
           {
-            "seqNo": 12,
+            "seqNo": 5,
             "familiyType": "Cars &amp; Minivan"
           }
         ],
         "hoverImage": null,
-        "hwyMPG": "32",
-        "image": "https://www.toyota.com/imgix/content/dam/toyota/jellies/relative/2023/grsupra/base.png",
-        "modelCode": "grsupra",
-        "msrp": "44040",
-        "series": "GR Supra",
+        "hwyMPG": "41",
+        "image": "https://www.toyota.com/imgix/content/dam/toyota/jellies/relative/2023/corolla/base.png",
+        "modelCode": "corolla",
+        "msrp": "21550",
+        "series": "Corolla",
         "shortDescription": null,
-        "title": "GR Supra",
+        "title": "Corolla",
         "year": "2023",
-        "mpgDisclaimerCode": "[global_epa_2023_supra_disclaimer]",
+        "mpgDisclaimerCode": "[global_epa_2023_corolla_disclaimer]",
         "mpgeDisclaimerCode": "",
         "msrpDisclaimerCode": "[global_msrp_disclaimer]",
         "mpge": null,
         "range": null,
         "topLabel": {
           "iconField": null,
-          "textField": ""
+          "textField": "Hybrid Available"
         },
         "bottomLabel": {
           "textField": ""
         }
       },
       {
-        "asShown": "$43,325 as shown [global_msrp_disclaimer]",
-        "cityMPG": "21",
+        "asShown": "$52,625 as shown [global_msrp_disclaimer]",
+        "cityMPG": "36",
+        "disclaimer": "[global_epa_2023_highlander_hybrid_disclaimer]",
+        "family": [
+          "Crossovers &amp; SUVs",
+          "Electrified"
+        ],
+        "families": [
+          {
+            "seqNo": 3,
+            "familiyType": "Crossovers &amp; SUVs"
+          },
+          {
+            "seqNo": 2,
+            "familiyType": "Electrified"
+          }
+        ],
+        "hoverImage": null,
+        "hwyMPG": "35",
+        "image": "https://www.toyota.com/imgix/content/dam/toyota/jellies/relative/2023/highlanderhybrid/base.png",
+        "modelCode": "highlanderhybrid",
+        "msrp": "40220",
+        "series": "Highlander Hybrid",
+        "shortDescription": null,
+        "title": "Highlander Hybrid",
+        "year": "2023",
+        "mpgDisclaimerCode": "[global_epa_2023_highlander_hybrid_disclaimer]",
+        "mpgeDisclaimerCode": "",
+        "msrpDisclaimerCode": "[global_msrp_disclaimer]",
+        "mpge": null,
+        "range": null,
+        "topLabel": {
+          "iconField": null,
+          "textField": "Hybrid"
+        },
+        "bottomLabel": {
+          "textField": ""
+        }
+      },
+      {
+        "asShown": "$40,970 as shown [global_msrp_disclaimer]",
+        "cityMPG": "18",
         "disclaimer": "[global_prelim_mpg_2023_disclaimer]",
         "family": [
-          "Cars &amp; Minivan"
+          "Trucks"
         ],
         "families": [
           {
-            "seqNo": 4,
-            "familiyType": "Cars &amp; Minivan"
+            "seqNo": 1,
+            "familiyType": "Trucks"
           }
         ],
         "hoverImage": null,
-        "hwyMPG": "28",
-        "image": "https://www.toyota.com/imgix/content/dam/toyota/jellies/relative/2023/grcorolla/base.png",
-        "modelCode": "grcorolla",
-        "msrp": "35900",
-        "series": "GR Corolla",
+        "hwyMPG": "22",
+        "image": "https://www.toyota.com/imgix/content/dam/toyota/jellies/relative/2023/tacoma/base.png",
+        "modelCode": "tacoma",
+        "msrp": "27750",
+        "series": "Tacoma",
         "shortDescription": null,
-        "title": "GR Corolla",
+        "title": "Tacoma",
         "year": "2023",
         "mpgDisclaimerCode": "[global_prelim_mpg_2023_disclaimer]",
         "mpgeDisclaimerCode": "",
@@ -417,40 +602,35 @@
         }
       },
       {
-        "asShown": "$39,170 as shown [global_msrp_disclaimer]",
-        "cityMPG": "50",
-        "disclaimer": "[global_prelim_mpge_2023_prime_disclaimer]",
+        "asShown": "$51,515 as shown [global_msrp_disclaimer]",
+        "cityMPG": "18",
+        "disclaimer": "[global_prelim_mpg_2023_disclaimer]",
         "family": [
-          "Cars &amp; Minivan",
-          "Electrified"
+          "Trucks"
         ],
         "families": [
           {
             "seqNo": 2,
-            "familiyType": "Cars &amp; Minivan"
-          },
-          {
-            "seqNo": 5,
-            "familiyType": "Electrified"
+            "familiyType": "Trucks"
           }
         ],
         "hoverImage": null,
-        "hwyMPG": "47",
-        "image": "https://www.toyota.com/imgix/content/dam/toyota/jellies/relative/2023/priusprime/base.png",
-        "modelCode": "priusprime",
-        "msrp": "32350",
-        "series": "Prius Prime",
+        "hwyMPG": "24",
+        "image": "https://www.toyota.com/imgix/content/dam/toyota/jellies/relative/2023/tundra/base.png",
+        "modelCode": "tundra",
+        "msrp": "37865",
+        "series": "Tundra",
         "shortDescription": null,
-        "title": "Prius Prime",
+        "title": "Tundra",
         "year": "2023",
-        "mpgDisclaimerCode": "[global_prelim_mpge_2023_prime_disclaimer]",
-        "mpgeDisclaimerCode": "[global_prelim_mpge_2023_prime_disclaimer]",
+        "mpgDisclaimerCode": "[global_prelim_mpg_2023_disclaimer]",
+        "mpgeDisclaimerCode": "",
         "msrpDisclaimerCode": "[global_msrp_disclaimer]",
-        "mpge": "114",
+        "mpge": null,
         "range": null,
         "topLabel": {
           "iconField": null,
-          "textField": "Plug-in Hybrid"
+          "textField": "Hybrid Available"
         },
         "bottomLabel": {
           "textField": ""
@@ -537,41 +717,6 @@
         }
       },
       {
-        "asShown": "$45,365 as shown [global_msrp_disclaimer]",
-        "cityMPG": "22",
-        "disclaimer": "[global_epa_2023_highlander_disclaimer]",
-        "family": [
-          "Crossovers &amp; SUVs"
-        ],
-        "families": [
-          {
-            "seqNo": 1,
-            "familiyType": "Crossovers &amp; SUVs"
-          }
-        ],
-        "hoverImage": null,
-        "hwyMPG": "29",
-        "image": "https://www.toyota.com/imgix/content/dam/toyota/jellies/relative/2023/highlander/base.png",
-        "modelCode": "highlander",
-        "msrp": "36420",
-        "series": "Highlander",
-        "shortDescription": null,
-        "title": "Highlander",
-        "year": "2023",
-        "mpgDisclaimerCode": "[global_epa_2023_highlander_disclaimer]",
-        "mpgeDisclaimerCode": "",
-        "msrpDisclaimerCode": "[global_msrp_disclaimer]",
-        "mpge": null,
-        "range": null,
-        "topLabel": {
-          "iconField": null,
-          "textField": "Hybrid Available"
-        },
-        "bottomLabel": {
-          "textField": ""
-        }
-      },
-      {
         "asShown": "$70,965 as shown [global_msrp_disclaimer]",
         "cityMPG": "21",
         "disclaimer": "[global_prelim_mpg_2023_disclaimer]",
@@ -606,41 +751,6 @@
         "topLabel": {
           "iconField": null,
           "textField": "Hybrid"
-        },
-        "bottomLabel": {
-          "textField": ""
-        }
-      },
-      {
-        "asShown": "$26,430 as shown [global_msrp_disclaimer]",
-        "cityMPG": "32",
-        "disclaimer": "[global_epa_2023_corollahb_disclaimer]",
-        "family": [
-          "Cars &amp; Minivan"
-        ],
-        "families": [
-          {
-            "seqNo": 7,
-            "familiyType": "Cars &amp; Minivan"
-          }
-        ],
-        "hoverImage": null,
-        "hwyMPG": "41",
-        "image": "https://www.toyota.com/imgix/content/dam/toyota/jellies/relative/2023/corollahatchback/base.png",
-        "modelCode": "corollahatchback",
-        "msrp": "23005",
-        "series": "Corolla Hatchback",
-        "shortDescription": null,
-        "title": "Corolla Hatchback",
-        "year": "2023",
-        "mpgDisclaimerCode": "[global_epa_2023_corollahb_disclaimer]",
-        "mpgeDisclaimerCode": "",
-        "msrpDisclaimerCode": "[global_msrp_disclaimer]",
-        "mpge": null,
-        "range": null,
-        "topLabel": {
-          "iconField": null,
-          "textField": ""
         },
         "bottomLabel": {
           "textField": ""
@@ -687,6 +797,81 @@
         }
       },
       {
+        "asShown": "$49,950 as shown [global_msrp_disclaimer]",
+        "cityMPG": null,
+        "disclaimer": "",
+        "family": [
+          "Crossovers &amp; SUVs",
+          "Electrified"
+        ],
+        "families": [
+          {
+            "seqNo": 2,
+            "familiyType": "Crossovers &amp; SUVs"
+          },
+          {
+            "seqNo": 1,
+            "familiyType": "Electrified"
+          }
+        ],
+        "hoverImage": null,
+        "hwyMPG": null,
+        "image": "https://www.toyota.com/imgix/content/dam/toyota/jellies/relative/2023/bz4x/base.png",
+        "modelCode": "bz4x",
+        "msrp": "42000",
+        "series": "bZ4X",
+        "shortDescription": null,
+        "title": "bZ4X",
+        "year": "2023",
+        "mpgDisclaimerCode": "",
+        "mpgeDisclaimerCode": "[global_bz4x_2023_total_range_disclaimer]",
+        "msrpDisclaimerCode": "[global_msrp_disclaimer]",
+        "mpge": null,
+        "range": "252",
+        "topLabel": {
+          "iconField": null,
+          "textField": "All-Electric"
+        },
+        "bottomLabel": {
+          "textField": ""
+        }
+      },
+      {
+        "asShown": "$26,430 as shown [global_msrp_disclaimer]",
+        "cityMPG": "32",
+        "disclaimer": "[global_epa_2023_corollahb_disclaimer]",
+        "family": [
+          "Cars &amp; Minivan"
+        ],
+        "families": [
+          {
+            "seqNo": 7,
+            "familiyType": "Cars &amp; Minivan"
+          }
+        ],
+        "hoverImage": null,
+        "hwyMPG": "41",
+        "image": "https://www.toyota.com/imgix/content/dam/toyota/jellies/relative/2023/corollahatchback/base.png",
+        "modelCode": "corollahatchback",
+        "msrp": "23005",
+        "series": "Corolla Hatchback",
+        "shortDescription": null,
+        "title": "Corolla Hatchback",
+        "year": "2023",
+        "mpgDisclaimerCode": "[global_epa_2023_corollahb_disclaimer]",
+        "mpgeDisclaimerCode": "",
+        "msrpDisclaimerCode": "[global_msrp_disclaimer]",
+        "mpge": null,
+        "range": null,
+        "topLabel": {
+          "iconField": null,
+          "textField": ""
+        },
+        "bottomLabel": {
+          "textField": ""
+        }
+      },
+      {
         "asShown": "$34,785 as shown [global_msrp_disclaimer]",
         "cityMPG": "20",
         "disclaimer": "[global_epa_2023_gr86_disclaimer]",
@@ -722,220 +907,75 @@
         }
       },
       {
-        "asShown": "$34,720 as shown [global_msrp_disclaimer]",
-        "cityMPG": "51",
-        "disclaimer": "[global_epa_2023_camry_disclaimer]",
+        "asShown": "$45,365 as shown [global_msrp_disclaimer]",
+        "cityMPG": "22",
+        "disclaimer": "[global_epa_2023_highlander_disclaimer]",
+        "family": [
+          "Crossovers &amp; SUVs"
+        ],
+        "families": [
+          {
+            "seqNo": 1,
+            "familiyType": "Crossovers &amp; SUVs"
+          }
+        ],
+        "hoverImage": null,
+        "hwyMPG": "29",
+        "image": "https://www.toyota.com/imgix/content/dam/toyota/jellies/relative/2023/highlander/base.png",
+        "modelCode": "highlander",
+        "msrp": "36420",
+        "series": "Highlander",
+        "shortDescription": null,
+        "title": "Highlander",
+        "year": "2023",
+        "mpgDisclaimerCode": "[global_epa_2023_highlander_disclaimer]",
+        "mpgeDisclaimerCode": "",
+        "msrpDisclaimerCode": "[global_msrp_disclaimer]",
+        "mpge": null,
+        "range": null,
+        "topLabel": {
+          "iconField": null,
+          "textField": "Hybrid Available"
+        },
+        "bottomLabel": {
+          "textField": ""
+        }
+      },
+      {
+        "asShown": "$39,170 as shown [global_msrp_disclaimer]",
+        "cityMPG": "50",
+        "disclaimer": "[global_prelim_mpge_2023_prime_disclaimer]",
         "family": [
           "Cars &amp; Minivan",
           "Electrified"
         ],
         "families": [
           {
-            "seqNo": 9,
+            "seqNo": 2,
             "familiyType": "Cars &amp; Minivan"
           },
-          {
-            "seqNo": 9,
-            "familiyType": "Electrified"
-          }
-        ],
-        "hoverImage": null,
-        "hwyMPG": "53",
-        "image": "https://www.toyota.com/imgix/content/dam/toyota/jellies/relative/2023/camryhybrid/base.png",
-        "modelCode": "camryhybrid",
-        "msrp": "28355",
-        "series": "Camry Hybrid",
-        "shortDescription": null,
-        "title": "Camry Hybrid",
-        "year": "2023",
-        "mpgDisclaimerCode": "[global_epa_2023_camry_disclaimer]",
-        "mpgeDisclaimerCode": "",
-        "msrpDisclaimerCode": "[global_msrp_disclaimer]",
-        "mpge": null,
-        "range": null,
-        "topLabel": {
-          "iconField": null,
-          "textField": "Hybrid"
-        },
-        "bottomLabel": {
-          "textField": ""
-        }
-      },
-      {
-        "asShown": "$40,970 as shown [global_msrp_disclaimer]",
-        "cityMPG": "18",
-        "disclaimer": "[global_prelim_mpg_2023_disclaimer]",
-        "family": [
-          "Trucks"
-        ],
-        "families": [
-          {
-            "seqNo": 1,
-            "familiyType": "Trucks"
-          }
-        ],
-        "hoverImage": null,
-        "hwyMPG": "22",
-        "image": "https://www.toyota.com/imgix/content/dam/toyota/jellies/relative/2023/tacoma/base.png",
-        "modelCode": "tacoma",
-        "msrp": "27750",
-        "series": "Tacoma",
-        "shortDescription": null,
-        "title": "Tacoma",
-        "year": "2023",
-        "mpgDisclaimerCode": "[global_prelim_mpg_2023_disclaimer]",
-        "mpgeDisclaimerCode": "",
-        "msrpDisclaimerCode": "[global_msrp_disclaimer]",
-        "mpge": null,
-        "range": null,
-        "topLabel": {
-          "iconField": null,
-          "textField": ""
-        },
-        "bottomLabel": {
-          "textField": ""
-        }
-      },
-      {
-        "asShown": "$52,625 as shown [global_msrp_disclaimer]",
-        "cityMPG": "36",
-        "disclaimer": "[global_epa_2023_highlander_hybrid_disclaimer]",
-        "family": [
-          "Crossovers &amp; SUVs",
-          "Electrified"
-        ],
-        "families": [
-          {
-            "seqNo": 3,
-            "familiyType": "Crossovers &amp; SUVs"
-          },
-          {
-            "seqNo": 2,
-            "familiyType": "Electrified"
-          }
-        ],
-        "hoverImage": null,
-        "hwyMPG": "35",
-        "image": "https://www.toyota.com/imgix/content/dam/toyota/jellies/relative/2023/highlanderhybrid/base.png",
-        "modelCode": "highlanderhybrid",
-        "msrp": "40220",
-        "series": "Highlander Hybrid",
-        "shortDescription": null,
-        "title": "Highlander Hybrid",
-        "year": "2023",
-        "mpgDisclaimerCode": "[global_epa_2023_highlander_hybrid_disclaimer]",
-        "mpgeDisclaimerCode": "",
-        "msrpDisclaimerCode": "[global_msrp_disclaimer]",
-        "mpge": null,
-        "range": null,
-        "topLabel": {
-          "iconField": null,
-          "textField": "Hybrid"
-        },
-        "bottomLabel": {
-          "textField": ""
-        }
-      },
-      {
-        "asShown": "$28,465 as shown [global_msrp_disclaimer]",
-        "cityMPG": "31",
-        "disclaimer": "[global_epa_2023_corolla_cross_disclaimer]",
-        "family": [
-          "Crossovers &amp; SUVs"
-        ],
-        "families": [
-          {
-            "seqNo": 8,
-            "familiyType": "Crossovers &amp; SUVs"
-          }
-        ],
-        "hoverImage": null,
-        "hwyMPG": "33",
-        "image": "https://www.toyota.com/imgix/content/dam/toyota/jellies/relative/2023/corollacross/base.png",
-        "modelCode": "corollacross",
-        "msrp": "23060",
-        "series": "Corolla Cross",
-        "shortDescription": null,
-        "title": "Corolla Cross",
-        "year": "2023",
-        "mpgDisclaimerCode": "[global_epa_2023_corolla_cross_disclaimer]",
-        "mpgeDisclaimerCode": "",
-        "msrpDisclaimerCode": "[global_msrp_disclaimer]",
-        "mpge": null,
-        "range": null,
-        "topLabel": {
-          "iconField": null,
-          "textField": "Hybrid Available"
-        },
-        "bottomLabel": {
-          "textField": ""
-        }
-      },
-      {
-        "asShown": "$21,975 as shown [global_msrp_disclaimer]",
-        "cityMPG": "32",
-        "disclaimer": "[global_epa_2023_corolla_disclaimer]",
-        "family": [
-          "Cars &amp; Minivan"
-        ],
-        "families": [
           {
             "seqNo": 5,
-            "familiyType": "Cars &amp; Minivan"
+            "familiyType": "Electrified"
           }
         ],
         "hoverImage": null,
-        "hwyMPG": "41",
-        "image": "https://www.toyota.com/imgix/content/dam/toyota/jellies/relative/2023/corolla/base.png",
-        "modelCode": "corolla",
-        "msrp": "21550",
-        "series": "Corolla",
+        "hwyMPG": "47",
+        "image": "https://www.toyota.com/imgix/content/dam/toyota/jellies/relative/2023/priusprime/base.png",
+        "modelCode": "priusprime",
+        "msrp": "32350",
+        "series": "Prius Prime",
         "shortDescription": null,
-        "title": "Corolla",
+        "title": "Prius Prime",
         "year": "2023",
-        "mpgDisclaimerCode": "[global_epa_2023_corolla_disclaimer]",
-        "mpgeDisclaimerCode": "",
+        "mpgDisclaimerCode": "[global_prelim_mpge_2023_prime_disclaimer]",
+        "mpgeDisclaimerCode": "[global_prelim_mpge_2023_prime_disclaimer]",
         "msrpDisclaimerCode": "[global_msrp_disclaimer]",
-        "mpge": null,
+        "mpge": "114",
         "range": null,
         "topLabel": {
           "iconField": null,
-          "textField": "Hybrid Available"
-        },
-        "bottomLabel": {
-          "textField": ""
-        }
-      },
-      {
-        "asShown": "$51,515 as shown [global_msrp_disclaimer]",
-        "cityMPG": "18",
-        "disclaimer": "[global_prelim_mpg_2023_disclaimer]",
-        "family": [
-          "Trucks"
-        ],
-        "families": [
-          {
-            "seqNo": 2,
-            "familiyType": "Trucks"
-          }
-        ],
-        "hoverImage": null,
-        "hwyMPG": "24",
-        "image": "https://www.toyota.com/imgix/content/dam/toyota/jellies/relative/2023/tundra/base.png",
-        "modelCode": "tundra",
-        "msrp": "37865",
-        "series": "Tundra",
-        "shortDescription": null,
-        "title": "Tundra",
-        "year": "2023",
-        "mpgDisclaimerCode": "[global_prelim_mpg_2023_disclaimer]",
-        "mpgeDisclaimerCode": "",
-        "msrpDisclaimerCode": "[global_msrp_disclaimer]",
-        "mpge": null,
-        "range": null,
-        "topLabel": {
-          "iconField": null,
-          "textField": "Hybrid Available"
+          "textField": "Plug-in Hybrid"
         },
         "bottomLabel": {
           "textField": ""
