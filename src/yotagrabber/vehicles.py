@@ -12,7 +12,7 @@ from python_graphql_client import GraphqlClient
 from yotagrabber import config
 
 # Set to True to use local data and skip requests to the Toyota website.
-USE_LOCAL_DATA_ONLY = True
+USE_LOCAL_DATA_ONLY = False
 
 # Get the model that we should be searching for.
 MODEL = os.environ.get("MODEL")
@@ -156,11 +156,7 @@ def update_vehicles():
     last_year = datetime.date.today().year - 1
     df.drop(df[df["Year"] < last_year].index, inplace=True)
 
-    statuses = {
-        None: "No",
-        False: "No",
-        True: "Yes",
-    }
+    statuses = {None: False, 1: True, 0: False}
     df.replace({"Pre-Sold": statuses}, inplace=True)
 
     statuses = {
