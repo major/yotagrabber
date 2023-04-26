@@ -4,7 +4,7 @@
     "Shipping Status":"Factory to port",
     "Base MSRP":31065,
     "Pre-Sold":false,
-    "Hold Status":null,
+    "Hold Status":"DealerHold",
     "Year":2023,
     "Drivetrain":"AWD",
     "Model":"XSE",
@@ -15,6 +15,24 @@
     "Dealer Price":31065,
     "Markup":0,
     "Image":"https:\/\/media.rti.toyota.com\/config\/pub\/static\/images\/TOY\/2023\/corollacross\/exteriorcolor\/carjellyimage\/5c637d2f7b5a8c399c6f78481a0da6036655581a8e31b50fdbee786e6d03850d_MY23_Corolla-Cross_US_XSE-Hybrid_0089_002_DS-Front-3-4_6K.png"
+  }
+
+  {
+    "VIN":"7MUFBABG6PV20A208",
+    "Shipping Status":"Factory to port",
+    "Base MSRP":29290,
+    "Pre-Sold":false,
+    "Hold Status":"Available",
+    "Year":2023,
+    "Drivetrain":"AWD",
+    "Model":"SE",
+    "Color":"Barcelona Red Metallic",
+    "Dealer":"Toyota of Bowling Green",
+    "Dealer Website":"https:\/\/www.toyotaofbowlinggreen.com",
+    "Dealer State":"KY",
+    "Dealer Price":29290,
+    "Markup":0,
+    "Image":"https:\/\/media.rti.toyota.com\/config\/pub\/static\/images\/TOY\/2023\/corollacross\/exteriorcolor\/carjellyimage\/d7a749e35013413ab102f4165021da437f42ae6fa198b5907f58b9d00f0ae048_MY23_Corolla-Cross_US_SE-Hybrid_03R3_002_DS-Front-3-4_6K.png"
   }
 
   {
@@ -108,42 +126,6 @@
   }
 
   {
-    "VIN":"7MUFBABGXPV21A613",
-    "Shipping Status":"Factory to port",
-    "Base MSRP":27970,
-    "Pre-Sold":false,
-    "Hold Status":null,
-    "Year":2023,
-    "Drivetrain":"AWD",
-    "Model":"S",
-    "Color":"Celestite",
-    "Dealer":"Toyota of Poway",
-    "Dealer Website":"https:\/\/www.toyotaofpoway.com",
-    "Dealer State":"CA",
-    "Dealer Price":27970,
-    "Markup":0,
-    "Image":"https:\/\/media.rti.toyota.com\/config\/pub\/static\/images\/TOY\/2023\/corollacross\/exteriorcolor\/carjellyimage\/8402bb84feb0601b6511aa19ce46c7f04464d9990b37e95b4b3c3e7275de27cd_MY23_Corolla-Cross_US_S-Hybrid_01K3_002_DS-Front-3-4_6K.png"
-  }
-
-  {
-    "VIN":"7MUFBABG4PV20A806",
-    "Shipping Status":"Factory to port",
-    "Base MSRP":31065,
-    "Pre-Sold":false,
-    "Hold Status":null,
-    "Year":2023,
-    "Drivetrain":"AWD",
-    "Model":"XSE",
-    "Color":"Wind Chill Pearl",
-    "Dealer":"Toyota of El Cajon",
-    "Dealer Website":"https:\/\/www.toyotaofelcajon.com",
-    "Dealer State":"CA",
-    "Dealer Price":33555,
-    "Markup":2490,
-    "Image":"https:\/\/media.rti.toyota.com\/config\/pub\/static\/images\/TOY\/2023\/corollacross\/exteriorcolor\/carjellyimage\/5c637d2f7b5a8c399c6f78481a0da6036655581a8e31b50fdbee786e6d03850d_MY23_Corolla-Cross_US_XSE-Hybrid_0089_002_DS-Front-3-4_6K.png"
-  }
-
-  {
     "VIN":"7MUFBABGXPV21A644",
     "Shipping Status":"Factory to port",
     "Base MSRP":29290,
@@ -177,5 +159,77 @@
     "Dealer Price":35285,
     "Markup":5995,
     "Image":"https:\/\/media.rti.toyota.com\/config\/pub\/static\/images\/TOY\/2023\/corollacross\/exteriorcolor\/carjellyimage\/bf3c92d765011a2cbcdf55c4f2592703728aee6e864a96ae41c73c21b90fce09_MY23_Corolla-Cross_US_SE-Hybrid_0089_002_DS-Front-3-4_6K.png"
+  }
+
+  {
+    "VIN":"7MUFBABG1PV20A276",
+    "Shipping Status":"Factory to port",
+    "Base MSRP":29290,
+    "Pre-Sold":false,
+    "Hold Status":null,
+    "Year":2023,
+    "Drivetrain":"AWD",
+    "Model":"SE",
+    "Color":"Jet Black",
+    "Dealer":"Toyota of Redlands",
+    "Dealer Website":"https:\/\/www.toyotaofredlands.com",
+    "Dealer State":"CA",
+    "Dealer Price":30580,
+    "Markup":1290,
+    "Image":"https:\/\/media.rti.toyota.com\/config\/pub\/static\/images\/TOY\/2023\/corollacross\/exteriorcolor\/carjellyimage\/e7676054610a58c977e97b4f813c994d05a1f51e2cd29bc2b53a4c411c589f58_MY23_Corolla-Cross_US_SE-Hybrid_0D11_002_DS-Front-3-4_6K.png"
+  }
+
+  {
+    "VIN":"7MUFBABGXPV21A613",
+    "Shipping Status":"Factory to port",
+    "Base MSRP":27970,
+    "Pre-Sold":true,
+    "Hold Status":"DealerHold",
+    "Year":2023,
+    "Drivetrain":"AWD",
+    "Model":"S",
+    "Color":"Celestite",
+    "Dealer":"Toyota of Poway",
+    "Dealer Website":"https:\/\/www.toyotaofpoway.com",
+    "Dealer State":"CA",
+    "Dealer Price":27970,
+    "Markup":0,
+    "Image":"https:\/\/media.rti.toyota.com\/config\/pub\/static\/images\/TOY\/2023\/corollacross\/exteriorcolor\/carjellyimage\/8402bb84feb0601b6511aa19ce46c7f04464d9990b37e95b4b3c3e7275de27cd_MY23_Corolla-Cross_US_S-Hybrid_01K3_002_DS-Front-3-4_6K.png"
+  }
+
+  {
+    "VIN":"7MUFBABG4PV20A806",
+    "Shipping Status":"Factory to port",
+    "Base MSRP":31065,
+    "Pre-Sold":false,
+    "Hold Status":null,
+    "Year":2023,
+    "Drivetrain":"AWD",
+    "Model":"XSE",
+    "Color":"Wind Chill Pearl",
+    "Dealer":"Toyota of El Cajon",
+    "Dealer Website":"https:\/\/www.toyotaofelcajon.com",
+    "Dealer State":"CA",
+    "Dealer Price":33555,
+    "Markup":2490,
+    "Image":"https:\/\/media.rti.toyota.com\/config\/pub\/static\/images\/TOY\/2023\/corollacross\/exteriorcolor\/carjellyimage\/5c637d2f7b5a8c399c6f78481a0da6036655581a8e31b50fdbee786e6d03850d_MY23_Corolla-Cross_US_XSE-Hybrid_0089_002_DS-Front-3-4_6K.png"
+  }
+
+  {
+    "VIN":"7MUFBABG4PV21A543",
+    "Shipping Status":"Factory to port",
+    "Base MSRP":31065,
+    "Pre-Sold":false,
+    "Hold Status":"Available",
+    "Year":2023,
+    "Drivetrain":"AWD",
+    "Model":"XSE",
+    "Color":"Wind Chill Pearl",
+    "Dealer":"Toyota of Santa Maria",
+    "Dealer Website":"https:\/\/www.toyotasm.com",
+    "Dealer State":"CA",
+    "Dealer Price":31065,
+    "Markup":0,
+    "Image":"https:\/\/media.rti.toyota.com\/config\/pub\/static\/images\/TOY\/2023\/corollacross\/exteriorcolor\/carjellyimage\/5c637d2f7b5a8c399c6f78481a0da6036655581a8e31b50fdbee786e6d03850d_MY23_Corolla-Cross_US_XSE-Hybrid_0089_002_DS-Front-3-4_6K.png"
   }
 
