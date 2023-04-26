@@ -56,7 +56,11 @@ def query_toyota(page_number):
         timeout=15,
     )
 
-    return resp.json()["data"]["locateVehiclesByZip"]
+    try:
+        return resp.json()["data"]["locateVehiclesByZip"]
+    except requests.exceptions.JSONDecodeError:
+        print(resp.text)
+        return []
 
 
 def get_all_pages():
@@ -194,6 +198,8 @@ def update_vehicles():
         lambda x: [x["href"] for x in x if x["type"] == "carjellyimage"][0]
     )
     df.drop(columns=["media"], inplace=True)
+
+    df.sort_values(columns=["VIN"], inplace=True)
 
     # Write the data to a file.
     df.to_csv(f"output/{MODEL}.csv")
