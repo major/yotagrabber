@@ -1,5 +1,6 @@
 """Get a list of Toyota vehicles from the Toyota website."""
 import datetime
+from functools import cache
 import os
 import json
 import random
@@ -18,6 +19,7 @@ USE_LOCAL_DATA_ONLY = False
 MODEL = os.environ.get("MODEL")
 
 
+@cache
 def get_vehicles_query():
     """Read vehicles query from a file."""
     with open(f"{config.BASE_DIRECTORY}/graphql/vehicles.graphql", "r") as fileh:
