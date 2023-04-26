@@ -13,7 +13,7 @@ import requests
 from yotagrabber import config
 
 # Set to True to use local data and skip requests to the Toyota website.
-USE_LOCAL_DATA_ONLY = False
+USE_LOCAL_DATA_ONLY = True
 
 # Get the model that we should be searching for.
 MODEL = os.environ.get("MODEL")
@@ -97,7 +97,9 @@ def update_vehicles():
     df = read_local_data() if USE_LOCAL_DATA_ONLY else get_all_pages()
 
     # Write the raw data to a file.
-    if not USE_LOCAL_DATA_ONLY:
+    if USE_LOCAL_DATA_ONLY:
+        df.sort_values("vin", inplace=True)
+        df.reset_index(drop=True, inplace=True)
         df.to_parquet(f"output/{MODEL}_raw.parquet")
 
     # Stop here if there are no vehicles to list.
@@ -186,6 +188,7 @@ def update_vehicles():
     df.drop(columns=["media"], inplace=True)
 
     df.sort_values(by=["VIN"], inplace=True)
+    df.reset_index(drop=True, inplace=True)
 
     # Write the data to a file.
     df.to_csv(f"output/{MODEL}.csv")
