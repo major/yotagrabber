@@ -56,46 +56,32 @@ def query_toyota(page_number):
         timeout=15,
     )
 
-    try:
-        return resp.json()["data"]["locateVehiclesByZip"]
-    except requests.exceptions.JSONDecodeError:
+    result = resp.json()["data"]["locateVehiclesByZip"]
+
+    if not result or "vehicleSummary" not in result:
         print(resp.text)
-        return []
+        return None
+    else:
+        return result
 
 
 def get_all_pages():
     """Get all pages of results for a query to Toyota."""
     df = pd.DataFrame()
     page_number = 1
-    total_pages = "?"
-    retry_counter = 0
 
     while True:
         # Get a page of vehicles.
-        print(f"Getting page {page_number} of {total_pages}")
+        print(f"Getting page {page_number} of {MODEL} vehicles")
         result = query_toyota(page_number)
 
-        # Retry if there was an error.
-        if "vehicleSummary" not in result:
-            retry_counter += 1
-            print(f"Got an error on {page_number} starting retry #{retry_counter}")
-
-            if retry_counter > 5:
-                break
-            continue
-
-        else:
-            retry_counter = 0
-
-        # Determine how many pages there are.
-        total_pages = result["pagination"]["totalPages"]
+        # Stop if we received no more results.
+        if not result:
+            print("No more results.")
+            break
 
         # Add the current page to the big dataframe.
         df = pd.concat([df, pd.json_normalize(result["vehicleSummary"])])
-
-        # Stop if the current page matches the total page count. Toyota counts from 1.
-        if page_number == total_pages:
-            break
 
         page_number += 1
         continue
