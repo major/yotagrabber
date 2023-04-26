@@ -76,7 +76,7 @@ def get_all_pages():
         result = query_toyota(page_number)
 
         # Retry if there was an error.
-        if not result["vehicleSummary"]:
+        if "vehicleSummary" not in result:
             retry_counter += 1
             print(f"Got an error on {page_number} starting retry #{retry_counter}")
 
@@ -199,7 +199,7 @@ def update_vehicles():
     )
     df.drop(columns=["media"], inplace=True)
 
-    df.sort_values(columns=["VIN"], inplace=True)
+    df.sort_values(by=["VIN"], inplace=True)
 
     # Write the data to a file.
     df.to_csv(f"output/{MODEL}.csv")
