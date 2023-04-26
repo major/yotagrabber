@@ -16,7 +16,8 @@ def get_models_query():
         query = fileh.read()
 
     # Replace the zip code with a random zip code.
-    query = query.replace("ZIPCODE", config.random_zip_code())
+    # query = query.replace("ZIPCODE", config.random_zip_code())
+    query = query.replace("ZIPCODE", "90210")
 
     return query
 
