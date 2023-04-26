@@ -2,7 +2,7 @@
 import json
 
 import pandas as pd
-from python_graphql_client import GraphqlClient
+import requests
 
 from yotagrabber import config
 
@@ -31,17 +31,22 @@ def read_local_data():
 
 def query_toyota():
     """Query Toyota for a list of models."""
-    client = GraphqlClient(
-        endpoint="https://api.search-inventory.toyota.com/graphql",
+    query = get_models_query()
+
+    # Make request.
+    json_post = {"query": query}
+    url = "https://api.search-inventory.toyota.com/graphql"
+    resp = requests.post(
+        url,
+        json=json_post,
         headers=config.get_headers(),
+        timeout=15,
     )
 
-    result = client.execute(query=get_models_query())
-
     with open("output/models_raw.json", "w") as fileh:
-        fileh.write(json.dumps(result, indent=2))
+        fileh.write(json.dumps(resp.json(), indent=2))
 
-    return result
+    return resp.json()
 
 
 def update_models():

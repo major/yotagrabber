@@ -9,8 +9,8 @@ packages = [{include = "yotagrabber", from = "src"}]
 [tool.poetry.dependencies]
 python = "^3.11"
 pandas = "^2.0.0"
-python-graphql-client = "^0.4.3"
 pyarrow = "^11.0.0"
+requests = "^2.29.0"
 
 
 [tool.poetry.group.dev.dependencies]

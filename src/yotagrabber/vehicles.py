@@ -7,7 +7,7 @@ import sys
 import uuid
 
 import pandas as pd
-from python_graphql_client import GraphqlClient
+import requests
 
 from yotagrabber import config
 
@@ -39,17 +39,22 @@ def read_local_data():
 
 def query_toyota(page_number):
     """Query Toyota for a list of vehicles."""
-    client = GraphqlClient(
-        endpoint="https://api.search-inventory.toyota.com/graphql",
-        headers=config.get_headers(),
-    )
 
-    # Run the query.
+    # Load query and replace the page number.
     query = get_vehicles_query()
     query = query.replace("PAGENUMBER", str(page_number))
-    result = client.execute(query=query)
 
-    return result["data"]["locateVehiclesByZip"]
+    # Make request.
+    json_post = {"query": query}
+    url = "https://api.search-inventory.toyota.com/graphql"
+    resp = requests.post(
+        url,
+        json=json_post,
+        headers=config.get_headers(),
+        timeout=15,
+    )
+
+    return resp.json()["data"]["locateVehiclesByZip"]
 
 
 def get_all_pages():
