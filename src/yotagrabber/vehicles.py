@@ -64,11 +64,24 @@ def get_all_pages():
     df = pd.DataFrame()
     page_number = 1
     total_pages = "?"
+    retry_counter = 0
 
     while True:
         # Get a page of vehicles.
         print(f"Getting page {page_number} of {total_pages}")
         result = query_toyota(page_number)
+
+        # Retry if there was an error.
+        if not result["vehicleSummary"]:
+            retry_counter += 1
+            print(f"Got an error on {page_number} starting retry #{retry_counter}")
+
+            if retry_counter > 5:
+                break
+            continue
+
+        else:
+            retry_counter = 0
 
         # Determine how many pages there are.
         total_pages = result["pagination"]["totalPages"]
