@@ -34,13 +34,11 @@ def get_vehicles_query():
 
 def read_local_data():
     """Read local raw data from the disk instead of querying Toyota."""
-    return pd.read_json(f"output/{MODEL}_raw.json.zst")
+    return pd.read_parquet(f"output/{MODEL}_raw.parquet")
 
 
 def query_toyota(page_number):
     """Query Toyota for a list of vehicles."""
-    print(f"Getting page {page_number}")
-
     client = GraphqlClient(
         endpoint="https://api.search-inventory.toyota.com/graphql",
         headers=config.get_headers(),
@@ -51,32 +49,38 @@ def query_toyota(page_number):
     query = query.replace("PAGENUMBER", str(page_number))
     result = client.execute(query=query)
 
-    return result["data"]["locateVehiclesByZip"]["vehicleSummary"]
+    return result["data"]["locateVehiclesByZip"]
 
 
 def get_all_pages():
     """Get all pages of results for a query to Toyota."""
     df = pd.DataFrame()
     page_number = 1
+    total_pages = "?"
+
     while True:
-        try:
-            vehicles = query_toyota(page_number)
-        except Exception as exc:
-            print(f"Error: {exc}")
+        # Get a page of vehicles.
+        print(f"Getting page {page_number} of {total_pages}")
+        result = query_toyota(page_number)
+
+        # Determine how many pages there are.
+        total_pages = result["pagination"]["totalPages"]
+
+        # Add the current page to the big dataframe.
+        df = pd.concat([df, pd.json_normalize(result["vehicleSummary"])])
+
+        # Stop if the current page matches the total page count. Toyota counts from 1.
+        if page_number == total_pages:
             break
 
-        if vehicles:
-            df = pd.concat([df, pd.json_normalize(vehicles)])
-            page_number += 1
-            continue
-
-        break
+        page_number += 1
+        continue
 
     return df
 
 
 def update_vehicles():
-    """Generate a JSON file containing Toyota vehicles."""
+    """Generate a curated database of vehicles."""
     if not MODEL:
         sys.exit("Set the MODEL environment variable first")
 
@@ -84,7 +88,7 @@ def update_vehicles():
 
     # Write the raw data to a file.
     if not USE_LOCAL_DATA_ONLY:
-        df.to_json(f"output/{MODEL}_raw.json.zst", orient="records", indent=2)
+        df.to_parquet(f"output/{MODEL}_raw.parquet")
 
     # Stop here if there are no vehicles to list.
     if df.empty:
@@ -172,4 +176,4 @@ def update_vehicles():
     df.drop(columns=["media"], inplace=True)
 
     # Write the data to a file.
-    df.to_json(f"output/{MODEL}.json", orient="records", indent=2, lines=True)
+    df.to_csv(f"output/{MODEL}.csv")
