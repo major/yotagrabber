@@ -81,7 +81,11 @@ jobs:
     env:
       MODEL: ${{ matrix.model }}
     steps:
-      - uses: actions/checkout@v3
+      - name: Clone repo
+        uses: actions/checkout@v3
+
+      - name: Ensure we have the latest repository data
+        run: git pull --rebase
 
       - name: Install poetry
         run: pipx install poetry
