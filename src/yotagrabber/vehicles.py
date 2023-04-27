@@ -96,15 +96,15 @@ def update_vehicles():
 
     df = read_local_data() if USE_LOCAL_DATA_ONLY else get_all_pages()
 
-    # Write the raw data to a file.
-    if not USE_LOCAL_DATA_ONLY:
-        df.sort_values("vin", inplace=True)
-        df.to_parquet(f"output/{MODEL}_raw.parquet", index=False)
-
     # Stop here if there are no vehicles to list.
     if df.empty:
         print(f"No vehicles found for model: {MODEL}")
         return
+
+    # Write the raw data to a file.
+    if not USE_LOCAL_DATA_ONLY:
+        df.sort_values("vin", inplace=True)
+        df.to_parquet(f"output/{MODEL}_raw.parquet", index=False)
 
     # Add dealer data.
     dealers = pd.read_csv(f"{config.BASE_DIRECTORY}/data/dealers.csv")[
