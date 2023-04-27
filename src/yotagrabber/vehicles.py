@@ -97,7 +97,7 @@ def update_vehicles():
     df = read_local_data() if USE_LOCAL_DATA_ONLY else get_all_pages()
 
     # Write the raw data to a file.
-    if USE_LOCAL_DATA_ONLY:
+    if not USE_LOCAL_DATA_ONLY:
         df.sort_values("vin", inplace=True)
         df.to_parquet(f"output/{MODEL}_raw.parquet", index=False)
 
@@ -185,6 +185,26 @@ def update_vehicles():
         lambda x: [x["href"] for x in x if x["type"] == "carjellyimage"][0]
     )
     df.drop(columns=["media"], inplace=True)
+
+    df = df[
+        [
+            "Year",
+            "Model",
+            "Color",
+            "Drivetrain",
+            "Base MSRP",
+            "Markup",
+            "Dealer Price",
+            "Shipping Status",
+            "Pre-Sold",
+            "Hold Status",
+            "VIN",
+            "Dealer",
+            "Dealer Website",
+            "Dealer State",
+            "Image",
+        ]
+    ]
 
     # Write the data to a file.
     df.sort_values(by=["VIN"], inplace=True)
