@@ -44,10 +44,7 @@ def query_toyota():
         timeout=15,
     )
 
-    with open("output/models_raw.json", "w") as fileh:
-        fileh.write(json.dumps(resp.json(), indent=2))
-
-    return resp.json()
+    return resp.json()["data"]["models"]
 
 
 def update_models():
@@ -55,8 +52,11 @@ def update_models():
     result = read_local_data() if USE_LOCAL_DATA_ONLY else query_toyota()
 
     # Get the models from the result.
-    models = result["data"]["models"]
-    df = pd.json_normalize(models)
+    df = pd.json_normalize(result)
+
+    df.sort_values("modelCode").to_json(
+        "output/models_raw.json", orient="records", indent=2
+    )
 
     # Build a view and write it out as JSON.
     models = (
