@@ -121,7 +121,7 @@ def update_vehicles():
         "extColor.marketingName": "Color",
         "dealerCategory": "Shipping Status",
         "dealerMarketingName": "Dealer",
-        "dealerWebsite": "Dealer Website",
+        # "dealerWebsite": "Dealer Website",
         "isPreSold": "Pre-Sold",
         "holdStatus": "Hold Status",
         "year": "Year",
@@ -142,11 +142,11 @@ def update_vehicles():
                 "holdStatus",
                 "year",
                 "drivetrain.code",
-                "media",
+                # "media",
                 "model.marketingName",
                 "extColor.marketingName",
                 "dealerMarketingName",
-                "dealerWebsite",
+                # "dealerWebsite",
                 "Dealer State",
             ]
         ]
@@ -181,10 +181,10 @@ def update_vehicles():
     }
     df.replace({"Shipping Status": statuses}, inplace=True)
 
-    df["Image"] = df["media"].apply(
-        lambda x: [x["href"] for x in x if x["type"] == "carjellyimage"][0]
-    )
-    df.drop(columns=["media"], inplace=True)
+    # df["Image"] = df["media"].apply(
+    #     lambda x: [x["href"] for x in x if x["type"] == "carjellyimage"][0]
+    # )
+    # df.drop(columns=["media"], inplace=True)
 
     df = df[
         [
@@ -200,7 +200,7 @@ def update_vehicles():
             "Hold Status",
             "VIN",
             "Dealer",
-            "Dealer Website",
+            # "Dealer Website",
             "Dealer State",
             "Image",
         ]
