@@ -71,7 +71,7 @@ jobs:
           cat $GITHUB_OUTPUT
 
   update_each_model:
-    name: "Vehicle"
+    name: "Update"
     needs: update_model_list
     runs-on: ubuntu-latest
     strategy:
@@ -104,14 +104,30 @@ jobs:
         env:
           PYTHONUNBUFFERED: 1
 
+      - name: Store image data in artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: "output"
+          path: "output/${{ env.MODEL }}.*"
+
+  commit_changes:
+    name: "Commit changes"
+    runs-on: ubuntu-latest
+    needs: [update_each_model]
+    steps:
+      - name: Clone repo
+        uses: actions/checkout@v3
+
+      - name: Download image data artifacts
+        uses: actions/download-artifact@v3
+
       - name: Commit and push if it changed
         run: |-
           git config user.name "Major Hayden"
           git config user.email "major@mhtx.net"
           git add output
           timestamp=$(date -u)
-          git commit -m "Updating ${MODEL} vehicle data: ${timestamp}" || exit 0
-          # Sometimes there are leftover .pyc files.
+          git commit -m "Updating vehicle data: ${timestamp}" || exit 0
           git clean -fxd
           git status
           git pull --rebase
