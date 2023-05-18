@@ -202,7 +202,7 @@ def update_vehicles():
             "Dealer",
             # "Dealer Website",
             "Dealer State",
-            "Image",
+            # "Image",
         ]
     ]
 
