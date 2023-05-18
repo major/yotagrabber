@@ -74,6 +74,7 @@ jobs:
     name: "Update"
     needs: update_model_list
     runs-on: ubuntu-latest
+    continue-on-error: true
     strategy:
       fail-fast: false
       max-parallel: 2
