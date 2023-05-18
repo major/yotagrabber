@@ -13,7 +13,7 @@ import requests
 from yotagrabber import config
 
 # Set to True to use local data and skip requests to the Toyota website.
-USE_LOCAL_DATA_ONLY = False
+USE_LOCAL_DATA_ONLY = True
 
 # Get the model that we should be searching for.
 MODEL = os.environ.get("MODEL")
