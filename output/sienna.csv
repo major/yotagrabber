@@ -1,12 +1,12 @@
 Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Status,VIN,Dealer,Dealer State
-2023,LE,Midnight Black Metallic,FWD,36885,1495.0,38380.0,Port to dealer,True,DealerHold,5TDBRKEC1PS156228,Sterling McCall Toyota,TX
+2023,LE,Midnight Black Metallic,FWD,36885,1495.0,38380.0,At dealer,True,DealerHold,5TDBRKEC1PS156228,Sterling McCall Toyota,TX
 2023,LE,Ice Cap,FWD,36885,0.0,36885.0,At dealer,False,Available,5TDBRKEC1PS159551,Bev Smith Toyota,FL
 2023,LE,Predawn Gray Mica,FWD,36135,0.0,36135.0,Port to dealer,False,DealerHold,5TDBRKEC1PS160361,Fordham Toyota,NY
+2023,LE,Predawn Gray Mica,FWD,36885,0.0,36885.0,At dealer,True,DealerHold,5TDBRKEC1PS160831,Fox Toyota of El Paso,TX
 2023,LE,Blueprint,FWD,36885,0.0,36885.0,Factory to port,False,,5TDBRKEC1PS21B605,Sunrise Toyota,NY
 2023,LE,Ice Cap,FWD,36885,4795.0,41680.0,Port to dealer,True,Available,5TDBRKEC2PS156478,Universal Toyota,TX
 2023,LE,Predawn Gray Mica,FWD,36135,0.0,36135.0,Port to dealer,False,DealerHold,5TDBRKEC2PS161258,Atlantic Toyota,NY
 2023,LE,Ice Cap,FWD,36885,0.0,36885.0,Factory to port,False,Available,5TDBRKEC3PS22A564,Coggin Toyota at the Avenues,FL
-2023,LE,Ice Cap,FWD,36135,0.0,36135.0,At dealer,False,,5TDBRKEC4PS161245,Oroville Toyota,CA
 2023,LE,Ice Cap,FWD,36885,3490.0,40375.0,At dealer,True,Available,5TDBRKEC5PS156653,Toyota of Pharr,TX
 2023,LE,Cypress,FWD,36135,0.0,36135.0,Port to dealer,True,DealerHold,5TDBRKEC5PS158807,Millennium Toyota,NY
 2023,LE,Blueprint,FWD,36885,0.0,36885.0,Factory to port,False,Available,5TDBRKEC5PS21A019,Parks Toyota of Deland,FL
@@ -33,7 +33,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,25th Anniversary Special Edition,Windchill Pearl,FWD,47420,0.0,47420.0,Port to dealer,False,Available,5TDCRKEC1PS155813,Centennial Toyota,NV
 2023,25th Anniversary Special Edition,Windchill Pearl,FWD,48170,0.0,48170.0,Factory to port,True,DealerHold,5TDCRKEC1PS160896,Natchez Toyota,MS
 2023,25th Anniversary Special Edition,Celestial Silver Metallic,FWD,47420,0.0,47420.0,Port to dealer,True,DealerHold,5TDCRKEC3PS159071,Johnson City Toyota,TN
-2023,25th Anniversary Special Edition,Windchill Pearl,FWD,47420,0.0,47420.0,Port to dealer,False,DealerHold,5TDCRKEC3PS160611,Centennial Toyota,NV
+2023,25th Anniversary Special Edition,Windchill Pearl,FWD,47420,0.0,47420.0,At dealer,False,DealerHold,5TDCRKEC3PS160611,Centennial Toyota,NV
 2023,25th Anniversary Special Edition,Windchill Pearl,FWD,48170,0.0,48170.0,Port to dealer,True,,5TDCRKEC3PS162259,Toyota Town,CA
 2023,25th Anniversary Special Edition,Windchill Pearl,FWD,47420,0.0,47420.0,Port to dealer,True,DealerHold,5TDCRKEC4PS155207,Temecula Valley Toyota,CA
 2023,25th Anniversary Special Edition,Windchill Pearl,FWD,48170,0.0,48170.0,Port to dealer,True,DealerHold,5TDCRKEC4PS161413,Family Toyota of Burleson,TX
@@ -50,7 +50,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Woodland Edition,Midnight Black Metallic,AWD,46945,0.0,46945.0,Port to dealer,False,DealerHold,5TDCSKFC0PS089094,355 Toyota,MD
 2023,Woodland Edition,Cement,AWD,46945,0.0,46945.0,At dealer,False,DealerHold,5TDCSKFC0PS089158,Visalia Toyota,CA
 2023,25th Anniversary Special Edition,Windchill Pearl,AWD,48180,0.0,48180.0,Port to dealer,True,DealerHold,5TDCSKFC0PS089399,Koons Easton Toyota,MD
-2023,25th Anniversary Special Edition,Celestial Silver Metallic,AWD,48180,0.0,48180.0,At dealer,True,DealerHold,5TDCSKFC0PS089919,City Toyota,CA
 2023,25th Anniversary Special Edition,Windchill Pearl,AWD,48180,1790.0,49970.0,Port to dealer,False,DealerHold,5TDCSKFC0PS089970,Liberty Toyota,NJ
 2023,Woodland Edition,CEMENT,AWD,47695,5996.0,53691.0,Factory to port,False,Available,5TDCSKFC0PS091380,Vic Vaughan Toyota of Boerne,TX
 2023,Woodland Edition,ATTITUDE BLACK MC.,AWD,47695,2495.0,50190.0,Factory to port,False,DealerHold,5TDCSKFC0PS091489,Palestine Toyota,TX
@@ -149,7 +148,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Woodland Edition,Midnight Black Metallic,AWD,47695,0.0,47695.0,Factory to port,False,DealerHold,5TDCSKFC7PS22B157,Lewis Toyota of Topeka,KS
 2023,Woodland Edition,Midnight Black Metallic,AWD,47695,2495.0,50190.0,Factory to port,False,,5TDCSKFC7PS23B512,Toyota of Smithfield,RI
 2023,Woodland Edition,Midnight Black Metallic,AWD,46945,0.0,46945.0,Port to dealer,False,DealerHold,5TDCSKFC8PS089845,Atlantic Toyota,NY
-2023,Woodland Edition,Midnight Black Metallic,AWD,46945,0.0,46945.0,Port to dealer,True,,5TDCSKFC8PS089988,Ourisman Chantilly Toyota,VA
 2023,Woodland Edition,ATTITUDE BLACK MC.,AWD,47695,0.0,47695.0,Factory to port,True,Available,5TDCSKFC8PS090400,Supreme Toyota of Hammond,LA
 2023,Woodland Edition,Cement,AWD,47695,0.0,47695.0,Port to dealer,True,DealerHold,5TDCSKFC8PS090509,Gosch Toyota,CA
 2023,Woodland Edition,Midnight Black Metallic,AWD,47695,0.0,47695.0,Factory to port,True,Available,5TDCSKFC8PS090770,Toyota of Greensboro,NC
@@ -181,7 +179,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Woodland Edition,CEMENT,AWD,47695,0.0,47695.0,Port to dealer,True,DealerHold,5TDCSKFCXPS090527,Family Toyota of Arlington,TX
 2023,Woodland Edition,Midnight Black Metallic,AWD,47695,0.0,47695.0,Port to dealer,False,DealerHold,5TDCSKFCXPS090804,Fremont Toyota,CA
 2023,Woodland Edition,CEMENT,AWD,47695,0.0,47695.0,Factory to port,False,DealerHold,5TDCSKFCXPS090852,Toyota of Del Rio,TX
-2023,Woodland Edition,ATTITUDE BLACK MC.,AWD,47695,0.0,47695.0,Factory to port,False,DealerHold,5TDCSKFCXPS090916,AutoNation Toyota South Austin,TX
 2023,Woodland Edition,Cement,AWD,47695,0.0,47695.0,Port to dealer,False,DealerHold,5TDCSKFCXPS091046,Classic Toyota,OH
 2023,Woodland Edition,Cement,AWD,47695,0.0,47695.0,Port to dealer,False,DealerHold,5TDCSKFCXPS091256,Freeway Toyota of Hanford,CA
 2023,Woodland Edition,Midnight Black Metallic,AWD,47695,0.0,47695.0,Port to dealer,False,DealerHold,5TDCSKFCXPS091628,Vancouver Toyota,WA
@@ -200,11 +197,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XSE,Ice Cap,FWD,44445,0.0,44445.0,Factory to port,False,DealerHold,5TDDRKEC1PS23B412,Santa Margarita Toyota,CA
 2023,XSE,Blueprint,FWD,44445,0.0,44445.0,Factory to port,False,Available,5TDDRKEC1PS23B653,Toyota of North Charlotte,NC
 2023,XSE,Ice Cap,FWD,43695,0.0,43695.0,At dealer,False,Available,5TDDRKEC2PS161253,Earl Stewart Toyota of North Palm Beach,FL
-2023,XSE,Midnight Black Metallic,FWD,43695,0.0,43695.0,Port to dealer,False,DealerHold,5TDDRKEC2PS161334,Claremont Toyota,CA
+2023,XSE,Midnight Black Metallic,FWD,43695,0.0,43695.0,At dealer,False,DealerHold,5TDDRKEC2PS161334,Claremont Toyota,CA
 2023,XSE,Midnight Black Metallic,FWD,44445,0.0,44445.0,Port to dealer,False,,5TDDRKEC2PS161463,Envision Toyota of Norwalk,CA
 2023,XSE,Ruby Flare Pearl,FWD,44445,0.0,44445.0,Factory to port,False,Available,5TDDRKEC2PS22A368,Seminole Toyota,FL
 2023,XSE,Midnight Black Metallic,FWD,44445,0.0,44445.0,Factory to port,True,,5TDDRKEC2PS23A883,Faulkner Toyota,PA
-2023,XSE,Cement,FWD,43695,0.0,43695.0,At dealer,False,DealerHold,5TDDRKEC3PS157017,Bill Wright Toyota,CA
 2023,XSE,Ice Cap,FWD,44445,0.0,44445.0,Port to dealer,False,DealerHold,5TDDRKEC3PS162721,Ron Tonkin Toyota,OR
 2023,XSE,Blueprint,FWD,44445,0.0,44445.0,Factory to port,True,DealerHold,5TDDRKEC3PS163433,Fred Haas Toyota World,TX
 2023,XSE,Celestial Silver Metallic,FWD,43695,0.0,43695.0,At dealer,False,DealerHold,5TDDRKEC4PS159276,Walser Bloomington Toyota,MN
@@ -283,6 +279,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XSE,Celestial Silver Metallic,AWD,45205,0.0,45205.0,Factory to port,True,DealerHold,5TDDSKFC1PS21A451,Gates Toyota,IN
 2023,XSE,Celestial Silver Metallic,AWD,45205,0.0,45205.0,Factory to port,False,,5TDDSKFC1PS22A770,Bay Ridge Toyota,NY
 2023,XSE,Midnight Black Metallic,AWD,45205,0.0,45205.0,Factory to port,False,,5TDDSKFC1PS22A896,DCH Brunswick Toyota,NJ
+2023,XSE,Midnight Black Metallic,AWD,45205,0.0,45205.0,Factory to port,False,Available,5TDDSKFC1PS23A540,East Coast Toyota,NJ
 2023,XSE,Blueprint,AWD,45205,0.0,45205.0,Factory to port,True,DealerHold,5TDDSKFC1PS23A909,Lithia Toyota of Klamath Falls,OR
 2023,XSE,Cement,AWD,45205,0.0,45205.0,Factory to port,False,DealerHold,5TDDSKFC1PS23B459,DCH Brunswick Toyota,NJ
 2023,XSE,Midnight Black Metallic,AWD,44455,0.0,44455.0,At dealer,False,DealerHold,5TDDSKFC2PS089103,Penn Toyota,NY
@@ -385,7 +382,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XSE,Ice Cap,AWD,45205,4585.0,49790.0,Factory to port,True,DealerHold,5TDDSKFC5PS22B176,Toyota of Clovis,CA
 2023,XSE,Midnight Black Metallic,AWD,45205,0.0,45205.0,Factory to port,False,DealerHold,5TDDSKFC5PS23A766,Hudson Toyota,NJ
 2023,XSE,Midnight Black Metallic,AWD,45205,2995.0,48200.0,At dealer,True,DealerHold,5TDDSKFC6PS089105,Jim Norton Toyota of Oklahoma City,OK
-2023,XSE,Cement,AWD,44455,0.0,44455.0,At dealer,False,Available,5TDDSKFC6PS089802,Toyota Marin,CA
 2023,XSE,Midnight Black Metallic,AWD,45205,0.0,45205.0,Port to dealer,False,DealerHold,5TDDSKFC6PS090447,Colonial Toyota,CT
 2023,XSE,Midnight Black Metallic,AWD,45205,0.0,45205.0,Port to dealer,False,DealerHold,5TDDSKFC6PS090514,Advantage Toyota,NY
 2023,XSE,Midnight Black Metallic,AWD,45205,0.0,45205.0,Port to dealer,False,DealerHold,5TDDSKFC6PS090853,Atlantic Toyota,NY
@@ -407,7 +403,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XSE,Midnight Black Metallic,AWD,45205,0.0,45205.0,Port to dealer,True,DealerHold,5TDDSKFC7PS090084,Toyota of Batavia,NY
 2023,XSE,Cement,AWD,45205,0.0,45205.0,Port to dealer,False,DealerHold,5TDDSKFC7PS090151,Advantage Toyota,NY
 2023,XSE,Blueprint,AWD,45205,0.0,45205.0,Port to dealer,True,DealerHold,5TDDSKFC7PS090182,City Toyota,CA
-2023,XSE,Cement,AWD,45205,0.0,45205.0,Port to dealer,False,DealerHold,5TDDSKFC7PS090280,Claremont Toyota,CA
+2023,XSE,Cement,AWD,45205,0.0,45205.0,At dealer,False,DealerHold,5TDDSKFC7PS090280,Claremont Toyota,CA
 2023,XSE,Blueprint,AWD,45205,0.0,45205.0,Port to dealer,False,DealerHold,5TDDSKFC7PS090358,Lake Toyota,ND
 2023,XSE,Ice Cap,AWD,45205,0.0,45205.0,Port to dealer,False,DealerHold,5TDDSKFC7PS090540,Luv Toyota,NY
 2023,XSE,Ice Cap,AWD,45205,0.0,45205.0,Port to dealer,True,DealerHold,5TDDSKFC7PS090716,I-10 Toyota,CA
@@ -450,6 +446,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XSE,Cement,AWD,45205,0.0,45205.0,Factory to port,False,,5TDDSKFC8PS22B060,Route 22 Toyota,NJ
 2023,XSE,Midnight Black Metallic,AWD,45205,0.0,45205.0,Factory to port,False,Available,5TDDSKFC8PS23A907,Hesser Toyota,WI
 2023,XSE,Midnight Black Metallic,AWD,45205,0.0,45205.0,Factory to port,False,DealerHold,5TDDSKFC8PS23B295,Hudson Toyota,NJ
+2023,XSE,Celestial Silver Metallic,AWD,45205,3990.0,49195.0,Factory to port,False,Available,5TDDSKFC8PS23B457,Gateway Toyota,NJ
 2023,XSE,Blueprint,AWD,45205,1798.0,47003.0,Factory to port,False,,5TDDSKFC8PS23B572,Toyota of Portland on Broadway,OR
 2023,XSE,Midnight Black Metallic,AWD,45205,1274.0,46479.0,Factory to port,True,,5TDDSKFC8PS24A157,Tom Wood Toyota,IN
 2023,XSE,Blueprint,AWD,44455,0.0,44455.0,Port to dealer,False,,5TDDSKFC9PS088370,Sunrise Toyota North,NY
@@ -476,7 +473,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XSE,Ice Cap,AWD,45205,0.0,45205.0,Factory to port,False,DealerHold,5TDDSKFC9PS23B242,Hudson Toyota,NJ
 2023,XSE,Midnight Black Metallic,AWD,45205,0.0,45205.0,Factory to port,False,,5TDDSKFC9PS23B497,DCH Brunswick Toyota,NJ
 2023,XSE,Celestial Silver Metallic,AWD,44455,0.0,44455.0,Port to dealer,True,DealerHold,5TDDSKFCXPS088488,Luther Brookdale Toyota,MN
-2023,XSE,Ice Cap,AWD,45205,0.0,45205.0,Port to dealer,False,DealerHold,5TDDSKFCXPS088541,Four Stars Toyota,OK
+2023,XSE,Ice Cap,AWD,45205,0.0,45205.0,At dealer,False,DealerHold,5TDDSKFCXPS088541,Four Stars Toyota,OK
 2023,XSE,Midnight Black Metallic,AWD,44455,0.0,44455.0,At dealer,True,DealerHold,5TDDSKFCXPS089561,Fitzgerald Toyota Chambersburg,PA
 2023,XSE,Ice Cap,AWD,44455,0.0,44455.0,Port to dealer,True,DealerHold,5TDDSKFCXPS089947,Koons Westminster Toyota,MD
 2023,XSE,Ice Cap,AWD,45205,0.0,45205.0,Port to dealer,False,DealerHold,5TDDSKFCXPS090080,Ron Tonkin Toyota,OR
@@ -504,7 +501,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XSE,Celestial Silver Metallic,AWD,45205,0.0,45205.0,Factory to port,False,DealerHold,5TDDSKFCXPS23B296,West Herr Toyota of Orchard Park,NY
 2023,XSE,Midnight Black Metallic,AWD,45205,0.0,45205.0,Factory to port,False,,5TDDSKFCXPS23B458,Bay Ridge Toyota,NY
 2023,XSE,Cement,AWD,45205,0.0,45205.0,Factory to port,False,DealerHold,5TDDSKFCXPS23B492,Santa Margarita Toyota,CA
-2023,Platinum,Predawn Gray Mica,FWD,51595,0.0,51595.0,At dealer,False,,5TDERKEC0PS160798,Findlay Toyota Flagstaff,AZ
 2023,Platinum,Windchill Pearl,FWD,52345,0.0,52345.0,At dealer,True,DealerHold,5TDERKEC0PS160848,Mike Calvert Toyota,TX
 2023,Platinum,Midnight Black Metallic,FWD,52345,0.0,52345.0,Port to dealer,True,DealerHold,5TDERKEC0PS162826,South Bay Toyota,CA
 2023,Platinum,Windchill Pearl,FWD,52345,7190.0,59535.0,Factory to port,True,DealerHold,5TDERKEC0PS163037,Bob Howard Toyota,OK
@@ -514,7 +510,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Platinum,Celestial Silver Metallic,FWD,51595,6985.0,58580.0,Port to dealer,True,DealerHold,5TDERKEC1PS159627,Toyota Carlsbad,CA
 2023,Platinum,Windchill Pearl,FWD,52345,0.0,52345.0,Port to dealer,True,Available,5TDERKEC1PS159773,Doenges Toyota,OK
 2023,Platinum,Celestial Silver Metallic,FWD,52345,1495.0,53840.0,Factory to port,True,DealerHold,5TDERKEC1PS161264,Sterling McCall Toyota,TX
-2023,Platinum,Windchill Pearl,FWD,52345,0.0,52345.0,At dealer,False,DealerHold,5TDERKEC1PS161717,Envision Toyota of West Covina,CA
 2023,Platinum,Predawn Gray Mica,FWD,52345,0.0,52345.0,Port to dealer,False,,5TDERKEC1PS162687,Centennial Toyota,NV
 2023,Platinum,Predawn Gray Mica,FWD,52345,0.0,52345.0,Factory to port,True,Available,5TDERKEC1PS163063,Cherokee County Toyota,GA
 2023,Platinum,Midnight Black Metallic,FWD,52345,0.0,52345.0,Factory to port,False,DealerHold,5TDERKEC1PS163628,Sterling McCall Toyota,TX
@@ -572,7 +567,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Platinum,Windchill Pearl,FWD,52345,0.0,52345.0,Factory to port,False,Available,5TDERKEC9PS162677,Al Hendrickson Toyota,FL
 2023,Platinum,Celestial Silver Metallic,FWD,52345,0.0,52345.0,Factory to port,True,DealerHold,5TDERKEC9PS21A358,"Pedersen Toyota, Ltd.",CO
 2023,Platinum,Celestial Silver Metallic,FWD,52345,0.0,52345.0,Factory to port,False,Available,5TDERKEC9PS21B025,Doral Toyota,FL
-2023,Platinum,Celestial Silver Metallic,FWD,52345,0.0,52345.0,Port to dealer,True,DealerHold,5TDERKECXPS160811,Sterling McCall Toyota Fort Bend,TX
+2023,Platinum,Celestial Silver Metallic,FWD,52345,0.0,52345.0,At dealer,True,DealerHold,5TDERKECXPS160811,Sterling McCall Toyota Fort Bend,TX
 2023,Platinum,Predawn Gray Mica,FWD,52345,0.0,52345.0,Port to dealer,False,,5TDERKECXPS162204,Envision Toyota of West Covina,CA
 2023,Platinum,Predawn Gray Mica,FWD,52345,599.0,52944.0,Factory to port,False,Available,5TDERKECXPS21A949,Landers Toyota,AR
 2023,Platinum,Windchill Pearl,FWD,52345,4490.0,56835.0,Factory to port,False,,5TDERKECXPS22B255,Berge Toyota,AZ
@@ -587,7 +582,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Platinum,Blueprint,AWD,52355,0.0,52355.0,Port to dealer,False,DealerHold,5TDESKFC0PS089606,Markquart Toyota,WI
 2023,Platinum,Windchill Pearl,AWD,53105,988.0,54093.0,At dealer,True,DealerHold,5TDESKFC0PS089623,Longo Toyota of Prosper,TX
 2023,Platinum,Celestial Silver Metallic,AWD,52355,0.0,52355.0,Port to dealer,True,,5TDESKFC0PS089640,St. Cloud Toyota,MN
-2023,Platinum,Predawn Gray Mica,AWD,53105,0.0,53105.0,Port to dealer,False,DealerHold,5TDESKFC0PS089671,Four Stars Toyota,OK
+2023,Platinum,Predawn Gray Mica,AWD,53105,0.0,53105.0,At dealer,False,DealerHold,5TDESKFC0PS089671,Four Stars Toyota,OK
 2023,Platinum,Blueprint,AWD,53105,0.0,53105.0,Port to dealer,False,DealerHold,5TDESKFC0PS090061,Bennett Toyota of Lebanon,PA
 2023,Platinum,Predawn Gray Mica,AWD,53105,0.0,53105.0,At dealer,False,DealerHold,5TDESKFC0PS090349,Berglund Toyota,VA
 2023,Platinum,Midnight Black Metallic,AWD,53105,0.0,53105.0,Port to dealer,False,,5TDESKFC0PS090724,Fordham Toyota,NY
@@ -727,7 +722,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Platinum,Predawn Gray Mica,AWD,53105,0.0,53105.0,Port to dealer,True,DealerHold,5TDESKFC4PS091231,Toyota of The Desert,CA
 2023,Platinum,Cypress,AWD,53105,0.0,53105.0,Port to dealer,False,DealerHold,5TDESKFC4PS091441,Walser Bloomington Toyota,MN
 2023,Platinum,Windchill Pearl,AWD,53105,0.0,53105.0,Port to dealer,False,DealerHold,5TDESKFC4PS091584,Findlay Toyota,NV
-2023,Platinum,Midnight Black Metallic,AWD,53105,0.0,53105.0,Port to dealer,True,,5TDESKFC4PS091617,Toyota of San Bernardino,CA
+2023,Platinum,Midnight Black Metallic,AWD,53105,0.0,53105.0,Port to dealer,True,DealerHold,5TDESKFC4PS091617,Toyota of San Bernardino,CA
 2023,Platinum,Windchill Pearl,AWD,53105,0.0,53105.0,Port to dealer,False,DealerHold,5TDESKFC4PS091679,Toyota of Glendora,CA
 2023,Platinum,Cypress,AWD,53105,0.0,53105.0,Port to dealer,True,DealerHold,5TDESKFC4PS091696,Rudy Luther Toyota,MN
 2023,Platinum,Windchill Pearl,AWD,53105,0.0,53105.0,Port to dealer,False,DealerHold,5TDESKFC4PS091858,Classic Toyota,OH
@@ -802,6 +797,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Platinum,Windchill Pearl,AWD,53105,0.0,53105.0,Factory to port,True,Available,5TDESKFC6PS21A823,Toyota of Easley,SC
 2023,Platinum,Windchill Pearl,AWD,53105,0.0,53105.0,Factory to port,False,,5TDESKFC6PS21B437,Hillside Toyota,NY
 2023,Platinum,Midnight Black Metallic,AWD,53105,0.0,53105.0,Factory to port,False,,5TDESKFC6PS22A445,Evans Toyota,IN
+2023,Platinum,Celestial Silver Metallic,AWD,53105,0.0,53105.0,Factory to port,False,,5TDESKFC6PS22A672,Toyota of El Cajon,CA
 2023,Platinum,Cypress,AWD,53105,0.0,53105.0,Factory to port,True,,5TDESKFC6PS22B031,Faulkner Toyota,PA
 2023,Platinum,Windchill Pearl,AWD,53105,0.0,53105.0,Factory to port,False,,5TDESKFC6PS22B076,Magnussen's Toyota of Palo Alto,CA
 2023,Platinum,Predawn Gray Mica,AWD,53105,5580.0,58685.0,Factory to port,True,DealerHold,5TDESKFC6PS22B286,Kearny Mesa Toyota,CA
@@ -809,8 +805,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Platinum,Midnight Black Metallic,AWD,53105,0.0,53105.0,Factory to port,False,,5TDESKFC6PS23A618,Elgin Toyota,IL
 2023,Platinum,Cypress,AWD,52355,0.0,52355.0,Port to dealer,True,DealerHold,5TDESKFC7PS086265,Columbia Gorge Toyota,OR
 2023,Platinum,Predawn Gray Mica,AWD,52355,0.0,52355.0,Port to dealer,False,DealerHold,5TDESKFC7PS087271,Jim Coleman Toyota,MD
-2023,Platinum,Ruby Flare Pearl,AWD,52355,0.0,52355.0,Port to dealer,True,DealerHold,5TDESKFC7PS088906,Luther Brookdale Toyota,MN
-2023,Platinum,Cypress,AWD,52355,0.0,52355.0,At dealer,False,DealerHold,5TDESKFC7PS089330,Burien Toyota,WA
+2023,Platinum,Ruby Flare Pearl,AWD,52355,0.0,52355.0,At dealer,True,DealerHold,5TDESKFC7PS088906,Luther Brookdale Toyota,MN
 2023,Platinum,Windchill Pearl,AWD,52355,0.0,52355.0,At dealer,False,,5TDESKFC7PS089473,Toyota Marin,CA
 2023,Platinum,Windchill Pearl,AWD,52355,0.0,52355.0,Port to dealer,False,DealerHold,5TDESKFC7PS089943,Classic Toyota,OH
 2023,Platinum,Windchill Pearl,AWD,53105,0.0,53105.0,At dealer,False,DealerHold,5TDESKFC7PS090056,Rock Springs Toyota,WY
@@ -1015,7 +1010,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Blueprint,FWD,41445,0.0,41445.0,Factory to port,False,DealerHold,5TDJRKEC7PS155984,Rudy Luther Toyota,MN
 2023,XLE,Windchill Pearl,FWD,41445,0.0,41445.0,Port to dealer,False,DealerHold,5TDJRKEC7PS159629,Sharp Chevrolet-Toyota,SD
 2023,XLE,Predawn Gray Mica,FWD,41445,0.0,41445.0,Port to dealer,True,DealerHold,5TDJRKEC7PS160165,Luther Brookdale Toyota,MN
-2023,XLE,Predawn Gray Mica,FWD,42195,0.0,42195.0,At dealer,False,DealerHold,5TDJRKEC7PS161607,Toyota of North Hollywood,CA
+2023,XLE,Predawn Gray Mica,FWD,42195,0.0,42195.0,At dealer,False,Available,5TDJRKEC7PS161607,Toyota of Lompoc,CA
 2023,XLE,Ruby Flare Pearl,FWD,42195,1990.0,44185.0,Port to dealer,True,,5TDJRKEC7PS162238,East Madison Toyota,WI
 2023,XLE,Windchill Pearl,FWD,42195,0.0,42195.0,Port to dealer,False,DealerHold,5TDJRKEC7PS162580,A-1 Toyota,CT
 2023,XLE,Windchill Pearl,FWD,42195,0.0,42195.0,Factory to port,True,Available,5TDJRKEC7PS163115,South Dade Toyota,FL
@@ -1210,7 +1205,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Blueprint,AWD,44195,11797.0,55992.0,Factory to port,False,,5TDJSKFC8PS21A806,Toyota of Tacoma,WA
 2023,XLE,Blueprint,AWD,44195,895.0,45090.0,Factory to port,False,DealerHold,5TDJSKFC8PS23A103,Bennett Toyota,PA
 2023,XLE,Predawn Gray Mica,AWD,44195,0.0,44195.0,Factory to port,False,DealerHold,5TDJSKFC8PS23B350,DCH Brunswick Toyota,NJ
-2023,XLE,Midnight Black Metallic,AWD,44195,0.0,44195.0,Factory to port,False,,5TDJSKFC8PS23B400,Gateway Toyota,NJ
+2023,XLE,Midnight Black Metallic,AWD,44195,3990.0,48185.0,Factory to port,False,,5TDJSKFC8PS23B400,Gateway Toyota,NJ
 2023,XLE,Celestial Silver Metallic,AWD,44195,0.0,44195.0,Port to dealer,False,DealerHold,5TDJSKFC9PS090574,Advantage Toyota,NY
 2023,XLE,Blueprint,AWD,44195,0.0,44195.0,Port to dealer,False,DealerHold,5TDJSKFC9PS090588,New Country Toyota of Clifton Park,NY
 2023,XLE,Predawn Gray Mica,AWD,44195,0.0,44195.0,Port to dealer,False,DealerHold,5TDJSKFC9PS090610,Irwin Toyota,NH
@@ -1242,6 +1237,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Ruby Flare Pearl,AWD,44195,0.0,44195.0,Factory to port,False,,5TDJSKFCXPS22B208,Toyota On Western,IL
 2023,XLE,Blueprint,AWD,44195,698.0,44893.0,Factory to port,True,DealerHold,5TDJSKFCXPS23A636,Newbold Toyota,IL
 2023,LE,Celestial Silver Metallic,FWD,36135,0.0,36135.0,Port to dealer,True,Available,5TDKRKEC0PS159797,Bill Page Toyota,VA
+2023,LE,Predawn Gray Mica,FWD,36885,5998.0,42883.0,At dealer,True,Available,5TDKRKEC0PS160206,San Marcos Toyota,TX
 2023,LE,Predawn Gray Mica,FWD,36885,2495.0,39380.0,Factory to port,True,DealerHold,5TDKRKEC0PS163610,Palestine Toyota,TX
 2023,LE,Ruby Flare Pearl,FWD,36885,0.0,36885.0,Factory to port,True,DealerHold,5TDKRKEC0PS163624,Classic Toyota of Texoma,TX
 2023,LE,Blueprint,FWD,36885,0.0,36885.0,Factory to port,False,DealerHold,5TDKRKEC0PS163817,Mike Calvert Toyota,TX
@@ -1255,7 +1251,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LE,Midnight Black Metallic,FWD,36885,0.0,36885.0,Factory to port,False,,5TDKRKEC1PS22A711,Basil Toyota,NY
 2023,LE,Ruby Flare Pearl,FWD,36885,0.0,36885.0,Factory to port,False,Available,5TDKRKEC1PS22A966,West Kendall Toyota,FL
 2023,LE,Sunset Bronze Mica,FWD,36885,0.0,36885.0,Factory to port,True,Available,5TDKRKEC2PS159199,Country Toyota,TX
-2023,LE,Predawn Gray Mica,FWD,36885,5995.0,42880.0,Factory to port,True,Available,5TDKRKEC2PS160014,Toyota of Richardson,TX
+2023,LE,Predawn Gray Mica,FWD,36885,5995.0,42880.0,Port to dealer,True,Available,5TDKRKEC2PS160014,Toyota of Richardson,TX
 2023,LE,Blueprint,FWD,36135,0.0,36135.0,At dealer,True,DealerHold,5TDKRKEC2PS161051,Williams Toyota of Sayre,PA
 2023,LE,Ruby Flare Pearl,FWD,36885,0.0,36885.0,Factory to port,False,Available,5TDKRKEC2PS161373,Magness Toyota,AR
 2023,LE,Predawn Gray Mica,FWD,36885,0.0,36885.0,Port to dealer,True,DealerHold,5TDKRKEC2PS161678,Dowling Toyota of Litchfield,CT
@@ -1277,7 +1273,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LE,Ruby Flare Pearl,FWD,36885,0.0,36885.0,Factory to port,True,Available,5TDKRKEC5PS22A338,Mike Johnson's Hickory Toyota,NC
 2023,LE,Ice Cap,FWD,36885,0.0,36885.0,Factory to port,True,Available,5TDKRKEC5PS22A341,Mark Jacobson Toyota,NC
 2023,LE,Predawn Gray Mica,FWD,36885,3490.0,40375.0,Factory to port,True,Available,5TDKRKEC6PS160663,Toyota of Pharr,TX
-2023,LE,Ice Cap,FWD,36885,0.0,36885.0,Port to dealer,True,DealerHold,5TDKRKEC6PS160842,Pat Lobb Toyota of McKinney,TX
+2023,LE,Ice Cap,FWD,36885,0.0,36885.0,At dealer,True,DealerHold,5TDKRKEC6PS160842,Pat Lobb Toyota of McKinney,TX
 2023,LE,Ice Cap,FWD,36885,0.0,36885.0,Factory to port,True,Available,5TDKRKEC6PS161103,Greg Leblanc Toyota,LA
 2023,LE,Predawn Gray Mica,FWD,36885,0.0,36885.0,Factory to port,False,DealerHold,5TDKRKEC6PS21A921,Stevens Creek Toyota,CA
 2023,LE,Ice Cap,FWD,36885,0.0,36885.0,Factory to port,False,Available,5TDKRKEC6PS22A963,Bev Smith Toyota,FL
@@ -1301,6 +1297,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LE,Midnight Black Metallic,AWD,38135,0.0,38135.0,Port to dealer,False,DealerHold,5TDKSKFC0PS086384,Toyota of Stamford,CT
 2023,LE,Blueprint,AWD,38885,0.0,38885.0,Factory to port,True,Available,5TDKSKFC0PS21B324,Scott Clark Toyota,NC
 2023,LE,Ice Cap,AWD,38885,0.0,38885.0,Factory to port,False,Available,5TDKSKFC0PS22A315,Toyota of Fort Walton Beach,FL
+2023,LE,Predawn Gray Mica,AWD,38885,1999.0,40884.0,Factory to port,False,,5TDKSKFC0PS22B237,Foothills Toyota,WA
 2023,LE,Ice Cap,AWD,38885,4000.0,42885.0,Port to dealer,True,DealerHold,5TDKSKFC1PS089567,Gray-Daniels Toyota,MS
 2023,LE,Ice Cap,AWD,38885,0.0,38885.0,Factory to port,True,,5TDKSKFC1PS21A022,Ourisman Fairfax Toyota,VA
 2023,LE,Celestial Silver Metallic,AWD,38885,0.0,38885.0,Factory to port,False,Available,5TDKSKFC1PS22A968,Earl Stewart Toyota of North Palm Beach,FL
@@ -1345,7 +1342,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LE,Predawn Gray Mica,AWD,38885,0.0,38885.0,Factory to port,False,Available,5TDKSKFCXPS21A374,McGee Toyota of Epping,NH
 2023,LE,Ruby Flare Pearl,AWD,38885,0.0,38885.0,Factory to port,True,DealerHold,5TDKSKFCXPS21B296,Serra Toyota of Saginaw,MI
 2023,LE,Blueprint,AWD,38885,0.0,38885.0,Factory to port,False,,5TDKSKFCXPS22A953,Team Toyota of Glen Mills,PA
-2023,XSE,Ruby Flare Pearl,FWD,43695,0.0,43695.0,Port to dealer,True,DealerHold,5TDXRKEC0PS159854,Carlson Toyota,MN
+2023,XSE,Ruby Flare Pearl,FWD,43695,0.0,43695.0,At dealer,True,DealerHold,5TDXRKEC0PS159854,Carlson Toyota,MN
 2023,XSE,Ice Cap,FWD,43695,0.0,43695.0,Port to dealer,False,DealerHold,5TDXRKEC0PS161152,Walser Bloomington Toyota,MN
 2023,XSE,Midnight Black Metallic,FWD,44445,0.0,44445.0,Port to dealer,True,DealerHold,5TDXRKEC1PS160270,AutoNation Toyota Gulf Freeway,TX
 2023,XSE,Cement,FWD,44445,0.0,44445.0,Factory to port,True,DealerHold,5TDXRKEC1PS161340,Community Toyota,TX
@@ -1373,7 +1370,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XSE,Midnight Black Metallic,FWD,44445,0.0,44445.0,Factory to port,True,Available,5TDXRKEC4PS21A499,Route 22 Toyota,NJ
 2023,XSE,Cement,FWD,44445,1730.0,46175.0,Factory to port,False,DealerHold,5TDXRKEC5PS161146,Lake Charles Toyota,LA
 2023,XSE,Cement,FWD,43695,0.0,43695.0,At dealer,False,DealerHold,5TDXRKEC5PS161356,Mark Miller Toyota,UT
-2023,XSE,Celestial Silver Metallic,FWD,44445,3490.0,47935.0,Port to dealer,True,DealerHold,5TDXRKEC6PS159549,Fred Haas Toyota World,TX
+2023,XSE,Celestial Silver Metallic,FWD,44445,3490.0,47935.0,At dealer,True,DealerHold,5TDXRKEC6PS159549,Fred Haas Toyota World,TX
 2023,XSE,Blueprint,FWD,44445,0.0,44445.0,Factory to port,False,Available,5TDXRKEC6PS161043,Shottenkirk Toyota Weatherford,TX
 2023,XSE,Celestial Silver Metallic,FWD,44445,0.0,44445.0,Factory to port,False,DealerHold,5TDXRKEC6PS21A486,Palm Beach Toyota,FL
 2023,XSE,Celestial Silver Metallic,FWD,44445,0.0,44445.0,Factory to port,False,Available,5TDXRKEC6PS21A990,Headquarter Toyota,FL
@@ -1434,7 +1431,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Cypress,FWD,42195,0.0,42195.0,Factory to port,False,Available,5TDYRKEC0PS23B404,Keith Pierson Toyota,FL
 2023,XLE,Midnight Black Metallic,FWD,41445,0.0,41445.0,Port to dealer,False,DealerHold,5TDYRKEC1PS150777,Oak Lawn Toyota,IL
 2023,XLE,Windchill Pearl,FWD,42195,0.0,42195.0,Port to dealer,True,DealerHold,5TDYRKEC1PS156515,Fowler Toyota of Tulsa,OK
-2023,XLE,Predawn Gray Mica,FWD,42195,8493.0,50688.0,Port to dealer,True,DealerHold,5TDYRKEC1PS156630,Keating Toyota,TX
+2023,XLE,Predawn Gray Mica,FWD,42195,8493.0,50688.0,At dealer,True,DealerHold,5TDYRKEC1PS156630,Keating Toyota,TX
 2023,XLE,Windchill Pearl,FWD,41445,0.0,41445.0,Port to dealer,True,DealerHold,5TDYRKEC1PS158863,Inver Grove Toyota,MN
 2023,XLE,Ruby Flare Pearl,FWD,42195,0.0,42195.0,Factory to port,True,Available,5TDYRKEC1PS162380,Cobb County Toyota,GA
 2023,XLE,Celestial Silver Metallic,FWD,42195,0.0,42195.0,Factory to port,True,Available,5TDYRKEC1PS162640,Toyota of Easley,SC
@@ -1520,7 +1517,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Windchill Pearl,FWD,42195,799.0,42994.0,At dealer,True,Available,5TDYRKEC7PS156521,Landers Toyota NWA,AR
 2023,XLE,Celestial Silver Metallic,FWD,42195,2488.0,44683.0,Factory to port,True,DealerHold,5TDYRKEC7PS159208,Toyota of Plano,TX
 2023,XLE,Predawn Gray Mica,FWD,41445,0.0,41445.0,At dealer,True,DealerHold,5TDYRKEC7PS159516,Inver Grove Toyota,MN
-2023,XLE,Ruby Flare Pearl,FWD,42195,1098.0,43293.0,Port to dealer,True,DealerHold,5TDYRKEC7PS161055,Toyota of Cedar Park,TX
+2023,XLE,Ruby Flare Pearl,FWD,42195,1098.0,43293.0,At dealer,True,DealerHold,5TDYRKEC7PS161055,Toyota of Cedar Park,TX
 2023,XLE,Ruby Flare Pearl,FWD,42195,0.0,42195.0,Factory to port,True,Available,5TDYRKEC7PS161167,Shottenkirk Toyota Weatherford,TX
 2023,XLE,Windchill Pearl,FWD,41445,0.0,41445.0,At dealer,False,DealerHold,5TDYRKEC7PS161220,Priority Toyota,VA
 2023,XLE,Predawn Gray Mica,FWD,42195,0.0,42195.0,Factory to port,True,Available,5TDYRKEC7PS161847,Mitchell Toyota,TX
@@ -1590,6 +1587,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Ruby Flare Pearl,FWD,42195,0.0,42195.0,Factory to port,False,Available,5TDYRKECXPS163706,Toyota of North Miami,FL
 2023,XLE,Ruby Flare Pearl,FWD,42195,0.0,42195.0,Factory to port,False,Available,5TDYRKECXPS21B497,Toyota of Deerfield Beach,FL
 2023,XLE,Windchill Pearl,FWD,42195,0.0,42195.0,Factory to port,False,Available,5TDYRKECXPS23A034,Toyota of North Charlotte,NC
+2023,XLE,Windchill Pearl,FWD,42195,0.0,42195.0,Factory to port,True,Available,5TDYRKECXPS23A051,Cloninger Toyota,NC
 2023,XLE,Windchill Pearl,FWD,42195,0.0,42195.0,Factory to port,False,Available,5TDYRKECXPS23A714,Earl Stewart Toyota of North Palm Beach,FL
 2023,XLE,Midnight Black Metallic,FWD,42195,0.0,42195.0,Factory to port,False,,5TDYRKECXPS23A812,Team Toyota of Glen Mills,PA
 2023,XLE,Ruby Flare Pearl,FWD,42195,0.0,42195.0,Factory to port,False,Available,5TDYRKECXPS23A972,Serra Toyota,AL
@@ -1616,7 +1614,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Midnight Black Metallic,AWD,44195,1990.0,46185.0,Port to dealer,True,,5TDYSKFC1PS090972,East Madison Toyota,WI
 2023,XLE,Midnight Black Metallic,AWD,44195,0.0,44195.0,Port to dealer,True,Available,5TDYSKFC1PS091040,Stevens Creek Toyota,CA
 2023,XLE,Windchill Pearl,AWD,44195,0.0,44195.0,Port to dealer,False,DealerHold,5TDYSKFC1PS091314,Ruda Chevrolet/Toyota,WI
-2023,XLE,Celestial Silver Metallic,AWD,44195,0.0,44195.0,At dealer,False,DealerHold,5TDYSKFC1PS091376,Toyota Direct,OH
 2023,XLE,Midnight Black Metallic,AWD,44195,0.0,44195.0,At dealer,False,DealerHold,5TDYSKFC1PS091569,Heiser Toyota,WI
 2023,XLE,Predawn Gray Mica,AWD,44195,0.0,44195.0,Port to dealer,True,DealerHold,5TDYSKFC1PS091667,Halterman's Toyota,PA
 2023,XLE,Celestial Silver Metallic,AWD,44195,0.0,44195.0,Port to dealer,False,DealerHold,5TDYSKFC1PS091796,Andy Mohr Toyota,IN
@@ -1641,7 +1638,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Windchill Pearl,AWD,43445,0.0,43445.0,Port to dealer,False,DealerHold,5TDYSKFC3PS087796,Sansone Toyota,NJ
 2023,XLE,Midnight Black Metallic,AWD,44195,0.0,44195.0,At dealer,False,DealerHold,5TDYSKFC3PS090875,Serra Toyota of Traverse City,MI
 2023,XLE,Predawn Gray Mica,AWD,44195,0.0,44195.0,Port to dealer,False,DealerHold,5TDYSKFC3PS090911,Koons Tysons Toyota,VA
-2023,XLE,Celestial Silver Metallic,AWD,44195,0.0,44195.0,At dealer,True,DealerHold,5TDYSKFC3PS091332,Fox Toyota,TN
 2023,XLE,Windchill Pearl,AWD,44195,0.0,44195.0,Port to dealer,True,Available,5TDYSKFC3PS091394,Hesser Toyota,WI
 2023,XLE,Windchill Pearl,AWD,44195,0.0,44195.0,Port to dealer,False,DealerHold,5TDYSKFC3PS091511,DARCARS Toyota,MD
 2023,XLE,Predawn Gray Mica,AWD,44195,0.0,44195.0,Port to dealer,True,DealerHold,5TDYSKFC3PS091590,City Toyota,CA
@@ -1674,7 +1670,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Windchill Pearl,AWD,44195,0.0,44195.0,Port to dealer,False,Available,5TDYSKFC6PS091485,"Gale Toyota, Inc.",CT
 2023,XLE,Blueprint,AWD,44195,0.0,44195.0,Port to dealer,False,,5TDYSKFC6PS091647,Royal South Toyota,IN
 2023,XLE,Midnight Black Metallic,AWD,44195,0.0,44195.0,Port to dealer,True,DealerHold,5TDYSKFC6PS091938,Jeff Wyler Toyota of Clarksville,IN
-2023,XLE,Predawn Gray Mica,AWD,44195,0.0,44195.0,Factory to port,False,,5TDYSKFC6PS23A647,Lithia Toyota of Klamath Falls,OR
+2023,XLE,Predawn Gray Mica,AWD,44195,0.0,44195.0,Factory to port,True,DealerHold,5TDYSKFC6PS23A647,Lithia Toyota of Klamath Falls,OR
 2023,XLE,Predawn Gray Mica,AWD,44195,0.0,44195.0,Factory to port,False,,5TDYSKFC6PS23B345,Advantage Toyota of River Oaks,IL
 2023,XLE,Celestial Silver Metallic,AWD,43445,0.0,43445.0,Port to dealer,False,DealerHold,5TDYSKFC7PS087462,Bergeron Toyota,MI
 2023,XLE,Predawn Gray Mica,AWD,43445,0.0,43445.0,At dealer,False,DealerHold,5TDYSKFC7PS089728,Westbury Toyota,NY
@@ -1689,7 +1685,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Windchill Pearl,AWD,43445,0.0,43445.0,At dealer,False,DealerHold,5TDYSKFC8PS089074,Doxon Toyota,WA
 2023,XLE,Blueprint,AWD,44195,0.0,44195.0,Port to dealer,True,DealerHold,5TDYSKFC8PS090595,Heritage Toyota Catonsville,MD
 2023,XLE,Celestial Silver Metallic,AWD,44195,0.0,44195.0,Port to dealer,False,DealerHold,5TDYSKFC8PS090757,West Herr Toyota of Williamsville,NY
-2023,XLE,Predawn Gray Mica,AWD,44195,0.0,44195.0,At dealer,True,DealerHold,5TDYSKFC8PS091522,Kerry Toyota,KY
 2023,XLE,Windchill Pearl,AWD,44195,0.0,44195.0,Port to dealer,True,Available,5TDYSKFC8PS091634,Sloane Toyota of Philadelphia,PA
 2023,XLE,Blueprint,AWD,44195,0.0,44195.0,Port to dealer,False,DealerHold,5TDYSKFC8PS091665,A-1 Toyota,CT
 2023,XLE,Windchill Pearl,AWD,44195,1978.0,46173.0,Port to dealer,False,DealerHold,5TDYSKFC8PS091746,Chuck Hutton Toyota,TN
@@ -1775,11 +1770,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,ATTITUDE BLACK MC.,FWD,49145,0.0,49145.0,Factory to port,False,Available,5TDZRKEC9PS163426,Toyota of Mt. Pleasant,TX
 2023,Limited,Windchill Pearl,FWD,49145,0.0,49145.0,Factory to port,False,DealerHold,5TDZRKEC9PS21B110,Toyota San Luis Obispo,CA
 2023,Limited,Windchill Pearl,FWD,49145,1773.0,50918.0,Factory to port,False,,5TDZRKEC9PS21B527,AutoNation Toyota Tempe,AZ
+2023,Limited,Celestial Silver Metallic,FWD,49145,0.0,49145.0,Factory to port,False,,5TDZRKEC9PS23A062,Toyota of El Cajon,CA
 2023,Limited,Windchill Pearl,FWD,49145,0.0,49145.0,Factory to port,True,Available,5TDZRKECXPS163581,Springhill Toyota,AL
 2023,Limited,Ruby Flare Pearl,FWD,49145,0.0,49145.0,Factory to port,True,,5TDZRKECXPS23A054,Avondale Toyota,AZ
 2023,Limited,Midnight Black Metallic,AWD,50395,0.0,50395.0,Port to dealer,True,,5TDZSKFC0PS087081,"Glen Motors, Inc.",NJ
 2023,Limited,Predawn Gray Mica,AWD,50395,0.0,50395.0,Port to dealer,False,DealerHold,5TDZSKFC0PS088473,Toyota City,NY
-2023,Limited,Predawn Gray Mica,AWD,50395,0.0,50395.0,Port to dealer,True,DealerHold,5TDZSKFC0PS088733,Denny Menholt Toyota,SD
+2023,Limited,Predawn Gray Mica,AWD,50395,0.0,50395.0,At dealer,True,DealerHold,5TDZSKFC0PS088733,Denny Menholt Toyota,SD
 2023,Limited,Ruby Flare Pearl,AWD,50395,0.0,50395.0,At dealer,True,DealerHold,5TDZSKFC0PS089123,Rudy Luther Toyota,MN
 2023,Limited,Windchill Pearl,AWD,51145,0.0,51145.0,At dealer,False,,5TDZSKFC0PS090076,Haley Toyota of Farmville,VA
 2023,Limited,Ruby Flare Pearl,AWD,51145,0.0,51145.0,Port to dealer,False,DealerHold,5TDZSKFC0PS090496,Grieco Toyota,RI
@@ -1897,7 +1893,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Windchill Pearl,AWD,51145,0.0,51145.0,Factory to port,False,DealerHold,5TDZSKFC4PS22A638,Green Toyota,IL
 2023,Limited,Blueprint,AWD,51145,0.0,51145.0,Factory to port,True,DealerHold,5TDZSKFC4PS22A977,I-5 Toyota,WA
 2023,Limited,Ruby Flare Pearl,AWD,50395,0.0,50395.0,Port to dealer,True,DealerHold,5TDZSKFC5PS086167,Fitzgerald Toyota Gaithersburg,MD
-2023,Limited,Windchill Pearl,AWD,50395,0.0,50395.0,Port to dealer,False,DealerHold,5TDZSKFC5PS087206,Koons Tysons Toyota,VA
+2023,Limited,Windchill Pearl,AWD,50395,0.0,50395.0,At dealer,False,DealerHold,5TDZSKFC5PS087206,Koons Tysons Toyota,VA
 2023,Limited,Midnight Black Metallic,AWD,50395,0.0,50395.0,Port to dealer,True,DealerHold,5TDZSKFC5PS089036,City Toyota,CA
 2023,Limited,Celestial Silver Metallic,AWD,50395,0.0,50395.0,Port to dealer,False,,5TDZSKFC5PS089750,Plaza Toyota,NY
 2023,Limited,Blueprint,AWD,51145,0.0,51145.0,Port to dealer,True,,5TDZSKFC5PS090543,Copeland Toyota,MA
@@ -1917,8 +1913,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Windchill Pearl,AWD,51145,0.0,51145.0,Port to dealer,False,DealerHold,5TDZSKFC5PS092020,Herb Chambers Toyota of Boston,MA
 2023,Limited,Midnight Black Metallic,AWD,51145,0.0,51145.0,Factory to port,False,DealerHold,5TDZSKFC5PS21B365,Interstate Toyota,NY
 2023,Limited,Midnight Black Metallic,AWD,51145,0.0,51145.0,Factory to port,False,,5TDZSKFC5PS21B642,Team Toyota,OH
-2023,Limited,Windchill Pearl,AWD,51145,0.0,51145.0,Factory to port,False,,5TDZSKFC5PS22A891,Toyota of Santa Maria,CA
-2023,Limited,Midnight Black Metallic,AWD,51145,0.0,51145.0,Factory to port,False,,5TDZSKFC5PS22B183,Gateway Toyota,NJ
+2023,Limited,Midnight Black Metallic,AWD,51145,3990.0,55135.0,Factory to port,False,,5TDZSKFC5PS22B183,Gateway Toyota,NJ
 2023,Limited,Midnight Black Metallic,AWD,51145,0.0,51145.0,Factory to port,False,,5TDZSKFC5PS23A787,Copeland Toyota,MA
 2023,Limited,Blueprint,AWD,50395,0.0,50395.0,Port to dealer,False,DealerHold,5TDZSKFC6PS085867,Lithia Toyota of Springfield,OR
 2023,Limited,Windchill Pearl,AWD,51145,1499.0,52644.0,Factory to port,True,Available,5TDZSKFC6PS090194,Kirk Toyota,MS
@@ -1945,7 +1940,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Windchill Pearl,AWD,50395,0.0,50395.0,Port to dealer,False,DealerHold,5TDZSKFC7PS087577,Markquart Toyota,WI
 2023,Limited,Windchill Pearl,AWD,50395,0.0,50395.0,At dealer,False,DealerHold,5TDZSKFC7PS089779,Priority Toyota,VA
 2023,Limited,Predawn Gray Mica,AWD,50395,0.0,50395.0,Port to dealer,False,DealerHold,5TDZSKFC7PS089975,Damian Lillard Toyota,OR
-2023,Limited,Celestial Silver Metallic,AWD,51145,0.0,51145.0,At dealer,False,DealerHold,5TDZSKFC7PS090138,Toyota of Downtown LA,CA
 2023,Limited,Midnight Black Metallic,AWD,51145,0.0,51145.0,Port to dealer,False,DealerHold,5TDZSKFC7PS090348,Claremont Toyota,CA
 2023,Limited,Blueprint,AWD,51145,0.0,51145.0,Port to dealer,False,DealerHold,5TDZSKFC7PS090883,Toyota of Glendale,CA
 2023,Limited,Ruby Flare Pearl,AWD,51145,0.0,51145.0,At dealer,False,DealerHold,5TDZSKFC7PS090964,Tom Pappas Toyota,MO
@@ -1967,7 +1961,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Cypress,AWD,50395,0.0,50395.0,Port to dealer,False,DealerHold,5TDZSKFC8PS085773,Sansone Toyota,NJ
 2023,Limited,Midnight Black Metallic,AWD,50395,0.0,50395.0,Factory to port,True,DealerHold,5TDZSKFC8PS086325,Maplewood Toyota,MN
 2023,Limited,Windchill Pearl,AWD,50395,0.0,50395.0,Factory to port,False,DealerHold,5TDZSKFC8PS086566,Aubrey Alexander Toyota,PA
-2023,Limited,Windchill Pearl,AWD,50395,0.0,50395.0,At dealer,True,Available,5TDZSKFC8PS089595,Toyota Town,CA
 2023,Limited,Midnight Black Metallic,AWD,51145,0.0,51145.0,At dealer,True,DealerHold,5TDZSKFC8PS090133,One Toyota of Oakland,CA
 2023,Limited,Celestial Silver Metallic,AWD,51145,0.0,51145.0,Port to dealer,True,Available,5TDZSKFC8PS090147,802 Toyota,VT
 2023,Limited,Celestial Silver Metallic,AWD,51145,0.0,51145.0,Port to dealer,True,DealerHold,5TDZSKFC8PS090231,Tufankjian Toyota of Braintree,MA
@@ -2039,5 +2032,4 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Midnight Black Metallic,AWD,51145,0.0,51145.0,Factory to port,True,DealerHold,5TDZSKFCXPS21A972,Tansky Sawmill Toyota,OH
 2023,Limited,Midnight Black Metallic,AWD,51145,1990.0,53135.0,Factory to port,False,DealerHold,5TDZSKFCXPS21B460,Andrew Toyota,WI
 2023,Limited,Midnight Black Metallic,AWD,51145,0.0,51145.0,Factory to port,False,,5TDZSKFCXPS22A255,Route 22 Toyota,NJ
-2023,Limited,Celestial Silver Metallic,AWD,51145,1798.0,52943.0,Factory to port,False,,5TDZSKFCXPS22A482,Toyota of Portland on Broadway,OR
 2023,Limited,Windchill Pearl,AWD,51145,0.0,51145.0,Factory to port,True,DealerHold,5TDZSKFCXPS23B059,McGee Toyota of Claremont,NH

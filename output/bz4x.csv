@@ -8,7 +8,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Wind Chill Pearl,FWD,42000,0.0,42000.0,At dealer,False,Available,JTMAAAAA0PA008862,Temecula Valley Toyota,CA
 2023,Limited,Elemental Silver Metallic with Black roof,FWD,46700,0.0,46700.0,At dealer,False,Available,JTMAAAAA0PA008912,Marshall Dry Ridge Toyota,KY
 2023,XLE,Wind Chill Pearl,FWD,42000,0.0,42000.0,At dealer,False,,JTMAAAAA0PA012099,City Toyota,CA
-2023,Limited,Heavy Metal with Black roof,FWD,46700,0.0,46700.0,At dealer,False,,JTMAAAAA0PA012748,South Coast Toyota,CA
 2023,Limited,Elemental Silver Metallic with Black roof,FWD,46700,1443.0,48143.0,At dealer,False,,JTMAAAAA0PA012894,Toyota of Lancaster,CA
 2023,Limited,Black,FWD,46700,0.0,46700.0,At dealer,False,,JTMAAAAA0PA012913,DCH Toyota of Oxnard,CA
 2023,Limited,Heavy Metal with Black roof,FWD,46700,0.0,46700.0,At dealer,False,,JTMAAAAA0PA012989,Toyota Santa Monica,CA
@@ -18,6 +17,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Wind Chill Pearl with Black roof,FWD,46700,0.0,46700.0,Factory to port,False,,JTMAAAAA0PA013897,Cabe Toyota Long Beach,CA
 2023,Limited,Wind Chill Pearl with Black roof,FWD,46700,0.0,46700.0,Factory to port,False,,JTMAAAAA0PA014032,South Bay Toyota,CA
 2023,XLE,Wind Chill Pearl,FWD,42000,0.0,42000.0,Factory to port,False,,JTMAAAAA0PA014242,Toyota of Riverside,CA
+2023,XLE,Wind Chill Pearl,FWD,42000,0.0,42000.0,Factory to port,False,,JTMAAAAA0PA014273,Toyota of El Cajon,CA
 2023,XLE,Heavy Metal,FWD,42000,0.0,42000.0,Factory to port,False,,JTMAAAAA0PA014421,Toyota of The Desert,CA
 2023,Limited,Elemental Silver Metallic with Black roof,FWD,46700,2980.0,49680.0,Factory to port,False,,JTMAAAAA0PA014533,Toyota of Poway,CA
 2023,Limited,Heavy Metal with Black roof,FWD,46700,0.0,46700.0,Factory to port,False,,JTMAAAAA0PA014600,Toyota Place,CA
@@ -35,7 +35,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Wind Chill Pearl with Black roof,FWD,46700,0.0,46700.0,At dealer,False,Available,JTMAAAAA1PA008594,Toyota Walnut Creek,CA
 2023,Limited,Wind Chill Pearl with Black roof,FWD,46700,0.0,46700.0,At dealer,False,Available,JTMAAAAA1PA008837,Toyota Sunnyvale,CA
 2023,Limited,Black,FWD,46700,0.0,46700.0,At dealer,False,,JTMAAAAA1PA009308,Toyota of Murray,KY
-2023,Limited,Elemental Silver Metallic with Black roof,FWD,46700,990.0,47690.0,At dealer,False,,JTMAAAAA1PA009552,Stevens Creek Toyota,CA
+2023,Limited,Elemental Silver Metallic with Black roof,FWD,46700,295.0,46995.0,At dealer,False,,JTMAAAAA1PA009552,Stevens Creek Toyota,CA
 2023,XLE,Heavy Metal,FWD,42000,0.0,42000.0,At dealer,False,Available,JTMAAAAA1PA009681,Toyota of Lancaster,CA
 2023,Limited,Black,FWD,46700,0.0,46700.0,At dealer,False,DealerHold,JTMAAAAA1PA009812,Glockner Toyota,OH
 2023,Limited,Wind Chill Pearl with Black roof,FWD,46700,0.0,46700.0,At dealer,False,,JTMAAAAA1PA010040,Toyota Walnut Creek,CA
@@ -45,7 +45,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Wind Chill Pearl with Black roof,FWD,46700,0.0,46700.0,At dealer,False,Available,JTMAAAAA1PA012113,Longo Toyota,CA
 2023,Limited,Wind Chill Pearl with Black roof,FWD,46700,0.0,46700.0,At dealer,False,,JTMAAAAA1PA012726,Toyota of Glendora,CA
 2023,Limited,Wind Chill Pearl with Black roof,FWD,46700,0.0,46700.0,At dealer,False,,JTMAAAAA1PA012788,AutoNation Toyota Cerritos,CA
-2023,Limited,Wind Chill Pearl with Black roof,FWD,46700,0.0,46700.0,At dealer,False,DealerHold,JTMAAAAA1PA013147,Toyota of Escondido,CA
+2023,Limited,Wind Chill Pearl with Black roof,FWD,46700,0.0,46700.0,At dealer,False,Available,JTMAAAAA1PA013147,Toyota of Escondido,CA
 2023,XLE,WIND CHILL PEARL,FWD,42000,2995.0,44995.0,Factory to port,False,Available,JTMAAAAA1PA013438,Jim Norton Toyota of Oklahoma City,OK
 2023,Limited,Wind Chill Pearl with Black roof,FWD,46700,0.0,46700.0,Port to dealer,False,,JTMAAAAA1PA013861,Penske Toyota,CA
 2023,Limited,Black,FWD,46700,0.0,46700.0,Factory to port,False,,JTMAAAAA1PA014198,Culver City Toyota,CA
@@ -215,9 +215,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Elemental Silver Metallic,FWD,42000,0.0,42000.0,Factory to port,False,,JTMAAAAA7PA014089,Tustin Toyota,CA
 2023,Limited,Heavy Metal with Black roof,FWD,46700,0.0,46700.0,Factory to port,False,,JTMAAAAA7PA014349,Toyota of Santa Maria,CA
 2023,XLE,Black,FWD,42000,0.0,42000.0,Factory to port,False,,JTMAAAAA7PA014352,Culver City Toyota,CA
+2023,Limited,Wind Chill Pearl,FWD,46700,0.0,46700.0,Factory to port,False,,JTMAAAAA7PA014397,Stevens Creek Toyota,CA
 2023,Limited,Wind Chill Pearl,FWD,46700,0.0,46700.0,Factory to port,False,,JTMAAAAA7PA014447,Gosch Toyota,CA
 2023,Limited,Elemental Silver Metallic,FWD,46700,0.0,46700.0,Factory to port,False,,JTMAAAAA7PA014464,San Francisco Toyota,CA
 2023,Limited,Heavy Metal,FWD,46700,0.0,46700.0,Factory to port,False,,JTMAAAAA7PA014481,Temecula Valley Toyota,CA
+2023,Limited,Heavy Metal,FWD,46700,0.0,46700.0,Factory to port,False,,JTMAAAAA7PA014514,Stevens Creek Toyota,CA
 2023,XLE,Heavy Metal,FWD,42000,0.0,42000.0,Factory to port,False,,JTMAAAAA7PA014643,Toyota Chula Vista,CA
 2023,XLE,Wind Chill Pearl,FWD,42000,0.0,42000.0,Factory to port,False,,JTMAAAAA7PA014657,Elmore Toyota,CA
 2023,XLE,Wind Chill Pearl,FWD,42000,0.0,42000.0,Factory to port,False,,JTMAAAAA7PA014660,Toyota of Riverside,CA
@@ -229,7 +231,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Wind Chill Pearl,FWD,42000,0.0,42000.0,At dealer,False,Available,JTMAAAAA8PA002081,Toyota Chula Vista,CA
 2023,XLE,Heavy Metal,FWD,42000,0.0,42000.0,At dealer,False,DealerHold,JTMAAAAA8PA002503,Mojave Toyota of Barstow,CA
 2023,XLE,Heavy Metal,FWD,42000,0.0,42000.0,At dealer,False,,JTMAAAAA8PA007877,Toyota of Lompoc,CA
-2023,XLE,Elemental Silver Metallic,FWD,42000,0.0,42000.0,At dealer,False,DealerHold,JTMAAAAA8PA008558,Toyota of Escondido,CA
+2023,XLE,Elemental Silver Metallic,FWD,42000,0.0,42000.0,At dealer,False,Available,JTMAAAAA8PA008558,Toyota of Escondido,CA
 2023,Limited,Wind Chill Pearl with Black roof,FWD,46700,0.0,46700.0,At dealer,False,,JTMAAAAA8PA008981,Keyes Toyota,CA
 2023,XLE,Supersonic Red,FWD,42000,0.0,42000.0,At dealer,False,DealerHold,JTMAAAAA8PA010150,Toyota Santa Monica,CA
 2023,Limited,Heavy Metal,FWD,46700,0.0,46700.0,At dealer,False,,JTMAAAAA8PA012240,Stevens Creek Toyota,CA
@@ -246,6 +248,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Wind Chill Pearl with Black roof,FWD,46700,0.0,46700.0,Factory to port,False,,JTMAAAAA8PA014098,Toyota Santa Monica,CA
 2023,Limited,Heavy Metal with Black roof,FWD,46700,0.0,46700.0,Factory to port,False,,JTMAAAAA8PA014697,Toyota of North Hollywood,CA
 2023,Limited,Heavy Metal,FWD,46700,0.0,46700.0,Factory to port,False,,JTMAAAAA8PA014702,San Francisco Toyota,CA
+2023,Limited,Elemental Silver Metallic,FWD,46700,0.0,46700.0,Factory to port,False,,JTMAAAAA8PA014750,Santa Margarita Toyota,CA
 2023,Limited,Heavy Metal,FWD,46700,0.0,46700.0,Factory to port,False,,JTMAAAAA8PA014778,San Francisco Toyota,CA
 2023,XLE,Wind Chill Pearl,FWD,42000,0.0,42000.0,Factory to port,False,,JTMAAAAA8PA014957,Tustin Toyota,CA
 2023,XLE,Supersonic Red,FWD,42000,395.0,42395.0,At dealer,False,Available,JTMAAAAA9PA006429,Toyota 101,CA
@@ -627,7 +630,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Heavy Metal,AWD,44080,1893.0,45973.0,At dealer,False,,JTMABACA2PA018903,Toyota World of Newton,NJ
 2023,Limited,Heavy Metal with Black roof,AWD,48780,0.0,48780.0,At dealer,False,Available,JTMABACA2PA019081,Groove Toyota,CO
 2023,XLE,Heavy Metal,AWD,44080,0.0,44080.0,At dealer,False,Available,JTMABACA2PA019131,Koons Arlington Toyota,VA
-2023,XLE,Heavy Metal,AWD,44080,0.0,44080.0,At dealer,False,,JTMABACA2PA019145,Faith's Toyota Ford,VT
 2023,XLE,Black,AWD,44080,0.0,44080.0,At dealer,False,Available,JTMABACA2PA019288,Bighorn Toyota,CO
 2023,Limited,Wind Chill Pearl,AWD,48780,0.0,48780.0,At dealer,False,Available,JTMABACA2PA019498,New Rochelle Toyota,NY
 2023,Limited,Elemental Silver Metallic,AWD,48780,0.0,48780.0,At dealer,False,,JTMABACA2PA020067,Millennium Toyota,NY
@@ -663,6 +665,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Elemental Silver Metallic,AWD,48780,0.0,48780.0,At dealer,False,,JTMABACA2PA022708,Toyota of Hackensack,NJ
 2023,Limited,Heavy Metal with Black roof,AWD,48780,0.0,48780.0,At dealer,False,,JTMABACA2PA022742,Tustin Toyota,CA
 2023,Limited,Wind Chill Pearl,AWD,48780,6237.0,55017.0,Port to dealer,False,Available,JTMABACA2PA022756,Toyota of Turnersville,NJ
+2023,Limited,Supersonic Red with Black roof,AWD,48780,0.0,48780.0,At dealer,False,,JTMABACA2PA022773,Groove Toyota,CO
 2023,XLE,Elemental Silver Metallic,AWD,44080,0.0,44080.0,Port to dealer,False,DealerHold,JTMABACA2PA022806,Woburn Toyota,MA
 2023,Limited,Elemental Silver Metallic with Black roof,AWD,48780,0.0,48780.0,At dealer,False,,JTMABACA2PA022823,Toyota of Lancaster,CA
 2023,Limited,Heavy Metal,AWD,48780,0.0,48780.0,Port to dealer,True,,JTMABACA2PA022868,Middletown Toyota,CT
@@ -694,7 +697,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Heavy Metal,AWD,48780,0.0,48780.0,Factory to port,False,,JTMABACA2PA024751,Modesto Toyota,CA
 2023,Limited,Wind Chill Pearl,AWD,48780,0.0,48780.0,Factory to port,False,,JTMABACA2PA024944,Fremont Toyota,CA
 2023,Limited,Wind Chill Pearl,AWD,48780,989.0,49769.0,Factory to port,False,,JTMABACA2PA024992,Dayton Toyota,NJ
-2023,Limited,Wind Chill Pearl,AWD,48780,0.0,48780.0,Factory to port,False,,JTMABACA2PA025012,Stevens Creek Toyota,CA
+2023,Limited,Wind Chill Pearl,AWD,48780,0.0,48780.0,Factory to port,True,,JTMABACA2PA025012,Stevens Creek Toyota,CA
 2023,Limited,Heavy Metal,AWD,48780,1295.0,50075.0,Factory to port,False,,JTMABACA2PA025043,Jimmy Vasser Toyota,CA
 2023,Limited,Elemental Silver Metallic,AWD,48780,0.0,48780.0,Factory to port,False,,JTMABACA2PA025060,Magnussen's Toyota of Palo Alto,CA
 2023,Limited,Heavy Metal,AWD,48780,0.0,48780.0,Factory to port,False,,JTMABACA2PA025107,Boch Toyota South,MA
@@ -865,6 +868,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Black,AWD,44080,0.0,44080.0,At dealer,False,,JTMABACA4PA018871,Koons Westminster Toyota,MD
 2023,Limited,Wind Chill Pearl,AWD,48780,0.0,48780.0,At dealer,False,Available,JTMABACA4PA019440,Penn Toyota,NY
 2023,Limited,Wind Chill Pearl,AWD,48780,0.0,48780.0,L,False,DealerHold,JTMABACA4PA020121,Steet Toyota of Johnstown-Gloversville,NY
+2023,Limited,Elemental Silver Metallic,AWD,48780,2998.0,51778.0,At dealer,False,DealerHold,JTMABACA4PA020376,San Marcos Toyota,TX
 2023,XLE,Black,AWD,44080,6995.0,51075.0,At dealer,False,,JTMABACA4PA020426,Toyota of Greenwich,CT
 2023,XLE,Elemental Silver Metallic,AWD,44080,0.0,44080.0,At dealer,False,,JTMABACA4PA020491,Elk Grove Toyota,CA
 2023,Limited,Heavy Metal,AWD,48780,0.0,48780.0,At dealer,False,,JTMABACA4PA020619,Downtown Toyota of Oakland,CA
@@ -878,7 +882,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Black,AWD,44080,0.0,44080.0,At dealer,False,DealerHold,JTMABACA4PA021270,Newburgh Toyota,NY
 2023,XLE,Heavy Metal,AWD,44080,0.0,44080.0,At dealer,False,,JTMABACA4PA021365,Toyota of Dartmouth,MA
 2023,Limited,Elemental Silver Metallic,AWD,48780,0.0,48780.0,At dealer,False,,JTMABACA4PA021575,Romano Toyota,NY
-2023,Limited,Wind Chill Pearl with Black roof,AWD,48780,1999.0,50779.0,At dealer,False,Available,JTMABACA4PA021625,Foothills Toyota,WA
 2023,Limited,Wind Chill Pearl,AWD,48780,0.0,48780.0,At dealer,False,,JTMABACA4PA021687,Smart Toyota,WI
 2023,XLE,Supersonic Red,AWD,44080,0.0,44080.0,At dealer,False,,JTMABACA4PA021690,Charlie's Toyota,ME
 2023,Limited,Supersonic Red with Black roof,AWD,48780,0.0,48780.0,At dealer,False,,JTMABACA4PA021916,Lynch Toyota,CT
@@ -1024,7 +1027,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Wind Chill Pearl,AWD,48780,0.0,48780.0,Factory to port,False,,JTMABACA5PA022881,Island Toyota,NY
 2023,Limited,Elemental Silver Metallic with Black roof,AWD,48780,0.0,48780.0,Port to dealer,False,,JTMABACA5PA023027,Western Slope Toyota,CO
 2023,Limited,Heavy Metal,AWD,48780,0.0,48780.0,Port to dealer,False,,JTMABACA5PA023044,Hillside Toyota,NY
-2023,XLE,Black,AWD,44080,0.0,44080.0,At dealer,False,,JTMABACA5PA023061,Beaverton Toyota,OR
 2023,XLE,Elemental Silver Metallic,AWD,44080,6237.0,50317.0,Port to dealer,False,DealerHold,JTMABACA5PA023075,Toyota of Turnersville,NJ
 2023,XLE,Wind Chill Pearl,AWD,44080,0.0,44080.0,Port to dealer,False,DealerHold,JTMABACA5PA023089,Walser Bloomington Toyota,MN
 2023,XLE,Wind Chill Pearl,AWD,44080,0.0,44080.0,At dealer,False,,JTMABACA5PA023108,Concord Toyota,CA
@@ -1200,7 +1202,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Heavy Metal,AWD,48780,0.0,48780.0,At dealer,False,,JTMABACA7PA018489,Harr Toyota,SD
 2023,XLE,Wind Chill Pearl,AWD,44080,0.0,44080.0,At dealer,False,DealerHold,JTMABACA7PA018525,Westbury Toyota,NY
 2023,Limited,Wind Chill Pearl,AWD,48780,0.0,48780.0,At dealer,False,DealerHold,JTMABACA7PA018539,Dan Hecht Chevrolet/Toyota,IL
-2023,XLE,Supersonic Red,AWD,44080,0.0,44080.0,At dealer,False,DealerHold,JTMABACA7PA018587,Toyota of Puyallup,WA
 2023,Limited,Wind Chill Pearl with Black roof,AWD,48780,0.0,48780.0,At dealer,False,,JTMABACA7PA019304,Torrington Toyota,CT
 2023,XLE,Supersonic Red,AWD,44080,0.0,44080.0,At dealer,False,DealerHold,JTMABACA7PA019500,AutoNation Toyota Arapahoe,CO
 2023,Limited,Supersonic Red with Black roof,AWD,48780,0.0,48780.0,At dealer,False,Available,JTMABACA7PA020016,Groove Toyota,CO
@@ -1320,7 +1321,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Black,AWD,44080,0.0,44080.0,At dealer,False,,JTMABACA8PA019277,Empire Toyota of Huntington,NY
 2023,XLE,Wind Chill Pearl,AWD,44080,0.0,44080.0,At dealer,False,,JTMABACA8PA019571,Bernardi Toyota,MA
 2023,XLE,Wind Chill Pearl,AWD,44080,0.0,44080.0,At dealer,False,,JTMABACA8PA019618,Magnussen's Toyota of Palo Alto,CA
-2023,Limited,Black,AWD,48780,0.0,48780.0,Port to dealer,False,Available,JTMABACA8PA019621,Iron Trail Toyota,MN
+2023,Limited,Black,AWD,48780,0.0,48780.0,At dealer,False,Available,JTMABACA8PA019621,Iron Trail Toyota,MN
 2023,Limited,Heavy Metal with Black roof,AWD,48780,0.0,48780.0,At dealer,False,Available,JTMABACA8PA020140,Jim Coleman Toyota,MD
 2023,Limited,Wind Chill Pearl,AWD,48780,0.0,48780.0,At dealer,False,,JTMABACA8PA020333,Folsom Lake Toyota,CA
 2023,XLE,Heavy Metal,AWD,44080,0.0,44080.0,At dealer,False,,JTMABACA8PA020400,Fitzgerald Toyota Gaithersburg,MD
@@ -1375,6 +1376,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Wind Chill Pearl,AWD,48780,0.0,48780.0,Factory to port,False,Available,JTMABACA8PA024656,Oakbrook Toyota in Westmont,IL
 2023,Limited,Heavy Metal with Black roof,AWD,48780,0.0,48780.0,Factory to port,False,,JTMABACA8PA024673,Toyota of North Hollywood,CA
 2023,Limited,Elemental Silver Metallic with Black roof,AWD,48780,0.0,48780.0,Factory to port,False,,JTMABACA8PA024706,Royal Moore Toyota,OR
+2023,Limited,Wind Chill Pearl with Black roof,AWD,48780,0.0,48780.0,Factory to port,False,,JTMABACA8PA024740,Toyota of El Cajon,CA
 2023,XLE,Wind Chill Pearl,AWD,44080,0.0,44080.0,Factory to port,False,,JTMABACA8PA025130,Toyota of Bowie,MD
 2023,XLE,Elemental Silver Metallic,AWD,44080,0.0,44080.0,Factory to port,False,,JTMABACA8PA025175,City Toyota,CA
 2023,Limited,Supersonic Red,AWD,48780,0.0,48780.0,Factory to port,False,,JTMABACA8PA025404,Heritage Toyota Catonsville,MD
@@ -1593,7 +1595,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Heavy Metal with Black roof,AWD,48780,0.0,48780.0,Port to dealer,False,,JTMABACAXPA022987,Lynch Toyota,CT
 2023,XLE,Wind Chill Pearl,AWD,44080,0.0,44080.0,Port to dealer,False,,JTMABACAXPA023010,Sullivan Brothers Toyota,MA
 2023,XLE,Wind Chill Pearl,AWD,44080,0.0,44080.0,Port to dealer,False,,JTMABACAXPA023069,Hanlees Fairfield Toyota,CA
-2023,Limited,Wind Chill Pearl with Black roof,AWD,48780,0.0,48780.0,At dealer,False,,JTMABACAXPA023072,Manhattan Beach Toyota,CA
+2023,Limited,Wind Chill Pearl with Black roof,AWD,48780,0.0,48780.0,At dealer,False,DealerHold,JTMABACAXPA023072,Manhattan Beach Toyota,CA
 2023,XLE,Supersonic Red,AWD,44080,0.0,44080.0,Port to dealer,False,,JTMABACAXPA023086,Elk Grove Toyota,CA
 2023,XLE,Heavy Metal,AWD,44080,0.0,44080.0,Port to dealer,False,,JTMABACAXPA023153,Hillside Toyota,NY
 2023,XLE,Elemental Silver Metallic,AWD,44080,0.0,44080.0,Port to dealer,False,Available,JTMABACAXPA023170,Bommarito Toyota,MO
@@ -1634,6 +1636,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Heavy Metal,AWD,48780,895.0,49675.0,Factory to port,False,DealerHold,JTMABACAXPA025646,Andrew Toyota,WI
 2023,XLE,Heavy Metal,AWD,44080,0.0,44080.0,Factory to port,False,,JTMABACAXPA025694,San Francisco Toyota,CA
 2023,Limited,Heavy Metal,AWD,48780,0.0,48780.0,Factory to port,False,,JTMABACAXPA025923,Toyota of Clovis,CA
+2023,Limited,Elemental Silver Metallic,AWD,48780,0.0,48780.0,Factory to port,False,,JTMABACAXPA025954,Stevens Creek Toyota,CA
 2023,Limited,Wind Chill Pearl,AWD,48780,0.0,48780.0,Factory to port,False,,JTMABACAXPA026005,Bommarito Toyota,MO
 2023,Limited,Wind Chill Pearl with Black roof,AWD,48780,0.0,48780.0,Factory to port,False,,JTMABACAXPA026084,"Turner Toyota, Inc.",CO
 2023,XLE,Black,AWD,44080,0.0,44080.0,Factory to port,False,DealerHold,JTMABACAXPA026408,Jim Coleman Toyota,MD

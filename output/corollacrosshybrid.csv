@@ -1,6 +1,6 @@
 Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Status,VIN,Dealer,Dealer State
 2023,SE,Jet Black,AWD,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG0PV001215,Harr Toyota,MA
-2023,XSE,Barcelona Red Metallic,AWD,31065,0.0,31065.0,Port to dealer,False,,7MUFBABG0PV001263,Toyota of Orange,CA
+2023,XSE,Barcelona Red Metallic,AWD,31065,0.0,31065.0,Port to dealer,False,Available,7MUFBABG0PV001263,Toyota of Orange,CA
 2023,XSE,Sonic Silver,AWD,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABG0PV001389,Toyota of Huntington Beach,CA
 2023,XSE,Jet Black,AWD,31065,0.0,31065.0,Factory to port,False,DealerHold,7MUFBABG0PV001408,Family Toyota of Burleson,TX
 2023,XSE,Wind Chill Pearl,AWD,31065,0.0,31065.0,Port to dealer,True,,7MUFBABG0PV001473,Hansel Toyota,CA
@@ -100,7 +100,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,SE,Jet Black,AWD,29290,699.0,29989.0,Factory to port,False,Available,7MUFBABG4PV001444,Landers Toyota,AR
 2023,XSE,Sonic Silver,AWD,31065,0.0,31065.0,Port to dealer,False,,7MUFBABG4PV001461,Rudy Luther Toyota,MN
 2023,SE,Wind Chill Pearl,AWD,29290,0.0,29290.0,Factory to port,False,Available,7MUFBABG4PV001511,Keating Toyota,TX
-2023,XSE,Wind Chill Pearl,AWD,31065,0.0,31065.0,Factory to port,False,Available,7MUFBABG4PV21A543,Toyota of Santa Maria,CA
+2023,XSE,Wind Chill Pearl,AWD,31065,0.0,31065.0,Factory to port,True,DealerHold,7MUFBABG4PV21A543,Toyota of Santa Maria,CA
 2023,SE,Wind Chill Pearl,AWD,29290,5995.0,35285.0,Factory to port,False,Available,7MUFBABG4PV21A610,Rodland Toyota,WA
 2023,XSE,Wind Chill Pearl,AWD,31065,0.0,31065.0,Factory to port,False,DealerHold,7MUFBABG4PV21B112,Westbury Toyota,NY
 2023,SE,Wind Chill Pearl,AWD,29290,1397.0,30687.0,Factory to port,False,Available,7MUFBABG4PV22A327,DCH Wappingers Falls Toyota,NY
@@ -147,8 +147,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,SE,Sonic Silver,AWD,29290,0.0,29290.0,Factory to port,False,,7MUFBABG6PV23B054,Prestige Toyota,NY
 2023,SE,Wind Chill Pearl,AWD,29290,0.0,29290.0,Factory to port,False,,7MUFBABG6PV23B264,Charles Toyota,CT
 2023,SE,Celestite,AWD,29290,3489.0,32779.0,Factory to port,False,,7MUFBABG6PV23B278,Russ Darrow Toyota,WI
-2023,XSE,Blue Crush Metallic,AWD,31065,0.0,31065.0,Factory to port,False,,7MUFBABG6PV24A028,Toyota of Clovis,CA
+2023,XSE,Blue Crush Metallic,AWD,31065,3590.0,34655.0,Factory to port,False,,7MUFBABG6PV24A028,Toyota of Clovis,CA
 2023,XSE,Wind Chill Pearl,AWD,31065,0.0,31065.0,Factory to port,False,,7MUFBABG6PV24B311,Hansel Toyota,CA
+2023,SE,Sonic Silver,AWD,29290,0.0,29290.0,Factory to port,False,,7MUFBABG6PV24B390,Bill Page Toyota,VA
 2023,XSE,Wind Chill Pearl,AWD,31065,0.0,31065.0,Port to dealer,True,,7MUFBABG7PV001180,Hamer Toyota,CA
 2023,SE,Barcelona Red Metallic,AWD,29290,0.0,29290.0,Port to dealer,False,DealerHold,7MUFBABG7PV001275,Jim Coleman Toyota,MD
 2023,XSE,Wind Chill Pearl,AWD,31065,0.0,31065.0,Port to dealer,False,,7MUFBABG7PV001468,Toyota of The Desert,CA
@@ -208,7 +209,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XSE,Jet Black,AWD,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABGXPV001240,Camelback Toyota,AZ
 2023,SE,Wind Chill Pearl,AWD,29290,0.0,29290.0,Port to dealer,True,,7MUFBABGXPV001285,"Stapp Interstate Toyota, Inc.",CO
 2023,XSE,Blue Crush Metallic,AWD,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABGXPV001304,Earnhardt Toyota,AZ
-2023,SE,Barcelona Red Metallic,AWD,29290,0.0,29290.0,Port to dealer,False,,7MUFBABGXPV001321,Antioch Toyota,CA
+2023,SE,Barcelona Red Metallic,AWD,29290,0.0,29290.0,Port to dealer,True,,7MUFBABGXPV001321,Antioch Toyota,CA
 2023,XSE,Celestite,AWD,31065,0.0,31065.0,Port to dealer,False,,7MUFBABGXPV001349,Toyota of North Hollywood,CA
 2023,XSE,Barcelona Red Metallic,AWD,31065,0.0,31065.0,Port to dealer,False,DealerHold,7MUFBABGXPV001352,Expressway Toyota,MA
 2023,SE,Wind Chill Pearl,AWD,29290,0.0,29290.0,Port to dealer,True,DealerHold,7MUFBABGXPV001397,Fitzgerald Toyota Gaithersburg,MD
