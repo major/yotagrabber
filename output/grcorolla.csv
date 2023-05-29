@@ -53,7 +53,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Circuit Edition,Supersonic Red,AWD,42900,0.0,42900.0,Factory to port,True,DealerHold,JTNABAAE2PA003867,Maita's Toyota of Sacramento,CA
 2023,Circuit Edition,Heavy Metal,AWD,42900,0.0,42900.0,Port to dealer,False,DealerHold,JTNABAAE2PA003870,Seeger Toyota,MO
 2023,Circuit Edition,Supersonic Red,AWD,42900,3568.0,46468.0,Port to dealer,False,,JTNABAAE2PA003982,Bell Road Toyota,AZ
-2023,Circuit Edition,Heavy Metal,AWD,42900,0.0,42900.0,Port to dealer,True,DealerHold,JTNABAAE2PA004050,Balise Toyota,MA
+2023,Circuit Edition,Heavy Metal,AWD,42900,0.0,42900.0,At dealer,True,DealerHold,JTNABAAE2PA004050,Balise Toyota,MA
 2023,Core,Black,AWD,35900,9780.0,45680.0,At dealer,True,Available,JTNABAAE2PA004095,Berge Toyota,AZ
 2023,Circuit Edition,Heavy Metal,AWD,42900,0.0,42900.0,Port to dealer,True,DealerHold,JTNABAAE2PA004145,Mountain States Toyota,CO
 2023,Circuit Edition,Ice Cap,AWD,42900,0.0,42900.0,Factory to port,False,DealerHold,JTNABAAE2PA004209,Future Toyota of Yuba City,CA
@@ -76,7 +76,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Circuit Edition,Supersonic Red,AWD,42900,0.0,42900.0,Port to dealer,True,DealerHold,JTNABAAE3PA003893,Precision Toyota of Tucson,AZ
 2023,Circuit Edition,Ice Cap,AWD,42900,0.0,42900.0,At dealer,False,DealerHold,JTNABAAE3PA003909,Priority Toyota Springfield,VA
 2023,Circuit Edition,Heavy Metal,AWD,42900,0.0,42900.0,Port to dealer,False,DealerHold,JTNABAAE3PA003912,Toyota Knoxville,TN
-2023,Circuit Edition,Ice Cap,AWD,42900,0.0,42900.0,Port to dealer,True,DealerHold,JTNABAAE3PA004011,I-10 Toyota,CA
+2023,Circuit Edition,Ice Cap,AWD,42900,0.0,42900.0,At dealer,True,DealerHold,JTNABAAE3PA004011,I-10 Toyota,CA
 2023,Circuit Edition,Heavy Metal,AWD,42900,0.0,42900.0,Port to dealer,False,,JTNABAAE3PA004056,Team Toyota of Glen Mills,PA
 2023,Circuit Edition,Ice Cap,AWD,42900,0.0,42900.0,Port to dealer,False,DealerHold,JTNABAAE3PA004087,Harr Toyota,MA
 2023,Core,Supersonic Red,AWD,35900,22696.0,58596.0,At dealer,False,DealerHold,JTNABAAE3PA004106,Alamo Toyota,TX
@@ -158,7 +158,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Circuit Edition,Ice Cap,AWD,42900,0.0,42900.0,Factory to port,True,Available,JTNABAAE5PA004401,Lakeside Toyota,LA
 2023,Circuit Edition,Heavy Metal,AWD,42900,0.0,42900.0,Factory to port,False,DealerHold,JTNABAAE5PA004429,Grieco Toyota,RI
 2023,Circuit Edition,Heavy Metal,AWD,42900,0.0,42900.0,Port to dealer,True,DealerHold,JTNABAAE5PA004477,Bill Wright Toyota,CA
-2023,Core,Ice Cap,AWD,35900,0.0,35900.0,At dealer,False,DealerHold,JTNABAAE5PA004530,Temecula Valley Toyota,CA
 2023,Circuit Edition,Ice Cap,AWD,42900,0.0,42900.0,Port to dealer,True,DealerHold,JTNABAAE5PA004558,Toyota of Anaheim,CA
 2023,Core,Ice Cap,AWD,35900,0.0,35900.0,Factory to port,True,DealerHold,JTNABAAE5PA004639,Bill Wright Toyota,CA
 2023,Core,Black,AWD,35900,0.0,35900.0,Factory to port,True,Available,JTNABAAE5PA004687,Johnson City Toyota,TN
@@ -203,7 +202,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Circuit Edition,Heavy Metal,AWD,42900,0.0,42900.0,Factory to port,True,DealerHold,JTNABAAE6PA004746,Rohrich Toyota,PA
 2023,Circuit Edition,Ice Cap,AWD,42900,0.0,42900.0,Factory to port,False,DealerHold,JTNABAAE6PA004794,North Bakersfield Toyota,CA
 2023,Circuit Edition,Supersonic Red,AWD,42900,0.0,42900.0,Factory to port,False,DealerHold,JTNABAAE6PA004892,Haley Toyota,VA
-2023,Circuit Edition,HEAVY METAL,AWD,42900,0.0,42900.0,Port to dealer,True,DealerHold,JTNABAAE7PA003704,Joe Myers Toyota,TX
+2023,Circuit Edition,Heavy Metal,AWD,42900,0.0,42900.0,Factory to port,False,DealerHold,JTNABAAE6PA005167,South Hills Toyota,PA
+2023,Circuit Edition,HEAVY METAL,AWD,42900,0.0,42900.0,At dealer,True,DealerHold,JTNABAAE7PA003704,Joe Myers Toyota,TX
 2023,Circuit Edition,Ice Cap,AWD,42900,11795.0,54695.0,Port to dealer,True,Available,JTNABAAE7PA003802,Universal Toyota,TX
 2023,Circuit Edition,Ice Cap,AWD,42900,0.0,42900.0,Factory to port,True,DealerHold,JTNABAAE7PA003816,City Toyota,CA
 2023,Core,Black,AWD,35900,0.0,35900.0,At dealer,False,,JTNABAAE7PA003878,Advantage Toyota of River Oaks,IL
@@ -273,7 +273,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Circuit Edition,Ice Cap,AWD,42900,6763.0,49663.0,Port to dealer,True,DealerHold,JTNABAAE9PA004109,Toyota of Bedford,OH
 2023,Circuit Edition,PRECIOUS METAL,AWD,42900,0.0,42900.0,At dealer,True,DealerHold,JTNABAAE9PA004126,Poe Toyota,TX
 2023,Circuit Edition,Heavy Metal,AWD,42900,0.0,42900.0,Port to dealer,False,DealerHold,JTNABAAE9PA004143,Jeff Wyler Toyota of Springfield,OH
-2023,Circuit Edition,Ice Cap,AWD,42900,12656.0,55556.0,At dealer,False,Available,JTNABAAE9PA004269,AutoNation Toyota Cerritos,CA
 2023,Circuit Edition,Supersonic Red,AWD,42900,0.0,42900.0,Port to dealer,False,DealerHold,JTNABAAE9PA004305,Royal Moore Toyota,OR
 2023,Circuit Edition,Heavy Metal,AWD,42900,0.0,42900.0,Port to dealer,False,DealerHold,JTNABAAE9PA004319,Lou Fusz Toyota,MO
 2023,Circuit Edition,Heavy Metal,AWD,42900,1999.0,44899.0,Port to dealer,True,Available,JTNABAAE9PA004322,Foothills Toyota,WA
