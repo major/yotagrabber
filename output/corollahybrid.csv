@@ -13,7 +13,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LE,Celestite,FWD,23050,0.0,23050.0,Factory to port,False,Available,JTDBCMFE0P3021093,Hall Toyota Elizabeth City,NC
 2023,LE,Classic Silver Metallic,FWD,23050,0.0,23050.0,Factory to port,False,Available,JTDBCMFE0P3021112,Lynch Toyota of Auburn,AL
 2023,LE,Ice Cap,FWD,23050,0.0,23050.0,Port to dealer,False,,JTDBCMFE0P3021143,Toyota Santa Monica,CA
-2023,LE,Midnight Black Metallic,FWD,23050,0.0,23050.0,At dealer,False,,JTDBCMFE0P3021210,Toyota of Downtown LA,CA
+2023,LE,Midnight Black Metallic,FWD,23050,0.0,23050.0,At dealer,False,DealerHold,JTDBCMFE0P3021210,Toyota of Downtown LA,CA
 2023,SE,Underground,FWD,25490,0.0,25490.0,Port to dealer,False,,JTDBCMFE0P3021322,Beaverton Toyota,OR
 2023,LE,Celestite,FWD,23050,0.0,23050.0,Port to dealer,False,,JTDBCMFE0P3021353,Gosch Toyota,CA
 2023,LE,Underground,FWD,23050,2490.0,25540.0,Port to dealer,True,DealerHold,JTDBCMFE0P3021367,Toyota of El Cajon,CA
@@ -56,7 +56,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LE,Midnight Black Metallic,FWD,22800,0.0,22800.0,Port to dealer,False,DealerHold,JTDBCMFE0PJ006668,Rhinelander Toyota,WI
 2023,LE,Celestite,FWD,23050,2995.0,26045.0,At dealer,False,Available,JTDBCMFE0PJ006850,Gregg Orr Toyota,AR
 2023,SE,Classic Silver Metallic,FWD,25240,0.0,25240.0,Port to dealer,False,,JTDBCMFE0PJ006864,Priority Toyota,VA
-2023,LE,Ruby Flare Pearl,FWD,22800,0.0,22800.0,Factory to port,False,Available,JTDBCMFE0PJ006900,Hanlees Toyota,CA
+2023,LE,Ruby Flare Pearl,FWD,22800,0.0,22800.0,Factory to port,True,DealerHold,JTDBCMFE0PJ006900,Hanlees Toyota,CA
 2023,SE,Midnight Black Metallic,FWD,25490,1885.0,27375.0,Factory to port,False,Available,JTDBCMFE0PJ006914,Lake Charles Toyota,LA
 2023,LE,Ice Cap,FWD,22800,0.0,22800.0,Port to dealer,False,DealerHold,JTDBCMFE0PJ006962,Price Toyota,DE
 2023,LE,Ice Cap,FWD,22800,0.0,22800.0,Port to dealer,False,DealerHold,JTDBCMFE0PJ006976,John Weiss' Toyota of South County,MO
@@ -77,19 +77,19 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LE,Ice Cap,FWD,23050,0.0,23050.0,At dealer,True,DealerHold,JTDBCMFE0PJ007447,Hamer Toyota,CA
 2023,LE,Classic Silver Metallic,FWD,23050,0.0,23050.0,Factory to port,True,Available,JTDBCMFE0PJ007559,Toyota of Pharr,TX
 2023,SE,Ruby Flare Pearl,FWD,25490,0.0,25490.0,Factory to port,False,Available,JTDBCMFE0PJ007562,LaGrange Toyota,GA
-2023,LE,Ice Cap,FWD,23050,0.0,23050.0,Port to dealer,False,,JTDBCMFE0PJ007593,Toyota of Hollywood,CA
+2023,LE,Ice Cap,FWD,23050,0.0,23050.0,At dealer,False,,JTDBCMFE0PJ007593,Toyota of Hollywood,CA
 2023,LE,Celestite,FWD,23050,0.0,23050.0,Port to dealer,False,,JTDBCMFE0PJ007626,Copeland Toyota,MA
 2023,LE,Celestite,FWD,23050,0.0,23050.0,Factory to port,False,DealerHold,JTDBCMFE0PJ007643,Folsom Lake Toyota,CA
 2023,LE,Classic Silver Metallic,FWD,23050,0.0,23050.0,Factory to port,False,Available,JTDBCMFE0PJ007657,Toyota of Del Rio,TX
 2023,SE,Celestite,FWD,25490,1098.0,26588.0,Factory to port,True,DealerHold,JTDBCMFE0PJ007769,Toyota of Cedar Park,TX
 2023,LE,Blueprint,FWD,23050,0.0,23050.0,Factory to port,False,Available,JTDBCMFE0PJ007786,AutoNation Toyota Mall of Georgia,GA
 2023,LE,Ruby Flare Pearl,FWD,23050,0.0,23050.0,Factory to port,False,Available,JTDBCMFE0PJ007853,Bruner Toyota,TX
-2023,LE,Ice Cap,FWD,23050,0.0,23050.0,At dealer,False,,JTDBCMFE0PJ007870,Toyota Place,CA
+2023,LE,Ice Cap,FWD,23050,0.0,23050.0,At dealer,False,DealerHold,JTDBCMFE0PJ007870,Toyota Place,CA
 2023,LE,Blueprint,FWD,23050,0.0,23050.0,Port to dealer,False,DealerHold,JTDBCMFE0PJ007903,Toyota of Keene,NH
 2023,LE,Celestite,FWD,23050,0.0,23050.0,Port to dealer,True,DealerHold,JTDBCMFE0PJ007965,South Bay Toyota,CA
 2023,SE,Ruby Flare Pearl,FWD,25490,0.0,25490.0,Port to dealer,False,,JTDBCMFE0PJ007982,Freeway Toyota of Hanford,CA
 2023,LE,Ice Cap,FWD,23050,0.0,23050.0,Port to dealer,False,,JTDBCMFE0PJ008002,Moss Bros. Toyota,CA
-2023,SE,Ice Cap,FWD,25490,0.0,25490.0,Port to dealer,True,,JTDBCMFE0PJ008016,Valley Hi Toyota,CA
+2023,SE,Ice Cap,FWD,25490,0.0,25490.0,At dealer,True,,JTDBCMFE0PJ008016,Valley Hi Toyota,CA
 2023,SE,Midnight Black Metallic,FWD,25490,1995.0,27485.0,Factory to port,False,Available,JTDBCMFE0PJ008095,Cavender Toyota,TX
 2023,LE,Classic Silver Metallic,FWD,23050,0.0,23050.0,Factory to port,False,DealerHold,JTDBCMFE0PJ008193,Grieco Toyota,RI
 2023,SE,Classic Silver Metallic,FWD,25490,0.0,25490.0,Port to dealer,False,DealerHold,JTDBCMFE0PJ008291,Dolan Toyota,NV
@@ -116,7 +116,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LE,Celestite,FWD,23050,0.0,23050.0,Factory to port,False,,JTDBCMFE0PJ009599,John Roberts Toyota,TN
 2023,SE,Ruby Flare Pearl,FWD,25490,790.0,26280.0,Factory to port,False,DealerHold,JTDBCMFE0PJ009652,Toyota 101,CA
 2023,SE,Underground,FWD,25200,1726.0,26926.0,Port to dealer,True,,JTDBCMFE1P3010443,AutoNation Toyota Spokane Valley,WA
-2023,SE,Classic Silver Metallic,FWD,25490,0.0,25490.0,Port to dealer,True,DealerHold,JTDBCMFE1P3020423,Red River Toyota,AR
+2023,SE,Classic Silver Metallic,FWD,25490,0.0,25490.0,At dealer,True,DealerHold,JTDBCMFE1P3020423,Red River Toyota,AR
 2023,LE,Celestite,FWD,22800,0.0,22800.0,Port to dealer,False,DealerHold,JTDBCMFE1P3020504,Herb Chambers Toyota of Boston,MA
 2023,LE,Celestite,FWD,22800,0.0,22800.0,Port to dealer,False,Available,JTDBCMFE1P3020552,Ammaar's Toyota Vacaville,CA
 2023,LE,Underground,FWD,23050,4169.0,27219.0,Factory to port,True,DealerHold,JTDBCMFE1P3020714,Poe Toyota,TX
@@ -124,7 +124,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LE,Underground,FWD,22800,0.0,22800.0,Port to dealer,True,DealerHold,JTDBCMFE1P3020793,Ed Martin Toyota,IN
 2023,SE,Underground,FWD,25240,0.0,25240.0,Port to dealer,False,,JTDBCMFE1P3020812,Team Toyota of Glen Mills,PA
 2023,LE,Ice Cap,FWD,23050,0.0,23050.0,Port to dealer,False,,JTDBCMFE1P3020907,Don Moore Toyota,KY
-2023,LE,Underground,FWD,23050,0.0,23050.0,At dealer,False,,JTDBCMFE1P3020910,Beaverton Toyota,OR
 2023,LE,Underground,FWD,23050,0.0,23050.0,Factory to port,False,,JTDBCMFE1P3020924,Ourisman Fairfax Toyota,VA
 2023,LE,Classic Silver Metallic,FWD,23050,0.0,23050.0,Factory to port,False,DealerHold,JTDBCMFE1P3020938,Sloane Toyota of Philadelphia,PA
 2023,LE,Celestite,FWD,23050,0.0,23050.0,Factory to port,True,DealerHold,JTDBCMFE1P3020969,Sheehy Toyota of Fredericksburg,VA
@@ -187,7 +186,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LE,Ruby Flare Pearl,FWD,23050,1999.0,25049.0,Port to dealer,False,Available,JTDBCMFE1PJ006582,Fred Haas Toyota Country,TX
 2023,SE,Ice Cap,FWD,25490,0.0,25490.0,Factory to port,False,Available,JTDBCMFE1PJ006601,Vandergriff Toyota,TX
 2023,LE,Ice Cap,FWD,22800,0.0,22800.0,Port to dealer,False,,JTDBCMFE1PJ006727,Hendrick Toyota Merriam,KS
-2023,LE,Ice Cap,FWD,23050,0.0,23050.0,Port to dealer,False,Available,JTDBCMFE1PJ006856,Mac Haik Toyota,TX
+2023,LE,Ice Cap,FWD,23050,0.0,23050.0,At dealer,False,Available,JTDBCMFE1PJ006856,Mac Haik Toyota,TX
 2023,LE,Ice Cap,FWD,23050,0.0,23050.0,At dealer,False,Available,JTDBCMFE1PJ006923,AutoNation Toyota Weston,FL
 2023,LE,Ruby Flare Pearl,FWD,23050,2190.0,25240.0,Factory to port,False,DealerHold,JTDBCMFE1PJ007019,Cannon Toyota,MS
 2023,SE,Ruby Flare Pearl,FWD,25240,0.0,25240.0,Port to dealer,False,DealerHold,JTDBCMFE1PJ007036,Sloane Toyota of Malvern,PA
@@ -263,7 +262,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LE,Midnight Black Metallic,FWD,23050,0.0,23050.0,Port to dealer,True,DealerHold,JTDBCMFE2P3020978,Tansky Sawmill Toyota,OH
 2023,LE,Wind Chill Pearl,FWD,23050,0.0,23050.0,Factory to port,False,Available,JTDBCMFE2P3021001,LaGrange Toyota,GA
 2023,LE,Underground,FWD,23050,0.0,23050.0,Factory to port,True,DealerHold,JTDBCMFE2P3021046,Rohrich Toyota,PA
-2023,LE,Midnight Black Metallic,FWD,23050,6776.0,29826.0,At dealer,False,,JTDBCMFE2P3021063,Toyota of Tacoma,WA
 2023,SE Infrared,Midnight Black Metallic,FWD,26025,0.0,26025.0,Factory to port,True,Available,JTDBCMFE2P3021094,Joe Myers Toyota,TX
 2023,LE,Ice Cap,FWD,23050,0.0,23050.0,Factory to port,False,DealerHold,JTDBCMFE2P3021144,Koons Tysons Toyota,VA
 2023,SE,Underground,FWD,25490,0.0,25490.0,Factory to port,True,,JTDBCMFE2P3021189,One Toyota of Oakland,CA
@@ -276,7 +274,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LE,Underground,FWD,23050,0.0,23050.0,Port to dealer,False,,JTDBCMFE2P3021354,Camelback Toyota,AZ
 2023,LE,Classic Silver Metallic,FWD,23050,0.0,23050.0,Factory to port,False,DealerHold,JTDBCMFE2P3021371,Boch Toyota South,MA
 2023,SE,Ice Cap,FWD,25490,1895.0,27385.0,Factory to port,True,Available,JTDBCMFE2P3021385,Jim Norton Toyota,OK
-2023,LE,Celestite,FWD,23050,0.0,23050.0,Port to dealer,False,Available,JTDBCMFE2P3021399,City Toyota,CA
+2023,LE,Celestite,FWD,23050,0.0,23050.0,Port to dealer,False,DealerHold,JTDBCMFE2P3021399,City Toyota,CA
 2023,LE,Classic Silver Metallic,FWD,23050,0.0,23050.0,Port to dealer,False,Available,JTDBCMFE2P3021418,Luther Brookdale Toyota,MN
 2023,SE,Midnight Black Metallic,FWD,25490,0.0,25490.0,Port to dealer,False,DealerHold,JTDBCMFE2P3021435,Santa Cruz Toyota,CA
 2023,LE,Midnight Black Metallic,FWD,23050,0.0,23050.0,Port to dealer,False,DealerHold,JTDBCMFE2P3021449,Le Mieux & Son Toyota,WI
@@ -288,7 +286,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LE,Underground,FWD,23050,0.0,23050.0,Factory to port,False,,JTDBCMFE2P3021659,DCH Toyota of Oxnard,CA
 2023,LE,Underground,FWD,23050,0.0,23050.0,Factory to port,False,,JTDBCMFE2P3021662,Concord Toyota,CA
 2023,SE,Underground,FWD,25490,0.0,25490.0,Factory to port,False,,JTDBCMFE2P3021726,Fallon Ford Toyota,NV
-2023,LE,Underground,FWD,23050,1290.0,24340.0,Port to dealer,False,,JTDBCMFE2P3021760,Toyota of Redlands,CA
+2023,LE,Underground,FWD,23050,1290.0,24340.0,Port to dealer,True,,JTDBCMFE2P3021760,Toyota of Redlands,CA
 2023,SE Infrared,UNDERGROUND,FWD,26025,0.0,26025.0,Factory to port,False,DealerHold,JTDBCMFE2P3021774,Culver City Toyota,CA
 2023,LE,Underground,FWD,23050,0.0,23050.0,Port to dealer,False,DealerHold,JTDBCMFE2P3021807,Toyota of Huntington Beach,CA
 2023,LE,Underground,FWD,23050,0.0,23050.0,Factory to port,False,DealerHold,JTDBCMFE2P3021855,Rusty Wallace Toyota,TN
@@ -314,7 +312,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LE,Ruby Flare Pearl,FWD,23050,0.0,23050.0,Factory to port,False,DealerHold,JTDBCMFE2PJ006445,Oakes Toyota,MS
 2023,LE,Classic Silver Metallic,FWD,23050,0.0,23050.0,Factory to port,True,Available,JTDBCMFE2PJ006574,Mike Shaw Toyota,TX
 2023,LE,Celestite,FWD,23050,1098.0,24148.0,Factory to port,True,Available,JTDBCMFE2PJ006588,Toyota of Cedar Park,TX
-2023,LE,Ice Cap,FWD,23050,1495.0,24545.0,Port to dealer,True,Available,JTDBCMFE2PJ006591,Toyota of Fort Worth,TX
+2023,LE,Ice Cap,FWD,23050,1495.0,24545.0,At dealer,True,Available,JTDBCMFE2PJ006591,Toyota of Fort Worth,TX
 2023,LE,Blueprint,FWD,22800,0.0,22800.0,Port to dealer,True,DealerHold,JTDBCMFE2PJ006607,"Bristol Toyota, Inc.",MA
 2023,SE,Classic Silver Metallic,FWD,25240,1995.0,27235.0,At dealer,False,,JTDBCMFE2PJ006638,Danville Toyota,VA
 2023,LE,Wind Chill Pearl,FWD,22800,0.0,22800.0,Port to dealer,True,,JTDBCMFE2PJ006770,Toyota of Des Moines,IA
@@ -324,7 +322,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LE,Classic Silver Metallic,FWD,23050,0.0,23050.0,Factory to port,False,DealerHold,JTDBCMFE2PJ006915,Headquarter Toyota,FL
 2023,SE,Blueprint,FWD,25240,0.0,25240.0,Port to dealer,True,DealerHold,JTDBCMFE2PJ006929,Rudy Luther Toyota,MN
 2023,SE,Blueprint,FWD,25240,0.0,25240.0,Port to dealer,True,Available,JTDBCMFE2PJ006977,Beck Toyota,IN
-2023,XLE,Wind Chill Pearl,FWD,26600,378.0,26978.0,At dealer,True,DealerHold,JTDBCMFE2PJ007238,I-5 Toyota,WA
 2023,LE,Classic Silver Metallic,FWD,22800,0.0,22800.0,Port to dealer,False,,JTDBCMFE2PJ007241,Toyota On Western,IL
 2023,LE,Ice Cap,FWD,23050,1495.0,24545.0,At dealer,False,Available,JTDBCMFE2PJ007255,Bohn Toyota,LA
 2023,XLE,Midnight Black Metallic,FWD,26600,1295.0,27895.0,Factory to port,True,DealerHold,JTDBCMFE2PJ007319,Auburn Toyota,CA
@@ -387,12 +384,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LE,Underground,FWD,22800,0.0,22800.0,At dealer,False,,JTDBCMFE3P3020746,Toyota of Riverside,CA
 2023,XLE,Underground,FWD,26600,0.0,26600.0,Port to dealer,True,DealerHold,JTDBCMFE3P3020794,Kerry Toyota,KY
 2023,LE,Underground,FWD,22800,0.0,22800.0,At dealer,False,Available,JTDBCMFE3P3020813,Toyota of North Hollywood,CA
-2023,LE,Celestite,FWD,23050,0.0,23050.0,At dealer,False,,JTDBCMFE3P3020827,San Francisco Toyota,CA
 2023,LE,Classic Silver Metallic,FWD,23050,1495.0,24545.0,Factory to port,False,DealerHold,JTDBCMFE3P3020844,Sterling McCall Toyota,TX
 2023,SE Infrared,Midnight Black Metallic,FWD,26025,0.0,26025.0,Factory to port,False,Available,JTDBCMFE3P3020875,Seminole Toyota,FL
 2023,LE,Celestite,FWD,23050,0.0,23050.0,Factory to port,True,DealerHold,JTDBCMFE3P3020939,Younger Toyota,MD
 2023,LE,Ice Cap,FWD,23050,0.0,23050.0,Port to dealer,True,,JTDBCMFE3P3020942,Findlay Toyota Flagstaff,AZ
-2023,LE,Underground,FWD,23050,0.0,23050.0,Port to dealer,False,,JTDBCMFE3P3020956,Grants Pass Toyota,OR
+2023,LE,Underground,FWD,23050,0.0,23050.0,At dealer,False,,JTDBCMFE3P3020956,Grants Pass Toyota,OR
 2023,SE Infrared,Underground,FWD,26025,0.0,26025.0,Factory to port,False,Available,JTDBCMFE3P3021007,Keith Pierson Toyota,FL
 2023,SE,Underground,FWD,25490,0.0,25490.0,At dealer,False,Available,JTDBCMFE3P3021041,Grants Pass Toyota,OR
 2023,SE,Celestite,FWD,25490,0.0,25490.0,Port to dealer,False,DealerHold,JTDBCMFE3P3021086,Seeger Toyota,MO
@@ -466,7 +462,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LE,Ruby Flare Pearl,FWD,23050,0.0,23050.0,Port to dealer,False,DealerHold,JTDBCMFE3PJ007443,White's Toyota of Lima,OH
 2023,LE,Classic Silver Metallic,FWD,23050,0.0,23050.0,Factory to port,False,Available,JTDBCMFE3PJ007460,Heyward Allen Toyota,GA
 2023,LE,Blueprint,FWD,23050,0.0,23050.0,At dealer,False,DealerHold,JTDBCMFE3PJ007524,Royal Moore Toyota,OR
-2023,LE,Celestite,FWD,23050,0.0,23050.0,At dealer,True,,JTDBCMFE3PJ007538,San Francisco Toyota,CA
 2023,LE,Classic Silver Metallic,FWD,23050,0.0,23050.0,Factory to port,True,DealerHold,JTDBCMFE3PJ007569,Fred Anderson Toyota of Asheville,NC
 2023,LE,Blueprint,FWD,23050,0.0,23050.0,Port to dealer,False,DealerHold,JTDBCMFE3PJ007619,Bennett Toyota of Lebanon,PA
 2023,LE,Blueprint,FWD,23050,0.0,23050.0,At dealer,True,Available,JTDBCMFE3PJ007653,Doxon Toyota,WA
@@ -521,7 +516,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,SE,Underground,FWD,25240,0.0,25240.0,Port to dealer,False,Available,JTDBCMFE4P3020495,Williams Toyota of Sayre,PA
 2023,LE,Classic Silver Metallic,FWD,22800,0.0,22800.0,Factory to port,False,,JTDBCMFE4P3020514,Toyota of Hollywood,CA
 2023,LE,Underground,FWD,22800,0.0,22800.0,Port to dealer,False,DealerHold,JTDBCMFE4P3020674,Toyota Direct,OH
-2023,XLE,Underground,FWD,26600,0.0,26600.0,Port to dealer,False,DealerHold,JTDBCMFE4P3020738,Five Star Toyota,WA
+2023,XLE,Underground,FWD,26600,0.0,26600.0,At dealer,False,DealerHold,JTDBCMFE4P3020738,Five Star Toyota,WA
 2023,SE,Underground,FWD,25240,0.0,25240.0,Factory to port,False,,JTDBCMFE4P3020769,Team Toyota of Glen Mills,PA
 2023,LE,Underground,FWD,22800,0.0,22800.0,Port to dealer,False,,JTDBCMFE4P3020772,Andy Mohr Toyota,IN
 2023,LE,Celestite,FWD,23050,0.0,23050.0,Factory to port,False,Available,JTDBCMFE4P3020898,Modern Toyota of Boone,NC
@@ -539,7 +534,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LE,Ice Cap,FWD,23050,0.0,23050.0,Factory to port,False,DealerHold,JTDBCMFE4P3021081,Folsom Lake Toyota,CA
 2023,LE,Celestite,FWD,23050,0.0,23050.0,Factory to port,False,Available,JTDBCMFE4P3021100,Modern Toyota of Boone,NC
 2023,LE,Celestite,FWD,23050,0.0,23050.0,Port to dealer,False,DealerHold,JTDBCMFE4P3021128,Freeway Toyota of Hanford,CA
-2023,SE,Underground,FWD,25490,3996.0,29486.0,At dealer,False,DealerHold,JTDBCMFE4P3021162,Rodland Toyota,WA
 2023,LE,Ice Cap,FWD,23050,5237.0,28287.0,Factory to port,False,Available,JTDBCMFE4P3021209,Toyota of Turnersville,NJ
 2023,LE,Underground,FWD,23050,1599.0,24649.0,Factory to port,False,Available,JTDBCMFE4P3021226,Silsbee Toyota,TX
 2023,LE,Celestite,FWD,23050,0.0,23050.0,Factory to port,True,DealerHold,JTDBCMFE4P3021288,Sloane Toyota of Philadelphia,PA
@@ -594,7 +588,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,SE,Wind Chill Pearl,FWD,25240,0.0,25240.0,Port to dealer,False,,JTDBCMFE4PJ007290,Priority Toyota,VA
 2023,SE,Blueprint,FWD,25240,1098.0,26338.0,Port to dealer,True,DealerHold,JTDBCMFE4PJ007306,Toyota of Terre Haute,IN
 2023,LE,Blueprint,FWD,22800,0.0,22800.0,Port to dealer,True,DealerHold,JTDBCMFE4PJ007337,Tufankjian Toyota of Braintree,MA
-2023,SE,Ice Cap,FWD,25490,0.0,25490.0,At dealer,True,,JTDBCMFE4PJ007399,Toyota of Lancaster,CA
 2023,LE,Classic Silver Metallic,FWD,23050,0.0,23050.0,Factory to port,False,Available,JTDBCMFE4PJ007449,Prince Toyota,GA
 2023,LE,Midnight Black Metallic,FWD,23050,0.0,23050.0,Factory to port,True,Available,JTDBCMFE4PJ007452,Family Toyota of Burleson,TX
 2023,LE,Celestite,FWD,23050,1098.0,24148.0,Factory to port,True,DealerHold,JTDBCMFE4PJ007516,Toyota of Cedar Park,TX
@@ -618,7 +611,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,SE,Midnight Black Metallic,FWD,25490,0.0,25490.0,Factory to port,False,Available,JTDBCMFE4PJ008312,Toyota of Mt. Pleasant,TX
 2023,SE,Celestite,FWD,25490,0.0,25490.0,Port to dealer,False,,JTDBCMFE4PJ008374,Chicago Northside Toyota,IL
 2023,LE,Classic Silver Metallic,FWD,23050,0.0,23050.0,At dealer,False,Available,JTDBCMFE4PJ008455,Claremont Toyota,CA
-2023,LE,Ice Cap,FWD,23050,0.0,23050.0,Factory to port,False,Available,JTDBCMFE4PJ008553,Toyota of Portland on Broadway,OR
 2023,LE,Wind Chill Pearl,FWD,23050,0.0,23050.0,Factory to port,False,,JTDBCMFE4PJ008567,Freeway Toyota of Hanford,CA
 2023,LE,Blueprint,FWD,23050,0.0,23050.0,Factory to port,False,DealerHold,JTDBCMFE4PJ008570,Toyota of Vallejo,CA
 2023,SE,Ice Cap,FWD,25490,0.0,25490.0,Port to dealer,False,DealerHold,JTDBCMFE4PJ008584,Findlay Toyota,NV
@@ -702,7 +694,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,SE,Ice Cap,FWD,25490,0.0,25490.0,Factory to port,False,,JTDBCMFE5P3022353,Toyota of Glendale,CA
 2023,LE,Ice Cap,FWD,22800,0.0,22800.0,At dealer,False,DealerHold,JTDBCMFE5PJ004947,Tri County Toyota,PA
 2023,SE,Celestite,FWD,25240,0.0,25240.0,Port to dealer,False,DealerHold,JTDBCMFE5PJ005399,Premier Toyota,NE
-2023,LE,Ruby Flare Pearl,FWD,22800,0.0,22800.0,Port to dealer,True,DealerHold,JTDBCMFE5PJ005614,Ferris Toyota,OH
+2023,LE,Ruby Flare Pearl,FWD,22800,0.0,22800.0,At dealer,True,DealerHold,JTDBCMFE5PJ005614,Ferris Toyota,OH
 2023,LE,Ice Cap,FWD,22800,0.0,22800.0,Port to dealer,False,DealerHold,JTDBCMFE5PJ005712,Lou Fusz Toyota,MO
 2023,SE,Midnight Black Metallic,FWD,25490,1995.0,27485.0,Port to dealer,True,DealerHold,JTDBCMFE5PJ005905,Cavender Toyota,TX
 2023,SE,Ruby Flare Pearl,FWD,25240,0.0,25240.0,Port to dealer,True,DealerHold,JTDBCMFE5PJ005967,Carlson Toyota,MN
@@ -711,6 +703,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,SE,Celestite,FWD,25240,0.0,25240.0,Port to dealer,True,,JTDBCMFE5PJ006276,Toyota of Des Moines,IA
 2023,LE,Midnight Black Metallic,FWD,22800,0.0,22800.0,Port to dealer,False,DealerHold,JTDBCMFE5PJ006388,Bergstrom Toyota,WI
 2023,LE,Celestite,FWD,22800,0.0,22800.0,Factory to port,False,,JTDBCMFE5PJ006617,Santa Cruz Toyota,CA
+2023,LE,Ruby Flare Pearl,FWD,23050,0.0,23050.0,At dealer,True,DealerHold,JTDBCMFE5PJ006813,Jim Norton Toyota of Oklahoma City,OK
 2023,LE,Blueprint,FWD,22800,0.0,22800.0,Port to dealer,False,DealerHold,JTDBCMFE5PJ006827,Toyota of Wellesley,MA
 2023,LE,Blueprint,FWD,23050,1895.0,24945.0,Factory to port,True,Available,JTDBCMFE5PJ006844,Jim Norton Toyota,OK
 2023,SE,Blueprint,FWD,25240,0.0,25240.0,Port to dealer,True,DealerHold,JTDBCMFE5PJ006858,Heart City Toyota,IN
@@ -721,7 +714,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LE,Ruby Flare Pearl,FWD,22800,0.0,22800.0,Port to dealer,True,,JTDBCMFE5PJ007086,Johnson City Toyota,TN
 2023,LE,Ice Cap,FWD,23050,3999.0,27049.0,Factory to port,True,DealerHold,JTDBCMFE5PJ007119,Ray Brandt Toyota,LA
 2023,LE,Celestite,FWD,23050,0.0,23050.0,At dealer,True,Available,JTDBCMFE5PJ007122,"Phil Wright Toyota, Co.",AR
-2023,LE,Midnight Black Metallic,FWD,23050,7696.0,30746.0,Port to dealer,False,DealerHold,JTDBCMFE5PJ007136,Alamo Toyota,TX
+2023,LE,Midnight Black Metallic,FWD,23050,7696.0,30746.0,At dealer,False,DealerHold,JTDBCMFE5PJ007136,Alamo Toyota,TX
 2023,LE,Blueprint,FWD,23050,0.0,23050.0,At dealer,True,Available,JTDBCMFE5PJ007203,Landers Toyota,AR
 2023,LE,Blueprint,FWD,22800,0.0,22800.0,Port to dealer,False,,JTDBCMFE5PJ007220,Team Toyota of Glen Mills,PA
 2023,LE,Classic Silver Metallic,FWD,23050,0.0,23050.0,Factory to port,False,Available,JTDBCMFE5PJ007282,Kirk Toyota,MS
@@ -730,7 +723,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,SE,Ice Cap,FWD,25490,0.0,25490.0,Factory to port,False,Available,JTDBCMFE5PJ007458,Toyota of Denton,TX
 2023,LE,Ruby Flare Pearl,FWD,23050,0.0,23050.0,Port to dealer,False,,JTDBCMFE5PJ007511,Fiore Toyota,PA
 2023,SE,Ruby Flare Pearl,FWD,25490,0.0,25490.0,Port to dealer,False,Available,JTDBCMFE5PJ007542,Walser Bloomington Toyota,MN
-2023,LE,Ice Cap,FWD,23050,2980.0,26030.0,At dealer,False,Available,JTDBCMFE5PJ007556,Toyota of Poway,CA
 2023,LE,Classic Silver Metallic,FWD,23050,0.0,23050.0,Port to dealer,True,DealerHold,JTDBCMFE5PJ007587,Craig Toyota,IN
 2023,LE,Ice Cap,FWD,23050,0.0,23050.0,Port to dealer,False,DealerHold,JTDBCMFE5PJ007623,Superior Toyota,WV
 2023,LE,Ruby Flare Pearl,FWD,23050,0.0,23050.0,Factory to port,True,Available,JTDBCMFE5PJ007637,AutoNation Toyota Winter Park,FL
@@ -756,7 +748,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LE,Midnight Black Metallic,FWD,23050,0.0,23050.0,Port to dealer,False,DealerHold,JTDBCMFE5PJ008464,Findlay Toyota,NV
 2023,LE,Ice Cap,FWD,23050,0.0,23050.0,Factory to port,False,,JTDBCMFE5PJ008576,McGee Toyota of Dudley,MA
 2023,LE,Wind Chill Pearl,FWD,23050,0.0,23050.0,Port to dealer,False,DealerHold,JTDBCMFE5PJ008609,Corwin Toyota,ND
-2023,LE,Ice Cap,FWD,23050,0.0,23050.0,Port to dealer,False,,JTDBCMFE5PJ008805,Toyota of Downtown LA,CA
+2023,LE,Ice Cap,FWD,23050,0.0,23050.0,Port to dealer,False,Available,JTDBCMFE5PJ008805,Toyota of Downtown LA,CA
 2023,LE,Blueprint,FWD,23050,0.0,23050.0,Factory to port,False,,JTDBCMFE5PJ008822,Toyota of Bowie,MD
 2023,LE,Celestite,FWD,23050,0.0,23050.0,Factory to port,True,DealerHold,JTDBCMFE5PJ008867,Priority Toyota Springfield,VA
 2023,LE,Classic Silver Metallic,FWD,23050,0.0,23050.0,Factory to port,False,DealerHold,JTDBCMFE5PJ008917,Jay Wolfe Toyota of West County,MO
@@ -847,7 +839,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LE,Celestite,FWD,23050,0.0,23050.0,At dealer,False,Available,JTDBCMFE6PJ007078,Doral Toyota,FL
 2023,SE,Ruby Flare Pearl,FWD,25490,0.0,25490.0,Factory to port,False,DealerHold,JTDBCMFE6PJ007114,Gatorland Toyota,FL
 2023,LE,Blueprint,FWD,22800,0.0,22800.0,Port to dealer,True,,JTDBCMFE6PJ007209,Lia Toyota,MA
-2023,LE,Celestite,FWD,22800,0.0,22800.0,Port to dealer,True,DealerHold,JTDBCMFE6PJ007226,Toyota of Watertown,MA
+2023,LE,Celestite,FWD,22800,0.0,22800.0,At dealer,True,DealerHold,JTDBCMFE6PJ007226,Toyota of Watertown,MA
 2023,LE,Celestite,FWD,23050,0.0,23050.0,Factory to port,False,Available,JTDBCMFE6PJ007355,Toyota of Orlando,FL
 2023,LE,Ruby Flare Pearl,FWD,23050,1295.0,24345.0,Factory to port,True,Available,JTDBCMFE6PJ007372,Panama City Toyota,FL
 2023,LE,Celestite,FWD,23050,0.0,23050.0,Factory to port,True,DealerHold,JTDBCMFE6PJ007534,Warrenton Toyota,VA
@@ -857,7 +849,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,SE,Blueprint,FWD,25490,0.0,25490.0,Factory to port,True,Available,JTDBCMFE6PJ007680,Toyota of Richardson,TX
 2023,LE,Celestite,FWD,23050,399.0,23449.0,Port to dealer,False,DealerHold,JTDBCMFE6PJ007775,Jim White Toyota,OH
 2023,LE,Blueprint,FWD,23050,0.0,23050.0,Factory to port,True,DealerHold,JTDBCMFE6PJ007808,Sloane Toyota of Philadelphia,PA
-2023,LE,Ice Cap,FWD,23050,0.0,23050.0,At dealer,False,DealerHold,JTDBCMFE6PJ007873,Toyota San Luis Obispo,CA
 2023,SE,Ice Cap,FWD,25490,2585.0,28075.0,Port to dealer,False,,JTDBCMFE6PJ007906,Toyota of Redlands,CA
 2023,LE,Classic Silver Metallic,FWD,23050,3995.0,27045.0,Factory to port,True,Available,JTDBCMFE6PJ007923,Bryan College Station Toyota,TX
 2023,LE,Celestite,FWD,23050,0.0,23050.0,Port to dealer,False,,JTDBCMFE6PJ007971,Gosch Toyota,CA
@@ -894,7 +885,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LE,Ice Cap,FWD,23050,0.0,23050.0,Factory to port,False,,JTDBCMFE6PJ009297,Toyota of Escondido,CA
 2023,LE,Blueprint,FWD,23050,0.0,23050.0,Factory to port,False,DealerHold,JTDBCMFE6PJ009302,White River Toyota,VT
 2023,SE,Blueprint,FWD,25490,0.0,25490.0,Factory to port,True,DealerHold,JTDBCMFE6PJ009333,Rohrich Toyota,PA
-2023,LE,Ice Cap,FWD,23050,0.0,23050.0,Factory to port,False,DealerHold,JTDBCMFE6PJ009431,Claremont Toyota,CA
 2023,LE,Ice Cap,FWD,23050,1295.0,24345.0,Factory to port,True,DealerHold,JTDBCMFE6PJ009462,Auburn Toyota,CA
 2023,LE,Ice Cap,FWD,23050,0.0,23050.0,Factory to port,False,,JTDBCMFE6PJ009493,Toyota of Downtown LA,CA
 2023,LE,Ice Cap,FWD,23050,0.0,23050.0,Factory to port,False,DealerHold,JTDBCMFE6PJ009574,Marina Del Rey Toyota,CA
@@ -908,10 +898,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,SE,Midnight Black Metallic,FWD,25490,0.0,25490.0,At dealer,False,Available,JTDBCMFE7P3020409,Fowler Toyota of Tulsa,OK
 2023,SE,Classic Silver Metallic,FWD,25240,0.0,25240.0,At dealer,False,DealerHold,JTDBCMFE7P3020426,Antwerpen's Toyota,MD
 2023,SE,Underground,FWD,25240,0.0,25240.0,Factory to port,True,DealerHold,JTDBCMFE7P3020491,Ardmore Toyota,PA
-2023,SE,Underground,FWD,25240,0.0,25240.0,Port to dealer,False,,JTDBCMFE7P3020622,DARCARS Toyota,MD
+2023,SE,Underground,FWD,25240,0.0,25240.0,Port to dealer,False,DealerHold,JTDBCMFE7P3020622,DARCARS Toyota,MD
 2023,LE,Underground,FWD,22800,0.0,22800.0,At dealer,False,Available,JTDBCMFE7P3020717,Toyota of Gladstone,OR
 2023,XLE,Underground,FWD,26600,0.0,26600.0,Port to dealer,False,DealerHold,JTDBCMFE7P3020751,Napleton's Toyota of Urbana,IL
 2023,LE,Underground,FWD,23050,0.0,23050.0,Factory to port,False,Available,JTDBCMFE7P3020846,Hutchinson Toyota of Albany,GA
+2023,LE,Wind Chill Pearl,FWD,23050,0.0,23050.0,Factory to port,True,,JTDBCMFE7P3020913,Springhill Toyota,AL
 2023,LE,Ice Cap,FWD,23050,0.0,23050.0,Port to dealer,False,,JTDBCMFE7P3020930,"Hellman Toyota, Inc.",CO
 2023,LE,Midnight Black Metallic,FWD,23050,0.0,23050.0,Factory to port,False,Available,JTDBCMFE7P3020975,AutoNation Toyota Thornton Road,GA
 2023,SE Infrared,UNDERGROUND,FWD,26025,6974.0,32999.0,At dealer,False,,JTDBCMFE7P3021012,Norm Reeves Toyota San Diego,CA
@@ -989,9 +980,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,SE,Ice Cap,FWD,25490,2488.0,27978.0,Factory to port,True,DealerHold,JTDBCMFE7PJ007350,Toyota of Plano,TX
 2023,XLE,Wind Chill Pearl,FWD,26850,0.0,26850.0,Factory to port,True,Available,JTDBCMFE7PJ007414,Family Toyota of Burleson,TX
 2023,LE,Classic Silver Metallic,FWD,23050,0.0,23050.0,Factory to port,False,DealerHold,JTDBCMFE7PJ007445,Bert Ogden Toyota of Harlingen,TX
-2023,LE,Celestite,FWD,23050,0.0,23050.0,At dealer,False,Available,JTDBCMFE7PJ007459,Toyota of Clovis,CA
 2023,LE,Ruby Flare Pearl,FWD,23050,1599.0,24649.0,Factory to port,True,DealerHold,JTDBCMFE7PJ007462,Fowler Toyota,OK
-2023,LE,Ice Cap,FWD,23050,0.0,23050.0,At dealer,True,DealerHold,JTDBCMFE7PJ007610,Toyota of Lancaster,CA
+2023,LE,Ice Cap,FWD,23050,1443.0,24493.0,At dealer,True,DealerHold,JTDBCMFE7PJ007610,Toyota of Lancaster,CA
 2023,SE,Blueprint,FWD,25490,0.0,25490.0,Port to dealer,False,,JTDBCMFE7PJ007638,Malloy Toyota,VA
 2023,LE,Ruby Flare Pearl,FWD,23050,3265.0,26315.0,Port to dealer,True,DealerHold,JTDBCMFE7PJ007672,Toyota of Bedford,OH
 2023,SE,Midnight Black Metallic,FWD,25490,0.0,25490.0,Port to dealer,False,DealerHold,JTDBCMFE7PJ007686,Camelback Toyota,AZ
@@ -1004,7 +994,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LE,Ruby Flare Pearl,FWD,23050,0.0,23050.0,Port to dealer,False,DealerHold,JTDBCMFE7PJ007882,AutoNation Toyota Libertyville,IL
 2023,SE,Ice Cap,FWD,25490,0.0,25490.0,Factory to port,True,Available,JTDBCMFE7PJ007896,Don McGill Toyota of Katy,TX
 2023,LE,Blueprint,FWD,23050,0.0,23050.0,Factory to port,False,,JTDBCMFE7PJ007915,Haley Toyota of Farmville,VA
-2023,LE,Ice Cap,FWD,23050,0.0,23050.0,Port to dealer,False,,JTDBCMFE7PJ007929,Mojave Toyota of Barstow,CA
+2023,LE,Ice Cap,FWD,23050,0.0,23050.0,At dealer,False,,JTDBCMFE7PJ007929,Mojave Toyota of Barstow,CA
 2023,XLE,Ice Cap,FWD,26850,0.0,26850.0,Factory to port,False,DealerHold,JTDBCMFE7PJ007963,Brownsville Toyota,TX
 2023,LE,Celestite,FWD,23050,0.0,23050.0,Factory to port,True,DealerHold,JTDBCMFE7PJ007994,Valenti Toyota,RI
 2023,SE,Ruby Flare Pearl,FWD,25490,0.0,25490.0,Port to dealer,False,,JTDBCMFE7PJ008000,Freeway Toyota of Hanford,CA
@@ -1051,7 +1041,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LE,Celestite,FWD,23050,0.0,23050.0,Factory to port,False,Available,JTDBCMFE8P3020791,Toyota of Orlando,FL
 2023,LE,Underground,FWD,22800,0.0,22800.0,Port to dealer,True,,JTDBCMFE8P3020807,Rogers Toyota,ID
 2023,SE,Underground,FWD,25240,0.0,25240.0,Factory to port,False,DealerHold,JTDBCMFE8P3020810,Jones Toyota,MD
-2023,SE Infrared,UNDERGROUND,FWD,26025,0.0,26025.0,At dealer,False,,JTDBCMFE8P3020824,Envision Toyota of West Covina,CA
 2023,SE Infrared,Ice Cap,FWD,26025,0.0,26025.0,Factory to port,False,,JTDBCMFE8P3020841,Toyota of Hollywood,FL
 2023,LE,Midnight Black Metallic,FWD,23050,0.0,23050.0,Port to dealer,False,DealerHold,JTDBCMFE8P3020886,Kokomo Toyota,IN
 2023,SE Infrared,Ice Cap,FWD,26025,0.0,26025.0,Factory to port,True,DealerHold,JTDBCMFE8P3020922,Fowler Toyota,OK
@@ -1065,7 +1054,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LE,Midnight Black Metallic,FWD,23050,0.0,23050.0,Factory to port,True,DealerHold,JTDBCMFE8P3021214,Fitzgerald Toyota Gaithersburg,MD
 2023,LE,Celestite,FWD,23050,0.0,23050.0,Factory to port,False,DealerHold,JTDBCMFE8P3021231,Jim Coleman Toyota,MD
 2023,LE,Midnight Black Metallic,FWD,23050,0.0,23050.0,Factory to port,False,Available,JTDBCMFE8P3021309,AutoNation Toyota Thornton Road,GA
-2023,LE,Ice Cap,FWD,23050,0.0,23050.0,Port to dealer,False,,JTDBCMFE8P3021388,Toyota of Orange,CA
 2023,LE,Ice Cap,FWD,23050,0.0,23050.0,Factory to port,False,DealerHold,JTDBCMFE8P3021410,Jim Coleman Toyota,MD
 2023,LE,Underground,FWD,23050,0.0,23050.0,Factory to port,False,,JTDBCMFE8P3021455,Krause Toyota,PA
 2023,LE,Underground,FWD,23050,0.0,23050.0,Port to dealer,False,DealerHold,JTDBCMFE8P3021469,Temecula Valley Toyota,CA
@@ -1113,12 +1101,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LE,Midnight Black Metallic,FWD,23050,0.0,23050.0,Factory to port,True,Available,JTDBCMFE8PJ006885,AutoNation Toyota Winter Park,FL
 2023,LE,Ice Cap,FWD,22800,0.0,22800.0,Factory to port,False,DealerHold,JTDBCMFE8PJ006966,Cochran Toyota,PA
 2023,SE,Blueprint,FWD,25240,0.0,25240.0,Port to dealer,True,DealerHold,JTDBCMFE8PJ007051,Schaumburg Toyota,IL
-2023,LE,Blueprint,FWD,22800,0.0,22800.0,At dealer,True,DealerHold,JTDBCMFE8PJ007079,Vancouver Toyota,WA
 2023,SE,Wind Chill Pearl,FWD,25490,0.0,25490.0,Factory to port,False,Available,JTDBCMFE8PJ007082,Mark Jacobson Toyota,NC
 2023,SE,Celestite,FWD,25240,0.0,25240.0,Port to dealer,True,,JTDBCMFE8PJ007129,Ourisman Chantilly Toyota,VA
 2023,LE,Ice Cap,FWD,23050,0.0,23050.0,At dealer,False,DealerHold,JTDBCMFE8PJ007163,Courtesy Toyota,FL
 2023,SE,Wind Chill Pearl,FWD,25240,0.0,25240.0,Port to dealer,False,,JTDBCMFE8PJ007227,First Team Toyota,VA
-2023,XLE,Ice Cap,FWD,26600,0.0,26600.0,At dealer,False,,JTDBCMFE8PJ007292,Beaverton Toyota,OR
 2023,LE,Ice Cap,FWD,22800,0.0,22800.0,Factory to port,True,DealerHold,JTDBCMFE8PJ007308,Freeman Toyota,CA
 2023,SE,Blueprint,FWD,25240,0.0,25240.0,Port to dealer,True,,JTDBCMFE8PJ007325,Mungenast Alton Toyota,IL
 2023,LE,Celestite,FWD,23050,0.0,23050.0,Factory to port,False,DealerHold,JTDBCMFE8PJ007406,DARCARS Toyota,MD
@@ -1137,7 +1123,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LE,Midnight Black Metallic,FWD,23050,0.0,23050.0,Port to dealer,False,Available,JTDBCMFE8PJ007910,Beaverton Toyota,OR
 2023,LE,Ice Cap,FWD,23050,0.0,23050.0,Factory to port,False,Available,JTDBCMFE8PJ007924,Keith Pierson Toyota,FL
 2023,LE,Celestite,FWD,23050,0.0,23050.0,Port to dealer,True,DealerHold,JTDBCMFE8PJ007969,North Bakersfield Toyota,CA
-2023,LE,Ice Cap,FWD,23050,0.0,23050.0,At dealer,False,DealerHold,JTDBCMFE8PJ007986,Capistrano Valley Toyota,CA
 2023,LE,Ice Cap,FWD,23050,0.0,23050.0,Factory to port,True,DealerHold,JTDBCMFE8PJ008023,Heritage Toyota Catonsville,MD
 2023,XLE,Wind Chill Pearl,FWD,26850,0.0,26850.0,Factory to port,False,Available,JTDBCMFE8PJ008040,Gene Messer Toyota,TX
 2023,SE,Blueprint,FWD,25490,0.0,25490.0,Factory to port,False,Available,JTDBCMFE8PJ008104,"Riverside Toyota, Inc.",GA
@@ -1152,7 +1137,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LE,Celestite,FWD,23050,0.0,23050.0,Factory to port,True,,JTDBCMFE8PJ008863,San Francisco Toyota,CA
 2023,SE,Ice Cap,FWD,25490,4490.0,29980.0,Port to dealer,False,,JTDBCMFE8PJ008913,Berge Toyota,AZ
 2023,LE,Blueprint,FWD,23050,0.0,23050.0,Factory to port,False,DealerHold,JTDBCMFE8PJ008927,Koons Tysons Toyota,VA
-2023,LE,Ice Cap,FWD,23050,0.0,23050.0,Factory to port,False,,JTDBCMFE8PJ008958,City Toyota,CA
+2023,LE,Ice Cap,FWD,23050,0.0,23050.0,Factory to port,False,DealerHold,JTDBCMFE8PJ008958,City Toyota,CA
 2023,SE,Ruby Flare Pearl,FWD,25490,0.0,25490.0,Factory to port,False,,JTDBCMFE8PJ008989,City Toyota,CA
 2023,LE,Ice Cap,FWD,23050,0.0,23050.0,Factory to port,True,DealerHold,JTDBCMFE8PJ009026,Earnhardt Toyota,AZ
 2023,LE,Ice Cap,FWD,23050,0.0,23050.0,Factory to port,False,,JTDBCMFE8PJ009057,Toyota of Greensburg,PA
@@ -1166,7 +1151,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LE,Ruby Flare Pearl,FWD,23050,0.0,23050.0,Factory to port,False,DealerHold,JTDBCMFE8PJ009348,Koons Tysons Toyota,VA
 2023,LE,Ice Cap,FWD,23050,0.0,23050.0,Factory to port,False,,JTDBCMFE8PJ009429,Cabe Toyota Long Beach,CA
 2023,LE,Blueprint,FWD,23050,0.0,23050.0,Factory to port,False,DealerHold,JTDBCMFE8PJ009463,Claremont Toyota,CA
-2023,SE,Ice Cap,FWD,25490,0.0,25490.0,Factory to port,False,,JTDBCMFE8PJ009480,Toyota of Orange,CA
+2023,SE,Ice Cap,FWD,25490,0.0,25490.0,Factory to port,False,DealerHold,JTDBCMFE8PJ009480,Toyota of Orange,CA
 2023,LE,Classic Silver Metallic,FWD,23050,1995.0,25045.0,Factory to port,False,,JTDBCMFE8PJ009544,Toyota Carlsbad,CA
 2023,LE,Midnight Black Metallic,FWD,23050,0.0,23050.0,Factory to port,False,DealerHold,JTDBCMFE8PJ009558,Lombard Toyota,IL
 2023,SE,Ruby Flare Pearl,FWD,25490,0.0,25490.0,Factory to port,False,,JTDBCMFE8PJ009561,Santa Cruz Toyota,CA
@@ -1246,9 +1231,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LE,Midnight Black Metallic,FWD,22800,0.0,22800.0,Port to dealer,False,DealerHold,JTDBCMFE9PJ006944,Conicelli Toyota,PA
 2023,SE,Wind Chill Pearl,FWD,25240,0.0,25240.0,Port to dealer,False,DealerHold,JTDBCMFE9PJ006958,Toyota of York,PA
 2023,LE,Ruby Flare Pearl,FWD,23050,0.0,23050.0,At dealer,False,DealerHold,JTDBCMFE9PJ006961,Gettel Toyota of Lakewood,FL
+2023,LE,Midnight Black Metallic,FWD,23050,1895.0,24945.0,At dealer,False,DealerHold,JTDBCMFE9PJ006989,Central Toyota,AR
 2023,LE,Celestite,FWD,22800,0.0,22800.0,Port to dealer,False,,JTDBCMFE9PJ007012,Santa Cruz Toyota,CA
 2023,XLE,Ice Cap,FWD,26850,0.0,26850.0,At dealer,True,Available,JTDBCMFE9PJ007057,Family Toyota of Burleson,TX
-2023,XLE,Midnight Black Metallic,FWD,26850,1098.0,27948.0,Port to dealer,True,Available,JTDBCMFE9PJ007138,Toyota of Cedar Park,TX
+2023,XLE,Midnight Black Metallic,FWD,26850,1098.0,27948.0,At dealer,True,Available,JTDBCMFE9PJ007138,Toyota of Cedar Park,TX
 2023,LE,Classic Silver Metallic,FWD,23050,0.0,23050.0,Factory to port,True,Available,JTDBCMFE9PJ007186,Mike Johnson's Hickory Toyota,NC
 2023,LE,Celestite,FWD,23050,0.0,23050.0,Factory to port,False,DealerHold,JTDBCMFE9PJ007205,Palm Beach Toyota,FL
 2023,LE,Classic Silver Metallic,FWD,22800,0.0,22800.0,Port to dealer,False,Available,JTDBCMFE9PJ007222,Metro Toyota,OH
@@ -1317,7 +1303,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LE,Ice Cap,FWD,22800,0.0,22800.0,Port to dealer,True,DealerHold,JTDBCMFEXP3020386,Maplewood Toyota,MN
 2023,LE,Celestite,FWD,22800,0.0,22800.0,Port to dealer,True,DealerHold,JTDBCMFEXP3020405,Voss Toyota,OH
 2023,SE,Underground,FWD,25240,2791.0,28031.0,Port to dealer,False,,JTDBCMFEXP3020419,Billion Toyota,SD
-2023,SE,Underground,FWD,25240,0.0,25240.0,At dealer,False,DealerHold,JTDBCMFEXP3020520,DARCARS Toyota,MD
 2023,LE,Underground,FWD,22800,3568.0,26368.0,Port to dealer,False,,JTDBCMFEXP3020596,Bell Road Toyota,AZ
 2023,LE,Underground,FWD,22800,0.0,22800.0,Port to dealer,False,DealerHold,JTDBCMFEXP3020629,Crown Toyota,KS
 2023,LE,Underground,FWD,23050,0.0,23050.0,At dealer,True,Available,JTDBCMFEXP3020730,Oxford Toyota,MS
@@ -1393,13 +1378,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LE,Ice Cap,FWD,23050,0.0,23050.0,Port to dealer,True,Available,JTDBCMFEXPJ007004,Don McGill Toyota of Katy,TX
 2023,LE,Celestite,FWD,22800,0.0,22800.0,Factory to port,False,DealerHold,JTDBCMFEXPJ007097,Acton Toyota of Littleton,MA
 2023,LE,Midnight Black Metallic,FWD,22800,0.0,22800.0,Port to dealer,True,DealerHold,JTDBCMFEXPJ007164,Germain Toyota of Columbus,OH
-2023,LE,Midnight Black Metallic,FWD,23050,0.0,23050.0,At dealer,False,Available,JTDBCMFEXPJ007200,Seminole Toyota,FL
 2023,LE,Midnight Black Metallic,FWD,22800,0.0,22800.0,Port to dealer,False,,JTDBCMFEXPJ007245,Advantage Toyota of River Oaks,IL
 2023,SE,Midnight Black Metallic,FWD,25490,2995.0,28485.0,Factory to port,True,DealerHold,JTDBCMFEXPJ007259,Huntsville Toyota,TX
 2023,LE,Ice Cap,FWD,23050,1098.0,24148.0,Factory to port,True,DealerHold,JTDBCMFEXPJ007262,Toyota of Cedar Park,TX
 2023,LE,Ice Cap,FWD,22800,0.0,22800.0,Factory to port,False,DealerHold,JTDBCMFEXPJ007360,Sloane Toyota of Malvern,PA
 2023,LE,Celestite,FWD,22800,0.0,22800.0,Port to dealer,False,DealerHold,JTDBCMFEXPJ007374,Jerry Ackerman Toyota,MO
-2023,LE,Midnight Black Metallic,FWD,23050,0.0,23050.0,Port to dealer,False,DealerHold,JTDBCMFEXPJ007388,Heartland Toyota,WA
+2023,LE,Midnight Black Metallic,FWD,23050,0.0,23050.0,At dealer,False,DealerHold,JTDBCMFEXPJ007388,Heartland Toyota,WA
 2023,LE,Midnight Black Metallic,FWD,23050,0.0,23050.0,Port to dealer,False,,JTDBCMFEXPJ007472,Coad Toyota Paducah,KY
 2023,LE,Ice Cap,FWD,23050,0.0,23050.0,Factory to port,False,Available,JTDBCMFEXPJ007522,Mount Airy Toyota,NC
 2023,LE,Classic Silver Metallic,FWD,23050,0.0,23050.0,Factory to port,False,Available,JTDBCMFEXPJ007553,Ryburn Toyota,AR
@@ -1494,7 +1478,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LE AWD,Underground,AWD,24450,0.0,24450.0,Factory to port,False,DealerHold,JTDBDMHE1P3006483,Burdick Toyota,NY
 2023,LE AWD,Underground,AWD,24450,1774.0,26224.0,Port to dealer,False,,JTDBDMHE1P3006497,Kolar Toyota,MN
 2023,LE AWD,Underground,AWD,24450,0.0,24450.0,Factory to port,False,,JTDBDMHE1P3006547,Bay Ridge Toyota,NY
-2023,LE AWD,Midnight Black Metallic,AWD,24200,0.0,24200.0,Port to dealer,True,DealerHold,JTDBDMHE1PJ001358,Moses Toyota,WV
+2023,LE AWD,Midnight Black Metallic,AWD,24200,0.0,24200.0,At dealer,True,DealerHold,JTDBDMHE1PJ001358,Moses Toyota,WV
 2023,LE AWD,Classic Silver Metallic,AWD,24200,0.0,24200.0,Port to dealer,False,DealerHold,JTDBDMHE1PJ001425,Fox Toyota,NY
 2023,LE AWD,Ice Cap,AWD,24200,2999.0,27199.0,Port to dealer,False,Available,JTDBDMHE1PJ001487,Toyota City,NY
 2023,LE AWD,Classic Silver Metallic,AWD,24200,0.0,24200.0,Port to dealer,True,DealerHold,JTDBDMHE1PJ001523,Romano Toyota,NY
@@ -1683,7 +1667,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LE AWD,Underground,AWD,24450,0.0,24450.0,Factory to port,True,DealerHold,JTDBDMHE8P3006562,Heritage Toyota Catonsville,MD
 2023,LE AWD,Underground,AWD,24450,0.0,24450.0,Factory to port,False,DealerHold,JTDBDMHE8P3006626,Steet Toyota,NY
 2023,LE AWD,CELESTITE,AWD,24200,0.0,24200.0,Port to dealer,True,,JTDBDMHE8PJ001356,Fernelius Toyota,MI
-2023,LE AWD,Classic Silver Metallic,AWD,24200,0.0,24200.0,At dealer,False,DealerHold,JTDBDMHE8PJ001437,Boch Toyota South,MA
 2023,LE AWD,CELESTITE,AWD,24200,0.0,24200.0,Port to dealer,True,DealerHold,JTDBDMHE8PJ001504,Toyota West,OH
 2023,SE AWD,Blueprint,AWD,26640,0.0,26640.0,Port to dealer,False,DealerHold,JTDBDMHE8PJ001521,Sansone Toyota,NJ
 2023,LE AWD,Ice Cap,AWD,24200,0.0,24200.0,Port to dealer,True,DealerHold,JTDBDMHE8PJ001549,Kinderhook Toyota,NY
@@ -1705,7 +1688,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,SE AWD,Ruby Flare Pearl,AWD,26640,0.0,26640.0,At dealer,True,DealerHold,JTDBDMHE9PJ001303,Atlantic Toyota,MA
 2023,LE AWD,Ice Cap,AWD,24200,0.0,24200.0,At dealer,False,DealerHold,JTDBDMHE9PJ001351,Toyota of Hackensack,NJ
 2023,LE AWD,Ice Cap,AWD,24200,0.0,24200.0,At dealer,False,Available,JTDBDMHE9PJ001396,DCH Brunswick Toyota,NJ
-2023,SE AWD,Classic Silver Metallic,AWD,26640,0.0,26640.0,At dealer,False,DealerHold,JTDBDMHE9PJ001415,Queensboro Toyota,NY
 2023,LE AWD,Classic Silver Metallic,AWD,24200,0.0,24200.0,At dealer,False,Available,JTDBDMHE9PJ001432,Sunrise Toyota North,NY
 2023,LE AWD,Classic Silver Metallic,AWD,24200,0.0,24200.0,At dealer,False,DealerHold,JTDBDMHE9PJ001446,Toyota of Hackensack,NJ
 2023,LE AWD,Ice Cap,AWD,24200,0.0,24200.0,Factory to port,False,DealerHold,JTDBDMHE9PJ001494,West Herr Toyota of Canandaigua,NY
@@ -1733,7 +1715,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LE AWD,Blueprint,AWD,24200,2594.0,26794.0,Port to dealer,False,DealerHold,JTDBDMHEXPJ001455,Hudson Toyota,NJ
 2023,LE AWD,Midnight Black Metallic,AWD,24200,0.0,24200.0,Factory to port,True,DealerHold,JTDBDMHEXPJ001486,Paul Miller Toyota of West Caldwell,NJ
 2023,LE AWD,Ice Cap,AWD,24200,0.0,24200.0,Port to dealer,False,DealerHold,JTDBDMHEXPJ001522,Toyota of Massapequa,NY
-2023,LE AWD,Midnight Black Metallic,AWD,24200,0.0,24200.0,Port to dealer,False,DealerHold,JTDBDMHEXPJ001584,Town Toyota,WA
+2023,LE AWD,Midnight Black Metallic,AWD,24200,0.0,24200.0,At dealer,False,DealerHold,JTDBDMHEXPJ001584,Town Toyota,WA
 2023,SE AWD,Midnight Black Metallic,AWD,26890,0.0,26890.0,Factory to port,False,,JTDBDMHEXPJ001682,Rivera Toyota of Mt. Kisco,NY
 2023,SE AWD,Midnight Black Metallic,AWD,26890,0.0,26890.0,Factory to port,False,DealerHold,JTDBDMHEXPJ001889,Burdick Toyota,NY
 2023,SE Infrared,Ice Cap,AWD,27425,0.0,27425.0,Factory to port,False,DealerHold,JTDBDMHEXPJ001908,Herb Chambers Toyota of Auburn,MA
