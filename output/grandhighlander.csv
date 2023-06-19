@@ -2,6 +2,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,XLE,Coastal Cream,FWD,43070,0.0,43070.0,Port to dealer,False,,5TDAAAA50RS000110,Hamer Toyota,CA
 2024,XLE,Wind Chill Pearl,FWD,43070,0.0,43070.0,Factory to port,False,,5TDAAAA50RS26C858,Dublin Toyota,CA
 2024,Limited,Coastal Cream,FWD,47860,0.0,47860.0,Factory to port,False,,5TDAAAA50RS27B737,Avondale Toyota,AZ
+2024,Limited,Celestial Silver Metallic,FWD,47860,0.0,47860.0,Factory to port,False,,5TDAAAA50RS27B771,Longo Toyota,CA
 2024,XLE,Blueprint,FWD,43070,6985.0,50055.0,Port to dealer,False,,5TDAAAA51RS000133,Toyota Carlsbad,CA
 2024,Limited,Celestial Silver Metallic,FWD,47860,2098.0,49958.0,Factory to port,False,,5TDAAAA51RS26D632,Toyota of Surprise,AZ
 2024,XLE,Wind Chill Pearl,FWD,43070,0.0,43070.0,Factory to port,False,,5TDAAAA51RS30D711,Maita's Toyota of Sacramento,CA
@@ -26,7 +27,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,XLE,Midnight Black Metallic,FWD,43070,2098.0,45168.0,Port to dealer,False,,5TDAAAA56RS000158,Toyota of Surprise,AZ
 2024,XLE,Storm Cloud,FWD,43070,3568.0,46638.0,Factory to port,False,,5TDAAAA56RS25C495,Bell Road Toyota,AZ
 2024,XLE,Storm Cloud,FWD,43070,0.0,43070.0,Factory to port,False,,5TDAAAA56RS28D181,City Toyota,CA
-2024,Limited,Storm Cloud,FWD,47860,1773.0,49633.0,Factory to port,False,,5TDAAAA56RS30B971,AutoNation Toyota Tempe,AZ
 2024,Limited,Wind Chill Pearl,FWD,47860,2295.0,50155.0,Factory to port,False,,5TDAAAA57RS26D134,Desert Toyota of Tucson,AZ
 2024,XLE,Wind Chill Pearl,FWD,43070,0.0,43070.0,Factory to port,True,,5TDAAAA57RS28C380,Avondale Toyota,AZ
 2024,Limited,Midnight Black Metallic,FWD,47860,0.0,47860.0,Factory to port,False,,5TDAAAA57RS28C704,Toyota of Lancaster,CA
@@ -35,6 +35,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,Limited,Wind Chill Pearl,FWD,47860,1695.0,49555.0,Factory to port,True,DealerHold,5TDAAAA58RS26D319,Anderson Toyota,AZ
 2024,XLE,Wind Chill Pearl,FWD,43070,0.0,43070.0,Factory to port,False,DealerHold,5TDAAAA58RS26D482,Toyota San Luis Obispo,CA
 2024,XLE,Wind Chill Pearl,FWD,43070,1773.0,44843.0,Factory to port,False,,5TDAAAA58RS27B789,AutoNation Toyota Tempe,AZ
+2024,XLE,Midnight Black Metallic,FWD,43070,0.0,43070.0,Factory to port,False,,5TDAAAA58RS27B937,Longo Toyota,CA
 2024,XLE,Storm Cloud,FWD,43070,1695.0,44765.0,Factory to port,False,,5TDAAAA58RS30D530,Anderson Toyota,AZ
 2024,Limited,Coastal Cream,FWD,47860,0.0,47860.0,Factory to port,False,DealerHold,5TDAAAA59RS26C051,Toyota San Luis Obispo,CA
 2024,XLE,Midnight Black Metallic,FWD,43070,4285.0,47355.0,Factory to port,False,,5TDAAAA59RS26D507,Toyota of El Cajon,CA
@@ -95,9 +96,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,Platinum,Storm Cloud,AWD,53545,0.0,53545.0,Factory to port,False,,5TDAAAB50RS30C466,Middletown Toyota,CT
 2024,Platinum,Midnight Black Metallic,AWD,53545,0.0,53545.0,Factory to port,False,,5TDAAAB50RS30C578,Copeland Toyota,MA
 2024,XLE,Wind Chill Pearl,AWD,44670,1695.0,46365.0,Factory to port,False,,5TDAAAB50RS30C628,Anderson Toyota,AZ
+2024,Limited,Storm Cloud,AWD,49460,0.0,49460.0,Factory to port,False,,5TDAAAB50RS30C922,Lancaster Toyota,PA
 2024,Platinum,Storm Cloud,AWD,53545,0.0,53545.0,Factory to port,False,,5TDAAAB50RS30D004,Toyota of Des Moines,IA
 2024,Platinum,Storm Cloud,AWD,53545,0.0,53545.0,Factory to port,False,,5TDAAAB50RS30D259,Bay Ridge Toyota,NY
 2024,Limited,Celestial Silver Metallic,AWD,49460,0.0,49460.0,Factory to port,False,,5TDAAAB50RS30D407,Riverhead Toyota,NY
+2024,Limited,Midnight Black Metallic,AWD,49460,0.0,49460.0,Factory to port,False,,5TDAAAB50RS30D617,Lancaster Toyota,PA
 2024,Platinum,Storm Cloud,AWD,53545,0.0,53545.0,Port to dealer,True,DealerHold,5TDAAAB51RS000065,Maplewood Toyota,MN
 2024,Platinum,Celestial Silver Metallic,AWD,53545,0.0,53545.0,Port to dealer,False,DealerHold,5TDAAAB51RS000082,Kings Toyota,OH
 2024,Platinum,Midnight Black Metallic,AWD,53545,0.0,53545.0,Port to dealer,True,DealerHold,5TDAAAB51RS000096,Ira Toyota,MA
@@ -127,6 +130,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,XLE,Coastal Cream,AWD,44670,0.0,44670.0,Factory to port,False,,5TDAAAB51RS25D133,Gault Toyota,NY
 2024,XLE,Celestial Silver Metallic,AWD,44670,0.0,44670.0,Factory to port,True,,5TDAAAB51RS25D164,Charles Toyota,CT
 2024,Platinum,Storm Cloud,AWD,53545,0.0,53545.0,Factory to port,False,DealerHold,5TDAAAB51RS25D214,Coad Toyota Paducah,KY
+2024,Limited,Wind Chill Pearl,AWD,49460,0.0,49460.0,Factory to port,False,,5TDAAAB51RS26C303,Longo Toyota,CA
 2024,Platinum,Storm Cloud,AWD,53545,2980.0,56525.0,Factory to port,False,,5TDAAAB51RS26C494,Toyota of Poway,CA
 2024,Platinum,Storm Cloud,AWD,53545,0.0,53545.0,Factory to port,False,,5TDAAAB51RS26C513,Middletown Toyota,CT
 2024,XLE,Wind Chill Pearl,AWD,44670,0.0,44670.0,Factory to port,False,,5TDAAAB51RS26C592,Team Toyota of Glen Mills,PA
@@ -209,7 +213,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,Limited,Ruby Flare Pearl,AWD,49460,0.0,49460.0,Factory to port,False,,5TDAAAB52RS28D483,Johnstons Toyota,NY
 2024,Platinum,Storm Cloud,AWD,53545,0.0,53545.0,Factory to port,False,,5TDAAAB52RS28D886,Basil Toyota,NY
 2024,XLE,Midnight Black Metallic,AWD,44670,0.0,44670.0,Factory to port,False,,5TDAAAB52RS28E052,Towne Toyota,NJ
-2024,Platinum,Storm Cloud,AWD,53545,0.0,53545.0,Factory to port,False,,5TDAAAB52RS30B772,Maita's Toyota of Sacramento,CA
 2024,Limited,Storm Cloud,AWD,49460,0.0,49460.0,Factory to port,False,DealerHold,5TDAAAB52RS30B836,Toyota World of Clinton,NJ
 2024,Limited,Wind Chill Pearl,AWD,49460,1726.0,51186.0,Factory to port,False,,5TDAAAB52RS30C663,AutoNation Toyota Spokane Valley,WA
 2024,Limited,Blueprint,AWD,49460,0.0,49460.0,Factory to port,False,,5TDAAAB52RS30C954,East Coast Toyota,NJ
@@ -294,6 +297,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,XLE,Coastal Cream,AWD,44670,0.0,44670.0,Factory to port,False,DealerHold,5TDAAAB54RS25D224,Empire Toyota,NY
 2024,Limited,Celestial Silver Metallic,AWD,49460,0.0,49460.0,Factory to port,False,,5TDAAAB54RS26C179,Prestige Toyota of Ramsey,NJ
 2024,XLE,Storm Cloud,AWD,44670,0.0,44670.0,Factory to port,False,,5TDAAAB54RS26C280,Doxon Toyota,WA
+2024,Platinum,Storm Cloud,AWD,53545,0.0,53545.0,Factory to port,False,,5TDAAAB54RS26C411,Lancaster Toyota,PA
 2024,Platinum,Coastal Cream,AWD,53545,0.0,53545.0,Factory to port,False,,5TDAAAB54RS26C568,Stevens Creek Toyota,CA
 2024,Limited,Midnight Black Metallic,AWD,49460,5995.0,55455.0,Factory to port,False,,5TDAAAB54RS26C912,Rodland Toyota,WA
 2024,Limited,Storm Cloud,AWD,49460,0.0,49460.0,Factory to port,False,,5TDAAAB54RS26D512,Falmouth Toyota,MA
@@ -329,7 +333,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,Limited,Celestial Silver Metallic,AWD,49460,0.0,49460.0,Port to dealer,False,Available,5TDAAAB55RS000263,Charlie's Toyota,ME
 2024,Platinum,Storm Cloud,AWD,53545,0.0,53545.0,Port to dealer,False,,5TDAAAB55RS000294,Hendrick Toyota Merriam,KS
 2024,Limited,Storm Cloud,AWD,49460,0.0,49460.0,Port to dealer,False,,5TDAAAB55RS000358,Toyota of Corvallis,OR
-2024,Limited,Storm Cloud,AWD,49460,0.0,49460.0,Port to dealer,False,,5TDAAAB55RS000456,Toyota Place,CA
 2024,Limited,Celestial Silver Metallic,AWD,49460,0.0,49460.0,Port to dealer,True,DealerHold,5TDAAAB55RS000540,Romano Toyota,NY
 2024,Limited,Midnight Black Metallic,AWD,49460,0.0,49460.0,Factory to port,False,,5TDAAAB55RS25B918,Route 44 Toyota,MA
 2024,XLE,Storm Cloud,AWD,44670,0.0,44670.0,Factory to port,False,DealerHold,5TDAAAB55RS25B921,Toyota World of Clinton,NJ
@@ -345,6 +348,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,XLE,Celestial Silver Metallic,AWD,44670,0.0,44670.0,Factory to port,False,DealerHold,5TDAAAB55RS25D216,Prestige Toyota of Ramsey,NJ
 2024,XLE,Storm Cloud,AWD,44670,1298.0,45968.0,Factory to port,False,,5TDAAAB55RS25D233,Sunshine Toyota,MI
 2024,Limited,Coastal Cream,AWD,49460,0.0,49460.0,Factory to port,False,,5TDAAAB55RS26C062,Team Toyota of Glen Mills,PA
+2024,Platinum,Blueprint,AWD,53545,0.0,53545.0,Factory to port,False,,5TDAAAB55RS26C403,Longo Toyota,CA
 2024,Platinum,Storm Cloud,AWD,53545,0.0,53545.0,Factory to port,False,,5TDAAAB55RS26C501,San Francisco Toyota,CA
 2024,Limited,Celestial Silver Metallic,AWD,49460,0.0,49460.0,Factory to port,False,,5TDAAAB55RS26D521,Avondale Toyota,AZ
 2024,Platinum,Storm Cloud,AWD,53545,0.0,53545.0,Factory to port,False,,5TDAAAB55RS27B358,Toyota of Vineland,NJ
@@ -360,7 +364,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,Platinum,Midnight Black Metallic,AWD,53545,0.0,53545.0,Factory to port,False,,5TDAAAB55RS28E093,Dan Deery Toyota,IA
 2024,Limited,Midnight Black Metallic,AWD,49460,0.0,49460.0,Factory to port,False,,5TDAAAB55RS30C043,University Toyota,WV
 2024,XLE,Wind Chill Pearl,AWD,44670,0.0,44670.0,Factory to port,False,,5TDAAAB55RS30C236,"Gale Toyota, Inc.",CT
-2024,XLE,Celestial Silver Metallic,AWD,44670,0.0,44670.0,Factory to port,False,,5TDAAAB55RS30C284,Empire Toyota,NY
+2024,XLE,Coastal Cream,AWD,44670,0.0,44670.0,Factory to port,False,,5TDAAAB55RS30C284,Empire Toyota,NY
 2024,Platinum,Storm Cloud,AWD,53545,0.0,53545.0,Factory to port,False,DealerHold,5TDAAAB55RS30C348,Toyota World of Clinton,NJ
 2024,XLE,Wind Chill Pearl,AWD,44670,0.0,44670.0,Factory to port,False,,5TDAAAB55RS30D144,Prestige Toyota of Ramsey,NJ
 2024,Platinum,Celestial Silver Metallic,AWD,53545,0.0,53545.0,Factory to port,False,,5TDAAAB55RS30D371,San Francisco Toyota,CA
@@ -406,6 +410,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,Platinum,Celestial Silver Metallic,AWD,53545,0.0,53545.0,Factory to port,False,Available,5TDAAAB56RS26D432,Maita's Toyota of Sacramento,CA
 2024,Platinum,Celestial Silver Metallic,AWD,53545,0.0,53545.0,Factory to port,False,,5TDAAAB56RS26D446,Route 44 Toyota,MA
 2024,Limited,Coastal Cream,AWD,49460,0.0,49460.0,Factory to port,False,,5TDAAAB56RS26D530,Empire Toyota,NY
+2024,Platinum,Storm Cloud,AWD,53545,0.0,53545.0,Factory to port,False,,5TDAAAB56RS27B336,Longo Toyota,CA
 2024,Platinum,Ruby Flare Pearl,AWD,53545,0.0,53545.0,Factory to port,False,,5TDAAAB56RS27B479,Avondale Toyota,AZ
 2024,XLE,Blueprint,AWD,44670,5995.0,50665.0,Factory to port,False,,5TDAAAB56RS27B496,Rodland Toyota,WA
 2024,Platinum,Storm Cloud,AWD,53545,7995.0,61540.0,Factory to port,False,,5TDAAAB56RS27B997,Paul Miller Toyota of West Caldwell,NJ
@@ -413,6 +418,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,Platinum,Storm Cloud,AWD,53545,0.0,53545.0,Factory to port,False,,5TDAAAB56RS28C160,Riverhead Toyota,NY
 2024,Limited,Storm Cloud,AWD,49460,0.0,49460.0,Factory to port,False,DealerHold,5TDAAAB56RS28C692,Faulkner Toyota,PA
 2024,XLE,Blueprint,AWD,44670,0.0,44670.0,Factory to port,False,,5TDAAAB56RS28C708,Smithtown Toyota,NY
+2024,Platinum,Coastal Cream,AWD,53545,0.0,53545.0,Factory to port,False,,5TDAAAB56RS28C949,Longo Toyota,CA
 2024,Limited,Midnight Black Metallic,AWD,49460,0.0,49460.0,Factory to port,False,,5TDAAAB56RS28D129,Doxon Toyota,WA
 2024,XLE,Celestial Silver Metallic,AWD,44670,0.0,44670.0,Factory to port,False,,5TDAAAB56RS28E118,Toyota World of Newton,NJ
 2024,XLE,Coastal Cream,AWD,44670,0.0,44670.0,Factory to port,False,,5TDAAAB56RS28E152,Towne Toyota,NJ
@@ -476,7 +482,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,XLE,Wind Chill Pearl,AWD,44670,2082.0,46752.0,Factory to port,False,,5TDAAAB57RS28C457,Toyota World of Lakewood,NJ
 2024,XLE,Storm Cloud,AWD,44670,0.0,44670.0,Factory to port,False,,5TDAAAB57RS28C605,Ourisman Fairfax Toyota,VA
 2024,Platinum,Coastal Cream,AWD,53545,0.0,53545.0,Factory to port,True,,5TDAAAB57RS28C636,Toyota of Des Moines,IA
+2024,Platinum,Coastal Cream,AWD,53545,0.0,53545.0,Factory to port,False,Available,5TDAAAB57RS28C846,Maita's Toyota of Sacramento,CA
 2024,Platinum,Midnight Black Metallic,AWD,53545,0.0,53545.0,Factory to port,True,Available,5TDAAAB57RS28D317,Toyota of Des Moines,IA
+2024,XLE,Wind Chill Pearl,AWD,44670,0.0,44670.0,Factory to port,False,,5TDAAAB57RS28D978,Lancaster Toyota,PA
 2024,Platinum,Storm Cloud,AWD,53545,0.0,53545.0,Factory to port,True,,5TDAAAB57RS28E046,Toyota of Des Moines,IA
 2024,XLE,Coastal Cream,AWD,44670,1695.0,46365.0,Factory to port,False,,5TDAAAB57RS30B931,Anderson Toyota,AZ
 2024,Platinum,Coastal Cream,AWD,53545,0.0,53545.0,Factory to port,False,,5TDAAAB57RS30C481,San Francisco Toyota,CA
@@ -527,6 +535,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,Limited,Wind Chill Pearl,AWD,49460,7282.0,56742.0,Factory to port,False,,5TDAAAB58RS27C276,Toyota of Kirkland,WA
 2024,Limited,Blueprint,AWD,49460,6995.0,56455.0,Factory to port,False,,5TDAAAB58RS27C326,Toyota of Greenwich,CT
 2024,Limited,Celestial Silver Metallic,AWD,49460,0.0,49460.0,Factory to port,False,,5TDAAAB58RS27C343,Toyota of Lancaster,CA
+2024,XLE,Celestial Silver Metallic,AWD,44670,0.0,44670.0,Factory to port,False,,5TDAAAB58RS28C418,Lancaster Toyota,PA
 2024,Limited,Storm Cloud,AWD,49460,0.0,49460.0,Factory to port,False,,5TDAAAB58RS28D133,Basil Toyota,NY
 2024,Platinum,Coastal Cream,AWD,53545,0.0,53545.0,Factory to port,True,,5TDAAAB58RS28D794,Smithtown Toyota,NY
 2024,Platinum,Storm Cloud,AWD,53545,0.0,53545.0,Factory to port,True,,5TDAAAB58RS30B713,Charles Toyota,CT
@@ -546,7 +555,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,Limited,Storm Cloud,AWD,49460,0.0,49460.0,Port to dealer,False,Available,5TDAAAB59RS000279,Lithia Toyota of Billings,MT
 2024,XLE,Midnight Black Metallic,AWD,44670,0.0,44670.0,Factory to port,False,DealerHold,5TDAAAB59RS000282,White River Toyota,VT
 2024,Limited,Celestial Silver Metallic,AWD,49460,0.0,49460.0,Port to dealer,False,,5TDAAAB59RS000296,Waldorf Toyota,MD
-2024,Platinum,Storm Cloud,AWD,53545,0.0,53545.0,Port to dealer,False,DealerHold,5TDAAAB59RS000315,Big Two Toyota of Chandler,AZ
+2024,Platinum,Storm Cloud,AWD,53545,0.0,53545.0,Port to dealer,False,Available,5TDAAAB59RS000315,Big Two Toyota of Chandler,AZ
 2024,Limited,Midnight Black Metallic,AWD,49460,0.0,49460.0,Port to dealer,True,,5TDAAAB59RS000329,Ourisman Chantilly Toyota,VA
 2024,Platinum,Wind Chill Pearl,AWD,53545,0.0,53545.0,Port to dealer,False,DealerHold,5TDAAAB59RS000380,Culver City Toyota,CA
 2024,Platinum,Storm Cloud,AWD,53545,0.0,53545.0,Port to dealer,False,,5TDAAAB59RS000394,Oxmoor Toyota,KY
@@ -651,6 +660,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,XLE,Midnight Black Metallic,AWD,44670,0.0,44670.0,Factory to port,False,,5TDAAAB5XRS30C684,"Gale Toyota, Inc.",CT
 2024,XLE,Coastal Cream,AWD,44670,1790.0,46460.0,Factory to port,False,,5TDAAAB5XRS30C801,Liberty Toyota,NJ
 2024,Limited,Wind Chill Pearl,AWD,49460,4966.0,54426.0,Factory to port,False,DealerHold,5TDAAAB5XRS30C832,Toyota of Turnersville,NJ
+2024,Platinum,Storm Cloud,AWD,53545,0.0,53545.0,Factory to port,False,,5TDAAAB5XRS30D222,Longo Toyota,CA
 2024,Platinum,Storm Cloud,AWD,53545,0.0,53545.0,Factory to port,False,,5TDAAAB5XRS30D298,Copeland Toyota,MA
 2024,Limited,Ruby Flare Pearl,AWD,49460,0.0,49460.0,Factory to port,False,,5TDAAAB5XRS30D477,Ourisman Chantilly Toyota,VA
 2024,XLE,Storm Cloud,AWD,44670,0.0,44670.0,Factory to port,False,,5TDAAAB5XRS30D639,Middletown Toyota,CT
