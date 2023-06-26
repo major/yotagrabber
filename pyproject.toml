@@ -14,7 +14,7 @@ requests = "^2.31.0"
 
 
 [tool.poetry.group.dev.dependencies]
-mypy = "^1.4.0"
+mypy = "^1.4.1"
 ipython = "^8.14.0"
 pytest-sugar = "^0.9.7"
 pytest = "^7.4.0"
