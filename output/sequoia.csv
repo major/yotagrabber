@@ -21,8 +21,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Wind Chill Pearl,4x2,66265,0.0,66265.0,Factory to port,False,Available,7SVAAAAA5PX002090,Toyota of Deerfield Beach,FL
 2023,Platinum,Magnetic Gray Metallic,4x2,72465,988.0,73453.0,Port to dealer,True,Available,7SVAAAAA5PX002140,Longo Toyota of Prosper,TX
 2023,Platinum,Wind Chill Pearl,4x2,72465,0.0,72465.0,Factory to port,True,DealerHold,7SVAAAAA5PX002199,Fred Haas Toyota World,TX
-2023,Capstone,Magnetic Gray Metallic,4x2,76865,0.0,76865.0,Port to dealer,True,DealerHold,7SVAAAAA5PX002204,Hixson Toyota,LA
-2023,Limited,Wind Chill Pearl,4x2,66265,2028.0,68293.0,Factory to port,True,DealerHold,7SVAAAAA6PX002163,Lake Charles Toyota,LA
+2023,Capstone,Magnetic Gray Metallic,4x2,76865,0.0,76865.0,Port to dealer,False,DealerHold,7SVAAAAA5PX002204,Hixson Toyota,LA
 2023,Platinum,Wind Chill Pearl,4x2,72465,0.0,72465.0,Factory to port,True,Available,7SVAAAAA6PX002180,Oxford Toyota,MS
 2023,Limited,Blueprint,4x2,66265,0.0,66265.0,Factory to port,False,Available,7SVAAAAA7PX002107,Kirk Toyota,MS
 2023,Platinum,Midnight Black Metallic,4x2,72465,5895.0,78360.0,Factory to port,True,DealerHold,7SVAAAAA7PX002110,Mike Calvert Toyota,TX
@@ -153,7 +152,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Platinum,Celestial Silver Metallic,4x4,75465,0.0,75465.0,Factory to port,True,Available,7SVAAABA1PX013425,Toyota of Greensboro,NC
 2023,Capstone,Celestial Silver Metallic,4x4,78365,0.0,78365.0,Factory to port,True,Available,7SVAAABA1PX014204,Johnson City Toyota,TN
 2023,Capstone,Celestial Silver Metallic,4x4,79865,0.0,79865.0,At dealer,False,,7SVAAABA1PX014395,AutoNation Toyota Weston,FL
-2023,Capstone,Blueprint,4x4,78365,0.0,78365.0,Port to dealer,False,Available,7SVAAABA1PX014414,Luther Brookdale Toyota,MN
+2023,Capstone,Blueprint,4x4,78365,0.0,78365.0,At dealer,False,Available,7SVAAABA1PX014414,Luther Brookdale Toyota,MN
 2023,Capstone,Wind Chill Pearl,4x4,78365,0.0,78365.0,Port to dealer,True,DealerHold,7SVAAABA1PX014882,Adams Toyota Lee's Summit,MO
 2023,Capstone,Blueprint,4x4,78365,0.0,78365.0,At dealer,False,,7SVAAABA1PX014946,Toyota On Western,IL
 2023,Capstone,Wind Chill Pearl,4x4,78365,0.0,78365.0,Factory to port,False,DealerHold,7SVAAABA1PX015188,"Cedar Rapids Toyota, Inc.",IA
@@ -213,7 +212,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Midnight Black Metallic,4x4,69265,0.0,69265.0,Factory to port,False,Available,7SVAAABA1PX017247,Butler Toyota,GA
 2023,Platinum,Midnight Black Metallic,4x4,75465,0.0,75465.0,Port to dealer,False,DealerHold,7SVAAABA1PX017250,Findlay Toyota,NV
 2023,Limited,Army Green,4x4,69265,0.0,69265.0,Port to dealer,False,,7SVAAABA1PX017281,Route 22 Toyota,NJ
-2023,Limited,Wind Chill Pearl,4x4,69265,1098.0,70363.0,Factory to port,True,Available,7SVAAABA1PX017295,Toyota of Cedar Park,TX
+2023,Limited,Wind Chill Pearl,4x4,69265,1098.0,70363.0,Port to dealer,True,Available,7SVAAABA1PX017295,Toyota of Cedar Park,TX
 2023,TRD Pro,Solar Octane,4x4,77565,0.0,77565.0,Port to dealer,False,Available,7SVAAABA1PX017331,Toyota of Riverside,CA
 2023,Capstone,Blueprint,4x4,79865,0.0,79865.0,Port to dealer,False,,7SVAAABA1PX017359,Buckhannon Toyota,WV
 2023,Limited,Army Green,4x4,69265,0.0,69265.0,Port to dealer,False,DealerHold,7SVAAABA1PX017362,Seeger Toyota,MO
@@ -253,7 +252,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,TRD Pro,Midnight Black Metallic,4x4,76065,0.0,76065.0,Factory to port,False,Available,7SVAAABA2PX015118,City Toyota,CA
 2023,TRD Pro,Ice Cap,4x4,76065,0.0,76065.0,Port to dealer,False,DealerHold,7SVAAABA2PX015121,Jerry Ackerman Toyota,MO
 2023,TRD Pro,Magnetic Gray Metallic,4x4,76065,895.0,76960.0,Port to dealer,True,,7SVAAABA2PX015166,Bennett Toyota,PA
-2023,TRD Pro,Ice Cap,4x4,76065,0.0,76065.0,Port to dealer,False,DealerHold,7SVAAABA2PX015216,Big Two Toyota of Chandler,AZ
+2023,TRD Pro,Ice Cap,4x4,76065,0.0,76065.0,At dealer,False,DealerHold,7SVAAABA2PX015216,Big Two Toyota of Chandler,AZ
 2023,TRD Pro,Solar Octane,4x4,76065,0.0,76065.0,Port to dealer,True,DealerHold,7SVAAABA2PX015278,Adams Toyota Lee's Summit,MO
 2023,Platinum,Blueprint,4x4,75465,0.0,75465.0,Port to dealer,False,,7SVAAABA2PX015345,Riverhead Toyota,NY
 2023,Platinum,Wind Chill Pearl,4x4,75465,0.0,75465.0,Port to dealer,False,,7SVAAABA2PX015426,Penske Toyota,CA
@@ -294,7 +293,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,SR5,Blueprint,4x4,62865,0.0,62865.0,Port to dealer,True,DealerHold,7SVAAABA2PX016592,Kalispell Toyota,MT
 2023,Capstone,Wind Chill Pearl,4x4,79865,0.0,79865.0,Port to dealer,False,DealerHold,7SVAAABA2PX016611,Right Toyota,AZ
 2023,TRD Pro,Ice Cap,4x4,77565,0.0,77565.0,Port to dealer,False,DealerHold,7SVAAABA2PX016639,Waldorf Toyota,MD
-2023,Platinum,Wind Chill Pearl,4x4,75465,0.0,75465.0,Port to dealer,False,,7SVAAABA2PX016706,Mossy Toyota,CA
+2023,Platinum,Wind Chill Pearl,4x4,75465,0.0,75465.0,At dealer,False,,7SVAAABA2PX016706,Mossy Toyota,CA
 2023,Capstone,Blueprint,4x4,79865,1098.0,80963.0,Factory to port,True,Available,7SVAAABA2PX016740,Toyota of Cedar Park,TX
 2023,Platinum,Magnetic Gray Metallic,4x4,75465,0.0,75465.0,Port to dealer,True,DealerHold,7SVAAABA2PX016804,Charlie's Toyota,ME
 2023,Limited,Wind Chill Pearl,4x4,69265,18161.0,87426.0,Port to dealer,False,Available,7SVAAABA2PX016818,Toyota of Tacoma,WA
@@ -377,7 +376,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Platinum,Midnight Black Metallic,4x4,75465,0.0,75465.0,Port to dealer,True,DealerHold,7SVAAABA3PX015810,Superior Toyota,WV
 2023,TRD Pro,Magnetic Gray Metallic,4x4,77565,0.0,77565.0,Port to dealer,True,,7SVAAABA3PX015984,Avondale Toyota,AZ
 2023,TRD Pro,Ice Cap,4x4,77565,0.0,77565.0,Port to dealer,True,Available,7SVAAABA3PX016018,Ken Nelson Toyota,IL
-2023,Platinum,Blueprint,4x4,75465,6875.0,82340.0,Factory to port,True,Available,7SVAAABA3PX016097,Red McCombs Toyota,TX
+2023,Platinum,Blueprint,4x4,75465,6875.0,82340.0,Port to dealer,True,Available,7SVAAABA3PX016097,Red McCombs Toyota,TX
 2023,Capstone,Magnetic Gray Metallic,4x4,79865,0.0,79865.0,Port to dealer,False,DealerHold,7SVAAABA3PX016133,Corwin Toyota of Bellevue,NE
 2023,TRD Pro,Solar Octane,4x4,77565,0.0,77565.0,Port to dealer,False,Available,7SVAAABA3PX016228,Advantage Toyota,WV
 2023,SR5,Ice Cap,4x4,62865,0.0,62865.0,Port to dealer,True,DealerHold,7SVAAABA3PX016374,Kalispell Toyota,MT
@@ -466,7 +465,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Blueprint,4x4,69265,0.0,69265.0,At dealer,False,,7SVAAABA4PX015976,Centennial Toyota,NV
 2023,SR5,Blueprint,4x4,62865,0.0,62865.0,Port to dealer,False,DealerHold,7SVAAABA4PX016013,Warrenton Toyota,VA
 2023,SR5,Magnetic Gray Metallic,4x4,62865,0.0,62865.0,Factory to port,False,DealerHold,7SVAAABA4PX016027,Five Star Toyota,WA
-2023,Limited,Wind Chill Pearl,4x4,69265,0.0,69265.0,Port to dealer,False,DealerHold,7SVAAABA4PX016108,Haley Toyota of Richmond,VA
+2023,Limited,Wind Chill Pearl,4x4,69265,0.0,69265.0,At dealer,False,DealerHold,7SVAAABA4PX016108,Haley Toyota of Richmond,VA
 2023,Platinum,Midnight Black Metallic,4x4,75465,0.0,75465.0,At dealer,False,,7SVAAABA4PX016125,Antioch Toyota,CA
 2023,Capstone,Celestial Silver Metallic,4x4,79865,0.0,79865.0,Port to dealer,False,DealerHold,7SVAAABA4PX016142,Middletown Toyota,CT
 2023,Platinum,Magnetic Gray Metallic,4x4,75465,0.0,75465.0,Port to dealer,False,DealerHold,7SVAAABA4PX016156,Fox Toyota,NY
@@ -705,10 +704,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Capstone,Midnight Black Metallic,4x4,79865,0.0,79865.0,Port to dealer,False,DealerHold,7SVAAABA6PX016725,Westbury Toyota,NY
 2023,SR5,Magnetic Gray Metallic,4x4,62865,0.0,62865.0,Port to dealer,False,DealerHold,7SVAAABA6PX016790,Sheehy Toyota of Laurel,MD
 2023,Limited,Smoked Mesquite,4x4,69265,0.0,69265.0,Port to dealer,True,,7SVAAABA6PX016837,One Toyota of Oakland,CA
+2023,Platinum,Celestial Silver Metallic,4x4,75465,0.0,75465.0,At dealer,True,Available,7SVAAABA6PX016854,Carl Hogan Toyota,MS
 2023,Platinum,Supersonic Red,4x4,75465,0.0,75465.0,Port to dealer,False,DealerHold,7SVAAABA6PX016868,Walser Bloomington Toyota,MN
 2023,SR5,Army Green,4x4,62865,0.0,62865.0,Port to dealer,False,Available,7SVAAABA6PX016918,Toyota of York,PA
 2023,Limited,Midnight Black Metallic,4x4,69265,0.0,69265.0,Factory to port,False,Available,7SVAAABA6PX016921,Lipton Toyota,FL
-2023,Platinum,Supersonic Red,4x4,75465,0.0,75465.0,Factory to port,True,DealerHold,7SVAAABA6PX016935,Pat Lobb Toyota of McKinney,TX
+2023,Platinum,Supersonic Red,4x4,75465,0.0,75465.0,Factory to port,False,Available,7SVAAABA6PX016935,Pat Lobb Toyota of McKinney,TX
 2023,Limited,Midnight Black Metallic,4x4,69265,0.0,69265.0,Port to dealer,False,DealerHold,7SVAAABA6PX016949,Green's Toyota of Lexington,KY
 2023,SR5,Blueprint,4x4,62865,0.0,62865.0,Port to dealer,False,,7SVAAABA6PX016997,Sam Leman Toyota Bloomington,IL
 2023,Limited,Magnetic Gray Metallic,4x4,69265,0.0,69265.0,Port to dealer,False,,7SVAAABA6PX017034,Tracy Toyota,CA
@@ -755,7 +755,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,TRD Pro,Midnight Black Metallic,4x4,76065,0.0,76065.0,At dealer,False,Available,7SVAAABA7PX014532,Ciocca Toyota of Williamsport,PA
 2023,Capstone,Magnetic Gray Metallic,4x4,78365,0.0,78365.0,At dealer,False,Available,7SVAAABA7PX014580,Pearson Toyota,VA
 2023,TRD Pro,Midnight Black Metallic,4x4,76065,0.0,76065.0,At dealer,False,,7SVAAABA7PX014675,Bill Page Toyota,VA
-2023,TRD Pro,Midnight Black Metallic,4x4,76065,0.0,76065.0,Port to dealer,False,DealerHold,7SVAAABA7PX014742,Findlay Toyota,NV
+2023,TRD Pro,Midnight Black Metallic,4x4,76065,0.0,76065.0,At dealer,False,DealerHold,7SVAAABA7PX014742,Findlay Toyota,NV
 2023,TRD Pro,Magnetic Gray Metallic,4x4,76065,0.0,76065.0,At dealer,False,Available,7SVAAABA7PX014921,Toyota of Brookfield,WI
 2023,Limited,Supersonic Red,4x4,67765,0.0,67765.0,Port to dealer,True,DealerHold,7SVAAABA7PX015163,Vancouver Toyota,WA
 2023,Capstone,Wind Chill Pearl,4x4,78365,0.0,78365.0,Port to dealer,False,DealerHold,7SVAAABA7PX015289,Jerry Ackerman Toyota,MO
@@ -846,6 +846,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Platinum,Wind Chill Pearl,4x4,75465,0.0,75465.0,Factory to port,True,Available,7SVAAABA7PX25B297,Ken Nelson Toyota,IL
 2023,TRD Pro,Solar Octane,4x4,77565,0.0,77565.0,Factory to port,False,,7SVAAABA7PX25B316,Continental Toyota,IL
 2023,TRD Pro,Solar Octane,4x4,77565,0.0,77565.0,Factory to port,False,,7SVAAABA7PX28F594,Hesser Toyota,WI
+2023,Capstone,Blueprint,4x4,79865,888.0,80753.0,Factory to port,False,,7SVAAABA7PX28F613,Romeoville Toyota,IL
 2023,Capstone,Wind Chill Pearl,4x4,78365,0.0,78365.0,Factory to port,True,,7SVAAABA8PX014264,Toyota of Des Moines,IA
 2023,Limited,Wind Chill Pearl,4x4,67765,0.0,67765.0,Port to dealer,False,DealerHold,7SVAAABA8PX014748,Crown Toyota,KS
 2023,Limited,Supersonic Red,4x4,67765,0.0,67765.0,At dealer,False,DealerHold,7SVAAABA8PX014829,Koons Tysons Toyota,VA
@@ -871,6 +872,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,TRD Pro,Magnetic Gray Metallic,4x4,77565,0.0,77565.0,Port to dealer,False,,7SVAAABA8PX015656,Toyota of Lincolnwood,IL
 2023,Limited,Celestial Silver Metallic,4x4,69265,0.0,69265.0,Port to dealer,True,DealerHold,7SVAAABA8PX015687,Toyota of San Bernardino,CA
 2023,SR5,Ice Cap,4x4,62865,0.0,62865.0,Port to dealer,False,DealerHold,7SVAAABA8PX015737,Wilsonville Toyota,OR
+2023,Capstone,Wind Chill Pearl,4x4,79865,0.0,79865.0,Factory to port,True,DealerHold,7SVAAABA8PX015740,Toyota of Plano,TX
 2023,TRD Pro,Solar Octane,4x4,77565,0.0,77565.0,At dealer,False,DealerHold,7SVAAABA8PX015835,Spitzer Toyota,PA
 2023,Platinum,Midnight Black Metallic,4x4,75465,0.0,75465.0,At dealer,False,DealerHold,7SVAAABA8PX015947,Bosak Toyota of Chesterton,IN
 2023,Capstone,Celestial Silver Metallic,4x4,79865,1695.0,81560.0,At dealer,False,,7SVAAABA8PX015950,Findlay Toyota Prescott,AZ
@@ -1017,8 +1019,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,SR5,Lunar Rock,4x4,62865,0.0,62865.0,Port to dealer,True,,7SVAAABA9PX017125,Toyota of Des Moines,IA
 2023,Limited,Midnight Black Metallic,4x4,69265,0.0,69265.0,Port to dealer,False,,7SVAAABA9PX017139,Toyota of Erie,PA
 2023,Capstone,Wind Chill Pearl,4x4,79865,0.0,79865.0,Port to dealer,False,DealerHold,7SVAAABA9PX017206,Toyota of Glendale,CA
-2023,Capstone,Wind Chill Pearl,4x4,79865,0.0,79865.0,Factory to port,True,Available,7SVAAABA9PX017223,Toyota of Del Rio,TX
-2023,Platinum,Magnetic Gray Metallic,4x4,75465,1880.0,77345.0,Factory to port,True,Available,7SVAAABA9PX017237,Toyota of Fort Worth,TX
+2023,Capstone,Wind Chill Pearl,4x4,79865,0.0,79865.0,Port to dealer,True,Available,7SVAAABA9PX017223,Toyota of Del Rio,TX
+2023,Platinum,Magnetic Gray Metallic,4x4,75465,1880.0,77345.0,Port to dealer,True,Available,7SVAAABA9PX017237,Toyota of Fort Worth,TX
 2023,Platinum,Midnight Black Metallic,4x4,75465,0.0,75465.0,Port to dealer,False,DealerHold,7SVAAABA9PX017254,Rusty Wallace Toyota,TN
 2023,TRD Pro,Ice Cap,4x4,77565,4997.0,82562.0,Factory to port,True,DealerHold,7SVAAABA9PX017304,Tegeler Toyota,TX
 2023,Capstone,Midnight Black Metallic,4x4,79865,0.0,79865.0,Factory to port,False,,7SVAAABA9PX017349,Miracle Toyota,FL
@@ -1047,6 +1049,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,TRD Pro,Solar Octane,4x4,77565,0.0,77565.0,Factory to port,True,Available,7SVAAABA9PX23C976,Toyota of Fayetteville,AR
 2023,TRD Pro,Ice Cap,4x4,77565,0.0,77565.0,Factory to port,True,Available,7SVAAABA9PX23D013,McDaniel Toyota,OH
 2023,Limited,Army Green,4x4,69265,0.0,69265.0,Factory to port,True,DealerHold,7SVAAABA9PX24C990,Craig Toyota,IN
+2023,Capstone,Midnight Black Metallic,4x4,79865,0.0,79865.0,Factory to port,True,DealerHold,7SVAAABA9PX28F614,Smart Toyota,WI
 2023,TRD Pro,Midnight Black Metallic,4x4,77565,0.0,77565.0,Factory to port,True,,7SVAAABA9PX28F953,Carlson Toyota,MN
 2023,Platinum,Blueprint,4x4,73900,0.0,73900.0,At dealer,True,DealerHold,7SVAAABAXPX004447,Route 22 Toyota,NJ
 2023,Capstone,Wind Chill Pearl,4x4,78300,2250.0,80550.0,At dealer,False,DealerHold,7SVAAABAXPX008028,Toyota of Manhattan,NY
