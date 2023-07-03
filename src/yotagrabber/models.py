@@ -70,4 +70,10 @@ def update_models():
         .sort_values("modelCode", ascending=True)
         .reset_index(drop=True)
     )
+
+    # Toyota uses different names for some models when you query the graphQL API.
+    # https://github.com/major/yotagrabber/issues/32
+    df.loc[df["modelCode"] == "gr86", "modelCode"] = "86"
+    df.loc[df["modelCode"] == "grsupra", "modelCode"] = "supra"
+
     models.to_json("output/models.json", orient="records", indent=2)
