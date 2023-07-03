@@ -7,7 +7,7 @@ import requests
 from yotagrabber import config
 
 # Set to True to use local data and skip requests to the Toyota website.
-USE_LOCAL_DATA_ONLY = False
+USE_LOCAL_DATA_ONLY = True
 
 
 def get_models_query():
@@ -64,16 +64,16 @@ def update_models():
             [
                 "modelCode",
                 "title",
-                "image",
             ]
         ]
-        .sort_values("modelCode", ascending=True)
+        .sort_values("title", ascending=True)
         .reset_index(drop=True)
     )
 
     # Toyota uses different names for some models when you query the graphQL API.
     # https://github.com/major/yotagrabber/issues/32
-    df.loc[df["modelCode"] == "gr86", "modelCode"] = "86"
-    df.loc[df["modelCode"] == "grsupra", "modelCode"] = "supra"
+    models.loc[models["modelCode"] == "gr86", "modelCode"] = "86"
+    models.loc[models["modelCode"] == "grsupra", "modelCode"] = "supra"
 
+    print(models.to_string())
     models.to_json("output/models.json", orient="records", indent=2)
