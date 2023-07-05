@@ -71,7 +71,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Limited,Blueprint,4x2,56415,1098.0,57513.0,At dealer,False,Available,5TFJC5AB6PX002653,Toyota of Cedar Park,TX
 2023,Tundra Limited,Smoked Mesquite,4x2,56415,1875.0,58290.0,At dealer,False,Available,5TFJC5AB6PX002684,Red McCombs Toyota,TX
 2023,Tundra Limited,Wind Chill Pearl,4x2,56415,0.0,56415.0,At dealer,False,Available,5TFJC5AB6PX002703,Toyota of Dallas,TX
-2023,Tundra Limited,Wind Chill Pearl,4x2,56415,0.0,56415.0,Port to dealer,False,Available,5TFJC5AB6PX002765,Shottenkirk Toyota Granbury,TX
+2023,Tundra Limited,Wind Chill Pearl,4x2,56415,0.0,56415.0,At dealer,False,Available,5TFJC5AB6PX002765,Shottenkirk Toyota Granbury,TX
 2023,Tundra Limited,Midnight Black Metallic,4x2,56415,0.0,56415.0,At dealer,False,Available,5TFJC5AB6PX002782,Toyota of Pharr,TX
 2023,Tundra Limited,Army Green,4x2,56415,0.0,56415.0,Port to dealer,False,DealerHold,5TFJC5AB6PX002796,Toyota of Downtown LA,CA
 2023,Tundra Limited,Midnight Black Metallic,4x2,56415,0.0,56415.0,Factory to port,True,Available,5TFJC5AB6PX002801,Freeman Toyota,TX
@@ -122,6 +122,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Limited,Wind Chill Pearl,4x2,56415,0.0,56415.0,Factory to port,False,Available,5TFJC5ABXPX002817,Fred Haas Toyota Country,TX
 2023,Tundra Limited,Blueprint,4x2,56415,6395.0,62810.0,Factory to port,False,Available,5TFJC5ABXPX002851,South Toyota,TX
 2023,Tundra Limited,Celestial Silver Metallic,4x2,56415,0.0,56415.0,Factory to port,False,Available,5TFJC5ABXPX21B043,AutoNation Toyota Gulf Freeway,TX
+2023,Tundra Limited,Midnight Black Metallic,4x2,56415,0.0,56415.0,Factory to port,False,,5TFJC5ABXPX25C241,Rivertown Toyota,GA
 2023,Tundra Limited,Midnight Black Metallic,4x2,56745,0.0,56745.0,At dealer,False,DealerHold,5TFJC5BC0PX001179,Post Oak Toyota,OK
 2023,Tundra Limited,Army Green,4x2,56745,0.0,56745.0,At dealer,False,Available,5TFJC5BC0PX001182,North Park Toyota of San Antonio,TX
 2023,Tundra Limited,Midnight Black Metallic,4x2,56745,0.0,56745.0,Factory to port,False,Available,5TFJC5BC1PX001188,Toyota of Pharr,TX
@@ -158,12 +159,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Limited,Midnight Black Metallic,4x4,59415,0.0,59415.0,Factory to port,False,DealerHold,5TFJC5DB0PX035627,Heyward Allen Toyota,GA
 2023,Tundra Limited,Supersonic Red,4x4,59415,0.0,59415.0,Factory to port,False,Available,5TFJC5DB0PX035935,Philpott Toyota,TX
 2023,Tundra Limited,Celestial Silver Metallic,4x4,59415,0.0,59415.0,Factory to port,False,,5TFJC5DB0PX23A650,Route 44 Toyota,MA
+2023,Tundra Limited,Celestial Silver Metallic,4x4,59415,0.0,59415.0,Factory to port,False,,5TFJC5DB0PX25B319,Ed Morse Delray Toyota,FL
 2023,Tundra Limited,Smoked Mesquite,4x4,59415,0.0,59415.0,At dealer,False,Available,5TFJC5DB1PX028816,Parks Toyota of Deland,FL
 2023,Tundra Limited,Blueprint,4x4,57915,0.0,57915.0,Factory to port,False,,5TFJC5DB1PX031148,Casey Toyota,VA
 2023,Tundra Limited,Magnetic Gray Metallic,4x4,59415,0.0,59415.0,At dealer,False,Available,5TFJC5DB1PX032252,Serra Toyota of Decatur,AL
 2023,Tundra Limited,Smoked Mesquite,4x4,57915,0.0,57915.0,Port to dealer,False,DealerHold,5TFJC5DB1PX032333,Lithia Toyota of Springfield,OR
 2023,Tundra Limited,Smoked Mesquite,4x4,59415,2379.0,61794.0,At dealer,False,Available,5TFJC5DB1PX033661,Gullo Toyota of Conroe,TX
-2023,Tundra Limited,Lunar Rock,4x4,59415,0.0,59415.0,At dealer,False,,5TFJC5DB1PX033790,San Francisco Toyota,CA
 2023,Tundra Limited,Midnight Black Metallic,4x4,59415,0.0,59415.0,At dealer,False,Available,5TFJC5DB1PX034082,Sterling McCall Toyota Fort Bend,TX
 2023,Tundra Limited,Magnetic Gray Metallic,4x4,59415,0.0,59415.0,Port to dealer,False,,5TFJC5DB1PX034857,Toyota of Nashua,NH
 2023,Tundra Limited,Supersonic Red,4x4,59415,0.0,59415.0,Port to dealer,False,DealerHold,5TFJC5DB1PX035037,David Wilson's Toyota and Scion of Las Vegas,NV
@@ -174,11 +175,13 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Limited,Wind Chill Pearl,4x4,59415,1098.0,60513.0,Factory to port,False,Available,5TFJC5DB1PX035586,Toyota of Cedar Park,TX
 2023,Tundra Limited,Blueprint,4x4,59415,0.0,59415.0,Factory to port,False,Available,5TFJC5DB1PX035863,Gene Messer Toyota,TX
 2023,Tundra Limited,Wind Chill Pearl,4x4,59415,0.0,59415.0,Factory to port,False,Available,5TFJC5DB1PX23A740,Bryan Easler Toyota,NC
+2023,Tundra Limited,Celestial Silver Metallic,4x4,59415,0.0,59415.0,Factory to port,False,,5TFJC5DB1PX23C522,Hendrick Toyota North Charleston,SC
+2023,Tundra Limited,Wind Chill Pearl,4x4,59415,0.0,59415.0,Factory to port,False,,5TFJC5DB1PX24A698,Toyota of Melbourne,FL
 2023,Tundra Limited,Midnight Black Metallic,4x4,59415,4000.0,63415.0,At dealer,False,Available,5TFJC5DB2PX032714,Lakeside Toyota,LA
 2023,Tundra Limited,Celestial Silver Metallic,4x4,59415,0.0,59415.0,Port to dealer,False,DealerHold,5TFJC5DB2PX033233,Royal Moore Toyota,OR
 2023,Tundra Limited,Army Green,4x4,59415,0.0,59415.0,Port to dealer,False,DealerHold,5TFJC5DB2PX033250,David Wilson's Toyota and Scion of Las Vegas,NV
-2023,Tundra Limited,Army Green,4x4,59415,0.0,59415.0,Port to dealer,False,Available,5TFJC5DB2PX033331,Toyota of Laredo,TX
-2023,Tundra Limited,Celestial Silver Metallic,4x4,59415,0.0,59415.0,Port to dealer,False,DealerHold,5TFJC5DB2PX033605,Kalispell Toyota,MT
+2023,Tundra Limited,Army Green,4x4,59415,0.0,59415.0,At dealer,False,Available,5TFJC5DB2PX033331,Toyota of Laredo,TX
+2023,Tundra Limited,Celestial Silver Metallic,4x4,59415,0.0,59415.0,At dealer,False,DealerHold,5TFJC5DB2PX033605,Kalispell Toyota,MT
 2023,Tundra Limited,Midnight Black Metallic,4x4,59415,1599.0,61014.0,At dealer,False,Available,5TFJC5DB2PX034012,Silsbee Toyota,TX
 2023,Tundra Limited,Blueprint,4x4,59415,0.0,59415.0,At dealer,False,Available,5TFJC5DB2PX034351,Fred Anderson Toyota of Charleston,SC
 2023,Tundra Limited,Wind Chill Pearl,4x4,59415,0.0,59415.0,At dealer,False,Available,5TFJC5DB2PX034382,Bruner Toyota,TX
@@ -193,8 +196,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Limited,Midnight Black Metallic,4x4,59415,0.0,59415.0,Factory to port,False,DealerHold,5TFJC5DB2PX035838,Brownsville Toyota,TX
 2023,Tundra Limited,Midnight Black Metallic,4x4,59415,999.0,60414.0,Factory to port,False,Available,5TFJC5DB2PX036021,Janzen Toyota,OK
 2023,Tundra Limited,Magnetic Gray Metallic,4x4,59415,3493.0,62908.0,Factory to port,False,Available,5TFJC5DB2PX036066,Keating Toyota,TX
-2023,Tundra Limited,Magnetic Gray Metallic,4x4,59415,0.0,59415.0,Port to dealer,False,DealerHold,5TFJC5DB2PX036150,Warrenton Toyota,VA
+2023,Tundra Limited,Magnetic Gray Metallic,4x4,59415,0.0,59415.0,Port to dealer,True,DealerHold,5TFJC5DB2PX036150,Warrenton Toyota,VA
 2023,Tundra Limited,Wind Chill Pearl,4x4,59415,2299.0,61714.0,Factory to port,False,Available,5TFJC5DB2PX21C120,Round Rock Toyota,TX
+2023,Tundra Limited,Magnetic Gray Metallic,4x4,59415,0.0,59415.0,Factory to port,False,,5TFJC5DB2PX23C898,Village Cadillac-Toyota,FL
 2023,Tundra Limited,Smoked Mesquite,4x4,59415,1995.0,61410.0,At dealer,False,Available,5TFJC5DB3PX031653,Lone Star Toyota of Lewisville,TX
 2023,Tundra Limited,Midnight Black Metallic,4x4,59415,2379.0,61794.0,At dealer,False,Available,5TFJC5DB3PX032298,Gullo Toyota of Conroe,TX
 2023,Tundra Limited,Midnight Black Metallic,4x4,59415,2998.0,62413.0,At dealer,False,DealerHold,5TFJC5DB3PX032818,San Marcos Toyota,TX
@@ -208,7 +212,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Limited,Midnight Black Metallic,4x4,59415,0.0,59415.0,At dealer,False,Available,5TFJC5DB3PX034715,Fred Haas Toyota World,TX
 2023,Tundra Limited,Magnetic Gray Metallic,4x4,59415,0.0,59415.0,At dealer,False,DealerHold,5TFJC5DB3PX034813,Toyota of Glendale,CA
 2023,Tundra Limited,Ice Cap,4x4,59415,0.0,59415.0,Port to dealer,False,DealerHold,5TFJC5DB3PX035122,Carson City Toyota,NV
-2023,Tundra Limited,Ice Cap,4x4,59415,0.0,59415.0,At dealer,False,,5TFJC5DB3PX035248,Camelback Toyota,AZ
 2023,Tundra Limited,Ice Cap,4x4,59415,0.0,59415.0,Port to dealer,False,Available,5TFJC5DB3PX035251,Dolan Toyota,NV
 2023,Tundra Limited,Midnight Black Metallic,4x4,59415,0.0,59415.0,At dealer,False,Available,5TFJC5DB3PX035332,Toyota of Laredo,TX
 2023,Tundra Limited,Wind Chill Pearl,4x4,59415,1098.0,60513.0,Factory to port,False,Available,5TFJC5DB3PX035461,Toyota of Cedar Park,TX
@@ -217,6 +220,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Limited,Magnetic Gray Metallic,4x4,59415,0.0,59415.0,Factory to port,False,Available,5TFJC5DB3PX035962,Toyota of Pharr,TX
 2023,Tundra Limited,Wind Chill Pearl,4x4,59415,0.0,59415.0,Port to dealer,False,,5TFJC5DB3PX036030,Casey Toyota,VA
 2023,Tundra Limited,Midnight Black Metallic,4x4,59415,1098.0,60513.0,Factory to port,False,Available,5TFJC5DB3PX036156,Toyota of Cedar Park,TX
+2023,Tundra Limited,Smoked Mesquite,4x4,59415,0.0,59415.0,Factory to port,False,,5TFJC5DB3PX25A309,Toyota of Clermont,FL
 2023,Tundra Limited,Supersonic Red,4x4,57915,0.0,57915.0,At dealer,False,Available,5TFJC5DB4PX030642,Yellowstone Toyota,WY
 2023,Tundra Limited,Celestial Silver Metallic,4x4,57915,0.0,57915.0,At dealer,False,Available,5TFJC5DB4PX031662,Lewis Toyota of Hays,KS
 2023,Tundra Limited,Blueprint,4x4,59415,0.0,59415.0,At dealer,False,DealerHold,5TFJC5DB4PX032455,Community Toyota,TX
@@ -236,6 +240,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Limited,Blueprint,4x4,59415,0.0,59415.0,Factory to port,False,Available,5TFJC5DB4PX036036,Lakeland Toyota,FL
 2023,Tundra Limited,Blueprint,4x4,59415,0.0,59415.0,Factory to port,False,Available,5TFJC5DB4PX22A803,DeLuca Toyota,FL
 2023,Tundra Limited,Magnetic Gray Metallic,4x4,59415,988.0,60403.0,Factory to port,False,Available,5TFJC5DB4PX23B655,Longo Toyota of Prosper,TX
+2023,Tundra Limited,Midnight Black Metallic,4x4,59415,0.0,59415.0,Factory to port,False,Available,5TFJC5DB4PX24A212,Gettel Toyota of Bradenton,FL
 2023,Tundra Limited,Blueprint,4x4,57915,0.0,57915.0,At dealer,False,,5TFJC5DB5PX030102,L & S Toyota of Beckley,WV
 2023,Tundra Limited,Supersonic Red,4x4,57915,0.0,57915.0,Port to dealer,False,,5TFJC5DB5PX033176,Lithia Toyota of Klamath Falls,OR
 2023,Tundra Limited,Midnight Black Metallic,4x4,59415,0.0,59415.0,Factory to port,False,Available,5TFJC5DB5PX033226,Ryburn Toyota,AR
@@ -243,7 +248,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Limited,Supersonic Red,4x4,59415,2998.0,62413.0,At dealer,False,Available,5TFJC5DB5PX033386,San Marcos Toyota,TX
 2023,Tundra Limited,Wind Chill Pearl,4x4,59415,0.0,59415.0,Port to dealer,False,Available,5TFJC5DB5PX033422,Stephen Wade Toyota,UT
 2023,Tundra Limited,Blueprint,4x4,59415,5995.0,65410.0,At dealer,False,Available,5TFJC5DB5PX033436,Toyota of Richardson,TX
-2023,Tundra Limited,Smoked Mesquite,4x4,59415,0.0,59415.0,At dealer,False,DealerHold,5TFJC5DB5PX033713,Toyota of Pharr,TX
+2023,Tundra Limited,Smoked Mesquite,4x4,59415,0.0,59415.0,At dealer,False,Available,5TFJC5DB5PX033713,Toyota of Pharr,TX
 2023,Tundra Limited,Midnight Black Metallic,4x4,59415,0.0,59415.0,Factory to port,False,Available,5TFJC5DB5PX034098,Town & Country Toyota,NC
 2023,Tundra Limited,Magnetic Gray Metallic,4x4,59415,799.0,60214.0,At dealer,False,Available,5TFJC5DB5PX034442,Landers Toyota NWA,AR
 2023,Tundra Limited,Magnetic Gray Metallic,4x4,59415,0.0,59415.0,Factory to port,False,Available,5TFJC5DB5PX034814,Serra Toyota,AL
@@ -251,7 +256,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Limited,Wind Chill Pearl,4x4,59415,1795.0,61210.0,Factory to port,True,Available,5TFJC5DB5PX034926,Universal Toyota,TX
 2023,Tundra Limited,Magnetic Gray Metallic,4x4,59415,1995.0,61410.0,At dealer,False,Available,5TFJC5DB5PX035283,Cavender Toyota,TX
 2023,Tundra Limited,Supersonic Red,4x4,59415,0.0,59415.0,At dealer,True,DealerHold,5TFJC5DB5PX035297,Fred Haas Toyota World,TX
-2023,Tundra Limited,Celestial Silver Metallic,4x4,59415,0.0,59415.0,Port to dealer,True,DealerHold,5TFJC5DB5PX035509,Toyota of Laredo,TX
+2023,Tundra Limited,Celestial Silver Metallic,4x4,59415,0.0,59415.0,At dealer,True,DealerHold,5TFJC5DB5PX035509,Toyota of Laredo,TX
 2023,Tundra Limited,Wind Chill Pearl,4x4,59415,0.0,59415.0,Factory to port,False,Available,5TFJC5DB5PX035770,Doc's Toyota,MS
 2023,Tundra Limited,Magnetic Gray Metallic,4x4,59415,0.0,59415.0,Factory to port,False,Available,5TFJC5DB5PX035803,North Park Toyota of San Antonio,TX
 2023,Tundra Limited,Blueprint,4x4,59415,2696.0,62111.0,Factory to port,False,Available,5TFJC5DB5PX035820,Alamo Toyota,TX
@@ -260,12 +265,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Limited,Magnetic Gray Metallic,4x4,59415,0.0,59415.0,Factory to port,False,Available,5TFJC5DB6PX033316,Fred Anderson Toyota of Asheville,NC
 2023,Tundra Limited,Lunar Rock,4x4,59415,0.0,59415.0,Port to dealer,False,DealerHold,5TFJC5DB6PX033381,Toyota of Glendora,CA
 2023,Tundra Limited,Smoked Mesquite,4x4,59415,1795.0,61210.0,At dealer,False,Available,5TFJC5DB6PX033543,Universal Toyota,TX
-2023,Tundra Limited,Lunar Rock,4x4,59415,9999.0,69414.0,Factory to port,True,DealerHold,5TFJC5DB6PX033624,Ray Brandt Toyota,LA
+2023,Tundra Limited,Lunar Rock,4x4,59415,9999.0,69414.0,At dealer,True,DealerHold,5TFJC5DB6PX033624,Ray Brandt Toyota,LA
 2023,Tundra Limited,Midnight Black Metallic,4x4,59415,0.0,59415.0,Port to dealer,False,Available,5TFJC5DB6PX034059,Bommarito Toyota,MO
 2023,Tundra Limited,Wind Chill Pearl,4x4,59415,1895.0,61310.0,At dealer,False,Available,5TFJC5DB6PX034188,Central Toyota,AR
 2023,Tundra Limited,Midnight Black Metallic,4x4,59415,0.0,59415.0,Port to dealer,False,Available,5TFJC5DB6PX034336,Conicelli Toyota of Springfield,PA
-2023,Tundra Limited,Blueprint,4x4,59415,2895.0,62310.0,At dealer,False,Available,5TFJC5DB6PX034448,Jim Norton Toyota,OK
-2023,Tundra Limited,Celestial Silver Metallic,4x4,59415,0.0,59415.0,Port to dealer,False,Available,5TFJC5DB6PX034756,Walker Toyota,LA
+2023,Tundra Limited,Blueprint,4x4,59415,2895.0,62310.0,At dealer,True,Available,5TFJC5DB6PX034448,Jim Norton Toyota,OK
+2023,Tundra Limited,Celestial Silver Metallic,4x4,59415,0.0,59415.0,At dealer,False,Available,5TFJC5DB6PX034756,Walker Toyota,LA
 2023,Tundra Limited,Celestial Silver Metallic,4x4,59415,2379.0,61794.0,At dealer,False,Available,5TFJC5DB6PX034918,Gullo Toyota of Conroe,TX
 2023,Tundra Limited,Army Green,4x4,59415,0.0,59415.0,At dealer,False,Available,5TFJC5DB6PX034966,Toyota of Glendale,CA
 2023,Tundra Limited,Magnetic Gray Metallic,4x4,59415,0.0,59415.0,Factory to port,False,Available,5TFJC5DB6PX035051,Tuscaloosa Toyota,AL
@@ -276,15 +281,17 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Limited,Magnetic Gray Metallic,4x4,59415,0.0,59415.0,Factory to port,False,DealerHold,5TFJC5DB6PX035843,North Park Toyota of San Antonio,TX
 2023,Tundra Limited,Magnetic Gray Metallic,4x4,59415,0.0,59415.0,Port to dealer,False,,5TFJC5DB6PX036099,Concord Toyota,CA
 2023,Tundra Limited,Midnight Black Metallic,4x4,59415,0.0,59415.0,Factory to port,False,Available,5TFJC5DB6PX21B939,Bev Smith Toyota,FL
+2023,Tundra Limited,Midnight Black Metallic,4x4,59415,0.0,59415.0,Factory to port,False,,5TFJC5DB6PX24B118,Bev Smith Toyota,FL
+2023,Tundra Limited,Wind Chill Pearl,4x4,59415,0.0,59415.0,Factory to port,False,Available,5TFJC5DB6PX25C457,Fred Anderson Toyota of Sanford,NC
 2023,Tundra Limited,Smoked Mesquite,4x4,57915,0.0,57915.0,Factory to port,True,DealerHold,5TFJC5DB7PX026276,"Pedersen Toyota, Ltd.",CO
-2023,Tundra Limited,Midnight Black Metallic,4x4,57915,0.0,57915.0,Port to dealer,False,,5TFJC5DB7PX032434,Balise Toyota of Warwick,RI
+2023,Tundra Limited,Midnight Black Metallic,4x4,57915,0.0,57915.0,At dealer,False,,5TFJC5DB7PX032434,Balise Toyota of Warwick,RI
 2023,Tundra Limited,Midnight Black Metallic,4x4,57915,0.0,57915.0,At dealer,False,Available,5TFJC5DB7PX033096,Tufankjian Toyota of Braintree,MA
 2023,Tundra Limited,Blueprint,4x4,59415,0.0,59415.0,At dealer,False,Available,5TFJC5DB7PX033308,Family Toyota of Burleson,TX
 2023,Tundra Limited,Blueprint,4x4,59415,1995.0,61410.0,At dealer,False,Available,5TFJC5DB7PX033471,Cavender Toyota,TX
 2023,Tundra Limited,Wind Chill Pearl,4x4,59415,0.0,59415.0,Port to dealer,False,DealerHold,5TFJC5DB7PX033552,David Wilson's Toyota and Scion of Las Vegas,NV
 2023,Tundra Limited,Magnetic Gray Metallic,4x4,59415,0.0,59415.0,Port to dealer,True,,5TFJC5DB7PX034166,Toyota of Greensburg,PA
-2023,Tundra Limited,Wind Chill Pearl,4x4,59415,599.0,60014.0,Factory to port,False,Available,5TFJC5DB7PX034197,Landers Toyota,AR
-2023,Tundra Limited,Celestial Silver Metallic,4x4,59415,5403.0,64818.0,Port to dealer,False,Available,5TFJC5DB7PX034491,Tejas Toyota,TX
+2023,Tundra Limited,Wind Chill Pearl,4x4,59415,599.0,60014.0,At dealer,False,Available,5TFJC5DB7PX034197,Landers Toyota,AR
+2023,Tundra Limited,Celestial Silver Metallic,4x4,59415,5403.0,64818.0,At dealer,False,Available,5TFJC5DB7PX034491,Tejas Toyota,TX
 2023,Tundra Limited,Ice Cap,4x4,59415,0.0,59415.0,Factory to port,False,Available,5TFJC5DB7PX034538,Gettel Toyota of Lakewood,FL
 2023,Tundra Limited,Midnight Black Metallic,4x4,59415,0.0,59415.0,At dealer,False,Available,5TFJC5DB7PX034720,Bruner Toyota,TX
 2023,Tundra Limited,Celestial Silver Metallic,4x4,59415,0.0,59415.0,At dealer,False,Available,5TFJC5DB7PX034796,Toyota of Fayetteville,AR
@@ -295,6 +302,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Limited,Magnetic Gray Metallic,4x4,59415,0.0,59415.0,Factory to port,False,Available,5TFJC5DB7PX035639,Vic Vaughan Toyota of Boerne,TX
 2023,Tundra Limited,Magnetic Gray Metallic,4x4,59415,0.0,59415.0,Port to dealer,False,,5TFJC5DB7PX036077,Pohanka Toyota of Salisbury,MD
 2023,Tundra Limited,Magnetic Gray Metallic,4x4,59415,0.0,59415.0,Factory to port,False,Available,5TFJC5DB7PX036130,Bruner Toyota,TX
+2023,Tundra Limited,Celestial Silver Metallic,4x4,59415,0.0,59415.0,Factory to port,False,Available,5TFJC5DB7PX25C452,Hendrick Toyota Apex,NC
 2023,Tundra Limited,Celestial Silver Metallic,4x4,57915,0.0,57915.0,At dealer,False,Available,5TFJC5DB8PX028053,Springhill Toyota,AL
 2023,Tundra Limited,Ice Cap,4x4,59415,0.0,59415.0,Port to dealer,False,Available,5TFJC5DB8PX033513,Stephen Wade Toyota,UT
 2023,Tundra Limited,Blueprint,4x4,59415,0.0,59415.0,At dealer,False,Available,5TFJC5DB8PX033852,Heyward Allen Toyota,GA
@@ -320,11 +328,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Limited,Ice Cap,4x4,59415,0.0,59415.0,Port to dealer,False,,5TFJC5DB9PX034413,Toyota of Greensburg,PA
 2023,Tundra Limited,Blueprint,4x4,59415,1599.0,61014.0,Factory to port,False,Available,5TFJC5DB9PX034640,Fowler Toyota,OK
 2023,Tundra Limited,Magnetic Gray Metallic,4x4,59415,0.0,59415.0,Port to dealer,False,Available,5TFJC5DB9PX035108,Toyota of Scranton,PA
-2023,Tundra Limited,Army Green,4x4,59415,0.0,59415.0,Port to dealer,False,,5TFJC5DB9PX035190,Gosch Toyota,CA
+2023,Tundra Limited,Army Green,4x4,59415,0.0,59415.0,At dealer,False,,5TFJC5DB9PX035190,Gosch Toyota,CA
 2023,Tundra Limited,Celestial Silver Metallic,4x4,59415,0.0,59415.0,At dealer,False,Available,5TFJC5DB9PX035240,Cavender Toyota,TX
 2023,Tundra Limited,Wind Chill Pearl,4x4,59415,599.0,60014.0,Factory to port,False,Available,5TFJC5DB9PX035545,Landers Toyota,AR
 2023,Tundra Limited,Lunar Rock,4x4,59415,0.0,59415.0,Port to dealer,False,,5TFJC5DB9PX035609,Toyota Santa Monica,CA
-2023,Tundra Limited,Midnight Black Metallic,4x4,59415,0.0,59415.0,Factory to port,False,Available,5TFJC5DB9PX035951,Bruner Toyota,TX
+2023,Tundra Limited,Midnight Black Metallic,4x4,59415,0.0,59415.0,Port to dealer,False,Available,5TFJC5DB9PX035951,Bruner Toyota,TX
 2023,Tundra Limited,Army Green,4x4,59415,1190.0,60605.0,Factory to port,False,,5TFJC5DB9PX21D555,Simi Valley Toyota,CA
 2023,Tundra Limited,Blueprint,4x4,59415,0.0,59415.0,Factory to port,False,Available,5TFJC5DB9PX23B151,Toyota of Fayetteville,AR
 2023,Tundra Limited,Celestial Silver Metallic,4x4,59415,0.0,59415.0,Factory to port,False,Available,5TFJC5DB9PX23C882,Toyota of Pharr,TX
@@ -413,17 +421,21 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra 1794 Edition,Wind Chill Pearl,4x2,65205,0.0,65205.0,Factory to port,False,Available,5TFMC5AB0PX002824,Gettel Toyota of Bradenton,FL
 2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x2,65205,0.0,65205.0,At dealer,False,Available,5TFMC5AB1PX002590,Lipton Toyota,FL
 2023,Tundra 1794 Edition,Celestial Silver Metallic,4x2,65205,0.0,65205.0,Factory to port,False,Available,5TFMC5AB1PX22A565,Peter Boulware Toyota,FL
+2023,Tundra 1794 Edition,Celestial Silver Metallic,4x2,65205,0.0,65205.0,Factory to port,False,,5TFMC5AB1PX23A688,Village Cadillac-Toyota,FL
+2023,Tundra 1794 Edition,Army Green,4x2,65205,0.0,65205.0,Factory to port,False,,5TFMC5AB1PX23C912,Bev Smith Toyota,FL
+2023,Tundra 1794 Edition,Midnight Black Metallic,4x2,65205,0.0,65205.0,Factory to port,False,,5TFMC5AB1PX25C707,Ed Morse Delray Toyota,FL
 2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x2,63705,0.0,63705.0,At dealer,False,Available,5TFMC5AB2PX002419,Mike Johnson's Hickory Toyota,NC
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x2,65205,0.0,65205.0,At dealer,False,DealerHold,5TFMC5AB2PX002677,Community Toyota,TX
+2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x2,65205,0.0,65205.0,Factory to port,False,Available,5TFMC5AB2PX24B246,Pinehurst Toyota,NC
 2023,Tundra 1794 Edition,Army Green,4x2,65205,0.0,65205.0,At dealer,False,Available,5TFMC5AB3PX002607,Milton Ruben Toyota of Augusta,GA
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x2,65205,0.0,65205.0,At dealer,False,Available,5TFMC5AB3PX002669,TeamOne Toyota of Gadsden,AL
-2023,Tundra 1794 Edition,Celestial Silver Metallic,4x2,65205,1098.0,66303.0,Factory to port,True,DealerHold,5TFMC5AB3PX002848,Toyota of Cedar Park,TX
+2023,Tundra 1794 Edition,Celestial Silver Metallic,4x2,65205,1098.0,66303.0,Factory to port,True,Available,5TFMC5AB3PX002848,Toyota of Cedar Park,TX
 2023,Tundra 1794 Edition,Celestial Silver Metallic,4x2,65205,0.0,65205.0,Factory to port,False,Available,5TFMC5AB3PX20C035,Rick Hendrick Toyota Sandy Springs,GA
 2023,Tundra 1794 Edition,Celestial Silver Metallic,4x2,65205,0.0,65205.0,At dealer,False,Available,5TFMC5AB4PX002566,Hendrick Toyota Apex,NC
 2023,Tundra 1794 Edition,Wind Chill Pearl,4x2,65205,0.0,65205.0,At dealer,False,Available,5TFMC5AB5PX002527,Kendall Toyota,FL
 2023,Tundra 1794 Edition,Celestial Silver Metallic,4x2,65205,0.0,65205.0,At dealer,False,Available,5TFMC5AB5PX002611,Toyota of North Miami,FL
 2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x2,65205,4085.0,69290.0,Factory to port,False,Available,5TFMC5AB5PX002785,Fred Haas Toyota World,TX
-2023,Tundra 1794 Edition,Wind Chill Pearl,4x2,65205,2299.0,67504.0,Factory to port,False,Available,5TFMC5AB5PX002852,Round Rock Toyota,TX
+2023,Tundra 1794 Edition,Wind Chill Pearl,4x2,65205,2299.0,67504.0,Factory to port,True,Available,5TFMC5AB5PX002852,Round Rock Toyota,TX
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x2,65205,0.0,65205.0,At dealer,False,Available,5TFMC5AB6PX002598,Stokes Toyota Beaufort,SC
 2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x2,63705,0.0,63705.0,At dealer,False,Available,5TFMC5AB7PX002416,Toyota of North Charlotte,NC
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x2,65205,0.0,65205.0,At dealer,False,Available,5TFMC5AB7PX002609,Fred Haas Toyota World,TX
@@ -432,6 +444,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra 1794 Edition,Smoked Mesquite,4x2,65205,0.0,65205.0,Factory to port,False,Available,5TFMC5AB8PX002800,Pinehurst Toyota,NC
 2023,Tundra 1794 Edition,Wind Chill Pearl,4x2,65205,0.0,65205.0,Factory to port,False,DealerHold,5TFMC5AB8PX002845,Brownsville Toyota,TX
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x2,65205,0.0,65205.0,Factory to port,False,,5TFMC5AB8PX21A504,Ed Morse Delray Toyota,FL
+2023,Tundra 1794 Edition,Wind Chill Pearl,4x2,65205,0.0,65205.0,Factory to port,False,,5TFMC5AB8PX25C574,World Toyota,GA
 2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x2,63705,0.0,63705.0,At dealer,False,Available,5TFMC5AB9PX002157,Mike Johnson's Hickory Toyota,NC
 2023,Tundra 1794 Edition,Army Green,4x2,65205,0.0,65205.0,Factory to port,False,DealerHold,5TFMC5AB9PX002627,Bev Smith Toyota,FL
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x2,65205,0.0,65205.0,At dealer,False,Available,5TFMC5AB9PX002689,Jeff Hunter Toyota,TX
@@ -445,8 +458,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,66705,0.0,66705.0,Port to dealer,False,Available,5TFMC5DB0PX031378,Luther Brookdale Toyota,MN
 2023,Tundra 1794 Edition,Smoked Mesquite,4x4,66705,0.0,66705.0,At dealer,False,,5TFMC5DB0PX031445,Crystal Toyota,NJ
 2023,Tundra 1794 Edition,Supersonic Red,4x4,68205,0.0,68205.0,At dealer,False,Available,5TFMC5DB0PX032207,TeamOne Toyota of Gadsden,AL
-2023,Tundra 1794 Edition,Supersonic Red,4x4,68205,0.0,68205.0,At dealer,False,Available,5TFMC5DB0PX032644,Gene Messer Toyota,TX
-2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,66705,0.0,66705.0,Port to dealer,False,DealerHold,5TFMC5DB0PX032711,Olathe Toyota,KS
+2023,Tundra 1794 Edition,Supersonic Red,4x4,68205,0.0,68205.0,At dealer,False,DealerHold,5TFMC5DB0PX032644,Gene Messer Toyota,TX
+2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,66705,0.0,66705.0,At dealer,False,DealerHold,5TFMC5DB0PX032711,Olathe Toyota,KS
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,68205,1695.0,69900.0,At dealer,False,Available,5TFMC5DB0PX033289,Shapen Toyota,TX
 2023,Tundra 1794 Edition,Celestial Silver Metallic,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DB0PX033387,John Weiss' Toyota of South County,MO
 2023,Tundra 1794 Edition,Blueprint,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DB0PX033616,Koons Westminster Toyota,MD
@@ -475,6 +488,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x4,68205,0.0,68205.0,Factory to port,False,,5TFMC5DB0PX22C321,Marion Toyota,IL
 2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x4,68205,0.0,68205.0,Factory to port,True,DealerHold,5TFMC5DB0PX22C335,Modesto Toyota,CA
 2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x4,68205,0.0,68205.0,Factory to port,False,,5TFMC5DB0PX23B116,Bennett Toyota of Lebanon,PA
+2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,68205,0.0,68205.0,Factory to port,False,,5TFMC5DB0PX25B575,Courtesy Toyota,FL
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,66705,0.0,66705.0,Port to dealer,False,,5TFMC5DB1PX033172,Team Toyota of Princeton,NJ
 2023,Tundra 1794 Edition,Celestial Silver Metallic,4x4,68205,0.0,68205.0,Port to dealer,False,DealerHold,5TFMC5DB1PX033205,Culver City Toyota,CA
 2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68205,0.0,68205.0,At dealer,True,DealerHold,5TFMC5DB1PX033415,Toyota of Laredo,TX
@@ -484,7 +498,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra 1794 Edition,Celestial Silver Metallic,4x4,68205,2995.0,71200.0,At dealer,False,Available,5TFMC5DB1PX033883,Classic Toyota,TX
 2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x4,68205,1499.0,69704.0,At dealer,False,Available,5TFMC5DB1PX034113,Robbins Toyota,TX
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,68205,5403.0,73608.0,At dealer,True,Available,5TFMC5DB1PX034161,Tejas Toyota,TX
-2023,Tundra 1794 Edition,Smoked Mesquite,4x4,68205,3294.0,71499.0,Factory to port,False,Available,5TFMC5DB1PX034189,Team Toyota,LA
+2023,Tundra 1794 Edition,Smoked Mesquite,4x4,68205,3294.0,71499.0,At dealer,False,Available,5TFMC5DB1PX034189,Team Toyota,LA
 2023,Tundra 1794 Edition,Celestial Silver Metallic,4x4,68205,7995.0,76200.0,At dealer,False,Available,5TFMC5DB1PX034273,Lithia Toyota of Odessa,TX
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DB1PX034449,Heartland Toyota,WA
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,68205,1098.0,69303.0,Factory to port,False,Available,5TFMC5DB1PX034662,Toyota of Cedar Park,TX
@@ -525,7 +539,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DB2PX033603,Riverhead Toyota,NY
 2023,Tundra 1794 Edition,Celestial Silver Metallic,4x4,68205,0.0,68205.0,At dealer,False,DealerHold,5TFMC5DB2PX033715,Koons Tysons Toyota,VA
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,68205,0.0,68205.0,Factory to port,True,DealerHold,5TFMC5DB2PX033777,Brownsville Toyota,TX
-2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68205,1098.0,69303.0,Factory to port,True,DealerHold,5TFMC5DB2PX033925,Toyota of Cedar Park,TX
+2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68205,1098.0,69303.0,Factory to port,True,Available,5TFMC5DB2PX033925,Toyota of Cedar Park,TX
 2023,Tundra 1794 Edition,Blueprint,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DB2PX033942,Fiore Toyota,PA
 2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x4,68205,0.0,68205.0,Port to dealer,True,,5TFMC5DB2PX033973,Wilson Toyota,IA
 2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68205,0.0,68205.0,At dealer,False,DealerHold,5TFMC5DB2PX034038,Toyota of Bozeman,MT
@@ -541,7 +555,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DB2PX034668,"Fort Dodge Ford, Lincoln, Toyota",IA
 2023,Tundra 1794 Edition,Celestial Silver Metallic,4x4,68205,3493.0,71698.0,Factory to port,True,DealerHold,5TFMC5DB2PX034699,Keating Toyota,TX
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,68205,0.0,68205.0,At dealer,False,Available,5TFMC5DB2PX034735,Toyota of Tampa Bay,FL
-2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DB2PX034802,Penske Toyota,CA
+2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x4,68205,0.0,68205.0,At dealer,False,,5TFMC5DB2PX034802,Penske Toyota,CA
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,68205,2995.0,71200.0,At dealer,False,Available,5TFMC5DB2PX034816,Classic Toyota,TX
 2023,Tundra 1794 Edition,Supersonic Red,4x4,68205,0.0,68205.0,Port to dealer,True,,5TFMC5DB2PX034833,One Toyota of Oakland,CA
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DB2PX034850,Sunrise Toyota,NY
@@ -563,6 +577,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DB2PX036016,Crestmont Toyota,NJ
 2023,Tundra 1794 Edition,Supersonic Red,4x4,68205,0.0,68205.0,Factory to port,False,Available,5TFMC5DB2PX036081,Arlington Toyota,FL
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,68205,0.0,68205.0,Factory to port,False,,5TFMC5DB2PX21A512,Prestige Toyota,NY
+2023,Tundra 1794 Edition,Army Green,4x4,68205,0.0,68205.0,Factory to port,False,,5TFMC5DB2PX23B120,Pitts Toyota,GA
+2023,Tundra 1794 Edition,Army Green,4x4,68205,0.0,68205.0,Factory to port,False,,5TFMC5DB2PX25C503,Doral Toyota,FL
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,66705,895.0,67600.0,At dealer,False,DealerHold,5TFMC5DB3PX029656,Andrew Toyota,WI
 2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,66705,4624.0,71329.0,At dealer,False,,5TFMC5DB3PX031195,Gateway Toyota,NJ
 2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x4,66705,0.0,66705.0,At dealer,False,,5TFMC5DB3PX033013,Heritage Toyota,VT
@@ -593,7 +609,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra 1794 Edition,Celestial Silver Metallic,4x4,68205,0.0,68205.0,Factory to port,False,Available,5TFMC5DB3PX034940,Fred Haas Toyota World,TX
 2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68205,0.0,68205.0,Factory to port,False,Available,5TFMC5DB3PX034954,Modern Toyota,NC
 2023,Tundra 1794 Edition,Celestial Silver Metallic,4x4,68205,0.0,68205.0,At dealer,False,Available,5TFMC5DB3PX035019,AutoNation Toyota South Austin,TX
-2023,Tundra 1794 Edition,Army Green,4x4,68205,0.0,68205.0,Port to dealer,False,DealerHold,5TFMC5DB3PX035229,Right Toyota,AZ
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DB3PX035232,Empire Toyota of Huntington,NY
 2023,Tundra 1794 Edition,Celestial Silver Metallic,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DB3PX035327,Sheehy Toyota of Fredericksburg,VA
 2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x4,68205,2490.0,70695.0,Port to dealer,False,,5TFMC5DB3PX035330,Toyota of El Cajon,CA
@@ -610,7 +625,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra 1794 Edition,Army Green,4x4,68205,0.0,68205.0,Factory to port,False,,5TFMC5DB3PX21D418,Serra Toyota of Saginaw,MI
 2023,Tundra 1794 Edition,Blueprint,4x4,68205,0.0,68205.0,Factory to port,False,Available,5TFMC5DB3PX21D645,McGee Toyota of Epping,NH
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,68205,2594.0,70799.0,Factory to port,False,DealerHold,5TFMC5DB3PX22A501,Hudson Toyota,NJ
+2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68205,0.0,68205.0,Factory to port,False,,5TFMC5DB3PX23C549,Kendall Toyota,FL
 2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x4,68205,0.0,68205.0,Factory to port,False,,5TFMC5DB3PX23C907,Mechanicsville Toyota,VA
+2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68205,0.0,68205.0,Factory to port,False,,5TFMC5DB3PX25C350,Venice Toyota,FL
 2023,Tundra 1794 Edition,Blueprint,4x4,66705,0.0,66705.0,At dealer,False,DealerHold,5TFMC5DB4PX028175,Deery Brothers Toyota,IA
 2023,Tundra 1794 Edition,Army Green,4x4,68205,0.0,68205.0,At dealer,False,Available,5TFMC5DB4PX031741,Lowe Toyota of Warner Robins,GA
 2023,Tundra 1794 Edition,Smoked Mesquite,4x4,66705,0.0,66705.0,Port to dealer,False,,5TFMC5DB4PX032291,Middletown Toyota,CT
@@ -618,7 +635,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra 1794 Edition,Celestial Silver Metallic,4x4,66705,0.0,66705.0,Factory to port,False,,5TFMC5DB4PX032615,St. Charles Toyota,IL
 2023,Tundra 1794 Edition,Blueprint,4x4,66705,0.0,66705.0,At dealer,False,,5TFMC5DB4PX032663,Del Toyota,PA
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DB4PX033358,Smart Toyota of Quad Cities,IA
-2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DB4PX033425,Carlson Toyota,MN
+2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x4,68205,0.0,68205.0,At dealer,False,,5TFMC5DB4PX033425,Carlson Toyota,MN
 2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x4,68205,0.0,68205.0,Port to dealer,True,,5TFMC5DB4PX033621,St. Cloud Toyota,MN
 2023,Tundra 1794 Edition,Army Green,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DB4PX033635,Toyota of Des Moines,IA
 2023,Tundra 1794 Edition,Army Green,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DB4PX033683,Balise Toyota,MA
@@ -661,6 +678,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra 1794 Edition,Army Green,4x4,68205,0.0,68205.0,Factory to port,False,Available,5TFMC5DB4PX22A653,Wesley Chapel Toyota,FL
 2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x4,68205,1546.0,69751.0,Factory to port,False,,5TFMC5DB4PX22B060,Phil Long Toyota,CO
 2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x4,68205,0.0,68205.0,Factory to port,False,,5TFMC5DB4PX22B074,San Francisco Toyota,CA
+2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x4,68205,0.0,68205.0,Factory to port,False,Available,5TFMC5DB4PX22C239,Toyota of Denton,TX
 2023,Tundra 1794 Edition,Army Green,4x4,68205,1095.0,69300.0,At dealer,False,Available,5TFMC5DB5PX029559,Panama City Toyota,FL
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,68205,0.0,68205.0,At dealer,False,DealerHold,5TFMC5DB5PX031554,Phillips Toyota,FL
 2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x4,68205,0.0,68205.0,At dealer,False,Available,5TFMC5DB5PX031585,Modern Toyota of Boone,NC
@@ -688,7 +706,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68205,0.0,68205.0,At dealer,False,DealerHold,5TFMC5DB5PX034423,Toyota of Muskegon,MI
 2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68205,0.0,68205.0,At dealer,False,,5TFMC5DB5PX034471,LaFontaine Toyota,MI
 2023,Tundra 1794 Edition,Celestial Silver Metallic,4x4,68205,0.0,68205.0,Port to dealer,False,Available,5TFMC5DB5PX034499,Prestige Toyota of Ramsey,NJ
-2023,Tundra 1794 Edition,Smoked Mesquite,4x4,68205,0.0,68205.0,Port to dealer,False,Available,5TFMC5DB5PX034678,Don McGill Toyota,TX
+2023,Tundra 1794 Edition,Smoked Mesquite,4x4,68205,0.0,68205.0,At dealer,False,Available,5TFMC5DB5PX034678,Don McGill Toyota,TX
 2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DB5PX034728,Lewis Toyota of Garden City,KS
 2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DB5PX034843,Lancaster Toyota,PA
 2023,Tundra 1794 Edition,Celestial Silver Metallic,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DB5PX035006,Penn Toyota,NY
@@ -701,11 +719,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x4,68205,395.0,68600.0,Port to dealer,False,DealerHold,5TFMC5DB5PX035460,Toyota 101,CA
 2023,Tundra 1794 Edition,Army Green,4x4,68205,0.0,68205.0,Factory to port,True,DealerHold,5TFMC5DB5PX035510,Fred Anderson Toyota of Asheville,NC
 2023,Tundra 1794 Edition,Supersonic Red,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DB5PX035538,Elk Grove Toyota,CA
-2023,Tundra 1794 Edition,Smoked Mesquite,4x4,68205,0.0,68205.0,Factory to port,True,DealerHold,5TFMC5DB5PX035748,Fred Haas Toyota Country,TX
+2023,Tundra 1794 Edition,Smoked Mesquite,4x4,68205,0.0,68205.0,Factory to port,False,DealerHold,5TFMC5DB5PX035748,Fred Haas Toyota Country,TX
 2023,Tundra 1794 Edition,Celestial Silver Metallic,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DB5PX035751,Romano Toyota,NY
 2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68205,0.0,68205.0,Factory to port,False,Available,5TFMC5DB5PX035930,Kirk Toyota,MS
 2023,Tundra 1794 Edition,Celestial Silver Metallic,4x4,68205,0.0,68205.0,Factory to port,False,Available,5TFMC5DB5PX035944,Gatorland Toyota,FL
-2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68205,0.0,68205.0,Factory to port,True,Available,5TFMC5DB5PX035975,Fred Haas Toyota Country,TX
+2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68205,0.0,68205.0,Factory to port,False,Available,5TFMC5DB5PX035975,Fred Haas Toyota Country,TX
 2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DB5PX036091,Langway Toyota of Newport,RI
 2023,Tundra 1794 Edition,Smoked Mesquite,4x4,68205,0.0,68205.0,Factory to port,False,,5TFMC5DB5PX20A752,Dan Cava's Toyota World,WV
 2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68205,0.0,68205.0,Factory to port,False,,5TFMC5DB5PX21C383,City Toyota,CA
@@ -725,7 +743,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68205,895.0,69100.0,Port to dealer,False,,5TFMC5DB6PX033815,Bennett Toyota,PA
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,68205,0.0,68205.0,At dealer,False,Available,5TFMC5DB6PX033846,Gene Messer Toyota,TX
 2023,Tundra 1794 Edition,Smoked Mesquite,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DB6PX033930,New Holland Toyota,PA
-2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,68205,0.0,68205.0,At dealer,False,DealerHold,5TFMC5DB6PX034138,Beaman Toyota,TN
+2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,68205,0.0,68205.0,At dealer,False,Available,5TFMC5DB6PX034138,Beaman Toyota,TN
 2023,Tundra 1794 Edition,Blueprint,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DB6PX034186,Sloane Toyota of Glenside,PA
 2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68205,0.0,68205.0,At dealer,False,DealerHold,5TFMC5DB6PX034236,Toyota Walnut Creek,CA
 2023,Tundra 1794 Edition,Celestial Silver Metallic,4x4,68205,0.0,68205.0,At dealer,False,Available,5TFMC5DB6PX034415,Santa Margarita Toyota,CA
@@ -747,6 +765,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra 1794 Edition,Celestial Silver Metallic,4x4,68205,0.0,68205.0,Factory to port,False,,5TFMC5DB6PX20C266,Future Toyota of Yuba City,CA
 2023,Tundra 1794 Edition,Supersonic Red,4x4,68205,0.0,68205.0,Factory to port,False,Available,5TFMC5DB6PX22C498,I-95 Toyota of Brunswick,GA
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,68205,0.0,68205.0,Factory to port,False,,5TFMC5DB6PX23C562,Dublin Toyota,CA
+2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x4,68205,0.0,68205.0,Factory to port,False,Available,5TFMC5DB6PX25C813,Phillips Toyota,FL
 2023,Tundra 1794 Edition,Blueprint,4x4,65805,0.0,65805.0,At dealer,False,,5TFMC5DB7PX018482,Sheehy Toyota of Stafford,VA
 2023,Tundra 1794 Edition,Celestial Silver Metallic,4x4,66705,0.0,66705.0,At dealer,False,DealerHold,5TFMC5DB7PX028803,Bobby Rahal Toyota,PA
 2023,Tundra 1794 Edition,Blueprint,4x4,66705,0.0,66705.0,At dealer,False,Available,5TFMC5DB7PX030129,Williams Toyota of Sayre,PA
@@ -763,7 +782,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68205,0.0,68205.0,At dealer,False,,5TFMC5DB7PX033516,Moses Toyota,WV
 2023,Tundra 1794 Edition,Blueprint,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DB7PX033631,Rhinelander Toyota,WI
 2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DB7PX033824,Legends Toyota,KS
-2023,Tundra 1794 Edition,Celestial Silver Metallic,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DB7PX033855,Kendall Toyota of Bend,OR
+2023,Tundra 1794 Edition,Celestial Silver Metallic,4x4,68205,0.0,68205.0,At dealer,False,,5TFMC5DB7PX033855,Kendall Toyota of Bend,OR
 2023,Tundra 1794 Edition,Blueprint,4x4,68205,1899.0,70104.0,Port to dealer,False,,5TFMC5DB7PX034004,Frank Fletcher Toyota,MO
 2023,Tundra 1794 Edition,Celestial Silver Metallic,4x4,68205,0.0,68205.0,At dealer,True,DealerHold,5TFMC5DB7PX034018,Maguire Toyota,NY
 2023,Tundra 1794 Edition,Blueprint,4x4,68205,0.0,68205.0,At dealer,False,DealerHold,5TFMC5DB7PX034097,Kings Toyota,OH
@@ -815,7 +834,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DB8PX034223,Toyota of Boardman,OH
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,68205,0.0,68205.0,At dealer,False,Available,5TFMC5DB8PX034254,South Dade Toyota,FL
 2023,Tundra 1794 Edition,Blueprint,4x4,68205,0.0,68205.0,At dealer,False,,5TFMC5DB8PX034268,McGeorge Toyota,VA
-2023,Tundra 1794 Edition,Blueprint,4x4,68205,0.0,68205.0,At dealer,False,Available,5TFMC5DB8PX034299,Fred Haas Toyota World,TX
+2023,Tundra 1794 Edition,Blueprint,4x4,68205,0.0,68205.0,At dealer,False,DealerHold,5TFMC5DB8PX034299,Fred Haas Toyota World,TX
 2023,Tundra 1794 Edition,Blueprint,4x4,68205,0.0,68205.0,At dealer,False,,5TFMC5DB8PX034335,Hall Toyota Virginia Beach,VA
 2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68205,0.0,68205.0,Factory to port,False,Available,5TFMC5DB8PX034450,John Harvey Toyota,LA
 2023,Tundra 1794 Edition,Celestial Silver Metallic,4x4,68205,0.0,68205.0,Port to dealer,False,DealerHold,5TFMC5DB8PX034500,Parkway Toyota,NJ
@@ -823,7 +842,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68205,0.0,68205.0,Factory to port,False,Available,5TFMC5DB8PX034660,Community Toyota,TX
 2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68205,1499.0,69704.0,Factory to port,False,DealerHold,5TFMC5DB8PX034870,Robbins Toyota,TX
 2023,Tundra 1794 Edition,Smoked Mesquite,4x4,68205,0.0,68205.0,Port to dealer,False,DealerHold,5TFMC5DB8PX034948,Koons Tysons Toyota,VA
-2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68205,0.0,68205.0,Port to dealer,True,Available,5TFMC5DB8PX034982,Don McGill Toyota of Katy,TX
+2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68205,0.0,68205.0,At dealer,True,Available,5TFMC5DB8PX034982,Don McGill Toyota of Katy,TX
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,68205,988.0,69193.0,At dealer,False,Available,5TFMC5DB8PX035033,Longo Toyota of Prosper,TX
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,68205,399.0,68604.0,Port to dealer,True,DealerHold,5TFMC5DB8PX035064,"Westboro Toyota, Inc.",MA
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,68205,0.0,68205.0,Port to dealer,False,Available,5TFMC5DB8PX035095,Toyota of York,PA
@@ -847,23 +866,22 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra 1794 Edition,Smoked Mesquite,4x4,68205,0.0,68205.0,Factory to port,False,,5TFMC5DB8PX23B882,Middletown Toyota,CT
 2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68205,399.0,68604.0,Factory to port,False,,5TFMC5DB8PX23B963,"Westboro Toyota, Inc.",MA
 2023,Tundra 1794 Edition,Smoked Mesquite,4x4,66705,0.0,66705.0,At dealer,False,,5TFMC5DB9PX032125,Crown Toyota,IL
-2023,Tundra 1794 Edition,Celestial Silver Metallic,4x4,66705,0.0,66705.0,Port to dealer,True,DealerHold,5TFMC5DB9PX032934,Kerry Toyota,KY
+2023,Tundra 1794 Edition,Celestial Silver Metallic,4x4,66705,0.0,66705.0,At dealer,True,DealerHold,5TFMC5DB9PX032934,Kerry Toyota,KY
 2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68205,0.0,68205.0,Port to dealer,True,DealerHold,5TFMC5DB9PX033419,Toyota of Puyallup,WA
 2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DB9PX033551,Colonial Toyota,PA
 2023,Tundra 1794 Edition,Celestial Silver Metallic,4x4,68205,0.0,68205.0,At dealer,False,Available,5TFMC5DB9PX033596,Prince Toyota,GA
-2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68205,1495.0,69700.0,Port to dealer,False,DealerHold,5TFMC5DB9PX033789,Mechanicsville Toyota,VA
+2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68205,1495.0,69700.0,At dealer,False,DealerHold,5TFMC5DB9PX033789,Mechanicsville Toyota,VA
 2023,Tundra 1794 Edition,Army Green,4x4,68205,0.0,68205.0,At dealer,False,Available,5TFMC5DB9PX033808,Milton Ruben Toyota of Augusta,GA
 2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68205,0.0,68205.0,Port to dealer,False,DealerHold,5TFMC5DB9PX034084,Spitzer Toyota,PA
 2023,Tundra 1794 Edition,Smoked Mesquite,4x4,68205,0.0,68205.0,At dealer,False,Available,5TFMC5DB9PX034294,Peter Boulware Toyota,FL
 2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x4,68205,2998.0,71203.0,At dealer,False,Available,5TFMC5DB9PX034473,San Marcos Toyota,TX
 2023,Tundra 1794 Edition,Blueprint,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DB9PX034554,Green's Toyota of Lexington,KY
-2023,Tundra 1794 Edition,Blueprint,4x4,68205,0.0,68205.0,Factory to port,False,DealerHold,5TFMC5DB9PX034618,Brownsville Toyota,TX
-2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,68205,0.0,68205.0,At dealer,False,Available,5TFMC5DB9PX034652,Hatch Toyota,AZ
+2023,Tundra 1794 Edition,Blueprint,4x4,68205,0.0,68205.0,At dealer,False,DealerHold,5TFMC5DB9PX034618,Brownsville Toyota,TX
+2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,68205,0.0,68205.0,At dealer,False,DealerHold,5TFMC5DB9PX034652,Hatch Toyota,AZ
 2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DB9PX034683,Mechanicsville Toyota,VA
 2023,Tundra 1794 Edition,Smoked Mesquite,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DB9PX034702,DARCARS Toyota of Frederick,MD
 2023,Tundra 1794 Edition,Blueprint,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DB9PX034828,Corwin Toyota,ND
 2023,Tundra 1794 Edition,Supersonic Red,4x4,68205,0.0,68205.0,At dealer,False,Available,5TFMC5DB9PX035008,Toyota of Fayetteville,AR
-2023,Tundra 1794 Edition,Blueprint,4x4,68205,0.0,68205.0,At dealer,False,Available,5TFMC5DB9PX035039,North Park Toyota of San Antonio,TX
 2023,Tundra 1794 Edition,Army Green,4x4,68205,0.0,68205.0,Port to dealer,True,DealerHold,5TFMC5DB9PX035123,Maplewood Toyota,MN
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DB9PX035199,Sheehy Toyota of Laurel,MD
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,68205,0.0,68205.0,Factory to port,False,Available,5TFMC5DB9PX035249,Beaver Toyota of Cumming,GA
@@ -874,7 +892,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra 1794 Edition,Smoked Mesquite,4x4,68205,0.0,68205.0,Port to dealer,False,DealerHold,5TFMC5DB9PX035445,Oxmoor Toyota,KY
 2023,Tundra 1794 Edition,Blueprint,4x4,68205,0.0,68205.0,At dealer,False,Available,5TFMC5DB9PX035493,Fred Haas Toyota World,TX
 2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DB9PX035526,Toyota of North Hollywood,CA
-2023,Tundra 1794 Edition,Smoked Mesquite,4x4,68205,0.0,68205.0,Port to dealer,False,DealerHold,5TFMC5DB9PX035557,Fred Haas Toyota Country,TX
+2023,Tundra 1794 Edition,Smoked Mesquite,4x4,68205,0.0,68205.0,At dealer,False,DealerHold,5TFMC5DB9PX035557,Fred Haas Toyota Country,TX
 2023,Tundra 1794 Edition,Celestial Silver Metallic,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DB9PX035767,McGeorge Toyota,VA
 2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x4,68205,0.0,68205.0,Port to dealer,True,,5TFMC5DB9PX035901,Doxon Toyota,WA
 2023,Tundra 1794 Edition,Army Green,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DB9PX035932,Buckhannon Toyota,WV
@@ -885,18 +903,19 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra 1794 Edition,Smoked Mesquite,4x4,66705,0.0,66705.0,At dealer,False,Available,5TFMC5DBXPX025054,Empire Toyota,NY
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,66705,0.0,66705.0,At dealer,False,DealerHold,5TFMC5DBXPX027547,Oak Lawn Toyota,IL
 2023,Tundra 1794 Edition,Army Green,4x4,68205,0.0,68205.0,At dealer,False,Available,5TFMC5DBXPX030917,McKinnon Toyota,AL
-2023,Tundra 1794 Edition,Smoked Mesquite,4x4,66705,0.0,66705.0,At dealer,False,,5TFMC5DBXPX031792,Miller Toyota,VA
+2023,Tundra 1794 Edition,Smoked Mesquite,4x4,66705,0.0,66705.0,At dealer,True,DealerHold,5TFMC5DBXPX031792,Miller Toyota,VA
 2023,Tundra 1794 Edition,Smoked Mesquite,4x4,66705,0.0,66705.0,Port to dealer,False,,5TFMC5DBXPX031937,Prestige Toyota of Ramsey,NJ
 2023,Tundra 1794 Edition,Supersonic Red,4x4,68205,2895.0,71100.0,At dealer,False,Available,5TFMC5DBXPX032568,Jim Norton Toyota,OK
 2023,Tundra 1794 Edition,Army Green,4x4,66705,0.0,66705.0,Port to dealer,True,,5TFMC5DBXPX032697,Toyota of Des Moines,IA
 2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DBXPX033283,Toyota of Gladstone,OR
-2023,Tundra 1794 Edition,Smoked Mesquite,4x4,68205,0.0,68205.0,Port to dealer,True,,5TFMC5DBXPX033557,Watermark Toyota,KY
+2023,Tundra 1794 Edition,Smoked Mesquite,4x4,68205,0.0,68205.0,At dealer,True,,5TFMC5DBXPX033557,Watermark Toyota,KY
 2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DBXPX033560,Lithia Toyota,OR
 2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68205,0.0,68205.0,Port to dealer,False,DealerHold,5TFMC5DBXPX033736,New Country Toyota of Saratoga Springs,NY
 2023,Tundra 1794 Edition,Smoked Mesquite,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DBXPX033879,Sullivan Brothers Toyota,MA
 2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68205,0.0,68205.0,At dealer,False,,5TFMC5DBXPX034062,Heiser Toyota,WI
 2023,Tundra 1794 Edition,Celestial Silver Metallic,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DBXPX034272,Paul Miller Toyota of West Caldwell,NJ
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,68205,2596.0,70801.0,Port to dealer,False,DealerHold,5TFMC5DBXPX034286,Gresham Toyota,OR
+2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68205,0.0,68205.0,At dealer,False,DealerHold,5TFMC5DBXPX034806,Reliable Toyota,MO
 2023,Tundra 1794 Edition,Celestial Silver Metallic,4x4,68205,0.0,68205.0,Port to dealer,False,DealerHold,5TFMC5DBXPX034868,West Herr Toyota of Orchard Park,NY
 2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DBXPX034997,Mechanicsville Toyota,VA
 2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DBXPX035020,Maita's Toyota of Sacramento,CA
@@ -905,7 +924,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra 1794 Edition,Blueprint,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DBXPX035275,Rolling Hills Toyota,MO
 2023,Tundra 1794 Edition,Army Green,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DBXPX035342,Le Mieux & Son Toyota,WI
 2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DBXPX035406,Toyota of Bowie,MD
-2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,68205,1098.0,69303.0,Factory to port,False,DealerHold,5TFMC5DBXPX035423,Toyota of Cedar Park,TX
+2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,68205,1098.0,69303.0,Port to dealer,False,Available,5TFMC5DBXPX035423,Toyota of Cedar Park,TX
 2023,Tundra 1794 Edition,Celestial Silver Metallic,4x4,68205,1599.0,69804.0,Factory to port,False,Available,5TFMC5DBXPX035552,Fowler Toyota,OK
 2023,Tundra 1794 Edition,Blueprint,4x4,68205,0.0,68205.0,Port to dealer,False,,5TFMC5DBXPX035597,Lou Fusz Toyota,MO
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,68205,0.0,68205.0,Port to dealer,False,DealerHold,5TFMC5DBXPX035650,355 Toyota,MD
@@ -915,22 +934,26 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,68535,0.0,68535.0,Port to dealer,False,DealerHold,5TFMC5EC0PX003877,Parker Toyota,ID
 2023,Tundra 1794 Edition,Celestial Silver Metallic,4x4,68535,0.0,68535.0,At dealer,True,DealerHold,5TFMC5EC0PX003958,Denny Menholt Toyota,SD
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,68535,0.0,68535.0,Factory to port,False,Available,5TFMC5EC2PX004139,Keating Toyota,TX
+2023,Tundra 1794 Edition,Supersonic Red,4x4,68535,0.0,68535.0,Factory to port,False,,5TFMC5EC2PX25A340,Nalley Toyota of Roswell,GA
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,68535,0.0,68535.0,Port to dealer,False,,5TFMC5EC4PX004126,Balise Toyota,MA
 2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x4,68535,0.0,68535.0,Factory to port,False,,5TFMC5EC4PX23A641,Team Toyota,OH
 2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x4,67035,0.0,67035.0,At dealer,False,DealerHold,5TFMC5EC5PX003535,Toyota of Brookfield,WI
-2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68535,0.0,68535.0,Port to dealer,False,DealerHold,5TFMC5EC5PX003874,Hometown Toyota,OR
+2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68535,0.0,68535.0,At dealer,False,DealerHold,5TFMC5EC5PX003874,Hometown Toyota,OR
 2023,Tundra 1794 Edition,Smoked Mesquite,4x4,68535,0.0,68535.0,Port to dealer,True,DealerHold,5TFMC5EC5PX004135,Joseph Toyota of Cincinnati,OH
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,68535,0.0,68535.0,Factory to port,True,Available,5TFMC5EC5PX004149,Jim Norton Toyota,OK
 2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x4,68535,1995.0,70530.0,At dealer,True,Available,5TFMC5EC6PX004077,Toyota of Killeen,TX
+2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x4,68535,0.0,68535.0,Factory to port,False,,5TFMC5EC6PX23B645,Bob Tyler Toyota,FL
 2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,67035,0.0,67035.0,Port to dealer,True,DealerHold,5TFMC5EC7PX003777,Kendall Toyota of Bend,OR
 2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68535,0.0,68535.0,Port to dealer,False,Available,5TFMC5EC7PX003892,Ira Toyota,MA
 2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68535,1995.0,70530.0,At dealer,False,Available,5TFMC5EC7PX004024,Cavender Toyota,TX
+2023,Tundra 1794 Edition,Magnetic Gray Metallic,4x4,68535,0.0,68535.0,Factory to port,False,,5TFMC5EC7PX23B668,Bev Smith Toyota,FL
+2023,Tundra 1794 Edition,Midnight Black Metallic,4x4,68535,0.0,68535.0,Factory to port,False,,5TFMC5EC7PX25B015,Venice Toyota,FL
 2023,Tundra 1794 Edition,Wind Chill Pearl,4x4,68535,0.0,68535.0,Port to dealer,False,,5TFMC5EC8PX003867,Gosch Toyota,CA
 2023,Tundra 1794 Edition,Blueprint,4x4,68535,0.0,68535.0,Port to dealer,False,DealerHold,5TFMC5EC8PX003965,Crown Toyota,KS
 2023,Tundra 1794 Edition,Smoked Mesquite,4x4,67035,0.0,67035.0,At dealer,False,Available,5TFMC5ECXPX003496,Romeo Toyota of Glens Falls,NY
 2023,Tundra 1794 Edition,Celestial Silver Metallic,4x4,68535,0.0,68535.0,Port to dealer,False,,5TFMC5ECXPX003983,Lithia Toyota of Springfield,OR
 2023,Tundra 1794 Edition,Celestial Silver Metallic,4x4,68535,0.0,68535.0,Port to dealer,False,DealerHold,5TFMC5ECXPX004101,Rogers Toyota of Hermiston,OR
-2023,Tundra Platinum,Midnight Black Metallic,4x2,64505,595.0,65100.0,At dealer,False,DealerHold,5TFNC5AB0PX002651,Toyota of Pharr,TX
+2023,Tundra Platinum,Midnight Black Metallic,4x2,64505,595.0,65100.0,At dealer,False,Available,5TFNC5AB0PX002651,Toyota of Pharr,TX
 2023,Tundra Platinum,Wind Chill Pearl,4x2,64505,0.0,64505.0,At dealer,False,Available,5TFNC5AB0PX002729,Panama City Toyota,FL
 2023,Tundra Platinum,Magnetic Gray Metallic,4x2,64505,0.0,64505.0,Factory to port,False,Available,5TFNC5AB1PX002755,Toyota of Tampa Bay,FL
 2023,Tundra Platinum,Midnight Black Metallic,4x2,64505,0.0,64505.0,Factory to port,False,Available,5TFNC5AB1PX20D446,Pinehurst Toyota,NC
@@ -945,15 +968,18 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Platinum,Magnetic Gray Metallic,4x2,64505,0.0,64505.0,Port to dealer,False,,5TFNC5AB4PX002748,Toyota Marin,CA
 2023,Tundra Platinum,Wind Chill Pearl,4x2,64505,0.0,64505.0,At dealer,False,Available,5TFNC5AB4PX002751,Toyota of Dallas,TX
 2023,Tundra Platinum,Magnetic Gray Metallic,4x2,64505,0.0,64505.0,Factory to port,False,Available,5TFNC5AB4PX22C654,Toyota of Tampa Bay,FL
+2023,Tundra Platinum,Wind Chill Pearl,4x2,64505,0.0,64505.0,Factory to port,False,,5TFNC5AB4PX25B779,Kendall Toyota,FL
 2023,Tundra Platinum,Celestial Silver Metallic,4x2,64505,2299.0,66804.0,Factory to port,False,Available,5TFNC5AB5PX002810,Round Rock Toyota,TX
+2023,Tundra Platinum,Magnetic Gray Metallic,4x2,64505,0.0,64505.0,Factory to port,False,,5TFNC5AB5PX24A323,Village Cadillac-Toyota,FL
 2023,Tundra Platinum,Midnight Black Metallic,4x2,63005,1634.0,64639.0,Factory to port,True,,5TFNC5AB6PX002539,AutoNation Toyota Hayward,CA
 2023,Tundra Platinum,Celestial Silver Metallic,4x2,64505,0.0,64505.0,At dealer,False,Available,5TFNC5AB6PX002623,Lowe Toyota of Warner Robins,GA
 2023,Tundra Platinum,Magnetic Gray Metallic,4x2,64505,0.0,64505.0,At dealer,False,Available,5TFNC5AB6PX002718,Phillips Toyota,FL
 2023,Tundra Platinum,Wind Chill Pearl,4x2,64505,0.0,64505.0,At dealer,False,Available,5TFNC5AB6PX002802,Freeman Toyota,TX
 2023,Tundra Platinum,Blueprint,4x2,63005,0.0,63005.0,At dealer,False,Available,5TFNC5AB7PX002386,Don McGill Toyota of Katy,TX
-2023,Tundra Platinum,Wind Chill Pearl,4x2,64505,0.0,64505.0,Factory to port,False,Available,5TFNC5AB7PX002775,Toyota of Rockwall,TX
+2023,Tundra Platinum,Wind Chill Pearl,4x2,64505,0.0,64505.0,Port to dealer,False,Available,5TFNC5AB7PX002775,Toyota of Rockwall,TX
 2023,Tundra Platinum,Supersonic Red,4x2,63005,0.0,63005.0,At dealer,False,Available,5TFNC5AB8PX002011,Valdosta Toyota,GA
 2023,Tundra Platinum,Magnetic Gray Metallic,4x2,64505,0.0,64505.0,Port to dealer,False,,5TFNC5AB8PX002834,City Toyota,CA
+2023,Tundra Platinum,Celestial Silver Metallic,4x2,64505,0.0,64505.0,Factory to port,False,,5TFNC5AB8PX24C180,Arlington Toyota,FL
 2023,Tundra Platinum,Magnetic Gray Metallic,4x2,64505,0.0,64505.0,At dealer,True,Available,5TFNC5AB9PX002762,Freeman Toyota,TX
 2023,Tundra Platinum,Wind Chill Pearl,4x2,64505,1495.0,66000.0,Factory to port,False,Available,5TFNC5AB9PX002809,Sterling McCall Toyota,TX
 2023,Tundra Platinum,Blueprint,4x2,64505,0.0,64505.0,At dealer,False,Available,5TFNC5ABXPX002625,Toyota of Deerfield Beach,FL
@@ -966,11 +992,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67505,0.0,67505.0,At dealer,False,Available,5TFNC5DB0PX032504,Serra Toyota of Decatur,AL
 2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,0.0,67505.0,Port to dealer,False,DealerHold,5TFNC5DB0PX033412,Crown Toyota,KS
 2023,Tundra Platinum,Celestial Silver Metallic,4x4,67505,0.0,67505.0,Port to dealer,False,DealerHold,5TFNC5DB0PX033619,Markquart Toyota,WI
-2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,0.0,67505.0,Factory to port,False,Available,5TFNC5DB0PX033684,Shottenkirk Toyota Granbury,TX
+2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,0.0,67505.0,At dealer,False,Available,5TFNC5DB0PX033684,Shottenkirk Toyota Granbury,TX
 2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67505,0.0,67505.0,At dealer,False,Available,5TFNC5DB0PX033992,Tuscaloosa Toyota,AL
 2023,Tundra Platinum,Celestial Silver Metallic,4x4,67505,0.0,67505.0,At dealer,False,DealerHold,5TFNC5DB0PX034009,Cumberland Toyota,TN
 2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,0.0,67505.0,At dealer,False,Available,5TFNC5DB0PX034088,Palmer's Airport Toyota,AL
-2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,0.0,67505.0,Port to dealer,True,DealerHold,5TFNC5DB0PX034141,Edmark Toyota,ID
+2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,0.0,67505.0,At dealer,True,DealerHold,5TFNC5DB0PX034141,Edmark Toyota,ID
 2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,0.0,67505.0,At dealer,False,Available,5TFNC5DB0PX034317,Toyota of Ardmore,OK
 2023,Tundra Platinum,Supersonic Red,4x4,67505,0.0,67505.0,At dealer,False,,5TFNC5DB0PX034365,Centennial Toyota,NV
 2023,Tundra Platinum,Blueprint,4x4,67505,0.0,67505.0,Factory to port,False,Available,5TFNC5DB0PX034995,Toyota of Easley,SC
@@ -988,6 +1014,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Platinum,Supersonic Red,4x4,67505,0.0,67505.0,Factory to port,False,,5TFNC5DB0PX21C991,Walker Toyota,OH
 2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,3568.0,71073.0,Factory to port,False,,5TFNC5DB0PX22C579,Bell Road Toyota,AZ
 2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,0.0,67505.0,Factory to port,False,,5TFNC5DB0PX23B539,Toyota of Muncie,IN
+2023,Tundra Platinum,Celestial Silver Metallic,4x4,67505,0.0,67505.0,Factory to port,False,Available,5TFNC5DB0PX24B553,Kendall Toyota,FL
 2023,Tundra Platinum,Supersonic Red,4x4,67505,0.0,67505.0,At dealer,False,Available,5TFNC5DB1PX031667,Hendrick Toyota Wilmington,NC
 2023,Tundra Platinum,Wind Chill Pearl,4x4,66005,0.0,66005.0,Port to dealer,False,DealerHold,5TFNC5DB1PX032396,Damian Lillard Toyota,OR
 2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,0.0,67505.0,At dealer,False,Available,5TFNC5DB1PX033225,Hendrick Toyota North Charleston,SC
@@ -1001,9 +1028,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,0.0,67505.0,At dealer,False,Available,5TFNC5DB1PX034407,Centennial Toyota,NV
 2023,Tundra Platinum,Celestial Silver Metallic,4x4,67505,0.0,67505.0,Port to dealer,True,DealerHold,5TFNC5DB1PX034455,Down East Toyota,ME
 2023,Tundra Platinum,Celestial Silver Metallic,4x4,67505,0.0,67505.0,Factory to port,False,Available,5TFNC5DB1PX034729,Mark Jacobson Toyota,NC
+2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,0.0,67505.0,At dealer,False,Available,5TFNC5DB1PX034763,Fremont Toyota of Sheridan,WY
 2023,Tundra Platinum,Celestial Silver Metallic,4x4,67505,0.0,67505.0,Factory to port,False,,5TFNC5DB1PX034858,Bill Penney Toyota,AL
 2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,0.0,67505.0,Factory to port,False,Available,5TFNC5DB1PX034889,Vandergriff Toyota,TX
-2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67505,0.0,67505.0,Factory to port,False,Available,5TFNC5DB1PX034911,AutoNation Toyota Winter Park,FL
 2023,Tundra Platinum,Celestial Silver Metallic,4x4,67505,0.0,67505.0,Factory to port,False,Available,5TFNC5DB1PX034956,Modern Toyota,NC
 2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67505,0.0,67505.0,Port to dealer,False,,5TFNC5DB1PX034973,Wills Toyota,ID
 2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,0.0,67505.0,Port to dealer,False,,5TFNC5DB1PX035279,Stephen Wade Toyota,UT
@@ -1016,12 +1043,14 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,0.0,67505.0,Port to dealer,True,,5TFNC5DB1PX035637,Johnson City Toyota,TN
 2023,Tundra Platinum,Blueprint,4x4,67505,299.0,67804.0,Port to dealer,True,,5TFNC5DB1PX035945,Team Toyota,PA
 2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67505,0.0,67505.0,Factory to port,False,,5TFNC5DB1PX22B215,AutoNation Toyota Libertyville,IL
+2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67505,0.0,67505.0,Factory to port,False,,5TFNC5DB1PX23C151,Modern Toyota,NC
+2023,Tundra Platinum,Midnight Black Metallic,4x4,67505,0.0,67505.0,Factory to port,False,,5TFNC5DB1PX24B562,Beaver Toyota of Cumming,GA
+2023,Tundra Platinum,Celestial Silver Metallic,4x4,67505,0.0,67505.0,Factory to port,False,,5TFNC5DB1PX24C792,Southern 441 Toyota,FL
 2023,Tundra Platinum,Magnetic Gray Metallic,4x4,66005,0.0,66005.0,Port to dealer,False,Available,5TFNC5DB2PX028180,Team Toyota,NE
 2023,Tundra Platinum,Celestial Silver Metallic,4x4,66005,0.0,66005.0,At dealer,False,Available,5TFNC5DB2PX032388,Jay Wolfe Toyota of West County,MO
 2023,Tundra Platinum,Celestial Silver Metallic,4x4,67505,0.0,67505.0,At dealer,False,Available,5TFNC5DB2PX032407,Clearwater Toyota,FL
 2023,Tundra Platinum,Supersonic Red,4x4,66005,0.0,66005.0,At dealer,False,,5TFNC5DB2PX032973,Rudy Luther Toyota,MN
 2023,Tundra Platinum,Midnight Black Metallic,4x4,67505,0.0,67505.0,At dealer,False,Available,5TFNC5DB2PX033153,Nalley Toyota Stonecrest,GA
-2023,Tundra Platinum,Midnight Black Metallic,4x4,67505,0.0,67505.0,At dealer,False,Available,5TFNC5DB2PX033363,Longo Toyota,CA
 2023,Tundra Platinum,Supersonic Red,4x4,67505,0.0,67505.0,Factory to port,False,Available,5TFNC5DB2PX033394,Fred Anderson Toyota of Charleston,SC
 2023,Tundra Platinum,Celestial Silver Metallic,4x4,67505,0.0,67505.0,Port to dealer,False,DealerHold,5TFNC5DB2PX033444,Oakbrook Toyota in Westmont,IL
 2023,Tundra Platinum,Midnight Black Metallic,4x4,67505,0.0,67505.0,At dealer,False,,5TFNC5DB2PX033508,Signature Toyota,MI
@@ -1039,6 +1068,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Platinum,Midnight Black Metallic,4x4,67505,0.0,67505.0,Port to dealer,False,,5TFNC5DB2PX035954,Labadie Toyota,MI
 2023,Tundra Platinum,Midnight Black Metallic,4x4,67505,0.0,67505.0,Factory to port,False,Available,5TFNC5DB2PX036022,Vic Vaughan Toyota of Boerne,TX
 2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,0.0,67505.0,Factory to port,True,,5TFNC5DB2PX22A302,Avondale Toyota,AZ
+2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,0.0,67505.0,Factory to port,False,,5TFNC5DB2PX23A327,Milton Ruben Toyota of Augusta,GA
+2023,Tundra Platinum,Midnight Black Metallic,4x4,67505,0.0,67505.0,Factory to port,False,,5TFNC5DB2PX23A330,World Toyota,GA
+2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,0.0,67505.0,Factory to port,False,,5TFNC5DB2PX23B543,Milton Ruben Toyota of Augusta,GA
 2023,Tundra Platinum,Midnight Black Metallic,4x4,65105,0.0,65105.0,At dealer,True,DealerHold,5TFNC5DB3PX014143,Burdick Toyota,NY
 2023,Tundra Platinum,Supersonic Red,4x4,66005,0.0,66005.0,At dealer,False,DealerHold,5TFNC5DB3PX030794,Graham Toyota,OH
 2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67505,0.0,67505.0,At dealer,False,Available,5TFNC5DB3PX032383,Modern Toyota,NC
@@ -1053,7 +1085,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Platinum,Midnight Black Metallic,4x4,67505,0.0,67505.0,Port to dealer,False,,5TFNC5DB3PX034750,Mungenast Alton Toyota,IL
 2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67505,0.0,67505.0,Port to dealer,False,,5TFNC5DB3PX035087,Ken Ganley Toyota,PA
 2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,1999.0,69504.0,Port to dealer,False,,5TFNC5DB3PX035106,Toyota of Warren,OH
-2023,Tundra Platinum,Midnight Black Metallic,4x4,67505,0.0,67505.0,Port to dealer,False,,5TFNC5DB3PX035140,Metro Toyota,MI
+2023,Tundra Platinum,Midnight Black Metallic,4x4,67505,0.0,67505.0,At dealer,False,DealerHold,5TFNC5DB3PX035140,Metro Toyota,MI
 2023,Tundra Platinum,Midnight Black Metallic,4x4,67505,0.0,67505.0,Port to dealer,False,,5TFNC5DB3PX035378,Toyota of Bowling Green,KY
 2023,Tundra Platinum,Celestial Silver Metallic,4x4,67505,0.0,67505.0,Port to dealer,False,,5TFNC5DB3PX035431,I-10 Toyota,CA
 2023,Tundra Platinum,Supersonic Red,4x4,67505,0.0,67505.0,Port to dealer,False,Available,5TFNC5DB3PX035543,Fox Toyota,MI
@@ -1065,6 +1097,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67505,988.0,68493.0,Factory to port,False,Available,5TFNC5DB3PX22B216,Longo Toyota of Prosper,TX
 2023,Tundra Platinum,Celestial Silver Metallic,4x4,67505,0.0,67505.0,Factory to port,False,,5TFNC5DB3PX22C575,Preston Toyota,PA
 2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,1397.0,68902.0,Factory to port,False,,5TFNC5DB3PX23A322,DCH Wappingers Falls Toyota,NY
+2023,Tundra Platinum,Midnight Black Metallic,4x4,67505,0.0,67505.0,Factory to port,False,,5TFNC5DB3PX23B549,Toyota of Vero Beach,FL
+2023,Tundra Platinum,Midnight Black Metallic,4x4,67505,0.0,67505.0,Factory to port,False,,5TFNC5DB3PX25A702,Marietta Toyota,GA
 2023,Tundra Platinum,Celestial Silver Metallic,4x4,66005,0.0,66005.0,At dealer,False,Available,5TFNC5DB4PX026138,Premier Toyota,NE
 2023,Tundra Platinum,Magnetic Gray Metallic,4x4,66005,0.0,66005.0,At dealer,False,Available,5TFNC5DB4PX027435,Don Wood Toyota,OH
 2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,1095.0,68600.0,At dealer,False,Available,5TFNC5DB4PX031825,Panama City Toyota,FL
@@ -1072,7 +1106,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Platinum,Wind Chill Pearl,4x4,66005,0.0,66005.0,At dealer,False,DealerHold,5TFNC5DB4PX032585,Burdick Toyota,NY
 2023,Tundra Platinum,Celestial Silver Metallic,4x4,67505,0.0,67505.0,Port to dealer,False,DealerHold,5TFNC5DB4PX033266,Edmark Toyota,ID
 2023,Tundra Platinum,Celestial Silver Metallic,4x4,67505,0.0,67505.0,Port to dealer,False,Available,5TFNC5DB4PX033347,I-5 Toyota,WA
-2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,1985.0,69490.0,At dealer,False,Available,5TFNC5DB4PX033400,Toyota of Poway,CA
 2023,Tundra Platinum,Celestial Silver Metallic,4x4,67505,0.0,67505.0,Port to dealer,False,DealerHold,5TFNC5DB4PX033459,Findlay Toyota,NV
 2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,0.0,67505.0,At dealer,False,DealerHold,5TFNC5DB4PX033512,Hatch Toyota,AZ
 2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67505,3490.0,70995.0,At dealer,False,Available,5TFNC5DB4PX033638,Fred Haas Toyota World,TX
@@ -1103,6 +1136,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Platinum,Celestial Silver Metallic,4x4,67505,0.0,67505.0,Factory to port,False,,5TFNC5DB4PX23A328,Western Slope Toyota,CO
 2023,Tundra Platinum,Blueprint,4x4,67505,0.0,67505.0,Factory to port,True,DealerHold,5TFNC5DB4PX23A331,Toyota of Puyallup,WA
 2023,Tundra Platinum,Supersonic Red,4x4,67505,0.0,67505.0,Factory to port,False,DealerHold,5TFNC5DB4PX23B544,Interstate Toyota,NY
+2023,Tundra Platinum,Midnight Black Metallic,4x4,67505,0.0,67505.0,Factory to port,False,,5TFNC5DB4PX24A938,Stadium Toyota,FL
+2023,Tundra Platinum,Midnight Black Metallic,4x4,67505,0.0,67505.0,Factory to port,True,Available,5TFNC5DB4PX24A941,Mark Jacobson Toyota,NC
+2023,Tundra Platinum,Midnight Black Metallic,4x4,67505,0.0,67505.0,Factory to port,False,,5TFNC5DB4PX24C172,Flow Toyota of Statesville,NC
 2023,Tundra Platinum,Supersonic Red,4x4,66005,0.0,66005.0,At dealer,False,Available,5TFNC5DB5PX026486,Kolar Toyota,MN
 2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67505,0.0,67505.0,At dealer,True,Available,5TFNC5DB5PX028447,Northcutt Toyota,OK
 2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,0.0,67505.0,At dealer,False,Available,5TFNC5DB5PX031428,Lipton Toyota,FL
@@ -1119,17 +1155,19 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67505,0.0,67505.0,Port to dealer,False,,5TFNC5DB5PX034426,Heritage Toyota Owings Mills,MD
 2023,Tundra Platinum,Supersonic Red,4x4,67505,0.0,67505.0,Port to dealer,False,DealerHold,5TFNC5DB5PX034457,Dan Cava's Toyota World,WV
 2023,Tundra Platinum,Supersonic Red,4x4,67505,0.0,67505.0,Port to dealer,False,,5TFNC5DB5PX034622,Gault Toyota,NY
-2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,0.0,67505.0,Port to dealer,False,DealerHold,5TFNC5DB5PX034667,Edmark Toyota,ID
+2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,0.0,67505.0,At dealer,False,DealerHold,5TFNC5DB5PX034667,Edmark Toyota,ID
 2023,Tundra Platinum,Midnight Black Metallic,4x4,67505,0.0,67505.0,At dealer,False,Available,5TFNC5DB5PX034751,Franklin Toyota,GA
-2023,Tundra Platinum,Midnight Black Metallic,4x4,67505,0.0,67505.0,Port to dealer,True,DealerHold,5TFNC5DB5PX034877,Rudy Luther Toyota,MN
+2023,Tundra Platinum,Midnight Black Metallic,4x4,67505,0.0,67505.0,At dealer,True,DealerHold,5TFNC5DB5PX034877,Rudy Luther Toyota,MN
 2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,0.0,67505.0,Port to dealer,False,,5TFNC5DB5PX035253,Right Toyota,AZ
 2023,Tundra Platinum,Midnight Black Metallic,4x4,67505,0.0,67505.0,Port to dealer,False,DealerHold,5TFNC5DB5PX035530,Claremont Toyota,CA
 2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67505,0.0,67505.0,Port to dealer,True,DealerHold,5TFNC5DB5PX035589,Grappone Toyota,NH
-2023,Tundra Platinum,Midnight Black Metallic,4x4,67505,0.0,67505.0,Port to dealer,False,Available,5TFNC5DB5PX035785,Pat Lobb Toyota of McKinney,TX
+2023,Tundra Platinum,Midnight Black Metallic,4x4,67505,0.0,67505.0,At dealer,False,Available,5TFNC5DB5PX035785,Pat Lobb Toyota of McKinney,TX
 2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67505,0.0,67505.0,Factory to port,False,Available,5TFNC5DB5PX036046,Don McGill Toyota of Katy,TX
 2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,0.0,67505.0,Factory to port,False,Available,5TFNC5DB5PX036080,Don McGill Toyota of Katy,TX
 2023,Tundra Platinum,Blueprint,4x4,67505,2379.0,69884.0,Factory to port,False,Available,5TFNC5DB5PX036144,Gullo Toyota of Conroe,TX
 2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,0.0,67505.0,Factory to port,False,,5TFNC5DB5PX21B464,Voss Toyota,OH
+2023,Tundra Platinum,Celestial Silver Metallic,4x4,67505,0.0,67505.0,Factory to port,False,,5TFNC5DB5PX23A323,Nalley Toyota of Roswell,GA
+2023,Tundra Platinum,Celestial Silver Metallic,4x4,67505,0.0,67505.0,Factory to port,False,,5TFNC5DB5PX23A905,Hendrick Toyota North Charleston,SC
 2023,Tundra Platinum,Midnight Black Metallic,4x4,67505,0.0,67505.0,Factory to port,False,,5TFNC5DB5PX23C136,Roberts Toyota,TN
 2023,Tundra Platinum,Supersonic Red,4x4,67505,4966.0,72471.0,Factory to port,False,,5TFNC5DB5PX23C153,Toyota of Turnersville,NJ
 2023,Tundra Platinum,Celestial Silver Metallic,4x4,67505,0.0,67505.0,At dealer,False,Available,5TFNC5DB6PX028456,Butler Toyota,GA
@@ -1164,7 +1202,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Platinum,Celestial Silver Metallic,4x4,67505,0.0,67505.0,Factory to port,False,Available,5TFNC5DB6PX21B487,Tuscaloosa Toyota,AL
 2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67505,0.0,67505.0,Factory to port,False,Available,5TFNC5DB6PX21B506,Cherokee County Toyota,GA
 2023,Tundra Platinum,Supersonic Red,4x4,67505,0.0,67505.0,Factory to port,False,Available,5TFNC5DB6PX21C963,Village Cadillac-Toyota,FL
+2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67505,0.0,67505.0,Factory to port,False,,5TFNC5DB6PX23A329,Gettel Toyota of Lakewood,FL
 2023,Tundra Platinum,Blueprint,4x4,67505,0.0,67505.0,Factory to port,False,,5TFNC5DB6PX23C209,Byers Toyota,OH
+2023,Tundra Platinum,Celestial Silver Metallic,4x4,67505,0.0,67505.0,Factory to port,False,,5TFNC5DB6PX24A939,Hendrick Toyota Apex,NC
 2023,Tundra Platinum,Supersonic Red,4x4,66005,0.0,66005.0,At dealer,False,Available,5TFNC5DB7PX027624,Toyota of Warsaw,IN
 2023,Tundra Platinum,Celestial Silver Metallic,4x4,66005,0.0,66005.0,At dealer,False,,5TFNC5DB7PX029826,New Country Toyota of Westport,CT
 2023,Tundra Platinum,Celestial Silver Metallic,4x4,66005,0.0,66005.0,At dealer,False,Available,5TFNC5DB7PX032113,Toyota of Lake City,WA
@@ -1186,7 +1226,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Platinum,Blueprint,4x4,67505,0.0,67505.0,At dealer,False,Available,5TFNC5DB7PX034492,Southern 441 Toyota,FL
 2023,Tundra Platinum,Midnight Black Metallic,4x4,67505,0.0,67505.0,Factory to port,False,Available,5TFNC5DB7PX034847,AutoNation Toyota Mall of Georgia,GA
 2023,Tundra Platinum,Celestial Silver Metallic,4x4,67505,0.0,67505.0,Factory to port,False,Available,5TFNC5DB7PX034962,Fred Anderson Toyota of Asheville,NC
-2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67505,0.0,67505.0,At dealer,False,,5TFNC5DB7PX035030,Toyota of Riverside,CA
+2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67505,0.0,67505.0,At dealer,False,Available,5TFNC5DB7PX035030,Toyota of North Hollywood,CA
 2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,0.0,67505.0,Port to dealer,False,,5TFNC5DB7PX035206,"Hellman Toyota, Inc.",CO
 2023,Tundra Platinum,Supersonic Red,4x4,67505,0.0,67505.0,Port to dealer,False,,5TFNC5DB7PX035271,Orland Toyota,IL
 2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67505,0.0,67505.0,Port to dealer,False,,5TFNC5DB7PX035349,Acton Toyota of Littleton,MA
@@ -1203,6 +1243,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Platinum,Midnight Black Metallic,4x4,67505,0.0,67505.0,Port to dealer,False,,5TFNC5DB7PX036162,"Bristol Toyota, Inc.",MA
 2023,Tundra Platinum,Celestial Silver Metallic,4x4,67505,0.0,67505.0,Factory to port,False,,5TFNC5DB7PX23A887,Hoselton Toyota,NY
 2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,0.0,67505.0,Factory to port,False,,5TFNC5DB7PX23A906,Team Toyota of Glen Mills,PA
+2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67505,0.0,67505.0,Factory to port,False,Available,5TFNC5DB7PX23C140,Phillips Toyota,FL
+2023,Tundra Platinum,Blueprint,4x4,67505,0.0,67505.0,Factory to port,False,Available,5TFNC5DB7PX24A318,Toyota of Melbourne,FL
+2023,Tundra Platinum,Midnight Black Metallic,4x4,67505,0.0,67505.0,Factory to port,False,Available,5TFNC5DB7PX24B551,Toyota of Hollywood,FL
+2023,Tundra Platinum,Supersonic Red,4x4,67505,0.0,67505.0,Factory to port,False,,5TFNC5DB7PX24B565,Toyota of Clermont,FL
 2023,Tundra Platinum,Celestial Silver Metallic,4x4,66005,0.0,66005.0,At dealer,False,,5TFNC5DB8PX028202,Antioch Toyota,CA
 2023,Tundra Platinum,Midnight Black Metallic,4x4,67505,0.0,67505.0,At dealer,False,Available,5TFNC5DB8PX032315,Savannah Toyota,GA
 2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67505,0.0,67505.0,At dealer,False,Available,5TFNC5DB8PX032332,Bill Penney Toyota,AL
@@ -1213,7 +1257,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Platinum,Celestial Silver Metallic,4x4,67505,0.0,67505.0,Port to dealer,False,,5TFNC5DB8PX033853,Hanover Toyota,PA
 2023,Tundra Platinum,Supersonic Red,4x4,67505,0.0,67505.0,Port to dealer,False,,5TFNC5DB8PX033870,Ken Ganley Toyota,PA
 2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67505,0.0,67505.0,At dealer,False,,5TFNC5DB8PX034131,Toyota of Greensboro,NC
-2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,0.0,67505.0,At dealer,False,DealerHold,5TFNC5DB8PX034209,Peterson Toyota,ID
+2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,0.0,67505.0,At dealer,False,Available,5TFNC5DB8PX034209,Peterson Toyota,ID
 2023,Tundra Platinum,Supersonic Red,4x4,67505,1795.0,69300.0,Factory to port,True,Available,5TFNC5DB8PX034369,Universal Toyota,TX
 2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67505,0.0,67505.0,At dealer,False,,5TFNC5DB8PX034484,DeLuca Toyota,FL
 2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,998.0,68503.0,Port to dealer,False,,5TFNC5DB8PX034548,Webb Chevrolet-Toyota,NM
@@ -1233,6 +1277,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67505,0.0,67505.0,Factory to port,False,,5TFNC5DB8PX20B205,Stadium Toyota,FL
 2023,Tundra Platinum,Blueprint,4x4,67505,2299.0,69804.0,Factory to port,True,Available,5TFNC5DB8PX21C981,Round Rock Toyota,TX
 2023,Tundra Platinum,Midnight Black Metallic,4x4,67505,0.0,67505.0,Factory to port,False,Available,5TFNC5DB8PX22B809,Eastern Shore Toyota,AL
+2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,0.0,67505.0,Factory to port,False,,5TFNC5DB8PX23A901,Central Florida Toyota,FL
+2023,Tundra Platinum,Celestial Silver Metallic,4x4,67505,0.0,67505.0,Factory to port,False,,5TFNC5DB8PX23C146,Arlington Toyota,FL
+2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,0.0,67505.0,Factory to port,False,,5TFNC5DB8PX23C759,Hendrick Toyota Wilmington,NC
+2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67505,0.0,67505.0,Factory to port,False,,5TFNC5DB8PX23C762,Toyota of Greer,SC
+2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,0.0,67505.0,Factory to port,False,,5TFNC5DB8PX24B557,Marietta Toyota,GA
 2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67505,0.0,67505.0,At dealer,False,,5TFNC5DB9PX030377,South Dade Toyota,FL
 2023,Tundra Platinum,Blueprint,4x4,67505,0.0,67505.0,At dealer,False,Available,5TFNC5DB9PX032081,Cobb County Toyota,GA
 2023,Tundra Platinum,Blueprint,4x4,67505,299.0,67804.0,At dealer,False,Available,5TFNC5DB9PX032162,Mike Erdman Toyota,FL
@@ -1255,7 +1304,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67505,0.0,67505.0,Port to dealer,False,,5TFNC5DB9PX035269,Romano Toyota,NY
 2023,Tundra Platinum,Supersonic Red,4x4,67505,0.0,67505.0,Factory to port,False,Available,5TFNC5DB9PX035353,Arlington Toyota,FL
 2023,Tundra Platinum,Celestial Silver Metallic,4x4,67505,0.0,67505.0,Port to dealer,True,,5TFNC5DB9PX035479,Sierra Toyota,AZ
-2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67505,599.0,68104.0,Factory to port,False,Available,5TFNC5DB9PX035496,Landers Toyota,AR
+2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67505,599.0,68104.0,Port to dealer,False,Available,5TFNC5DB9PX035496,Landers Toyota,AR
 2023,Tundra Platinum,Midnight Black Metallic,4x4,67505,0.0,67505.0,Factory to port,False,Available,5TFNC5DB9PX036065,Scott Clark Toyota,NC
 2023,Tundra Platinum,Celestial Silver Metallic,4x4,67505,0.0,67505.0,Factory to port,False,Available,5TFNC5DB9PX036096,Vic Vaughan Toyota of Boerne,TX
 2023,Tundra Platinum,Midnight Black Metallic,4x4,67505,0.0,67505.0,Factory to port,False,DealerHold,5TFNC5DB9PX036129,Brownsville Toyota,TX
@@ -1263,6 +1312,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Platinum,Celestial Silver Metallic,4x4,67505,0.0,67505.0,Factory to port,False,Available,5TFNC5DB9PX21C973,Venice Toyota,FL
 2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67505,0.0,67505.0,Factory to port,False,Available,5TFNC5DB9PX22B205,Beaver Toyota of Cumming,GA
 2023,Tundra Platinum,Supersonic Red,4x4,67505,0.0,67505.0,Factory to port,False,,5TFNC5DB9PX22C600,Keith Pierson Toyota,FL
+2023,Tundra Platinum,Celestial Silver Metallic,4x4,67505,0.0,67505.0,Factory to port,False,,5TFNC5DB9PX23B541,Gettel Toyota of Bradenton,FL
 2023,Tundra Platinum,Magnetic Gray Metallic,4x4,66005,0.0,66005.0,At dealer,True,Available,5TFNC5DBXPX025138,Nalley Toyota Union City,GA
 2023,Tundra Platinum,Magnetic Gray Metallic,4x4,66005,0.0,66005.0,At dealer,False,,5TFNC5DBXPX027455,Sam Leman Toyota Bloomington,IL
 2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,9995.0,77500.0,At dealer,True,DealerHold,5TFNC5DBXPX027665,Toyota of Midland,TX
@@ -1274,7 +1324,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67505,0.0,67505.0,At dealer,False,Available,5TFNC5DBXPX032395,Coggin Toyota at the Avenues,FL
 2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,0.0,67505.0,At dealer,False,Available,5TFNC5DBXPX032770,Bryan Easler Toyota,NC
 2023,Tundra Platinum,Celestial Silver Metallic,4x4,67505,0.0,67505.0,At dealer,False,Available,5TFNC5DBXPX032901,Mac Haik Toyota,TX
-2023,Tundra Platinum,Celestial Silver Metallic,4x4,67505,0.0,67505.0,At dealer,True,DealerHold,5TFNC5DBXPX033126,Fox Toyota of El Paso,TX
 2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,0.0,67505.0,At dealer,False,,5TFNC5DBXPX033269,Toyota Place,CA
 2023,Tundra Platinum,Midnight Black Metallic,4x4,67505,0.0,67505.0,Port to dealer,False,,5TFNC5DBXPX033515,L & S Toyota of Beckley,WV
 2023,Tundra Platinum,Blueprint,4x4,67505,0.0,67505.0,Port to dealer,False,DealerHold,5TFNC5DBXPX033627,Toyota of Bozeman,MT
@@ -1286,7 +1335,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,0.0,67505.0,At dealer,False,Available,5TFNC5DBXPX034714,Toyota of Hollywood,FL
 2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,8785.0,76290.0,At dealer,False,DealerHold,5TFNC5DBXPX034731,Berge Toyota,AZ
 2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67505,0.0,67505.0,Factory to port,False,Available,5TFNC5DBXPX034793,Lipton Toyota,FL
-2023,Tundra Platinum,Midnight Black Metallic,4x4,67505,2590.0,70095.0,At dealer,False,Available,5TFNC5DBXPX035362,Bob Howard Toyota,OK
 2023,Tundra Platinum,Supersonic Red,4x4,67505,0.0,67505.0,Factory to port,False,Available,5TFNC5DBXPX035622,Jim Hudson Toyota,SC
 2023,Tundra Platinum,Wind Chill Pearl,4x4,67505,0.0,67505.0,Port to dealer,False,DealerHold,5TFNC5DBXPX035717,Phil Meador Toyota,ID
 2023,Tundra Platinum,Celestial Silver Metallic,4x4,67505,0.0,67505.0,Factory to port,False,Available,5TFNC5DBXPX035801,TeamOne Toyota of Gadsden,AL
@@ -1294,10 +1342,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67505,0.0,67505.0,Factory to port,False,DealerHold,5TFNC5DBXPX19B387,Joseph Toyota of Cincinnati,OH
 2023,Tundra Platinum,Midnight Black Metallic,4x4,67505,0.0,67505.0,Factory to port,False,Available,5TFNC5DBXPX20D442,Toyota of North Miami,FL
 2023,Tundra Platinum,Blueprint,4x4,67505,1278.0,68783.0,Factory to port,False,,5TFNC5DBXPX23A897,AutoNation Toyota Irvine,CA
+2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67505,0.0,67505.0,Factory to port,False,,5TFNC5DBXPX24B561,Keith Pierson Toyota,FL
 2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67835,1098.0,68933.0,At dealer,False,Available,5TFNC5EC1PX003925,Toyota of Cedar Park,TX
-2023,Tundra Platinum,Wind Chill Pearl,4x4,67835,0.0,67835.0,Factory to port,False,Available,5TFNC5EC1PX003973,Toyota of Rockwall,TX
-2023,Tundra Platinum,Blueprint,4x4,67835,0.0,67835.0,Port to dealer,False,Available,5TFNC5EC1PX003987,Mike Calvert Toyota,TX
+2023,Tundra Platinum,Wind Chill Pearl,4x4,67835,0.0,67835.0,Port to dealer,False,Available,5TFNC5EC1PX003973,Toyota of Rockwall,TX
+2023,Tundra Platinum,Blueprint,4x4,67835,0.0,67835.0,At dealer,False,Available,5TFNC5EC1PX003987,Mike Calvert Toyota,TX
 2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67835,1726.0,69561.0,Factory to port,True,DealerHold,5TFNC5EC1PX18C701,AutoNation Toyota Spokane Valley,WA
+2023,Tundra Platinum,Blueprint,4x4,67835,0.0,67835.0,Factory to port,False,Available,5TFNC5EC1PX25B905,Gettel Toyota of Bradenton,FL
 2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67835,0.0,67835.0,Port to dealer,False,DealerHold,5TFNC5EC2PX003884,Toyota of Lake City,WA
 2023,Tundra Platinum,Celestial Silver Metallic,4x4,67835,0.0,67835.0,At dealer,False,DealerHold,5TFNC5EC2PX003948,Edmark Toyota,ID
 2023,Tundra Platinum,Midnight Black Metallic,4x4,67835,0.0,67835.0,Port to dealer,True,,5TFNC5EC2PX004002,Doxon Toyota,WA
@@ -1308,11 +1358,13 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Platinum,Blueprint,4x4,67835,5000.0,72835.0,At dealer,False,Available,5TFNC5EC4PX004003,Toyota of Dallas,TX
 2023,Tundra Platinum,Supersonic Red,4x4,67835,0.0,67835.0,Port to dealer,False,DealerHold,5TFNC5EC4PX004017,Lithia Toyota of Missoula,MT
 2023,Tundra Platinum,Celestial Silver Metallic,4x4,67835,0.0,67835.0,Factory to port,True,DealerHold,5TFNC5EC4PX23C152,Toyota of Puyallup,WA
+2023,Tundra Platinum,Supersonic Red,4x4,67835,0.0,67835.0,Factory to port,False,Available,5TFNC5EC4PX24B529,Milton Ruben Toyota of Augusta,GA
 2023,Tundra Platinum,Midnight Black Metallic,4x4,67835,0.0,67835.0,At dealer,False,Available,5TFNC5EC5PX003703,Nalley Toyota of Roswell,GA
 2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67835,0.0,67835.0,At dealer,False,Available,5TFNC5EC5PX003801,Toyota of Vero Beach,FL
 2023,Tundra Platinum,Celestial Silver Metallic,4x4,67835,0.0,67835.0,At dealer,False,Available,5TFNC5EC5PX003832,Bob Tyler Toyota,FL
 2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67835,7995.0,75830.0,At dealer,False,Available,5TFNC5EC5PX003930,Lithia Toyota of Odessa,TX
 2023,Tundra Platinum,Celestial Silver Metallic,4x4,67835,0.0,67835.0,Factory to port,False,Available,5TFNC5EC5PX004057,Mac Haik Toyota,TX
+2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67835,0.0,67835.0,Factory to port,False,Available,5TFNC5EC5PX23A877,Milton Ruben Toyota of Augusta,GA
 2023,Tundra Platinum,Midnight Black Metallic,4x4,66335,0.0,66335.0,Port to dealer,False,DealerHold,5TFNC5EC6PX003774,Lithia Toyota of Springfield,OR
 2023,Tundra Platinum,Wind Chill Pearl,4x4,67835,0.0,67835.0,Port to dealer,False,DealerHold,5TFNC5EC7PX003895,Casey Toyota,VA
 2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67835,0.0,67835.0,Port to dealer,False,,5TFNC5EC7PX003900,Toyota of Gladstone,OR
@@ -1326,6 +1378,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Platinum,Wind Chill Pearl,4x4,66335,0.0,66335.0,At dealer,False,DealerHold,5TFNC5EC8PX003792,Berlin City Toyota,NH
 2023,Tundra Platinum,Celestial Silver Metallic,4x4,67835,988.0,68823.0,Factory to port,False,Available,5TFNC5EC8PX004070,Longo Toyota of Prosper,TX
 2023,Tundra Platinum,Celestial Silver Metallic,4x4,67835,1999.0,69834.0,Port to dealer,False,Available,5TFNC5EC8PX004084,Foothills Toyota,WA
+2023,Tundra Platinum,Celestial Silver Metallic,4x4,67835,2998.0,70833.0,At dealer,False,Available,5TFNC5EC8PX004098,San Marcos Toyota,TX
 2023,Tundra Platinum,Wind Chill Pearl,4x4,67835,0.0,67835.0,At dealer,False,Available,5TFNC5EC9PX003817,Cox Toyota,NC
 2023,Tundra Platinum,Blueprint,4x4,67835,0.0,67835.0,Port to dealer,False,,5TFNC5EC9PX004031,Vancouver Toyota,WA
 2023,Tundra Platinum,Supersonic Red,4x4,67835,1098.0,68933.0,At dealer,False,Available,5TFNC5EC9PX004062,Toyota of Cedar Park,TX
@@ -1335,7 +1388,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Platinum,Magnetic Gray Metallic,4x4,67835,2190.0,70025.0,At dealer,False,Available,5TFNC5ECXPX003969,Cannon Toyota,MS
 2023,Tundra Platinum,Blueprint,4x4,67835,0.0,67835.0,At dealer,False,Available,5TFNC5ECXPX004006,Gene Messer Toyota,TX
 2023,Tundra Platinum,Celestial Silver Metallic,4x4,67835,395.0,68230.0,Port to dealer,False,,5TFNC5ECXPX004037,Toyota of Olympia,WA
-2023,Tundra Platinum,Midnight Black Metallic,4x4,67835,3493.0,71328.0,Port to dealer,False,Available,5TFNC5ECXPX004121,Keating Toyota,TX
+2023,Tundra Platinum,Midnight Black Metallic,4x4,67835,3493.0,71328.0,At dealer,False,Available,5TFNC5ECXPX004121,Keating Toyota,TX
 2023,Tundra Platinum,Wind Chill Pearl,4x4,67835,0.0,67835.0,Port to dealer,False,DealerHold,5TFNC5ECXPX004152,Wilsonville Toyota,OR
 2023,Tundra TRD Pro,Solar Octane,4x4,69420,7995.0,77415.0,At dealer,False,Available,5TFPC5DB0PX025819,Kolar Toyota,MN
 2023,Tundra TRD Pro,Solar Octane,4x4,69420,0.0,69420.0,At dealer,False,DealerHold,5TFPC5DB0PX031538,Dan Hecht Chevrolet/Toyota,IL
@@ -1348,7 +1401,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra TRD Pro,Ice Cap,4x4,70920,2495.0,73415.0,Port to dealer,False,,5TFPC5DB0PX033581,Toyota of Hopkinsville,KY
 2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,70920,0.0,70920.0,At dealer,False,Available,5TFPC5DB0PX033760,East Coast Toyota,NJ
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Port to dealer,False,DealerHold,5TFPC5DB0PX033869,Langway Toyota of Newport,RI
-2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,At dealer,False,,5TFPC5DB0PX034410,Toyota Town,CA
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Port to dealer,True,DealerHold,5TFPC5DB0PX034424,Sloane Toyota of Philadelphia,PA
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Factory to port,False,Available,5TFPC5DB0PX034634,Peter Boulware Toyota,FL
 2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,At dealer,False,Available,5TFPC5DB0PX034844,Toyota of Greer,SC
@@ -1367,6 +1419,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,70920,0.0,70920.0,Port to dealer,False,,5TFPC5DB0PX035914,Copeland Toyota,MA
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Factory to port,False,,5TFPC5DB0PX20A767,Advantage Toyota of River Oaks,IL
 2023,Tundra TRD Pro,Ice Cap,4x4,70920,5995.0,76915.0,Factory to port,False,,5TFPC5DB0PX23C456,South Bay Toyota,CA
+2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Factory to port,False,Available,5TFPC5DB0PX24B867,Hendrick Toyota Wilmington,NC
 2023,Tundra TRD Pro,Solar Octane,4x4,69420,0.0,69420.0,Port to dealer,False,DealerHold,5TFPC5DB1PX030706,Motorworld Toyota,PA
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,69420,0.0,69420.0,At dealer,False,DealerHold,5TFPC5DB1PX031838,Koch 33 Toyota,PA
 2023,Tundra TRD Pro,Ice Cap,4x4,69420,0.0,69420.0,Port to dealer,False,DealerHold,5TFPC5DB1PX032312,Crown Toyota,KS
@@ -1380,7 +1433,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,Port to dealer,True,DealerHold,5TFPC5DB1PX034643,Vancouver Toyota,WA
 2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,Port to dealer,False,DealerHold,5TFPC5DB1PX034755,Woburn Toyota,MA
 2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,70920,1495.0,72415.0,Port to dealer,False,,5TFPC5DB1PX034769,Mechanicsville Toyota,VA
-2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,At dealer,False,Available,5TFPC5DB1PX034819,Markquart Toyota,WI
 2023,Tundra TRD Pro,Ice Cap,4x4,70920,10590.0,81510.0,Factory to port,True,Available,5TFPC5DB1PX034836,Cowboy Toyota,TX
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Port to dealer,False,DealerHold,5TFPC5DB1PX034920,Larry Lassen Toyota,OR
 2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,70920,0.0,70920.0,Port to dealer,False,DealerHold,5TFPC5DB1PX035081,Corwin Toyota,ND
@@ -1394,13 +1446,16 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,599.0,71519.0,Factory to port,False,Available,5TFPC5DB1PX036019,Landers Toyota,AR
 2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,70920,0.0,70920.0,Port to dealer,False,DealerHold,5TFPC5DB1PX036053,South Hills Toyota,PA
 2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,Factory to port,True,DealerHold,5TFPC5DB1PX23A831,Kendall Toyota of Bend,OR
+2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,Factory to port,False,Available,5TFPC5DB1PX24C252,Toyota of Rock Hill,SC
+2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,Factory to port,False,Available,5TFPC5DB1PX25B856,Lipton Toyota,FL
+2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Factory to port,False,Available,5TFPC5DB1PX25C232,Toyota of Deerfield Beach,FL
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,3000.0,73920.0,At dealer,False,DealerHold,5TFPC5DB2PX029919,Natchez Toyota,MS
 2023,Tundra TRD Pro,Solar Octane,4x4,70920,0.0,70920.0,At dealer,False,Available,5TFPC5DB2PX031668,DeLuca Toyota,FL
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,69420,0.0,69420.0,Port to dealer,False,DealerHold,5TFPC5DB2PX033128,Eddy's Toyota of Wichita,KS
 2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,Port to dealer,False,,5TFPC5DB2PX033274,Bayside Toyota,MD
 2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,70920,0.0,70920.0,Port to dealer,False,Available,5TFPC5DB2PX033291,Walser Bloomington Toyota,MN
 2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,70920,0.0,70920.0,Port to dealer,False,,5TFPC5DB2PX033372,Dick Hannah Toyota,WA
-2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,70920,0.0,70920.0,At dealer,True,DealerHold,5TFPC5DB2PX033890,Columbia Gorge Toyota,OR
+2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,70920,0.0,70920.0,Factory to port,True,Available,5TFPC5DB2PX033582,Landers Toyota,AR
 2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,Port to dealer,False,DealerHold,5TFPC5DB2PX033971,Premier Toyota of Amherst,OH
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Port to dealer,True,DealerHold,5TFPC5DB2PX034148,Falmouth Toyota,MA
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Factory to port,False,Available,5TFPC5DB2PX034229,Town & Country Toyota,NC
@@ -1416,6 +1471,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,10995.0,81915.0,Factory to port,True,DealerHold,5TFPC5DB2PX23B227,Toyota Carlsbad,CA
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,1298.0,72218.0,Factory to port,False,,5TFPC5DB2PX23B230,Sunshine Toyota,MI
 2023,Tundra TRD Pro,Solar Octane,4x4,70920,2098.0,73018.0,Factory to port,False,,5TFPC5DB2PX23C829,Toyota of Surprise,AZ
+2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Factory to port,False,Available,5TFPC5DB2PX25C708,Toyota of Tampa Bay,FL
 2023,Tundra TRD Pro,Solar Octane,4x4,69420,5045.0,74465.0,At dealer,False,Available,5TFPC5DB3PX032666,Toyota of Bedford,OH
 2023,Tundra TRD Pro,Solar Octane,4x4,69420,0.0,69420.0,At dealer,False,Available,5TFPC5DB3PX032733,Stevens Creek Toyota,CA
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,69420,0.0,69420.0,Port to dealer,True,DealerHold,5TFPC5DB3PX033073,Performance Motors Toyota,PA
@@ -1436,11 +1492,13 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,At dealer,False,Available,5TFPC5DB3PX035471,Trotter Toyota,AR
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Factory to port,False,Available,5TFPC5DB3PX035647,Leith Toyota,NC
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Factory to port,False,Available,5TFPC5DB3PX035907,South Dade Toyota,FL
+2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,1877.0,72797.0,Port to dealer,False,Available,5TFPC5DB3PX036135,AutoNation Toyota Las Vegas,NV
 2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,70920,0.0,70920.0,Port to dealer,True,DealerHold,5TFPC5DB3PX036166,Sullivan Brothers Toyota,MA
 2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,70920,0.0,70920.0,Factory to port,True,,5TFPC5DB3PX21A838,Wilson Toyota,IA
 2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,Factory to port,False,DealerHold,5TFPC5DB3PX21A953,Team Toyota,IN
 2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,Factory to port,True,DealerHold,5TFPC5DB3PX22A687,Peppers Toyota,TN
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,1190.0,72110.0,Factory to port,False,,5TFPC5DB3PX23C452,Simi Valley Toyota,CA
+2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Factory to port,False,Available,5TFPC5DB3PX25B485,Toyota of North Charlotte,NC
 2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,70920,4000.0,74920.0,At dealer,True,Available,5TFPC5DB4PX030070,Lakeside Toyota,LA
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,At dealer,False,Available,5TFPC5DB4PX032093,Savannah Toyota,GA
 2023,Tundra TRD Pro,Ice Cap,4x4,69420,0.0,69420.0,At dealer,False,,5TFPC5DB4PX032157,Fernelius Toyota,MI
@@ -1450,7 +1508,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra TRD Pro,Ice Cap,4x4,70920,1798.0,72718.0,Port to dealer,False,Available,5TFPC5DB4PX033275,Toyota of Portland on Broadway,OR
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Factory to port,False,Available,5TFPC5DB4PX033339,Serra Toyota,AL
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Port to dealer,False,DealerHold,5TFPC5DB4PX033342,Imperial Toyota,MA
-2023,Tundra TRD Pro,Solar Octane,4x4,70920,0.0,70920.0,At dealer,False,DealerHold,5TFPC5DB4PX033485,Marina Del Rey Toyota,CA
 2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,At dealer,False,DealerHold,5TFPC5DB4PX033535,Woodrum Toyota of Macomb,IL
 2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,At dealer,False,,5TFPC5DB4PX033731,Conicelli Toyota,PA
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,At dealer,False,Available,5TFPC5DB4PX033843,Gray-Daniels Toyota,MS
@@ -1471,6 +1528,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,Port to dealer,False,,5TFPC5DB4PX035575,Quality Toyota of Independence,KS
 2023,Tundra TRD Pro,Solar Octane,4x4,70920,2791.0,73711.0,Port to dealer,False,,5TFPC5DB4PX035656,Billion Toyota,SD
 2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,Factory to port,False,Available,5TFPC5DB4PX035866,Toyota of Orlando,FL
+2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,70920,0.0,70920.0,Factory to port,True,DealerHold,5TFPC5DB4PX035902,Toyota of Denton,TX
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Port to dealer,False,,5TFPC5DB4PX035933,Toyota City,NY
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,15000.0,85920.0,Factory to port,True,Available,5TFPC5DB4PX036001,Texas Toyota of Grapevine,TX
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Factory to port,False,Available,5TFPC5DB4PX22A794,Toyota of Fort Walton Beach,FL
@@ -1479,6 +1537,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Factory to port,True,,5TFPC5DB4PX23B231,St. Cloud Toyota,MN
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,4285.0,75205.0,Factory to port,False,,5TFPC5DB4PX23C461,Toyota of El Cajon,CA
 2023,Tundra TRD Pro,Solar Octane,4x4,70920,399.0,71319.0,Factory to port,False,Available,5TFPC5DB4PX23C833,Toyota of Paris,TX
+2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Factory to port,False,Available,5TFPC5DB4PX24A625,Hall Toyota Elizabeth City,NC
+2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,Factory to port,False,Available,5TFPC5DB4PX25A619,Bob Tyler Toyota,FL
+2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Factory to port,False,Available,5TFPC5DB4PX25C712,Ed Morse Delray Toyota,FL
 2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,70920,0.0,70920.0,At dealer,False,Available,5TFPC5DB5PX027663,AutoNation Toyota Gulf Freeway,TX
 2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,69420,0.0,69420.0,At dealer,False,,5TFPC5DB5PX030420,Toyota Marin,CA
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,69420,0.0,69420.0,Factory to port,False,DealerHold,5TFPC5DB5PX031471,Carson City Toyota,NV
@@ -1488,22 +1549,25 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Port to dealer,True,DealerHold,5TFPC5DB5PX033673,Waite Toyota,NY
 2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,70920,0.0,70920.0,Port to dealer,False,Available,5TFPC5DB5PX033740,Premier Toyota of Amherst,OH
 2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,70920,0.0,70920.0,At dealer,False,DealerHold,5TFPC5DB5PX034158,Koons Toyota,MD
+2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,Port to dealer,True,Available,5TFPC5DB5PX034757,Northtown Toyota,NY
 2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,Port to dealer,False,,5TFPC5DB5PX034872,Jerry Ackerman Toyota,MO
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Factory to port,False,Available,5TFPC5DB5PX034922,Toyota of North Charlotte,NC
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,At dealer,False,Available,5TFPC5DB5PX034998,Vandergriff Toyota,TX
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,At dealer,False,,5TFPC5DB5PX035004,Camelback Toyota,AZ
 2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,Port to dealer,False,DealerHold,5TFPC5DB5PX035049,Grieco Toyota,RI
-2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,Port to dealer,True,DealerHold,5TFPC5DB5PX035200,Elgin Toyota,IL
+2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,At dealer,True,DealerHold,5TFPC5DB5PX035200,Elgin Toyota,IL
 2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,Port to dealer,True,DealerHold,5TFPC5DB5PX035259,Capitol Toyota of Salem,OR
 2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,70920,0.0,70920.0,Port to dealer,False,DealerHold,5TFPC5DB5PX035388,Precision Toyota of Tucson,AZ
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Port to dealer,False,,5TFPC5DB5PX035410,Metro Toyota,OH
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,At dealer,True,DealerHold,5TFPC5DB5PX035469,Bert Ogden Toyota of Harlingen,TX
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,1750.0,72670.0,Port to dealer,False,,5TFPC5DB5PX035505,Crown Toyota,MI
-2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,70920,0.0,70920.0,Factory to port,False,Available,5TFPC5DB5PX035598,Vandergriff Toyota,TX
+2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,70920,0.0,70920.0,Port to dealer,False,Available,5TFPC5DB5PX035598,Vandergriff Toyota,TX
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Factory to port,False,Available,5TFPC5DB5PX035732,Nalley Toyota Union City,GA
 2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,Port to dealer,True,DealerHold,5TFPC5DB5PX035844,Voss Toyota,OH
 2023,Tundra TRD Pro,Solar Octane,4x4,70920,1495.0,72415.0,Port to dealer,False,Available,5TFPC5DB5PX036105,Mechanicsville Toyota,VA
 2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,70920,0.0,70920.0,Factory to port,False,Available,5TFPC5DB5PX21A548,Lia Toyota of Colonie,NY
+2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Factory to port,False,Available,5TFPC5DB5PX24B864,Toyota of Rock Hill,SC
+2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,Factory to port,False,Available,5TFPC5DB5PX25B858,Pitts Toyota,GA
 2023,Tundra TRD Pro,Solar Octane,4x4,69420,0.0,69420.0,Port to dealer,False,DealerHold,5TFPC5DB6PX030068,Steet Toyota,NY
 2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,70920,8493.0,79413.0,At dealer,False,Available,5TFPC5DB6PX031799,Keating Toyota,TX
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,69420,0.0,69420.0,At dealer,False,Available,5TFPC5DB6PX032256,Romano Toyota,NY
@@ -1539,6 +1603,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Factory to port,False,Available,5TFPC5DB6PX22B462,Modern Toyota of Boone,NC
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Factory to port,False,Available,5TFPC5DB6PX22C174,Fred Anderson Toyota,NC
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,1790.0,72710.0,Factory to port,False,,5TFPC5DB6PX22C529,Shore Toyota,NJ
+2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Factory to port,False,Available,5TFPC5DB6PX23B215,Toyota of Clermont,FL
 2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,Factory to port,True,,5TFPC5DB6PX23B232,Faulkner Toyota,PA
 2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,70920,0.0,70920.0,Factory to port,True,DealerHold,5TFPC5DB6PX23B618,Capitol Toyota of Salem,OR
 2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,70920,0.0,70920.0,Factory to port,False,,5TFPC5DB6PX23C459,Bell Road Toyota,AZ
@@ -1568,7 +1633,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,Port to dealer,False,DealerHold,5TFPC5DB7PX035649,Crown Toyota,IL
 2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,70920,0.0,70920.0,Port to dealer,False,DealerHold,5TFPC5DB7PX035697,Imperial Toyota,MA
 2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,70920,0.0,70920.0,Port to dealer,False,,5TFPC5DB7PX035702,Allegheny Toyota,PA
-2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,70920,0.0,70920.0,Factory to port,False,DealerHold,5TFPC5DB7PX035716,Bert Ogden Toyota of Harlingen,TX
+2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,70920,0.0,70920.0,Factory to port,True,DealerHold,5TFPC5DB7PX035716,Bert Ogden Toyota of Harlingen,TX
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Port to dealer,False,,5TFPC5DB7PX035926,Hertrich Toyota of Pocomoke,MD
 2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,70920,0.0,70920.0,Port to dealer,False,DealerHold,5TFPC5DB7PX035957,Burien Toyota,WA
 2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,70920,0.0,70920.0,Port to dealer,False,,5TFPC5DB7PX035960,Greentree Toyota,CT
@@ -1578,7 +1643,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,Factory to port,False,Available,5TFPC5DB7PX20C936,Cherokee County Toyota,GA
 2023,Tundra TRD Pro,Ice Cap,4x4,70920,5580.0,76500.0,Factory to port,True,DealerHold,5TFPC5DB7PX23B224,Kearny Mesa Toyota,CA
 2023,Tundra TRD Pro,Ice Cap,4x4,69420,0.0,69420.0,At dealer,False,DealerHold,5TFPC5DB8PX030427,Toyota of Ashland,KY
-2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,Port to dealer,False,DealerHold,5TFPC5DB8PX033201,Right Toyota,AZ
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,At dealer,False,Available,5TFPC5DB8PX033456,Sterling McCall Toyota Fort Bend,TX
 2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,At dealer,False,Available,5TFPC5DB8PX033716,Sam Leman Toyota Bloomington,IL
 2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,70920,0.0,70920.0,At dealer,False,DealerHold,5TFPC5DB8PX034008,Haley Toyota of Richmond,VA
@@ -1610,6 +1674,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra TRD Pro,Solar Octane,4x4,70920,0.0,70920.0,Factory to port,False,,5TFPC5DB8PX20A077,Fernelius Toyota,MI
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Factory to port,False,,5TFPC5DB8PX22B463,Lowe Toyota of Warner Robins,GA
 2023,Tundra TRD Pro,Ice Cap,4x4,70920,2596.0,73516.0,Factory to port,False,DealerHold,5TFPC5DB8PX22C368,Gresham Toyota,OR
+2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Factory to port,False,Available,5TFPC5DB8PX23B216,Miracle Toyota,FL
+2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Factory to port,False,Available,5TFPC5DB8PX23B233,Fred Anderson Toyota of Asheville,NC
+2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,Factory to port,False,Available,5TFPC5DB8PX24A241,Rivertown Toyota,GA
+2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Factory to port,False,Available,5TFPC5DB8PX24A627,Atlanta Toyota,GA
 2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,70920,0.0,70920.0,Factory to port,False,DealerHold,5TFPC5DB8PX25C714,Toyota of Merrillville,IN
 2023,Tundra TRD Pro,Solar Octane,4x4,69420,0.0,69420.0,At dealer,False,Available,5TFPC5DB9PX028640,Hansel Toyota,CA
 2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,69420,0.0,69420.0,Port to dealer,False,Available,5TFPC5DB9PX031165,Dahl Toyota,MN
@@ -1638,7 +1706,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,Port to dealer,False,,5TFPC5DB9PX035250,Toyota of Dartmouth,MA
 2023,Tundra TRD Pro,Solar Octane,4x4,70920,0.0,70920.0,Port to dealer,True,,5TFPC5DB9PX035314,Findlay Toyota Flagstaff,AZ
 2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,At dealer,True,DealerHold,5TFPC5DB9PX035345,Gene Messer Toyota,TX
-2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,At dealer,False,Available,5TFPC5DB9PX035474,Don McGill Toyota of Katy,TX
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Factory to port,False,,5TFPC5DB9PX035524,Miracle Toyota,FL
 2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,Port to dealer,False,DealerHold,5TFPC5DB9PX035877,Tri County Toyota,PA
 2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,70920,17696.0,88616.0,Factory to port,False,Available,5TFPC5DB9PX035989,Alamo Toyota,TX
@@ -1663,7 +1730,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,1995.0,72915.0,At dealer,False,Available,5TFPC5DBXPX033989,Toyota of Slidell,LA
 2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,70920,0.0,70920.0,Port to dealer,False,,5TFPC5DBXPX034043,Lewis Toyota of Dodge City,KS
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Port to dealer,False,DealerHold,5TFPC5DBXPX034155,Herb Chambers Toyota of Auburn,MA
-2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,Port to dealer,False,,5TFPC5DBXPX034270,Jaffarian Toyota,MA
+2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,At dealer,False,,5TFPC5DBXPX034270,Jaffarian Toyota,MA
 2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,Factory to port,False,Available,5TFPC5DBXPX034477,Walker Toyota,LA
 2023,Tundra TRD Pro,Solar Octane,4x4,70920,0.0,70920.0,Factory to port,True,DealerHold,5TFPC5DBXPX034883,Fred Haas Toyota World,TX
 2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,70920,0.0,70920.0,Port to dealer,False,DealerHold,5TFPC5DBXPX035015,Berglund Toyota,VA
@@ -1684,6 +1751,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra TRD Pro,Ice Cap,4x4,70920,3570.0,74490.0,Factory to port,False,,5TFPC5DBXPX23A391,Gateway Toyota,NJ
 2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,Factory to port,False,DealerHold,5TFPC5DBXPX23C447,Battlefield Toyota,VA
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Factory to port,False,,5TFPC5DBXPX23C464,Serra Toyota of Saginaw,MI
+2023,Tundra TRD Pro,Ice Cap,4x4,70920,0.0,70920.0,Factory to port,False,Available,5TFPC5DBXPX24C721,Coggin Toyota at the Avenues,FL
 2023,Tundra TRD Pro,Midnight Black Metallic,4x4,70920,0.0,70920.0,Factory to port,True,DealerHold,5TFPC5DBXPX25C715,Heart City Toyota,IN
 2023,Tundra TRD Pro,Magnetic Gray Metallic,4x4,70920,0.0,70920.0,Factory to port,False,,5TFPC5DBXPX26B558,Dublin Toyota,CA
 2023,Tundra Capstone,Midnight Black Metallic,4x4,75245,0.0,75245.0,At dealer,False,Available,5TFVC5DB0PX023527,Toyota of Warsaw,IN
@@ -1692,7 +1760,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Capstone,Wind Chill Pearl,4x4,76145,0.0,76145.0,At dealer,False,Available,5TFVC5DB0PX027027,Joseph Toyota of Cincinnati,OH
 2023,Tundra Capstone,Midnight Black Metallic,4x4,76145,0.0,76145.0,At dealer,False,DealerHold,5TFVC5DB0PX027206,Bob Smith Toyota,CA
 2023,Tundra Capstone,Wind Chill Pearl,4x4,76145,0.0,76145.0,At dealer,False,Available,5TFVC5DB0PX027657,Koons Toyota,MD
-2023,Tundra Capstone,Wind Chill Pearl,4x4,76145,0.0,76145.0,At dealer,False,,5TFVC5DB0PX027710,Hansel Toyota,CA
 2023,Tundra Capstone,Supersonic Red,4x4,76145,0.0,76145.0,At dealer,False,,5TFVC5DB0PX027724,Toyota South,KY
 2023,Tundra Capstone,Celestial Silver Metallic,4x4,76145,0.0,76145.0,At dealer,False,,5TFVC5DB0PX027755,Oakbrook Toyota in Westmont,IL
 2023,Tundra Capstone,Midnight Black Metallic,4x4,76145,0.0,76145.0,At dealer,False,Available,5TFVC5DB0PX027934,Thayer Toyota,OH
@@ -1710,7 +1777,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Capstone,Wind Chill Pearl,4x4,77645,0.0,77645.0,At dealer,False,Available,5TFVC5DB0PX030901,Toyota of New Orleans,LA
 2023,Tundra Capstone,Wind Chill Pearl,4x4,77645,19999.0,97644.0,At dealer,False,Available,5TFVC5DB0PX030977,Ray Brandt Toyota,LA
 2023,Tundra Capstone,Celestial Silver Metallic,4x4,76145,0.0,76145.0,At dealer,False,,5TFVC5DB0PX031479,Toyota of Nashua,NH
-2023,Tundra Capstone,Supersonic Red,4x4,77645,0.0,77645.0,At dealer,False,DealerHold,5TFVC5DB0PX031501,Fox Toyota of El Paso,TX
+2023,Tundra Capstone,Supersonic Red,4x4,77645,0.0,77645.0,At dealer,False,Available,5TFVC5DB0PX031501,Fox Toyota of El Paso,TX
 2023,Tundra Capstone,Magnetic Gray Metallic,4x4,76145,0.0,76145.0,At dealer,False,Available,5TFVC5DB0PX031899,Toyota of Hackensack,NJ
 2023,Tundra Capstone,Blueprint,4x4,76145,0.0,76145.0,At dealer,False,,5TFVC5DB0PX032101,Koons Tysons Toyota,VA
 2023,Tundra Capstone,Supersonic Red,4x4,77645,1098.0,78743.0,At dealer,False,Available,5TFVC5DB0PX032177,Toyota of Cedar Park,TX
@@ -1783,7 +1850,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Capstone,Magnetic Gray Metallic,4x4,76145,0.0,76145.0,At dealer,False,DealerHold,5TFVC5DB1PX033113,Elko Toyota,NV
 2023,Tundra Capstone,Wind Chill Pearl,4x4,77645,0.0,77645.0,Factory to port,False,Available,5TFVC5DB1PX033435,Hall Toyota Elizabeth City,NC
 2023,Tundra Capstone,Wind Chill Pearl,4x4,77645,0.0,77645.0,Port to dealer,False,,5TFVC5DB1PX033905,Lithia Toyota of Redding,CA
-2023,Tundra Capstone,Midnight Black Metallic,4x4,77645,0.0,77645.0,At dealer,False,,5TFVC5DB1PX034276,Dublin Toyota,CA
+2023,Tundra Capstone,Midnight Black Metallic,4x4,77645,0.0,77645.0,At dealer,False,Available,5TFVC5DB1PX034276,One Toyota of Oakland,CA
 2023,Tundra Capstone,Supersonic Red,4x4,77645,0.0,77645.0,At dealer,False,Available,5TFVC5DB1PX034388,Chatham Parkway Toyota,GA
 2023,Tundra Capstone,Magnetic Gray Metallic,4x4,77645,3726.0,81371.0,At dealer,False,Available,5TFVC5DB1PX034522,AutoNation Toyota Spokane Valley,WA
 2023,Tundra Capstone,Wind Chill Pearl,4x4,77645,0.0,77645.0,Port to dealer,False,DealerHold,5TFVC5DB1PX034553,Williams Toyota of Sayre,PA
@@ -1824,7 +1891,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Capstone,Blueprint,4x4,77645,2391.0,80036.0,At dealer,False,Available,5TFVC5DB2PX030334,Lake Charles Toyota,LA
 2023,Tundra Capstone,Supersonic Red,4x4,76145,0.0,76145.0,At dealer,False,,5TFVC5DB2PX030432,Berlin City Toyota,NH
 2023,Tundra Capstone,Blueprint,4x4,77645,2895.0,80540.0,At dealer,False,Available,5TFVC5DB2PX030446,Jim Norton Toyota,OK
-2023,Tundra Capstone,Midnight Black Metallic,4x4,76145,0.0,76145.0,At dealer,False,DealerHold,5TFVC5DB2PX030575,Koons Tysons Toyota,VA
 2023,Tundra Capstone,Blueprint,4x4,76145,0.0,76145.0,At dealer,False,,5TFVC5DB2PX030611,South Hills Toyota,PA
 2023,Tundra Capstone,Celestial Silver Metallic,4x4,77645,7995.0,85640.0,At dealer,False,Available,5TFVC5DB2PX030785,Cowboy Toyota,TX
 2023,Tundra Capstone,Magnetic Gray Metallic,4x4,76145,0.0,76145.0,At dealer,False,,5TFVC5DB2PX031015,Basil Toyota,NY
@@ -1869,6 +1935,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Capstone,Supersonic Red,4x4,77645,0.0,77645.0,Factory to port,True,DealerHold,5TFVC5DB2PX23A344,Carlson Toyota,MN
 2023,Tundra Capstone,Wind Chill Pearl,4x4,77645,0.0,77645.0,Factory to port,False,Available,5TFVC5DB2PX23B557,Wilson Toyota,IA
 2023,Tundra Capstone,Midnight Black Metallic,4x4,77645,0.0,77645.0,Factory to port,False,,5TFVC5DB2PX23B560,Cedric Theel Toyota,ND
+2023,Tundra Capstone,Wind Chill Pearl,4x4,77645,0.0,77645.0,Factory to port,False,Available,5TFVC5DB2PX24A310,Toyota of Orlando,FL
 2023,Tundra Capstone,Midnight Black Metallic,4x4,75245,9785.0,85030.0,At dealer,False,Available,5TFVC5DB3PX023795,Cavender Toyota,TX
 2023,Tundra Capstone,Wind Chill Pearl,4x4,76145,0.0,76145.0,At dealer,False,Available,5TFVC5DB3PX027006,Mike Johnson's Hickory Toyota,NC
 2023,Tundra Capstone,Celestial Silver Metallic,4x4,76145,0.0,76145.0,At dealer,False,Available,5TFVC5DB3PX027314,Toyota of Keene,NH
@@ -1903,7 +1970,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Capstone,Wind Chill Pearl,4x4,77645,0.0,77645.0,Factory to port,False,Available,5TFVC5DB3PX033307,World Toyota,GA
 2023,Tundra Capstone,Midnight Black Metallic,4x4,77645,4966.0,82611.0,Port to dealer,False,Available,5TFVC5DB3PX033338,Toyota of Turnersville,NJ
 2023,Tundra Capstone,Celestial Silver Metallic,4x4,77645,4945.0,82590.0,Port to dealer,False,,5TFVC5DB3PX033405,Toyota World of Lakewood,NJ
-2023,Tundra Capstone,Wind Chill Pearl,4x4,77645,0.0,77645.0,At dealer,False,Available,5TFVC5DB3PX033498,West Coast Toyota of Long Beach,CA
+2023,Tundra Capstone,Wind Chill Pearl,4x4,77645,0.0,77645.0,At dealer,False,DealerHold,5TFVC5DB3PX033498,West Coast Toyota of Long Beach,CA
 2023,Tundra Capstone,Magnetic Gray Metallic,4x4,77645,0.0,77645.0,Factory to port,False,Available,5TFVC5DB3PX033579,Beaver Toyota of Cumming,GA
 2023,Tundra Capstone,Supersonic Red,4x4,77645,0.0,77645.0,Factory to port,False,Available,5TFVC5DB3PX033629,Mark Jacobson Toyota,NC
 2023,Tundra Capstone,Midnight Black Metallic,4x4,77645,0.0,77645.0,At dealer,False,Available,5TFVC5DB3PX033839,Coggin Toyota at the Avenues,FL
@@ -1976,7 +2043,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Capstone,Wind Chill Pearl,4x4,77645,0.0,77645.0,Port to dealer,False,,5TFVC5DB4PX034210,Plaza Toyota,NY
 2023,Tundra Capstone,Celestial Silver Metallic,4x4,77645,0.0,77645.0,At dealer,False,,5TFVC5DB4PX034269,Tracy Toyota,CA
 2023,Tundra Capstone,Magnetic Gray Metallic,4x4,77645,1274.0,78919.0,At dealer,False,,5TFVC5DB4PX034627,Tom Wood Toyota,IN
-2023,Tundra Capstone,Wind Chill Pearl,4x4,77645,0.0,77645.0,Port to dealer,False,Available,5TFVC5DB4PX034921,Joe Myers Toyota,TX
+2023,Tundra Capstone,Wind Chill Pearl,4x4,77645,0.0,77645.0,At dealer,False,Available,5TFVC5DB4PX034921,Joe Myers Toyota,TX
 2023,Tundra Capstone,Midnight Black Metallic,4x4,77645,2387.0,80032.0,At dealer,False,Available,5TFVC5DB4PX035082,Toyota of Irving,TX
 2023,Tundra Capstone,Midnight Black Metallic,4x4,77645,0.0,77645.0,Port to dealer,False,DealerHold,5TFVC5DB4PX035096,Jeff Wyler Toyota of Clarksville,IN
 2023,Tundra Capstone,Midnight Black Metallic,4x4,77645,0.0,77645.0,Port to dealer,False,DealerHold,5TFVC5DB4PX035132,David Wilson's Toyota and Scion of Las Vegas,NV
@@ -2007,7 +2074,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Capstone,Midnight Black Metallic,4x4,77645,0.0,77645.0,At dealer,False,Available,5TFVC5DB5PX030330,Marietta Toyota,GA
 2023,Tundra Capstone,Supersonic Red,4x4,76145,0.0,76145.0,At dealer,False,,5TFVC5DB5PX030487,Del Toyota,PA
 2023,Tundra Capstone,Midnight Black Metallic,4x4,77645,0.0,77645.0,At dealer,False,,5TFVC5DB5PX030618,Toyota of North Miami,FL
-2023,Tundra Capstone,Blueprint,4x4,76145,0.0,76145.0,At dealer,False,Available,5TFVC5DB5PX030747,Koons Toyota,MD
 2023,Tundra Capstone,Midnight Black Metallic,4x4,77645,0.0,77645.0,At dealer,False,Available,5TFVC5DB5PX030764,Hendrick Toyota North Charleston,SC
 2023,Tundra Capstone,Wind Chill Pearl,4x4,76145,0.0,76145.0,At dealer,False,DealerHold,5TFVC5DB5PX030781,Colonial Toyota,CT
 2023,Tundra Capstone,Wind Chill Pearl,4x4,76145,1995.0,78140.0,At dealer,False,Available,5TFVC5DB5PX030893,Lone Star Toyota of Lewisville,TX
@@ -2103,7 +2169,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Capstone,Blueprint,4x4,77645,0.0,77645.0,At dealer,False,,5TFVC5DB6PX034371,Stevens Creek Toyota,CA
 2023,Tundra Capstone,Wind Chill Pearl,4x4,77645,0.0,77645.0,Factory to port,False,Available,5TFVC5DB6PX034421,Bruner Toyota,TX
 2023,Tundra Capstone,Celestial Silver Metallic,4x4,77645,2379.0,80024.0,Port to dealer,False,Available,5TFVC5DB6PX034533,Gullo Toyota of Conroe,TX
-2023,Tundra Capstone,Midnight Black Metallic,4x4,77645,0.0,77645.0,Port to dealer,False,Available,5TFVC5DB6PX034547,Family Toyota of Burleson,TX
+2023,Tundra Capstone,Midnight Black Metallic,4x4,77645,0.0,77645.0,At dealer,False,Available,5TFVC5DB6PX034547,Family Toyota of Burleson,TX
 2023,Tundra Capstone,Supersonic Red,4x4,77645,0.0,77645.0,At dealer,False,,5TFVC5DB6PX034614,"Pedersen Toyota, Ltd.",CO
 2023,Tundra Capstone,Magnetic Gray Metallic,4x4,77645,0.0,77645.0,Factory to port,False,Available,5TFVC5DB6PX034659,Cobb County Toyota,GA
 2023,Tundra Capstone,Magnetic Gray Metallic,4x4,77645,0.0,77645.0,At dealer,False,,5TFVC5DB6PX034676,Jim Bagan Toyota,CA
@@ -2154,6 +2220,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Capstone,Blueprint,4x4,77645,1098.0,78743.0,At dealer,False,DealerHold,5TFVC5DB7PX032791,Toyota of Cedar Park,TX
 2023,Tundra Capstone,Wind Chill Pearl,4x4,77645,0.0,77645.0,At dealer,False,DealerHold,5TFVC5DB7PX033097,Family Toyota of Burleson,TX
 2023,Tundra Capstone,Magnetic Gray Metallic,4x4,77645,0.0,77645.0,Port to dealer,False,DealerHold,5TFVC5DB7PX033343,Galaxy Toyota,NJ
+2023,Tundra Capstone,Wind Chill Pearl,4x4,77645,0.0,77645.0,Port to dealer,False,Available,5TFVC5DB7PX033391,Johnson City Toyota,TN
 2023,Tundra Capstone,Midnight Black Metallic,4x4,77645,0.0,77645.0,Factory to port,False,Available,5TFVC5DB7PX033486,TeamOne Toyota of Gadsden,AL
 2023,Tundra Capstone,Magnetic Gray Metallic,4x4,77645,0.0,77645.0,Factory to port,False,Available,5TFVC5DB7PX033505,Clearwater Toyota,FL
 2023,Tundra Capstone,Blueprint,4x4,77645,0.0,77645.0,At dealer,False,Available,5TFVC5DB7PX033634,Mac Haik Toyota,TX
@@ -2167,7 +2234,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Capstone,Magnetic Gray Metallic,4x4,77645,0.0,77645.0,Port to dealer,False,DealerHold,5TFVC5DB7PX034475,Kari Toyota,WI
 2023,Tundra Capstone,Wind Chill Pearl,4x4,77645,0.0,77645.0,Port to dealer,False,DealerHold,5TFVC5DB7PX034718,Lia Toyota,MA
 2023,Tundra Capstone,Wind Chill Pearl,4x4,77645,0.0,77645.0,Port to dealer,False,,5TFVC5DB7PX034931,Toyota of York,PA
-2023,Tundra Capstone,Wind Chill Pearl,4x4,77645,12488.0,90133.0,Port to dealer,False,Available,5TFVC5DB7PX034993,Toyota of Plano,TX
+2023,Tundra Capstone,Wind Chill Pearl,4x4,77645,12488.0,90133.0,At dealer,False,Available,5TFVC5DB7PX034993,Toyota of Plano,TX
 2023,Tundra Capstone,Blueprint,4x4,77645,0.0,77645.0,Port to dealer,False,,5TFVC5DB7PX035075,Elko Toyota,NV
 2023,Tundra Capstone,Midnight Black Metallic,4x4,77645,0.0,77645.0,Port to dealer,False,,5TFVC5DB7PX035237,Classic Toyota,OH
 2023,Tundra Capstone,Magnetic Gray Metallic,4x4,77645,0.0,77645.0,Port to dealer,False,,5TFVC5DB7PX035531,Right Toyota,AZ
@@ -2177,6 +2244,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Capstone,Magnetic Gray Metallic,4x4,77645,698.0,78343.0,Factory to port,False,,5TFVC5DB7PX20A014,Newbold Toyota,IL
 2023,Tundra Capstone,Blueprint,4x4,77645,0.0,77645.0,Factory to port,False,,5TFVC5DB7PX21D264,Evans Toyota,IN
 2023,Tundra Capstone,Wind Chill Pearl,4x4,77645,2779.0,80424.0,Factory to port,False,,5TFVC5DB7PX23B554,Kolar Toyota,MN
+2023,Tundra Capstone,Midnight Black Metallic,4x4,77645,0.0,77645.0,Factory to port,False,Available,5TFVC5DB7PX24C196,World Toyota,GA
 2023,Tundra Capstone,Midnight Black Metallic,4x4,77645,0.0,77645.0,Factory to port,False,,5TFVC5DB7PX24C781,AutoNation Toyota Libertyville,IL
 2023,Tundra Capstone,Magnetic Gray Metallic,4x4,76145,0.0,76145.0,At dealer,False,Available,5TFVC5DB8PX020536,Toyota of Vero Beach,FL
 2023,Tundra Capstone,Midnight Black Metallic,4x4,76145,0.0,76145.0,At dealer,False,DealerHold,5TFVC5DB8PX026921,Irwin Toyota,NH
@@ -2279,6 +2347,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Capstone,Celestial Silver Metallic,4x4,77645,0.0,77645.0,Port to dealer,False,,5TFVC5DB9PX034171,Quality Toyota of Independence,KS
 2023,Tundra Capstone,Celestial Silver Metallic,4x4,77645,0.0,77645.0,Port to dealer,False,,5TFVC5DB9PX034395,Berlin City Toyota of Portland,ME
 2023,Tundra Capstone,Midnight Black Metallic,4x4,77645,0.0,77645.0,Port to dealer,True,,5TFVC5DB9PX034641,Doxon Toyota,WA
+2023,Tundra Capstone,Midnight Black Metallic,4x4,77645,0.0,77645.0,At dealer,False,,5TFVC5DB9PX034753,Capitol Toyota,CA
 2023,Tundra Capstone,Midnight Black Metallic,4x4,77645,0.0,77645.0,At dealer,False,Available,5TFVC5DB9PX034767,Fred Haas Toyota World,TX
 2023,Tundra Capstone,Celestial Silver Metallic,4x4,77645,0.0,77645.0,Port to dealer,False,,5TFVC5DB9PX034882,San Francisco Toyota,CA
 2023,Tundra Capstone,Midnight Black Metallic,4x4,77645,0.0,77645.0,Factory to port,False,Available,5TFVC5DB9PX035014,Freeman Toyota,TX
@@ -2326,7 +2395,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Tundra Capstone,Supersonic Red,4x4,77645,0.0,77645.0,At dealer,True,Available,5TFVC5DBXPX033773,Landers Toyota,AR
 2023,Tundra Capstone,Magnetic Gray Metallic,4x4,77645,0.0,77645.0,At dealer,False,Available,5TFVC5DBXPX033935,Stokes Toyota Beaufort,SC
 2023,Tundra Capstone,Supersonic Red,4x4,77645,0.0,77645.0,At dealer,False,,5TFVC5DBXPX033949,City Toyota,CA
-2023,Tundra Capstone,Wind Chill Pearl,4x4,77645,5995.0,83640.0,Factory to port,False,Available,5TFVC5DBXPX034227,Toyota of Richardson,TX
+2023,Tundra Capstone,Wind Chill Pearl,4x4,77645,5995.0,83640.0,Port to dealer,False,Available,5TFVC5DBXPX034227,Toyota of Richardson,TX
 2023,Tundra Capstone,Magnetic Gray Metallic,4x4,77645,0.0,77645.0,At dealer,False,Available,5TFVC5DBXPX034664,Lithia Toyota of Abilene,TX
 2023,Tundra Capstone,Wind Chill Pearl,4x4,77645,0.0,77645.0,At dealer,False,Available,5TFVC5DBXPX034812,Mike Calvert Toyota,TX
 2023,Tundra Capstone,Magnetic Gray Metallic,4x4,77645,0.0,77645.0,Port to dealer,False,,5TFVC5DBXPX034860,Sheehy Toyota of Laurel,MD
