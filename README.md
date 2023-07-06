@@ -1,6 +1,7 @@
 # yotagrabber
 
 This is a work in progress to get inventory data from Toyota's GraphQL endpoints.
+I'm using the same endpoints for data on [Lexus vehicles](https://github.com/major/lexgrabber) as well.
 
 **This project is not affiliated with or endorsed by Toyota.**
 
