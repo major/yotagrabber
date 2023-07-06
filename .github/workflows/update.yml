@@ -109,7 +109,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: "output"
-          path: "output/${{ env.MODEL }}.*"
+          path: "output/${{ env.MODEL }}*"
 
   commit_changes:
     name: "Commit changes"
