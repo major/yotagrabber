@@ -19,6 +19,8 @@ Filter and sort this data however you want on [FlatGitHub](https://githubnext.co
 * [GR86](https://flatgithub.com/major/yotagrabber?filename=output%2F86.csv)
 * [GR Corolla](https://flatgithub.com/major/yotagrabber?filename=output%2Fgrcorolla.csv)
 * [GR Supra](https://flatgithub.com/major/yotagrabber?filename=output%2Fsupra.csv)
+* [Grand Highlander](https://flatgithub.com/major/yotagrabber?filename=output%2Fgrandhighlander.csv)
+* [Grand Highlander Hybrid](https://flatgithub.com/major/yotagrabber?filename=output%2Fgrandhighlanderhybrid.csv)
 * [Highlander](https://flatgithub.com/major/yotagrabber?filename=output%2Fhighlander.csv)
 * [Highlander Hybrid](https://flatgithub.com/major/yotagrabber?filename=output%2Fhighlanderhybrid.csv)
 * [Mirai](https://flatgithub.com/major/yotagrabber?filename=output%2Fmirai.csv)
