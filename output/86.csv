@@ -3,9 +3,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,MT,Trueno Blue,RWD,28400,0.0,28400.0,Factory to port,False,Available,JF1ZNBB10P9760337,Faith's Toyota Ford,VT
 2023,MT,Pavement,RWD,28400,0.0,28400.0,Port to dealer,False,DealerHold,JF1ZNBB10P9760483,Right Toyota,AZ
 2023,MT,Pavement,RWD,28400,1546.0,29946.0,Port to dealer,False,DealerHold,JF1ZNBB10P9760760,Phil Long Toyota,CO
-2023,MT,Raven,RWD,28400,0.0,28400.0,At dealer,True,DealerHold,JF1ZNBB10P9760774,Kerry Toyota,KY
 2023,MT,Steel,RWD,28400,0.0,28400.0,Port to dealer,False,,JF1ZNBB10P9760791,Toyota of Santa Fe,NM
-2023,MT,Halo,RWD,28400,0.0,28400.0,At dealer,False,DealerHold,JF1ZNBB10P9760841,Sloane Toyota of Glenside,PA
 2023,MT,Steel,RWD,28400,0.0,28400.0,Port to dealer,False,,JF1ZNBB10P9760998,Advantage Toyota,WV
 2023,MT,Steel,RWD,28400,0.0,28400.0,Port to dealer,False,,JF1ZNBB10P9761049,Toyota of Gladstone,OR
 2023,MT,Pavement,RWD,28400,0.0,28400.0,At dealer,False,,JF1ZNBB10P9761083,Peterson Toyota,ID
@@ -14,6 +12,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,MT,Halo,RWD,28400,0.0,28400.0,Factory to port,False,DealerHold,JF1ZNBB10P9761620,McGee Toyota,MA
 2023,MT,Trueno Blue,RWD,28400,0.0,28400.0,Factory to port,True,DealerHold,JF1ZNBB10P9761763,Heritage Toyota Catonsville,MD
 2023,MT,Steel,RWD,28400,0.0,28400.0,Factory to port,False,DealerHold,JF1ZNBB10P9761813,Toyota of Selma,CA
+2023,MT,Track bRED,RWD,28400,0.0,28400.0,Port to dealer,False,,JF1ZNBB10P9761939,Toyota of Surprise,AZ
+2023,MT,Pavement,RWD,28400,0.0,28400.0,Factory to port,False,DealerHold,JF1ZNBB10P9762475,Bighorn Toyota,CO
 2023,MT,Steel,RWD,28400,0.0,28400.0,Port to dealer,True,DealerHold,JF1ZNBB11P9758872,Maplewood Toyota,MN
 2023,MT,Steel,RWD,28400,0.0,28400.0,Port to dealer,True,DealerHold,JF1ZNBB11P9758919,Inver Grove Toyota,MN
 2023,MT,Neptune,RWD,28400,0.0,28400.0,At dealer,False,Available,JF1ZNBB11P9759407,Kendall Toyota of Anchorage,AK
@@ -21,12 +21,15 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,MT,Pavement,RWD,28400,0.0,28400.0,At dealer,True,DealerHold,JF1ZNBB11P9760010,Don Moore Toyota,KY
 2023,MT,Raven,RWD,28400,0.0,28400.0,Factory to port,False,DealerHold,JF1ZNBB11P9760251,Boch Toyota,MA
 2023,MT,Trueno Blue,RWD,28400,299.0,28699.0,Factory to port,True,,JF1ZNBB11P9760590,Team Toyota,PA
-2023,MT,Raven,RWD,28400,1978.0,30378.0,Port to dealer,False,,JF1ZNBB11P9760668,Chuck Hutton Toyota,TN
+2023,MT,Raven,RWD,28400,1978.0,30378.0,Port to dealer,False,DealerHold,JF1ZNBB11P9760668,Chuck Hutton Toyota,TN
 2023,MT,Halo,RWD,28400,895.0,29295.0,Port to dealer,True,,JF1ZNBB11P9761142,Bennett Toyota,PA
 2023,MT,Trueno Blue,RWD,28400,0.0,28400.0,Factory to port,False,,JF1ZNBB11P9761478,Ourisman Chantilly Toyota,VA
 2023,MT,Pavement,RWD,28400,0.0,28400.0,Port to dealer,False,DealerHold,JF1ZNBB11P9761593,Premier Toyota of Amherst,OH
+2023,MT,Track bRED,RWD,28400,0.0,28400.0,Factory to port,False,,JF1ZNBB11P9761867,Oakbrook Toyota in Westmont,IL
 2023,MT,Trueno Blue,RWD,28400,0.0,28400.0,Factory to port,False,DealerHold,JF1ZNBB11P9761870,Expressway Toyota,MA
-2023,MT,Raven,RWD,28400,0.0,28400.0,At dealer,True,DealerHold,JF1ZNBB12P9759383,Karl Malone Toyota,UT
+2023,MT,Raven,RWD,28400,0.0,28400.0,Factory to port,False,DealerHold,JF1ZNBB11P9762114,AutoNation Toyota Las Vegas,NV
+2023,MT,Steel,RWD,28400,0.0,28400.0,Factory to port,False,DealerHold,JF1ZNBB11P9762565,Marysville Toyota,WA
+2023,MT,Trueno Blue,RWD,28400,0.0,28400.0,Factory to port,False,,JF1ZNBB11P9762629,Vancouver Toyota,WA
 2023,MT,Track bRED,RWD,28400,0.0,28400.0,At dealer,False,DealerHold,JF1ZNBB12P9760159,Ken Ganley Toyota Akron,OH
 2023,MT,Halo,RWD,28400,0.0,28400.0,At dealer,False,DealerHold,JF1ZNBB12P9760727,Santa Cruz Toyota,CA
 2023,MT,Trueno Blue,RWD,28400,0.0,28400.0,At dealer,False,Available,JF1ZNBB12P9760808,Toyota of Vero Beach,FL
@@ -37,19 +40,23 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,MT,Raven,RWD,28400,0.0,28400.0,Factory to port,False,DealerHold,JF1ZNBB12P9761621,Berlin City Toyota,NH
 2023,MT,Track bRED,RWD,28400,0.0,28400.0,Factory to port,True,DealerHold,JF1ZNBB12P9761778,Rudy Luther Toyota,MN
 2023,MT,Track bRED,RWD,28400,0.0,28400.0,Factory to port,False,Available,JF1ZNBB12P9762087,Palmer's Airport Toyota,AL
+2023,MT,Steel,RWD,28400,0.0,28400.0,Factory to port,False,DealerHold,JF1ZNBB12P9762221,Toyota of Santa Fe,NM
 2023,MT,Steel,RWD,28400,0.0,28400.0,Port to dealer,False,Available,JF1ZNBB13P9760090,Principle Toyota,TN
 2023,MT,Pavement,RWD,28400,0.0,28400.0,Factory to port,False,DealerHold,JF1ZNBB13P9760204,Harr Toyota,MA
 2023,MT,Trueno Blue,RWD,28400,0.0,28400.0,Factory to port,False,DealerHold,JF1ZNBB13P9760252,Balise Toyota of Warwick,RI
 2023,MT,Pavement,RWD,28400,0.0,28400.0,At dealer,False,,JF1ZNBB13P9760803,Peterson Toyota,ID
+2023,MT,Raven,RWD,28400,0.0,28400.0,At dealer,False,DealerHold,JF1ZNBB13P9760865,Groove Toyota,CO
 2023,MT,Steel,RWD,28400,0.0,28400.0,Factory to port,False,Available,JF1ZNBB13P9761045,Vancouver Toyota,WA
 2023,MT,Steel,RWD,28400,0.0,28400.0,Port to dealer,False,,JF1ZNBB13P9761062,Moses Toyota,WV
 2023,MT,Steel,RWD,28400,0.0,28400.0,At dealer,False,,JF1ZNBB13P9761160,Peterson Toyota,ID
 2023,MT,Raven,RWD,28400,0.0,28400.0,Factory to port,False,,JF1ZNBB13P9761210,Toyota of Bozeman,MT
 2023,MT,Raven,RWD,28400,0.0,28400.0,Port to dealer,True,,JF1ZNBB13P9761272,Doxon Toyota,WA
-2023,MT,Raven,RWD,28400,0.0,28400.0,Port to dealer,True,DealerHold,JF1ZNBB13P9761692,Antioch Toyota,CA
+2023,MT,Raven,RWD,28400,0.0,28400.0,At dealer,True,DealerHold,JF1ZNBB13P9761692,Antioch Toyota,CA
 2023,MT,Halo,RWD,28400,0.0,28400.0,Factory to port,False,,JF1ZNBB13P9761840,Mike Erdman Toyota,FL
-2023,MT,Steel,RWD,28400,0.0,28400.0,At dealer,False,DealerHold,JF1ZNBB14P9760230,Toyota of Selma,CA
-2023,MT,Pavement,RWD,28400,0.0,28400.0,Port to dealer,True,DealerHold,JF1ZNBB14P9760793,Bill Wright Toyota,CA
+2023,MT,Raven,RWD,28400,0.0,28400.0,Factory to port,False,,JF1ZNBB13P9762177,Brent Brown Toyota,UT
+2023,MT,Pavement,RWD,28400,0.0,28400.0,Factory to port,True,,JF1ZNBB13P9762566,Doxon Toyota,WA
+2023,MT,Steel,RWD,28400,0.0,28400.0,Factory to port,False,,JF1ZNBB13P9762695,Peterson Toyota,ID
+2023,MT,Pavement,RWD,28400,0.0,28400.0,At dealer,False,DealerHold,JF1ZNBB14P9760793,Bill Wright Toyota,CA
 2023,MT,Steel,RWD,28400,0.0,28400.0,Port to dealer,False,,JF1ZNBB14P9760891,Camelback Toyota,AZ
 2023,MT,Steel,RWD,28400,0.0,28400.0,Port to dealer,False,,JF1ZNBB14P9760907,Buckhannon Toyota,WV
 2023,MT,Raven,RWD,28400,1773.0,30173.0,Port to dealer,False,,JF1ZNBB14P9761068,AutoNation Toyota Tempe,AZ
@@ -57,12 +64,13 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,MT,Raven,RWD,28400,0.0,28400.0,At dealer,False,,JF1ZNBB14P9761295,Toyota of Greensboro,NC
 2023,MT,Steel,RWD,28400,0.0,28400.0,Port to dealer,False,,JF1ZNBB14P9761765,Maita's Toyota of Sacramento,CA
 2023,MT,Raven,RWD,28400,0.0,28400.0,Port to dealer,False,DealerHold,JF1ZNBB14P9761930,LaFontaine Toyota,MI
-2023,MT,Track bRED,RWD,28400,0.0,28400.0,Factory to port,False,,JF1ZNBB14P9761989,Toyota of Laramie,WY
+2023,MT,Track bRED,RWD,28400,0.0,28400.0,Port to dealer,False,,JF1ZNBB14P9761989,Toyota of Laramie,WY
+2023,MT,Halo,RWD,28400,0.0,28400.0,Factory to port,False,,JF1ZNBB14P9762026,Ferris Toyota,OH
+2023,MT,Raven,RWD,28400,3568.0,31968.0,Factory to port,False,,JF1ZNBB14P9762060,Bell Road Toyota,AZ
 2023,MT,Track bRED,RWD,28400,0.0,28400.0,At dealer,False,Available,JF1ZNBB15P9757255,York Toyota,ME
-2023,MT,Halo,RWD,28400,0.0,28400.0,At dealer,True,DealerHold,JF1ZNBB15P9760222,Ferris Toyota,OH
-2023,MT,Pavement,RWD,28400,0.0,28400.0,Port to dealer,True,DealerHold,JF1ZNBB15P9760303,Maita's Toyota of Sacramento,CA
+2023,MT,Pavement,RWD,28400,0.0,28400.0,At dealer,True,DealerHold,JF1ZNBB15P9760303,Maita's Toyota of Sacramento,CA
 2023,MT,Halo,RWD,28400,0.0,28400.0,Port to dealer,False,,JF1ZNBB15P9760379,Robinson Toyota,TN
-2023,MT,Track bRED,RWD,28400,0.0,28400.0,Port to dealer,False,Available,JF1ZNBB15P9760690,McGeorge Toyota,VA
+2023,MT,Track bRED,RWD,28400,0.0,28400.0,Port to dealer,False,DealerHold,JF1ZNBB15P9760690,McGeorge Toyota,VA
 2023,MT,Trueno Blue,RWD,28400,0.0,28400.0,At dealer,False,Available,JF1ZNBB15P9760964,Lithia Toyota of Missoula,MT
 2023,MT,Pavement,RWD,28400,0.0,28400.0,Port to dealer,False,,JF1ZNBB15P9761158,Faulkner Toyota,PA
 2023,MT,Raven,RWD,28400,0.0,28400.0,Port to dealer,False,Available,JF1ZNBB15P9761368,Peterson Toyota,ID
@@ -70,29 +78,33 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,MT,Trueno Blue,RWD,28400,1978.0,30378.0,Factory to port,False,,JF1ZNBB15P9761631,Chuck Hutton Toyota,TN
 2023,MT,Trueno Blue,RWD,28400,0.0,28400.0,Factory to port,False,DealerHold,JF1ZNBB15P9761676,Fitzgerald Toyota Gaithersburg,MD
 2023,MT,Raven,RWD,28400,0.0,28400.0,Factory to port,False,,JF1ZNBB15P9761810,Toyota of Murray,KY
+2023,MT,Steel,RWD,28400,0.0,28400.0,Factory to port,False,,JF1ZNBB15P9762360,Faulkner Toyota,PA
+2023,MT,Pavement,RWD,28400,0.0,28400.0,Factory to port,False,,JF1ZNBB15P9762634,Capitol Toyota of Salem,OR
 2023,MT,Halo,RWD,28400,0.0,28400.0,At dealer,False,DealerHold,JF1ZNBB16P9758768,Ammaar's Toyota Vacaville,CA
 2023,MT,Track bRED,RWD,28400,0.0,28400.0,Port to dealer,False,DealerHold,JF1ZNBB16P9759516,Lake Country Toyota,MN
-2023,MT,Track bRED,RWD,28400,7500.0,35900.0,Port to dealer,True,Available,JF1ZNBB16P9760052,Texas Toyota of Grapevine,TX
+2023,MT,Track bRED,RWD,28400,7500.0,35900.0,At dealer,True,Available,JF1ZNBB16P9760052,Texas Toyota of Grapevine,TX
 2023,MT,Halo,RWD,28400,0.0,28400.0,Factory to port,False,Available,JF1ZNBB16P9760391,Premier Toyota of Amherst,OH
-2023,MT,Halo,RWD,28400,0.0,28400.0,At dealer,True,DealerHold,JF1ZNBB16P9761010,Mike Kelly Toyota of Uniontown,PA
 2023,MT,Track bRED,RWD,28400,0.0,28400.0,Port to dealer,False,,JF1ZNBB16P9761170,Del Toyota,PA
 2023,MT,Steel,RWD,28400,0.0,28400.0,Port to dealer,False,,JF1ZNBB16P9761198,Peterson Toyota,ID
 2023,MT,Trueno Blue,RWD,28400,0.0,28400.0,Port to dealer,True,DealerHold,JF1ZNBB16P9761251,Fitzgerald Toyota Gaithersburg,MD
-2023,MT,Steel,RWD,28400,395.0,28795.0,Port to dealer,True,DealerHold,JF1ZNBB16P9761296,Toyota of Olympia,WA
+2023,MT,Steel,RWD,28400,395.0,28795.0,At dealer,True,DealerHold,JF1ZNBB16P9761296,Toyota of Olympia,WA
 2023,MT,Steel,RWD,28400,0.0,28400.0,Port to dealer,False,Available,JF1ZNBB16P9761380,Toyota of Southern Maryland,MD
 2023,MT,Pavement,RWD,28400,0.0,28400.0,Factory to port,False,DealerHold,JF1ZNBB16P9761640,Central Maine Toyota,ME
 2023,MT,Pavement,RWD,28400,0.0,28400.0,Port to dealer,True,,JF1ZNBB16P9761878,Toyota Town,CA
 2023,MT,Halo,RWD,28400,1899.0,30299.0,Factory to port,False,,JF1ZNBB16P9762142,Wolfchase Toyota,TN
+2023,MT,Raven,RWD,28400,0.0,28400.0,Factory to port,False,,JF1ZNBB16P9762383,Vancouver Toyota,WA
 2023,MT,Pavement,RWD,28400,0.0,28400.0,Port to dealer,False,DealerHold,JF1ZNBB17P9759248,Toyota of Laramie,WY
 2023,MT,Trueno Blue,RWD,28400,1978.0,30378.0,Port to dealer,False,,JF1ZNBB17P9760044,Chuck Hutton Toyota,TN
 2023,MT,Halo,RWD,28400,0.0,28400.0,Port to dealer,False,Available,JF1ZNBB17P9760142,Lake Country Toyota,MN
 2023,MT,Halo,RWD,28400,0.0,28400.0,At dealer,True,Available,JF1ZNBB17P9760271,Firelands Toyota,OH
-2023,MT,Steel,RWD,28400,0.0,28400.0,Port to dealer,False,,JF1ZNBB17P9760710,Conicelli Toyota,PA
-2023,MT,Pavement,RWD,28400,0.0,28400.0,Port to dealer,False,,JF1ZNBB17P9760867,Conicelli Toyota,PA
+2023,MT,Steel,RWD,28400,0.0,28400.0,At dealer,False,,JF1ZNBB17P9760710,Conicelli Toyota,PA
+2023,MT,Pavement,RWD,28400,0.0,28400.0,At dealer,False,,JF1ZNBB17P9760867,Conicelli Toyota,PA
 2023,MT,Track bRED,RWD,28400,0.0,28400.0,Port to dealer,False,DealerHold,JF1ZNBB17P9760884,Camelback Toyota,AZ
 2023,MT,Halo,RWD,28400,0.0,28400.0,Port to dealer,False,,JF1ZNBB17P9760951,DARCARS Toyota,MD
 2023,MT,Track bRED,RWD,28400,0.0,28400.0,Port to dealer,False,DealerHold,JF1ZNBB17P9761162,Olathe Toyota,KS
-2023,MT,Raven,RWD,28400,0.0,28400.0,At dealer,False,,JF1ZNBB17P9761419,AutoNation Toyota Winter Park,FL
+2023,MT,Track bRED,RWD,28400,0.0,28400.0,Factory to port,False,,JF1ZNBB17P9762005,Kendall Toyota,OR
+2023,MT,Halo,RWD,28400,0.0,28400.0,Factory to port,False,,JF1ZNBB17P9762330,Stevens Creek Toyota,CA
+2023,MT,Halo,RWD,28400,0.0,28400.0,Factory to port,False,DealerHold,JF1ZNBB17P9762425,Toyota of Selma,CA
 2023,MT,Pavement,RWD,28400,1295.0,29695.0,At dealer,False,Available,JF1ZNBB18P9760425,Auburn Toyota,CA
 2023,MT,Pavement,RWD,28400,0.0,28400.0,At dealer,False,,JF1ZNBB18P9760845,Penske Toyota,CA
 2023,MT,Trueno Blue,RWD,28400,7282.0,35682.0,Port to dealer,False,DealerHold,JF1ZNBB18P9761235,Toyota of Kirkland,WA
@@ -102,19 +114,23 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,MT,Trueno Blue,RWD,28400,1098.0,29498.0,Factory to port,True,DealerHold,JF1ZNBB18P9761509,Toyota of Cedar Park,TX
 2023,MT,Raven,RWD,28400,0.0,28400.0,Factory to port,False,Available,JF1ZNBB18P9761591,Koons Easton Toyota,MD
 2023,MT,Halo,RWD,28400,0.0,28400.0,Factory to port,False,Available,JF1ZNBB18P9762000,Peterson Toyota,ID
+2023,MT,Trueno Blue,RWD,28400,0.0,28400.0,Factory to port,False,,JF1ZNBB18P9762062,Earnhardt Toyota,AZ
+2023,MT,Raven,RWD,28400,0.0,28400.0,Factory to port,False,,JF1ZNBB18P9762210,Kendall Toyota,OR
+2023,MT,Raven,RWD,28400,4488.0,32888.0,Factory to port,False,,JF1ZNBB18P9762272,Toyota of Renton,WA
 2023,MT,Steel,RWD,28400,0.0,28400.0,At dealer,False,DealerHold,JF1ZNBB19P9759865,Imperial Toyota,MA
-2023,MT,Track bRED,RWD,28400,0.0,28400.0,At dealer,True,Available,JF1ZNBB19P9759932,AutoNation Toyota Libertyville,IL
+2023,MT,Track bRED,RWD,28400,0.0,28400.0,At dealer,True,DealerHold,JF1ZNBB19P9759932,AutoNation Toyota Libertyville,IL
 2023,MT,Steel,RWD,28400,0.0,28400.0,Port to dealer,True,DealerHold,JF1ZNBB19P9760031,Toyota of Warsaw,IN
-2023,MT,Steel,RWD,28400,0.0,28400.0,Factory to port,False,DealerHold,JF1ZNBB19P9760241,Santa Cruz Toyota,CA
+2023,MT,Steel,RWD,28400,0.0,28400.0,Port to dealer,False,DealerHold,JF1ZNBB19P9760241,Santa Cruz Toyota,CA
 2023,MT,Trueno Blue,RWD,28400,0.0,28400.0,At dealer,False,DealerHold,JF1ZNBB19P9760885,Heartland Toyota,WA
 2023,MT,Raven,RWD,28400,0.0,28400.0,Factory to port,False,Available,JF1ZNBB19P9761101,Bob Tyler Toyota,FL
 2023,MT,Trueno Blue,RWD,28400,0.0,28400.0,Port to dealer,False,DealerHold,JF1ZNBB19P9761146,DARCARS Toyota,MD
 2023,MT,Pavement,RWD,28400,0.0,28400.0,Factory to port,False,DealerHold,JF1ZNBB19P9761390,First Team Toyota,VA
+2023,MT,Pavement,RWD,28400,0.0,28400.0,Factory to port,False,,JF1ZNBB19P9761759,AutoNation Toyota Winter Park,FL
 2023,MT,Pavement,RWD,28400,0.0,28400.0,Factory to port,False,,JF1ZNBB19P9761941,City Toyota,CA
 2023,MT,Pavement,RWD,28400,0.0,28400.0,Factory to port,False,DealerHold,JF1ZNBB19P9762183,Right Toyota,AZ
+2023,MT,Steel,RWD,28400,0.0,28400.0,Factory to port,False,,JF1ZNBB19P9762300,David Wilson's Toyota of Las Vegas,NV
 2023,MT,Trueno Blue,RWD,28400,4488.0,32888.0,Factory to port,False,,JF1ZNBB19P9762698,Toyota of Renton,WA
 2023,MT,Track bRED,RWD,28400,0.0,28400.0,At dealer,False,,JF1ZNBB1XP9758949,Jerry's Toyota,MD
-2023,MT,Pavement,RWD,28400,0.0,28400.0,At dealer,False,Available,JF1ZNBB1XP9759079,Moses Toyota,WV
 2023,MT,Pavement,RWD,28400,0.0,28400.0,Port to dealer,False,DealerHold,JF1ZNBB1XP9760135,Rusty Wallace Toyota,TN
 2023,MT,Raven,RWD,28400,0.0,28400.0,Factory to port,False,DealerHold,JF1ZNBB1XP9760233,Heritage Toyota Owings Mills,MD
 2023,MT,Pavement,RWD,28400,2190.0,30590.0,At dealer,False,,JF1ZNBB1XP9760412,Madera Toyota,CA
@@ -130,21 +146,23 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,MT,Pavement,RWD,28400,4273.0,32673.0,Factory to port,False,,JF1ZNBB1XP9761821,AutoNation Toyota Hayward,CA
 2023,MT,Halo,RWD,28400,0.0,28400.0,Factory to port,False,Available,JF1ZNBB1XP9761933,Atlanta Toyota,GA
 2023,MT,Steel,RWD,28400,0.0,28400.0,Factory to port,False,,JF1ZNBB1XP9762001,Coggin Toyota at the Avenues,FL
+2023,MT,Steel,RWD,28400,0.0,28400.0,Factory to port,False,,JF1ZNBB1XP9762709,Heartland Toyota,WA
 2023,AT,Track bRED,RWD,29900,0.0,29900.0,At dealer,False,,JF1ZNBC10P8759936,Jerry's Toyota,MD
 2023,AT,Pavement,RWD,29900,0.0,29900.0,At dealer,False,DealerHold,JF1ZNBC10P8760004,Hanlees Fairfield Toyota,CA
 2023,AT,Raven,RWD,29900,0.0,29900.0,At dealer,False,Available,JF1ZNBC10P8760066,Toyota of New Orleans,LA
 2023,AT,Pavement,RWD,29900,0.0,29900.0,Factory to port,True,Available,JF1ZNBC10P8760486,Shottenkirk Toyota Weatherford,TX
-2023,AT,Track bRED,RWD,29900,0.0,29900.0,At dealer,False,,JF1ZNBC10P8760603,Capitol Toyota,CA
 2023,AT,Halo,RWD,29900,1995.0,31895.0,Factory to port,False,Available,JF1ZNBC10P8760794,Freeman Toyota,TX
 2023,AT,Pavement,RWD,29900,6295.0,36195.0,Factory to port,False,Available,JF1ZNBC10P8761282,Lone Star Toyota of Lewisville,TX
 2023,AT,Raven,RWD,29900,2696.0,32596.0,Factory to port,False,Available,JF1ZNBC10P8761301,Alamo Toyota,TX
 2023,AT,Steel,RWD,29900,0.0,29900.0,Port to dealer,False,,JF1ZNBC10P8761539,Camelback Toyota,AZ
-2023,AT,Halo,RWD,29900,0.0,29900.0,At dealer,False,DealerHold,JF1ZNBC10P8761556,David Wilson's Toyota of Las Vegas,NV
 2023,AT,Track bRED,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC10P8761668,Fowler Toyota,OK
 2023,AT,Steel,RWD,29900,0.0,29900.0,Port to dealer,False,Available,JF1ZNBC10P8761721,San Francisco Toyota,CA
 2023,AT,Trueno Blue,RWD,29900,0.0,29900.0,Factory to port,False,DealerHold,JF1ZNBC10P8761766,Heritage Toyota Owings Mills,MD
 2023,AT,Raven,RWD,29900,0.0,29900.0,Factory to port,True,Available,JF1ZNBC10P8761833,Community Toyota,TX
+2023,AT,Raven,RWD,29900,0.0,29900.0,Factory to port,False,,JF1ZNBC10P8762044,Ventura Toyota,CA
 2023,AT,Raven,RWD,29900,0.0,29900.0,Factory to port,False,,JF1ZNBC10P8762092,Toyota of Hollywood,FL
+2023,AT,Raven,RWD,29900,0.0,29900.0,Factory to port,False,DealerHold,JF1ZNBC10P8762772,Claremont Toyota,CA
+2023,AT,Track bRED,RWD,29900,4995.0,34895.0,Factory to port,False,,JF1ZNBC10P8762786,South Bay Toyota,CA
 2023,AT,Pavement,RWD,29900,0.0,29900.0,At dealer,False,,JF1ZNBC11P8759072,Fallon Ford Toyota,NV
 2023,AT,Halo,RWD,29900,0.0,29900.0,At dealer,False,Available,JF1ZNBC11P8759928,Bayside Toyota,MD
 2023,AT,Pavement,RWD,29900,0.0,29900.0,At dealer,False,,JF1ZNBC11P8760349,"Hellman Toyota, Inc.",CO
@@ -163,19 +181,21 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,AT,Halo,RWD,29900,0.0,29900.0,Factory to port,False,,JF1ZNBC11P8761775,Miller Toyota,VA
 2023,AT,Pavement,RWD,29900,0.0,29900.0,Factory to port,False,,JF1ZNBC11P8761811,Fred Anderson Toyota of Charleston,SC
 2023,AT,Pavement,RWD,29900,1392.0,31292.0,Factory to port,False,Available,JF1ZNBC11P8761873,Toyota of Irving,TX
-2023,AT,Halo,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC11P8761923,Hutchinson Toyota of Albany,GA
-2023,AT,Halo,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC11P8762165,Texas Toyota of Grapevine,TX
+2023,AT,Pavement,RWD,29900,1290.0,31190.0,Factory to port,False,,JF1ZNBC11P8762098,Toyota of Redlands,CA
+2023,AT,Halo,RWD,29900,0.0,29900.0,Factory to port,True,Available,JF1ZNBC11P8762165,Texas Toyota of Grapevine,TX
+2023,AT,Halo,RWD,29900,0.0,29900.0,Factory to port,False,,JF1ZNBC11P8762196,South Coast Toyota,CA
 2023,AT,Halo,RWD,29900,0.0,29900.0,At dealer,False,,JF1ZNBC12P8759906,L & S Toyota of Beckley,WV
 2023,AT,Halo,RWD,29900,0.0,29900.0,At dealer,True,DealerHold,JF1ZNBC12P8759954,Community Toyota,TX
 2023,AT,Halo,RWD,29900,999.0,30899.0,Port to dealer,False,Available,JF1ZNBC12P8760148,Lithia Toyota of Abilene,TX
 2023,AT,Halo,RWD,29900,1999.0,31899.0,Factory to port,False,Available,JF1ZNBC12P8760862,Karl Malone Toyota of Ruston,LA
 2023,AT,Halo,RWD,29900,0.0,29900.0,At dealer,False,Available,JF1ZNBC12P8761011,Lakeland Toyota,FL
-2023,AT,Steel,RWD,29900,1290.0,31190.0,At dealer,True,DealerHold,JF1ZNBC12P8761106,Toyota of Redlands,CA
+2023,AT,Steel,RWD,29900,1290.0,31190.0,At dealer,False,Available,JF1ZNBC12P8761106,Toyota of Redlands,CA
 2023,AT,Halo,RWD,29900,6595.0,36495.0,Factory to port,False,Available,JF1ZNBC12P8761171,South Toyota,TX
+2023,AT,Track bRED,RWD,29900,2490.0,32390.0,Port to dealer,False,,JF1ZNBC12P8761350,Toyota of El Cajon,CA
 2023,AT,Trueno Blue,RWD,29900,0.0,29900.0,Factory to port,False,,JF1ZNBC12P8761476,Keyes Toyota,CA
 2023,AT,Steel,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC12P8761493,Tri County Toyota,PA
 2023,AT,Steel,RWD,29900,1098.0,30998.0,Factory to port,False,Available,JF1ZNBC12P8761557,Toyota of Cedar Park,TX
-2023,AT,Steel,RWD,29900,0.0,29900.0,Factory to port,True,DealerHold,JF1ZNBC12P8761610,Precision Toyota of Tucson,AZ
+2023,AT,Steel,RWD,29900,0.0,29900.0,Port to dealer,True,DealerHold,JF1ZNBC12P8761610,Precision Toyota of Tucson,AZ
 2023,AT,Trueno Blue,RWD,29900,0.0,29900.0,Factory to port,False,,JF1ZNBC12P8761655,Toyota San Luis Obispo,CA
 2023,AT,Raven,RWD,29900,0.0,29900.0,Factory to port,True,,JF1ZNBC12P8761722,One Toyota of Oakland,CA
 2023,AT,Track bRED,RWD,29900,0.0,29900.0,Factory to port,False,,JF1ZNBC12P8761770,Hamer Toyota,CA
@@ -183,7 +203,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,AT,Pavement,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC12P8761932,Milton Ruben Toyota of Augusta,GA
 2023,AT,Halo,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC12P8761977,Toyota of Dallas,TX
 2023,AT,Halo,RWD,29900,0.0,29900.0,Factory to port,False,,JF1ZNBC12P8761980,Village Cadillac-Toyota,FL
+2023,AT,Trueno Blue,RWD,29900,0.0,29900.0,Factory to port,False,DealerHold,JF1ZNBC12P8762112,Claremont Toyota,CA
 2023,AT,Track bRED,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC12P8762143,Alamo Toyota,TX
+2023,AT,Pavement,RWD,29900,0.0,29900.0,Factory to port,False,,JF1ZNBC12P8762160,Toyota of Downtown LA,CA
+2023,AT,Trueno Blue,RWD,29900,0.0,29900.0,Factory to port,False,DealerHold,JF1ZNBC12P8762174,Temecula Valley Toyota,CA
 2023,AT,Track bRED,RWD,29900,0.0,29900.0,At dealer,False,DealerHold,JF1ZNBC13P8759431,Toyota Santa Monica,CA
 2023,AT,Pavement,RWD,29900,0.0,29900.0,At dealer,False,,JF1ZNBC13P8760112,Dublin Toyota,CA
 2023,AT,Raven,RWD,29900,0.0,29900.0,At dealer,False,Available,JF1ZNBC13P8760532,Victory Toyota of San Bruno,CA
@@ -191,56 +214,56 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,AT,Steel,RWD,29900,0.0,29900.0,Port to dealer,True,DealerHold,JF1ZNBC13P8760997,Roswell Toyota,NM
 2023,AT,Raven,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC13P8761275,Don McGill Toyota of Katy,TX
 2023,AT,Raven,RWD,29900,0.0,29900.0,Factory to port,False,,JF1ZNBC13P8761499,DARCARS Toyota of Frederick,MD
-2023,AT,Raven,RWD,29900,0.0,29900.0,Port to dealer,False,,JF1ZNBC13P8761664,Fremont Toyota,CA
+2023,AT,Raven,RWD,29900,0.0,29900.0,At dealer,False,,JF1ZNBC13P8761664,Fremont Toyota,CA
 2023,AT,Track bRED,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC13P8761695,Toyota of Scranton,PA
 2023,AT,Pavement,RWD,29900,0.0,29900.0,Factory to port,False,,JF1ZNBC13P8761728,Town & Country Toyota,NC
-2023,AT,Raven,RWD,29900,0.0,29900.0,Factory to port,True,Available,JF1ZNBC13P8761843,Freeman Toyota,TX
-2023,AT,Track bRED,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC13P8761986,Toyota of Cedar Park,TX
-2023,AT,Raven,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC13P8762149,Toyota of Cedar Park,TX
-2023,AT,Steel,RWD,29900,0.0,29900.0,Factory to port,False,DealerHold,JF1ZNBC13P8762152,Toyota of Cedar Park,TX
-2023,AT,Halo,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC13P8762216,Jim Norton Toyota of Oklahoma City,OK
+2023,AT,Track bRED,RWD,29900,1098.0,30998.0,Factory to port,False,Available,JF1ZNBC13P8761986,Toyota of Cedar Park,TX
+2023,AT,Raven,RWD,29900,1098.0,30998.0,Factory to port,False,Available,JF1ZNBC13P8762149,Toyota of Cedar Park,TX
+2023,AT,Steel,RWD,29900,1098.0,30998.0,Factory to port,False,Available,JF1ZNBC13P8762152,Toyota of Cedar Park,TX
+2023,AT,Halo,RWD,29900,1895.0,31795.0,Factory to port,False,Available,JF1ZNBC13P8762216,Jim Norton Toyota of Oklahoma City,OK
+2023,AT,Raven,RWD,29900,0.0,29900.0,Factory to port,False,DealerHold,JF1ZNBC13P8762605,Claremont Toyota,CA
+2023,AT,Track bRED,RWD,29900,0.0,29900.0,Factory to port,False,DealerHold,JF1ZNBC13P8762765,Temecula Valley Toyota,CA
 2023,AT,Steel,RWD,29900,0.0,29900.0,At dealer,False,Available,JF1ZNBC14P8760247,Victory Toyota of San Bruno,CA
 2023,AT,Pavement,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC14P8760376,Vandergriff Toyota,TX
-2023,AT,Track bRED,RWD,29900,0.0,29900.0,Port to dealer,False,,JF1ZNBC14P8760684,Hanlees Fairfield Toyota,CA
+2023,AT,Track bRED,RWD,29900,0.0,29900.0,At dealer,False,,JF1ZNBC14P8760684,Hanlees Fairfield Toyota,CA
 2023,AT,Halo,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC14P8760782,Walker Toyota,LA
 2023,AT,Trueno Blue,RWD,29900,0.0,29900.0,Port to dealer,False,DealerHold,JF1ZNBC14P8761169,Temecula Valley Toyota,CA
 2023,AT,Halo,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC14P8761172,Sterling McCall Toyota Fort Bend,TX
 2023,AT,Trueno Blue,RWD,29900,0.0,29900.0,Port to dealer,False,,JF1ZNBC14P8761558,Elk Grove Toyota,CA
 2023,AT,Track bRED,RWD,29900,5000.0,34900.0,Factory to port,False,Available,JF1ZNBC14P8761575,Fred Haas Toyota Country,TX
-2023,AT,Track bRED,RWD,29900,0.0,29900.0,Port to dealer,False,,JF1ZNBC14P8761611,Fremont Toyota,CA
-2023,AT,Steel,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC14P8761723,Mike Calvert Toyota,TX
+2023,AT,Track bRED,RWD,29900,0.0,29900.0,At dealer,False,,JF1ZNBC14P8761611,Fremont Toyota,CA
+2023,AT,Steel,RWD,29900,0.0,29900.0,Factory to port,False,DealerHold,JF1ZNBC14P8761723,Mike Calvert Toyota,TX
 2023,AT,Halo,RWD,29900,3493.0,33393.0,Factory to port,False,Available,JF1ZNBC14P8761768,Keating Toyota,TX
+2023,AT,Pavement,RWD,29900,0.0,29900.0,Port to dealer,False,Available,JF1ZNBC14P8761866,Longo Toyota,CA
 2023,AT,Track bRED,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC14P8761995,Stone Mountain Toyota,GA
 2023,AT,Track bRED,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC14P8762239,Lakeside Toyota,LA
 2023,AT,Raven,RWD,29900,4000.0,33900.0,Port to dealer,False,DealerHold,JF1ZNBC15P8759978,Lakeside Toyota,LA
 2023,AT,Pavement,RWD,29900,2379.0,32279.0,At dealer,False,Available,JF1ZNBC15P8760029,Gullo Toyota of Conroe,TX
 2023,AT,Steel,RWD,29900,0.0,29900.0,At dealer,False,Available,JF1ZNBC15P8760144,Modesto Toyota,CA
 2023,AT,Pavement,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC15P8760676,Family Toyota of Burleson,TX
-2023,AT,Track bRED,RWD,29900,0.0,29900.0,At dealer,False,Available,JF1ZNBC15P8760872,Fred Anderson Toyota of Asheville,NC
 2023,AT,Halo,RWD,29900,5392.0,35292.0,Factory to port,False,Available,JF1ZNBC15P8761035,Toyota of Irving,TX
 2023,AT,Raven,RWD,29900,1495.0,31395.0,Factory to port,False,Available,JF1ZNBC15P8761164,Sterling McCall Toyota,TX
 2023,AT,Halo,RWD,29900,0.0,29900.0,Factory to port,True,Available,JF1ZNBC15P8761293,Don McGill Toyota of Katy,TX
-2023,AT,Pavement,RWD,29900,0.0,29900.0,Factory to port,False,DealerHold,JF1ZNBC15P8761357,Fred Haas Toyota World,TX
+2023,AT,Pavement,RWD,29900,3490.0,33390.0,Factory to port,False,DealerHold,JF1ZNBC15P8761357,Fred Haas Toyota World,TX
 2023,AT,Halo,RWD,29900,0.0,29900.0,Port to dealer,False,,JF1ZNBC15P8761567,Camelback Toyota,AZ
-2023,AT,Raven,RWD,29900,0.0,29900.0,Factory to port,True,DealerHold,JF1ZNBC15P8761617,Freeman Toyota,CA
+2023,AT,Raven,RWD,29900,0.0,29900.0,Port to dealer,True,DealerHold,JF1ZNBC15P8761617,Freeman Toyota,CA
 2023,AT,Track bRED,RWD,29900,0.0,29900.0,At dealer,False,DealerHold,JF1ZNBC15P8761651,Toyota Sunnyvale,CA
 2023,AT,Pavement,RWD,29900,0.0,29900.0,At dealer,True,DealerHold,JF1ZNBC15P8761715,Toyota Carlsbad,CA
-2023,AT,Trueno Blue,RWD,29900,7656.0,37556.0,At dealer,False,,JF1ZNBC15P8761732,AutoNation Toyota Cerritos,CA
 2023,AT,Track bRED,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC15P8761777,Toyota of Dallas,TX
 2023,AT,Pavement,RWD,29900,0.0,29900.0,Factory to port,False,,JF1ZNBC15P8761780,Toyota of Glendale,CA
 2023,AT,Track bRED,RWD,29900,0.0,29900.0,Port to dealer,False,,JF1ZNBC15P8761827,Moss Bros. Toyota,CA
 2023,AT,Raven,RWD,29900,0.0,29900.0,Factory to port,False,,JF1ZNBC15P8761861,Doral Toyota,FL
-2023,AT,Raven,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC15P8761990,Toyota of Cedar Park,TX
+2023,AT,Raven,RWD,29900,1098.0,30998.0,Factory to port,False,Available,JF1ZNBC15P8761990,Toyota of Cedar Park,TX
 2023,AT,Pavement,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC15P8762010,Stewart Toyota,TX
 2023,AT,Trueno Blue,RWD,29900,0.0,29900.0,Factory to port,False,,JF1ZNBC15P8762122,Jim Hudson Toyota,SC
+2023,AT,Pavement,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC15P8762623,West Coast Toyota of Long Beach,CA
 2023,AT,Pavement,RWD,29900,0.0,29900.0,At dealer,False,,JF1ZNBC16P8758743,Iron Trail Toyota,MN
 2023,AT,Halo,RWD,29900,0.0,29900.0,At dealer,False,Available,JF1ZNBC16P8759374,Peter Boulware Toyota,FL
 2023,AT,Trueno Blue,RWD,29900,0.0,29900.0,At dealer,False,,JF1ZNBC16P8760248,Camelback Toyota,AZ
-2023,AT,Raven,RWD,29900,0.0,29900.0,Factory to port,True,DealerHold,JF1ZNBC16P8760380,Fred Haas Toyota World,TX
+2023,AT,Raven,RWD,29900,3490.0,33390.0,Factory to port,True,DealerHold,JF1ZNBC16P8760380,Fred Haas Toyota World,TX
 2023,AT,Track bRED,RWD,29900,4085.0,33985.0,Factory to port,False,DealerHold,JF1ZNBC16P8760413,Fred Haas Toyota World,TX
 2023,AT,Raven,RWD,29900,0.0,29900.0,At dealer,False,,JF1ZNBC16P8760752,North Georgia Toyota,GA
 2023,AT,Halo,RWD,29900,1495.0,31395.0,Factory to port,False,DealerHold,JF1ZNBC16P8760945,Bohn Toyota,LA
-2023,AT,Raven,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC16P8761044,Kendall Toyota,FL
 2023,AT,Raven,RWD,29900,1875.0,31775.0,Factory to port,True,Available,JF1ZNBC16P8761058,Red McCombs Toyota,TX
 2023,AT,Pavement,RWD,29900,4000.0,33900.0,Factory to port,True,Available,JF1ZNBC16P8761187,Lakeside Toyota,LA
 2023,AT,Pavement,RWD,29900,1098.0,30998.0,Factory to port,False,Available,JF1ZNBC16P8761268,Toyota of Cedar Park,TX
@@ -249,8 +272,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,AT,Halo,RWD,29900,1098.0,30998.0,Factory to port,False,Available,JF1ZNBC16P8761514,Toyota of Cedar Park,TX
 2023,AT,Trueno Blue,RWD,29900,0.0,29900.0,Factory to port,False,,JF1ZNBC16P8761531,Santa Cruz Toyota,CA
 2023,AT,Halo,RWD,29900,3000.0,32900.0,Factory to port,False,Available,JF1ZNBC16P8761626,Toyota of Hattiesburg,MS
-2023,AT,Halo,RWD,29900,0.0,29900.0,Factory to port,False,,JF1ZNBC16P8761660,Jim Coleman Toyota,MD
-2023,AT,Steel,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC16P8761674,Fred Haas Toyota World,TX
+2023,AT,Halo,RWD,29900,0.0,29900.0,Factory to port,False,DealerHold,JF1ZNBC16P8761660,Jim Coleman Toyota,MD
+2023,AT,Steel,RWD,29900,3490.0,33390.0,Factory to port,False,Available,JF1ZNBC16P8761674,Fred Haas Toyota World,TX
 2023,AT,Pavement,RWD,29900,0.0,29900.0,Factory to port,False,DealerHold,JF1ZNBC16P8761691,Koons Tysons Toyota,VA
 2023,AT,Raven,RWD,29900,0.0,29900.0,At dealer,False,Available,JF1ZNBC16P8761710,Toyota of The Desert,CA
 2023,AT,Trueno Blue,RWD,29900,0.0,29900.0,Port to dealer,False,,JF1ZNBC16P8761769,I-10 Toyota,CA
@@ -258,20 +281,22 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,AT,Track bRED,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC16P8761836,North Park Toyota of San Antonio,TX
 2023,AT,Trueno Blue,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC16P8761853,North Park Toyota of San Antonio,TX
 2023,AT,Halo,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC16P8761903,Vann York Toyota,NC
+2023,AT,Raven,RWD,29900,0.0,29900.0,Port to dealer,False,,JF1ZNBC16P8761979,South Coast Toyota,CA
 2023,AT,Steel,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC16P8761982,Vic Vaughan Toyota of Boerne,TX
 2023,AT,Steel,RWD,29900,0.0,29900.0,Factory to port,False,,JF1ZNBC16P8761996,Southern 441 Toyota,FL
-2023,AT,Trueno Blue,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC16P8762002,Fred Haas Toyota World,TX
+2023,AT,Trueno Blue,RWD,29900,3490.0,33390.0,Factory to port,True,DealerHold,JF1ZNBC16P8762002,Fred Haas Toyota World,TX
 2023,AT,Halo,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC16P8762226,Family Toyota of Burleson,TX
 2023,AT,Raven,RWD,29900,0.0,29900.0,At dealer,False,Available,JF1ZNBC17P8759674,Bev Smith Toyota,FL
 2023,AT,Trueno Blue,RWD,29900,6395.0,36295.0,Port to dealer,True,Available,JF1ZNBC17P8760145,South Toyota,TX
 2023,AT,Halo,RWD,29900,3090.0,32990.0,Factory to port,False,DealerHold,JF1ZNBC17P8760324,Fred Haas Toyota World,TX
 2023,AT,Trueno Blue,RWD,29900,998.0,30898.0,Port to dealer,False,,JF1ZNBC17P8760419,Webb Chevrolet-Toyota,NM
-2023,AT,Trueno Blue,RWD,29900,0.0,29900.0,At dealer,False,Available,JF1ZNBC17P8760579,Toyota of Redlands,CA
+2023,AT,Halo,RWD,29900,0.0,29900.0,Factory to port,True,Available,JF1ZNBC17P8760534,AutoNation Toyota Corpus Christi,TX
+2023,AT,Trueno Blue,RWD,29900,1290.0,31190.0,At dealer,False,Available,JF1ZNBC17P8760579,Toyota of Redlands,CA
 2023,AT,Pavement,RWD,29900,0.0,29900.0,Port to dealer,False,,JF1ZNBC17P8760789,Toyota of Riverside,CA
 2023,AT,Steel,RWD,29900,0.0,29900.0,At dealer,False,DealerHold,JF1ZNBC17P8760811,Toyota of Laramie,WY
 2023,AT,Pavement,RWD,29900,0.0,29900.0,Factory to port,True,DealerHold,JF1ZNBC17P8760985,Gene Messer Toyota,TX
 2023,AT,Halo,RWD,29900,0.0,29900.0,Factory to port,True,Available,JF1ZNBC17P8761019,Don McGill Toyota,TX
-2023,AT,Halo,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC17P8761103,Mike Calvert Toyota,TX
+2023,AT,Halo,RWD,29900,0.0,29900.0,Factory to port,True,DealerHold,JF1ZNBC17P8761103,Mike Calvert Toyota,TX
 2023,AT,Halo,RWD,29900,3985.0,33885.0,Factory to port,False,DealerHold,JF1ZNBC17P8761196,Fred Haas Toyota World,TX
 2023,AT,Trueno Blue,RWD,29900,0.0,29900.0,At dealer,False,DealerHold,JF1ZNBC17P8761215,Bill Wright Toyota,CA
 2023,AT,Pavement,RWD,29900,0.0,29900.0,Port to dealer,False,,JF1ZNBC17P8761490,Big Two Toyota of Chandler,AZ
@@ -280,14 +305,15 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,AT,Halo,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC17P8761652,Toyota of Plano,TX
 2023,AT,Halo,RWD,29900,0.0,29900.0,Factory to port,False,,JF1ZNBC17P8761781,DARCARS Toyota,MD
 2023,AT,Raven,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC17P8761828,Toyota of Santa Maria,CA
+2023,AT,Halo,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC17P8761831,Kendall Toyota,FL
 2023,AT,Steel,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC17P8761859,Lakeside Toyota,LA
 2023,AT,Steel,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC17P8762056,West Kendall Toyota,FL
-2023,AT,Raven,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC17P8762073,Toyota of Cedar Park,TX
+2023,AT,Raven,RWD,29900,1098.0,30998.0,Factory to port,False,Available,JF1ZNBC17P8762073,Toyota of Cedar Park,TX
 2023,AT,Pavement,RWD,29900,1875.0,31775.0,Factory to port,False,Available,JF1ZNBC17P8762168,Red McCombs Toyota,TX
-2023,AT,Pavement,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC17P8762235,Jim Norton Toyota of Oklahoma City,OK
-2023,AT,Pavement,RWD,29900,1895.0,31795.0,Factory to port,False,Available,JF1ZNBC18P8760025,Jim Norton Toyota,OK
-2023,AT,Pavement,RWD,29900,0.0,29900.0,At dealer,True,DealerHold,JF1ZNBC18P8760123,Post Oak Toyota,OK
-2023,AT,Pavement,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC18P8760199,Pat Lobb Toyota of McKinney,TX
+2023,AT,Pavement,RWD,29900,1995.0,31895.0,Factory to port,False,,JF1ZNBC17P8762347,Toyota Carlsbad,CA
+2023,AT,Steel,RWD,29900,1995.0,31895.0,Factory to port,False,,JF1ZNBC17P8762638,Toyota Carlsbad,CA
+2023,AT,Pavement,RWD,29900,1895.0,31795.0,Port to dealer,False,Available,JF1ZNBC18P8760025,Jim Norton Toyota,OK
+2023,AT,Pavement,RWD,29900,0.0,29900.0,Factory to port,True,DealerHold,JF1ZNBC18P8760199,Pat Lobb Toyota of McKinney,TX
 2023,AT,Halo,RWD,29900,1098.0,30998.0,Factory to port,False,Available,JF1ZNBC18P8760316,Toyota of Cedar Park,TX
 2023,AT,Halo,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC18P8760543,North Park Toyota of San Antonio,TX
 2023,AT,Pavement,RWD,29900,1495.0,31395.0,Factory to port,True,Available,JF1ZNBC18P8760557,Toyota of Fort Worth,TX
@@ -299,11 +325,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,AT,Halo,RWD,29900,0.0,29900.0,Factory to port,True,Available,JF1ZNBC18P8761188,Carlock Toyota of Tupelo,MS
 2023,AT,Raven,RWD,29900,3899.0,33799.0,Factory to port,False,Available,JF1ZNBC18P8761207,Vic Vaughan Toyota of Boerne,TX
 2023,AT,Halo,RWD,29900,1875.0,31775.0,Factory to port,False,Available,JF1ZNBC18P8761479,Red McCombs Toyota,TX
-2023,AT,Pavement,RWD,29900,0.0,29900.0,Factory to port,False,,JF1ZNBC18P8761482,DCH Toyota of Oxnard,CA
+2023,AT,Pavement,RWD,29900,0.0,29900.0,Port to dealer,False,,JF1ZNBC18P8761482,DCH Toyota of Oxnard,CA
 2023,AT,Raven,RWD,29900,0.0,29900.0,Factory to port,False,,JF1ZNBC18P8761613,Folsom Lake Toyota,CA
 2023,AT,Halo,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC18P8761658,Pat Lobb Toyota of McKinney,TX
 2023,AT,Raven,RWD,29900,0.0,29900.0,Factory to port,False,,JF1ZNBC18P8761675,Magnussen's Toyota of Palo Alto,CA
-2023,AT,Trueno Blue,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC18P8761790,Fred Haas Toyota Country,TX
+2023,AT,Trueno Blue,RWD,29900,5000.0,34900.0,Factory to port,False,Available,JF1ZNBC18P8761790,Fred Haas Toyota Country,TX
 2023,AT,Trueno Blue,RWD,29900,0.0,29900.0,At dealer,False,DealerHold,JF1ZNBC18P8761837,Claremont Toyota,CA
 2023,AT,Raven,RWD,29900,0.0,29900.0,At dealer,False,,JF1ZNBC19P8759935,Toyota of Erie,PA
 2023,AT,Raven,RWD,29900,0.0,29900.0,Factory to port,True,DealerHold,JF1ZNBC19P8760213,Don McGill Toyota,TX
@@ -319,20 +345,21 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,AT,Steel,RWD,29900,0.0,29900.0,Factory to port,False,DealerHold,JF1ZNBC19P8761491,Haley Toyota,VA
 2023,AT,Steel,RWD,29900,1795.0,31695.0,Factory to port,True,DealerHold,JF1ZNBC19P8761507,Universal Toyota,TX
 2023,AT,Raven,RWD,29900,0.0,29900.0,Port to dealer,False,,JF1ZNBC19P8761555,Bell Road Toyota,AZ
-2023,AT,Raven,RWD,29900,0.0,29900.0,Factory to port,False,DealerHold,JF1ZNBC19P8761734,Brownsville Toyota,TX
+2023,AT,Pavement,RWD,29900,0.0,29900.0,Factory to port,True,DealerHold,JF1ZNBC19P8761720,AutoNation Toyota Leesburg,VA
+2023,AT,Raven,RWD,29900,0.0,29900.0,Factory to port,True,DealerHold,JF1ZNBC19P8761734,Brownsville Toyota,TX
 2023,AT,Halo,RWD,29900,0.0,29900.0,Factory to port,False,,JF1ZNBC19P8761751,Hertrich Toyota,DE
 2023,AT,Halo,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC19P8761829,Toyota of Laredo,TX
-2023,AT,Raven,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC19P8761894,Robbins Toyota,TX
+2023,AT,Raven,RWD,29900,1499.0,31399.0,Factory to port,False,Available,JF1ZNBC19P8761894,Robbins Toyota,TX
 2023,AT,Pavement,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC19P8761992,John Eagle Sport City Toyota,TX
 2023,AT,Steel,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC19P8762009,Vandergriff Toyota,TX
 2023,AT,Pavement,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC19P8762107,Classic Toyota,TX
 2023,AT,Raven,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC19P8762236,Vandergriff Toyota,TX
+2023,AT,Raven,RWD,29900,1985.0,31885.0,Factory to port,False,,JF1ZNBC19P8762396,Toyota of Poway,CA
 2023,AT,Neptune,RWD,29900,0.0,29900.0,At dealer,False,,JF1ZNBC1XP8759250,Amigo Toyota,NM
 2023,AT,Steel,RWD,29900,998.0,30898.0,At dealer,False,,JF1ZNBC1XP8759295,Webb Chevrolet-Toyota,NM
 2023,AT,Trueno Blue,RWD,29900,0.0,29900.0,At dealer,False,DealerHold,JF1ZNBC1XP8759863,Shelor Toyota,VA
 2023,AT,Pavement,RWD,29900,0.0,29900.0,At dealer,False,Available,JF1ZNBC1XP8760186,Key West Toyota,FL
 2023,AT,Raven,RWD,29900,0.0,29900.0,Port to dealer,False,,JF1ZNBC1XP8760351,Freeway Toyota of Hanford,CA
-2023,AT,Trueno Blue,RWD,29900,0.0,29900.0,At dealer,False,,JF1ZNBC1XP8760513,Big Two Toyota of Chandler,AZ
 2023,AT,Halo,RWD,29900,1098.0,30998.0,Factory to port,False,Available,JF1ZNBC1XP8760544,Toyota of Cedar Park,TX
 2023,AT,Halo,RWD,29900,1098.0,30998.0,Factory to port,False,Available,JF1ZNBC1XP8760625,Toyota of Cedar Park,TX
 2023,AT,Halo,RWD,29900,1098.0,30998.0,Factory to port,False,Available,JF1ZNBC1XP8760639,Toyota of Cedar Park,TX
@@ -343,12 +370,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,AT,Halo,RWD,29900,1098.0,30998.0,Factory to port,False,Available,JF1ZNBC1XP8761371,Toyota of Cedar Park,TX
 2023,AT,Track bRED,RWD,29900,0.0,29900.0,Port to dealer,False,Available,JF1ZNBC1XP8761483,Earnhardt Toyota,AZ
 2023,AT,Track bRED,RWD,29900,0.0,29900.0,Factory to port,False,DealerHold,JF1ZNBC1XP8761502,Toyota of Glendale,CA
-2023,AT,Halo,RWD,29900,4795.0,34695.0,Factory to port,True,Available,JF1ZNBC1XP8761578,Universal Toyota,TX
+2023,AT,Halo,RWD,29900,4795.0,34695.0,Factory to port,True,DealerHold,JF1ZNBC1XP8761578,Universal Toyota,TX
 2023,AT,Steel,RWD,29900,0.0,29900.0,Factory to port,False,DealerHold,JF1ZNBC1XP8761662,Freeman Toyota,CA
 2023,AT,Steel,RWD,29900,0.0,29900.0,Port to dealer,False,,JF1ZNBC1XP8761709,Dublin Toyota,CA
 2023,AT,Halo,RWD,29900,0.0,29900.0,Factory to port,False,,JF1ZNBC1XP8761838,Rivertown Toyota,GA
 2023,AT,Track bRED,RWD,29900,0.0,29900.0,Factory to port,False,,JF1ZNBC1XP8761841,Conicelli Toyota,PA
-2023,AT,Steel,RWD,29900,0.0,29900.0,Port to dealer,False,,JF1ZNBC1XP8761855,Envision Toyota of Norwalk,CA
+2023,AT,Steel,RWD,29900,0.0,29900.0,At dealer,False,,JF1ZNBC1XP8761855,Envision Toyota of Norwalk,CA
 2023,AT,Halo,RWD,29900,4000.0,33900.0,Factory to port,False,Available,JF1ZNBC1XP8761886,Yokem Toyota,LA
 2023,AT,Trueno Blue,RWD,29900,3995.0,33895.0,Factory to port,False,Available,JF1ZNBC1XP8761936,Lithia Toyota of Odessa,TX
 2023,AT,Raven,RWD,29900,0.0,29900.0,Factory to port,False,Available,JF1ZNBC1XP8762049,Vandergriff Toyota,TX
@@ -361,11 +388,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE10P9759944,John Weiss' Toyota of South County,MO
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Port to dealer,True,,JF1ZNBE10P9760057,Avondale Toyota,AZ
 2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE10P9760169,Checkered Flag Toyota,VA
+2023,Premium MT,Raven,RWD,31000,0.0,31000.0,At dealer,False,DealerHold,JF1ZNBE10P9760236,Koons Toyota,MD
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Port to dealer,True,DealerHold,JF1ZNBE10P9760253,Kerry Toyota,KY
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Port to dealer,True,DealerHold,JF1ZNBE10P9760267,Byers Toyota,OH
 2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Port to dealer,True,DealerHold,JF1ZNBE10P9760270,Walker Toyota,OH
 2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE10P9760494,Twin City Toyota,MO
-2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,At dealer,True,Available,JF1ZNBE10P9760608,Johnson City Toyota,TN
 2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,At dealer,False,DealerHold,JF1ZNBE10P9760656,Tri County Toyota,PA
 2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Port to dealer,False,Available,JF1ZNBE10P9760687,Peterson Toyota,ID
 2023,Premium MT,Steel,RWD,31000,1995.0,32995.0,Port to dealer,True,,JF1ZNBE10P9760706,Danville Toyota,VA
@@ -395,8 +422,13 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE10P9761659,Hendrick Toyota Merriam,KS
 2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Factory to port,True,,JF1ZNBE10P9761726,Avondale Toyota,AZ
 2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Port to dealer,True,DealerHold,JF1ZNBE10P9761743,"Pedersen Toyota, Ltd.",CO
-2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE10P9762021,Fred Haas Toyota World,TX
+2023,Premium MT,Pavement,RWD,31000,3490.0,34490.0,Factory to port,True,DealerHold,JF1ZNBE10P9762021,Fred Haas Toyota World,TX
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE10P9762097,Treasure Coast Toyota of Stuart,FL
+2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE10P9762147,Jones Toyota,MD
+2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE10P9762343,355 Toyota,MD
+2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Factory to port,True,,JF1ZNBE10P9762441,Doxon Toyota,WA
+2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE10P9762486,Toyota on Nicholasville,KY
+2023,Premium MT,Steel,RWD,31000,4488.0,35488.0,Factory to port,False,,JF1ZNBE10P9762536,Toyota of Renton,WA
 2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE10P9762570,Cumberland Toyota,TN
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE10P9762715,Rick McGill's Airport Toyota,TN
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,At dealer,False,DealerHold,JF1ZNBE11P9758320,Hertrich Toyota,DE
@@ -407,27 +439,26 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE11P9760214,Corwin Toyota of Bellevue,NE
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE11P9760245,Crown Toyota,IL
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,True,DealerHold,JF1ZNBE11P9760326,Toyota of Scranton,PA
-2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Factory to port,True,DealerHold,JF1ZNBE11P9760374,Toyota of Puyallup,WA
 2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE11P9760424,Gloucester Toyota,VA
 2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE11P9760455,Chicago Northside Toyota,IL
 2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE11P9760522,Kings Toyota,OH
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Port to dealer,True,DealerHold,JF1ZNBE11P9760651,Matick Toyota,MI
 2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE11P9760696,Five Star Toyota,WA
 2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Port to dealer,False,,JF1ZNBE11P9760746,Joseph Airport Toyota,OH
-2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Port to dealer,True,DealerHold,JF1ZNBE11P9760777,Toyota of San Bernardino,CA
+2023,Premium MT,Steel,RWD,31000,0.0,31000.0,At dealer,True,DealerHold,JF1ZNBE11P9760777,Toyota of San Bernardino,CA
 2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE11P9760827,Green's Toyota of Lexington,KY
 2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE11P9760875,Luv Toyota,NY
 2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE11P9760892,Toyota of Cool Springs,TN
 2023,Premium MT,Pavement,RWD,31000,1895.0,32895.0,Factory to port,True,Available,JF1ZNBE11P9760939,Jim Norton Toyota,OK
-2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE11P9760942,Lithia Toyota of Redding,CA
+2023,Premium MT,Steel,RWD,31000,0.0,31000.0,At dealer,False,DealerHold,JF1ZNBE11P9760942,Lithia Toyota of Redding,CA
 2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,True,DealerHold,JF1ZNBE11P9760973,Kerry Toyota,KY
 2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE11P9761038,Toyota of Riverside,CA
-2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE11P9761136,Cabe Toyota Long Beach,CA
+2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE11P9761136,Cabe Toyota Long Beach,CA
 2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Port to dealer,False,Available,JF1ZNBE11P9761234,Heritage Toyota Owings Mills,MD
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE11P9761265,Jones Toyota,MD
 2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE11P9761363,Prestige Toyota of Ramsey,NJ
 2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE11P9761427,Malloy Toyota,VA
-2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE11P9761458,Interstate Toyota,NY
+2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE11P9761458,Interstate Toyota,NY
 2023,Premium MT,Raven,RWD,31000,1795.0,32795.0,Factory to port,True,DealerHold,JF1ZNBE11P9761508,Universal Toyota,TX
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE11P9761797,Lithia Toyota of Billings,MT
 2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Port to dealer,False,Available,JF1ZNBE11P9761816,Midwest Toyota,KS
@@ -435,9 +466,14 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE11P9761864,Hillside Toyota,NY
 2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,True,DealerHold,JF1ZNBE11P9761914,Hanlees Hilltop Toyota,CA
 2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE11P9761959,Freeway Toyota of Hanford,CA
+2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE11P9761976,Toyota of Somerset,KY
+2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE11P9761993,Royal Moore Toyota,OR
 2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE11P9762173,Toyota of Fayetteville,AR
 2023,Premium MT,Pavement,RWD,31000,3265.0,34265.0,Factory to port,False,,JF1ZNBE11P9762190,Toyota of Bedford,OH
 2023,Premium MT,Pavement,RWD,31000,1999.0,32999.0,Factory to port,False,,JF1ZNBE11P9762206,Foothills Toyota,WA
+2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE11P9762268,Peterson Toyota,ID
+2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE11P9762450,Route 22 Toyota,NJ
+2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE11P9762500,Advantage Toyota,NY
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE11P9762674,Rusty Wallace Toyota,TN
 2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE12P9759492,Thornhill Toyota,WV
 2023,Premium MT,Steel,RWD,31000,0.0,31000.0,At dealer,False,DealerHold,JF1ZNBE12P9759993,Lewis Toyota of Topeka,KS
@@ -445,8 +481,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Premium MT,Raven,RWD,31000,1899.0,32899.0,At dealer,True,DealerHold,JF1ZNBE12P9760206,Frank Fletcher Toyota,MO
 2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Port to dealer,True,DealerHold,JF1ZNBE12P9760254,Inver Grove Toyota,MN
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Port to dealer,True,DealerHold,JF1ZNBE12P9760321,Schaumburg Toyota,IL
-2023,Premium MT,Halo,RWD,31000,0.0,31000.0,At dealer,True,DealerHold,JF1ZNBE12P9760402,One Toyota of Oakland,CA
-2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE12P9760433,Sheehy Toyota of Laurel,MD
+2023,Premium MT,Halo,RWD,31000,0.0,31000.0,At dealer,False,DealerHold,JF1ZNBE12P9760433,Sheehy Toyota of Laurel,MD
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE12P9760447,Torrington Toyota,CT
 2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE12P9760531,Koons Tysons Toyota,VA
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE12P9760691,Pauly Toyota,IL
@@ -458,6 +493,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Premium MT,Track bRED,RWD,31000,1893.0,32893.0,Port to dealer,True,DealerHold,JF1ZNBE12P9760934,Toyota World of Newton,NJ
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE12P9761050,Joseph Toyota of Cincinnati,OH
 2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE12P9761114,Sheehy Toyota of Laurel,MD
+2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE12P9761131,AutoNation Toyota Mall of Georgia,GA
 2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Port to dealer,True,DealerHold,JF1ZNBE12P9761176,Toyota of Grand Rapids,MI
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Port to dealer,False,,JF1ZNBE12P9761338,Brunswick Toyota,OH
 2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE12P9761341,Dowling Toyota of Litchfield,CT
@@ -469,34 +505,42 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE12P9761839,Olathe Toyota,KS
 2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE12P9761842,John Weiss' Toyota of South County,MO
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Port to dealer,False,,JF1ZNBE12P9761856,Stone's Town and Country Toyota,ID
+2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE12P9761971,Parker Toyota,ID
+2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE12P9761985,Toyota of Lake City,WA
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE12P9762019,Sheehy Toyota of Laurel,MD
+2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE12P9762022,Burien Toyota,WA
+2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE12P9762036,Toyota Walnut Creek,CA
 2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE12P9762070,Don McGill Toyota of Katy,TX
 2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,True,DealerHold,JF1ZNBE12P9762084,Gulf Coast Toyota,TX
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE12P9762134,Fox Toyota,TN
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE12P9762389,Greentree Toyota,CT
 2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE12P9762411,Smithtown Toyota,NY
-2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Port to dealer,False,Available,JF1ZNBE13P9758741,Corwin Toyota,ND
-2023,Premium MT,Halo,RWD,31000,0.0,31000.0,At dealer,False,DealerHold,JF1ZNBE13P9758769,Riverhead Toyota,NY
+2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE12P9762473,Bud Clary Toyota of Yakima,WA
+2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE12P9762537,Classic Toyota,OH
+2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE12P9762618,Hall Toyota Virginia Beach,VA
+2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE12P9762795,White's Toyota of Lima,OH
+2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,At dealer,False,Available,JF1ZNBE13P9758741,Corwin Toyota,ND
+2023,Premium MT,Halo,RWD,31000,0.0,31000.0,At dealer,False,Available,JF1ZNBE13P9758769,Riverhead Toyota,NY
 2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE13P9758853,Santa Cruz Toyota,CA
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,At dealer,False,Available,JF1ZNBE13P9759517,Hanover Toyota,PA
 2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE13P9759582,Bergeron Toyota,MI
-2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,At dealer,False,Available,JF1ZNBE13P9759601,Stephen Toyota,CT
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,At dealer,False,DealerHold,JF1ZNBE13P9759789,Peterson Toyota,ID
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE13P9759923,Lou Fusz Toyota,MO
 2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Port to dealer,False,,JF1ZNBE13P9760019,Curry Toyota,NY
 2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Port to dealer,False,,JF1ZNBE13P9760053,Baxter Toyota of Lincoln,NE
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE13P9760165,Heritage Toyota Catonsville,MD
 2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE13P9760179,Pohanka Toyota of Salisbury,MD
+2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,At dealer,True,DealerHold,JF1ZNBE13P9760196,Toyota of The Desert,CA
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Port to dealer,True,Available,JF1ZNBE13P9760215,Crown Toyota,MI
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE13P9760232,Performance Toyota,OH
 2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE13P9760408,Four Stars Toyota,OK
-2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE13P9760456,Haley Toyota,VA
+2023,Premium MT,Steel,RWD,31000,0.0,31000.0,At dealer,False,DealerHold,JF1ZNBE13P9760456,Haley Toyota,VA
 2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Port to dealer,False,,JF1ZNBE13P9760537,East Coast Toyota,NJ
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Port to dealer,False,,JF1ZNBE13P9760571,Magnussen's Toyota of Palo Alto,CA
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Port to dealer,True,Available,JF1ZNBE13P9760618,Toyota of Greensburg,PA
 2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE13P9760747,Haley Toyota of Richmond,VA
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE13P9760750,A-1 Toyota,CT
-2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE13P9760795,Elmore Toyota,CA
+2023,Premium MT,Halo,RWD,31000,0.0,31000.0,At dealer,False,DealerHold,JF1ZNBE13P9760795,Elmore Toyota,CA
 2023,Premium MT,Pavement,RWD,31000,4995.0,35995.0,Factory to port,True,DealerHold,JF1ZNBE13P9760814,Jim Norton Toyota of Oklahoma City,OK
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,True,DealerHold,JF1ZNBE13P9760912,Tansky Sawmill Toyota,OH
 2023,Premium MT,Steel,RWD,31000,4180.0,35180.0,Factory to port,True,DealerHold,JF1ZNBE13P9760974,Fred Haas Toyota World,TX
@@ -510,7 +554,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE13P9761414,Miller Toyota,VA
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,True,,JF1ZNBE13P9761431,McDonough Toyota,VA
 2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Factory to port,True,DealerHold,JF1ZNBE13P9761669,Kenny Kent Toyota,IN
-2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE13P9761705,Fred Haas Toyota World,TX
+2023,Premium MT,Trueno Blue,RWD,31000,3490.0,34490.0,Factory to port,True,DealerHold,JF1ZNBE13P9761705,Fred Haas Toyota World,TX
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Port to dealer,True,DealerHold,JF1ZNBE13P9761719,Earnhardt Toyota,AZ
 2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE13P9761736,LeadCar Toyota La Crosse,WI
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Port to dealer,False,,JF1ZNBE13P9761896,Buckeye Toyota,OH
@@ -520,15 +564,22 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE13P9762014,Lakeside Toyota,LA
 2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Factory to port,True,Available,JF1ZNBE13P9762028,Toyota of Slidell,LA
 2023,Premium MT,Steel,RWD,31000,9995.0,40995.0,Factory to port,False,Available,JF1ZNBE13P9762093,Toyota of Richardson,TX
+2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,True,DealerHold,JF1ZNBE13P9762157,Faulkner Toyota,PA
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,True,DealerHold,JF1ZNBE13P9762255,Tansky Sawmill Toyota,OH
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE13P9762305,Toyota of Cool Springs,TN
+2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Factory to port,True,DealerHold,JF1ZNBE13P9762398,Vancouver Toyota,WA
+2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE13P9762451,Newburgh Toyota,NY
+2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE13P9762465,Wills Toyota,ID
+2023,Premium MT,Halo,RWD,31000,4995.0,35995.0,Factory to port,True,DealerHold,JF1ZNBE13P9762479,Jim Norton Toyota of Oklahoma City,OK
+2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE13P9762563,Toyota Universe,NJ
 2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE13P9762613,Colonial Toyota,CT
+2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE13P9762658,Toyota of Stamford,CT
 2023,Premium MT,Steel,RWD,31000,0.0,31000.0,At dealer,False,DealerHold,JF1ZNBE14P9758831,Burnsville Toyota,MN
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,At dealer,False,DealerHold,JF1ZNBE14P9759719,Casey Toyota,VA
 2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE14P9759736,Kings Toyota,OH
 2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Port to dealer,True,DealerHold,JF1ZNBE14P9760014,Denny Menholt Toyota,SD
 2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE14P9760191,Rhinelander Toyota,WI
-2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Port to dealer,True,DealerHold,JF1ZNBE14P9760286,Passport Toyota,MD
+2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,At dealer,False,DealerHold,JF1ZNBE14P9760286,Passport Toyota,MD
 2023,Premium MT,Steel,RWD,31000,0.0,31000.0,At dealer,True,,JF1ZNBE14P9760370,Doxon Toyota,WA
 2023,Premium MT,Track bRED,RWD,31000,5995.0,36995.0,Factory to port,True,DealerHold,JF1ZNBE14P9760417,Toyota of Richardson,TX
 2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE14P9760434,Ourisman Fairfax Toyota,VA
@@ -536,6 +587,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Port to dealer,False,,JF1ZNBE14P9760546,Toyota on Nicholasville,KY
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE14P9760630,Markquart Toyota,WI
 2023,Premium MT,Halo,RWD,31000,1895.0,32895.0,Factory to port,True,DealerHold,JF1ZNBE14P9760661,Jim Norton Toyota of Oklahoma City,OK
+2023,Premium MT,Raven,RWD,31000,0.0,31000.0,At dealer,False,Available,JF1ZNBE14P9760854,Earl Stewart Toyota of North Palm Beach,FL
 2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE14P9760899,Le Mieux & Son Toyota,WI
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE14P9760966,Toyota of Hollywood,FL
 2023,Premium MT,Raven,RWD,31000,4000.0,35000.0,Factory to port,False,Available,JF1ZNBE14P9760983,Yokem Toyota,LA
@@ -551,19 +603,27 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE14P9761647,Jay Wolfe Toyota,MO
 2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE14P9761681,Emerson Toyota,ME
 2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE14P9761700,Little Apple Toyota,KS
-2023,Premium MT,Raven,RWD,31000,2098.0,33098.0,Factory to port,False,,JF1ZNBE14P9761731,Toyota of Surprise,AZ
+2023,Premium MT,Raven,RWD,31000,2098.0,33098.0,Port to dealer,False,,JF1ZNBE14P9761731,Toyota of Surprise,AZ
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE14P9761793,Teton Toyota,ID
+2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE14P9761812,St. Charles Toyota,IL
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE14P9761857,Galaxy Toyota,NJ
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE14P9761888,Lithia Toyota,OR
 2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE14P9761907,Sam Leman Toyota Bloomington,IL
 2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Port to dealer,False,Available,JF1ZNBE14P9761955,Stevens Creek Toyota,CA
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE14P9761969,Ourisman Fairfax Toyota,VA
-2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE14P9762006,Sterling McCall Toyota,TX
+2023,Premium MT,Pavement,RWD,31000,1495.0,32495.0,Factory to port,False,DealerHold,JF1ZNBE14P9762006,Sterling McCall Toyota,TX
+2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE14P9762037,Marysville Toyota,WA
+2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE14P9762068,Jerry Ackerman Toyota,MO
+2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Factory to port,True,DealerHold,JF1ZNBE14P9762085,Performance Toyota Bountiful,UT
 2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,True,DealerHold,JF1ZNBE14P9762104,Gulf Coast Toyota,TX
+2023,Premium MT,Raven,RWD,31000,1978.0,32978.0,Factory to port,False,,JF1ZNBE14P9762202,Chuck Hutton Toyota,TN
 2023,Premium MT,Halo,RWD,31000,799.0,31799.0,Factory to port,True,Available,JF1ZNBE14P9762412,Landers Toyota NWA,AR
+2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE14P9762443,Della Toyota,NY
 2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE14P9762619,Penn Toyota,NY
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE14P9762734,Joseph Toyota of Cincinnati,OH
-2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Port to dealer,True,,JF1ZNBE15P9759826,Waldorf Toyota,MD
+2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Factory to port,True,DealerHold,JF1ZNBE14P9762748,Northway Toyota,NY
+2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE14P9762801,Toyota of Gallatin,TN
+2023,Premium MT,Halo,RWD,31000,0.0,31000.0,At dealer,True,,JF1ZNBE15P9759826,Waldorf Toyota,MD
 2023,Premium MT,Steel,RWD,31000,0.0,31000.0,At dealer,False,DealerHold,JF1ZNBE15P9759860,Grieco Toyota,RI
 2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Port to dealer,False,Available,JF1ZNBE15P9760023,Lake Country Toyota,MN
 2023,Premium MT,Steel,RWD,31000,1274.0,32274.0,Port to dealer,False,,JF1ZNBE15P9760202,Tom Wood Toyota,IN
@@ -582,6 +642,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Port to dealer,True,DealerHold,JF1ZNBE15P9760913,Fox Toyota,MI
 2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE15P9760958,Pitts Toyota,GA
 2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE15P9761009,Brewer Airport Toyota,PA
+2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE15P9761026,Jim Ellis Toyota of McDonough,GA
 2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Factory to port,True,DealerHold,JF1ZNBE15P9761043,Sheehy Toyota of Fredericksburg,VA
 2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Port to dealer,False,,JF1ZNBE15P9761088,Serra Toyota of Saginaw,MI
 2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE15P9761141,Savannah Toyota,GA
@@ -592,29 +653,35 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE15P9761429,Autoland Toyota,NJ
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE15P9761740,Rolling Hills Toyota,MO
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Port to dealer,True,,JF1ZNBE15P9761804,Toyota of Des Moines,IA
+2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE15P9761835,Carlson Toyota,MN
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE15P9761902,Bennett Toyota of Lebanon,PA
-2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE15P9762015,Sterling McCall Toyota Fort Bend,TX
-2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE15P9762094,Lithia Toyota of Abilene,TX
+2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE15P9761978,San Francisco Toyota,CA
+2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE15P9762015,Sterling McCall Toyota Fort Bend,TX
+2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE15P9762080,Firelands Toyota,OH
+2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Factory to port,True,Available,JF1ZNBE15P9762094,Lithia Toyota of Abilene,TX
 2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE15P9762130,Don McGill Toyota,TX
 2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE15P9762144,McDaniel Toyota,OH
 2023,Premium MT,Track bRED,RWD,31000,499.0,31499.0,Factory to port,False,DealerHold,JF1ZNBE15P9762161,Caldwell Toyota,AR
+2023,Premium MT,Trueno Blue,RWD,31000,2791.0,33791.0,Factory to port,False,,JF1ZNBE15P9762225,Billion Toyota,SD
 2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE15P9762256,Kerry Toyota,KY
 2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE15P9762368,Labadie Toyota,MI
+2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE15P9762449,Yark Toyota,OH
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE15P9762516,Jeff Wyler Toyota of Clarksville,IN
+2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE15P9762743,Victory Toyota,MI
+2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Factory to port,True,Available,JF1ZNBE15P9762824,Freeman Toyota,TX
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE16P9758703,Walser Bloomington Toyota,MN
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Port to dealer,False,,JF1ZNBE16P9759110,LeadCar Toyota Mankato,MN
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,At dealer,False,Available,JF1ZNBE16P9759611,Toyota of Lompoc,CA
-2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,At dealer,True,DealerHold,JF1ZNBE16P9759852,Toyota of Denton,TX
+2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,At dealer,False,DealerHold,JF1ZNBE16P9759852,Toyota of Denton,TX
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE16P9759995,Jerry Ackerman Toyota,MO
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE16P9760161,Eddy's Toyota of Wichita,KS
 2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE16P9760273,Walser Bloomington Toyota,MN
-2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE16P9760340,Kool Toyota,MI
+2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Port to dealer,False,Available,JF1ZNBE16P9760340,Kool Toyota,MI
 2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE16P9760466,Jerry Ackerman Toyota,MO
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Port to dealer,True,DealerHold,JF1ZNBE16P9760516,Maplewood Toyota,MN
-2023,Premium MT,Raven,RWD,31000,0.0,31000.0,At dealer,True,DealerHold,JF1ZNBE16P9760550,Ed Martin Toyota,IN
 2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE16P9760628,Fox Toyota,NY
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE16P9760631,Burdick Toyota,NY
-2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Port to dealer,False,Available,JF1ZNBE16P9760645,McGeorge Toyota,VA
+2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE16P9760645,McGeorge Toyota,VA
 2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE16P9760726,Fred Anderson Toyota,NC
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Factory to port,True,DealerHold,JF1ZNBE16P9760743,Toyota of Scranton,PA
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Port to dealer,True,DealerHold,JF1ZNBE16P9760757,Toyota of Batavia,NY
@@ -632,25 +699,36 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE16P9761276,Toyota of The Desert,CA
 2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,True,DealerHold,JF1ZNBE16P9761312,Newark Toyotaworld,DE
 2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE16P9761343,Palm Beach Toyota,FL
-2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE16P9761391,Cobb County Toyota,GA
-2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE16P9761410,Central Florida Toyota,FL
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Port to dealer,False,Available,JF1ZNBE16P9761455,Yark Toyota,OH
+2023,Premium MT,Track bRED,RWD,31000,2594.0,33594.0,Factory to port,False,DealerHold,JF1ZNBE16P9761469,Hudson Toyota,NJ
 2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE16P9761584,Toyota Walnut Creek,CA
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE16P9761729,Herb Chambers Toyota of Auburn,MA
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE16P9761892,Tuscaloosa Toyota,AL
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE16P9761911,Peterson Toyota,ID
+2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE16P9762038,"Stapp Interstate Toyota, Inc.",CO
+2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE16P9762055,Dick Hannah Toyota,WA
 2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE16P9762072,Mitchell Toyota,TX
 2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE16P9762170,Baxter Toyota of Lincoln,NE
+2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE16P9762184,Byers Toyota,OH
+2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE16P9762203,Sheehy Toyota of Stafford,VA
+2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE16P9762251,Westbury Toyota,NY
+2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE16P9762279,Brunswick Toyota,OH
+2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE16P9762315,Green's Toyota of Lexington,KY
+2023,Premium MT,Trueno Blue,RWD,31000,395.0,31395.0,Factory to port,False,,JF1ZNBE16P9762329,Toyota of Olympia,WA
+2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE16P9762458,Jeff Wyler Toyota of Springfield,OH
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE16P9762461,New Rochelle Toyota,NY
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE16P9762525,Island Toyota,NY
+2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE16P9762539,Toyota of Scranton,PA
+2023,Premium MT,Steel,RWD,31000,1999.0,32999.0,Factory to port,False,,JF1ZNBE16P9762542,Foothills Toyota,WA
+2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE16P9762587,Coughlin Toyota,OH
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE16P9762766,Kings Toyota,OH
+2023,Premium MT,Neptune,RWD,31000,0.0,31000.0,Factory to port,True,DealerHold,JF1ZNBE17P9759214,Tansky Sawmill Toyota,OH
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Port to dealer,True,DealerHold,JF1ZNBE17P9759522,Ed Martin Toyota,IN
-2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE17P9759536,Toyota of Murfreesboro,TN
+2023,Premium MT,Raven,RWD,31000,0.0,31000.0,At dealer,False,DealerHold,JF1ZNBE17P9759536,Toyota of Murfreesboro,TN
 2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE17P9759679,Laurel Toyota,PA
 2023,Premium MT,Track bRED,RWD,31000,1978.0,32978.0,Port to dealer,False,DealerHold,JF1ZNBE17P9759780,Chuck Hutton Toyota,TN
 2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Port to dealer,True,DealerHold,JF1ZNBE17P9759990,Maplewood Toyota,MN
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Port to dealer,False,,JF1ZNBE17P9760072,Coad Toyota Paducah,KY
-2023,Premium MT,Halo,RWD,31000,0.0,31000.0,At dealer,False,Available,JF1ZNBE17P9760086,Cronin Toyota of  Richmond,IN
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE17P9760198,Olathe Toyota,KS
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE17P9760282,Waldorf Toyota,MD
 2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE17P9760301,Peterson Toyota,ID
@@ -676,15 +754,19 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE17P9761321,Gettel Toyota of Bradenton,FL
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE17P9761335,Motorworld Toyota,PA
 2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE17P9761366,Manhattan Beach Toyota,CA
-2023,Premium MT,Halo,RWD,31000,1290.0,32290.0,Factory to port,True,,JF1ZNBE17P9761383,Toyota of Redlands,CA
+2023,Premium MT,Halo,RWD,31000,1290.0,32290.0,Port to dealer,True,,JF1ZNBE17P9761383,Toyota of Redlands,CA
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Port to dealer,True,DealerHold,JF1ZNBE17P9761397,Voss Toyota,OH
 2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE17P9761416,Jim Coleman Toyota,MD
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,True,DealerHold,JF1ZNBE17P9761609,Ira Toyota,MA
-2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE17P9762260,Toyota of Somerset,KY
+2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE17P9762131,Roberts Toyota,TN
+2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE17P9762193,Parkway Toyota,NJ
+2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE17P9762243,Metro Toyota,OH
+2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE17P9762260,Peterson Toyota,ID
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE17P9762436,Voss Toyota,OH
 2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE17P9762503,Toyota Knoxville,TN
-2023,Premium MT,Pavement,RWD,31000,1298.0,32298.0,Factory to port,False,,JF1ZNBE17P9762520,Sunshine Toyota,MI
+2023,Premium MT,Pavement,RWD,31000,1298.0,32298.0,Factory to port,False,DealerHold,JF1ZNBE17P9762520,Sunshine Toyota,MI
 2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE17P9762551,Toyota of Massapequa,NY
+2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE17P9762680,Koons Tysons Toyota,VA
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE17P9762730,Principle Toyota,TN
 2023,Premium MT,Neptune,RWD,31000,0.0,31000.0,Port to dealer,True,DealerHold,JF1ZNBE18P9759352,Kenny Kent Toyota,IN
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE18P9759612,Serra Toyota of Saginaw,MI
@@ -722,15 +804,17 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE18P9761361,Team Toyota of Glen Mills,PA
 2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE18P9761411,Rivera Toyota of Mt. Kisco,NY
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE18P9761439,New Holland Toyota,PA
-2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Port to dealer,False,,JF1ZNBE18P9761571,Merced Toyota,CA
 2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE18P9761733,Kolosso Toyota,WI
 2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Port to dealer,False,,JF1ZNBE18P9761795,Tom Pappas Toyota,MO
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE18P9761862,Peterson Toyota,ID
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Port to dealer,True,Available,JF1ZNBE18P9761943,Fernelius Toyota,MI
 2023,Premium MT,Pavement,RWD,31000,3595.0,34595.0,Factory to port,True,DealerHold,JF1ZNBE18P9761960,Cowboy Toyota,TX
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE18P9762204,Ken Ganley Toyota Akron,OH
+2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE18P9762381,Lia Toyota of Rockland,NY
+2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE18P9762400,Nashville Toyota North,TN
 2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE18P9762459,Toyota of Cool Springs,TN
 2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE18P9762526,Szott M-59 Toyota,MI
+2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE18P9762669,Sloane Toyota of Malvern,PA
 2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,At dealer,True,Available,JF1ZNBE19P9759778,Toyota South,KY
 2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Port to dealer,False,Available,JF1ZNBE19P9759988,Lake Toyota,ND
 2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE19P9760008,Bommarito Toyota,MO
@@ -744,7 +828,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,True,DealerHold,JF1ZNBE19P9760445,Fitzgerald Toyota Gaithersburg,MD
 2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE19P9760462,Pohanka Toyota of Salisbury,MD
 2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE19P9760526,Lou Fusz Toyota,MO
-2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Port to dealer,True,DealerHold,JF1ZNBE19P9760610,Prestige Toyota,NY
+2023,Premium MT,Halo,RWD,31000,0.0,31000.0,At dealer,True,DealerHold,JF1ZNBE19P9760610,Prestige Toyota,NY
 2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE19P9760638,Williams Toyota of Sayre,PA
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,At dealer,False,,JF1ZNBE19P9760641,Toyota of Greer,SC
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Port to dealer,True,,JF1ZNBE19P9760672,Waldorf Toyota,MD
@@ -762,39 +846,40 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Factory to port,True,,JF1ZNBE19P9761370,"Glen Motors, Inc.",NJ
 2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE19P9761403,Gettel Toyota of Lakewood,FL
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,True,DealerHold,JF1ZNBE19P9761448,Sheehy Toyota of Fredericksburg,VA
-2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,True,Available,JF1ZNBE19P9761465,Jim Hudson Toyota,SC
 2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE19P9761577,Jerry Ackerman Toyota,MO
-2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE19P9761708,Findlay Toyota,NV
+2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,At dealer,False,DealerHold,JF1ZNBE19P9761708,Findlay Toyota,NV
 2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Port to dealer,False,,JF1ZNBE19P9761725,Dolan Toyota,NV
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE19P9761756,"Molle Toyota, Inc.",MO
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE19P9761787,Plaza Toyota,NY
 2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE19P9761871,Bommarito Toyota,MO
 2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE19P9761885,Jerry Ackerman Toyota,MO
-2023,Premium MT,Raven,RWD,31000,1798.0,32798.0,Port to dealer,False,,JF1ZNBE19P9761918,Toyota of Portland on Broadway,OR
+2023,Premium MT,Raven,RWD,31000,1798.0,32798.0,Port to dealer,True,,JF1ZNBE19P9761918,Toyota of Portland on Broadway,OR
+2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Port to dealer,False,Available,JF1ZNBE19P9761983,Precision Toyota of Tucson,AZ
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE19P9762017,Ken Ganley Toyota Akron,OH
-2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE19P9762163,Joe Myers Toyota,TX
-2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE19P9762227,Jim Norton Toyota,OK
+2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE19P9762048,Hatch Toyota Stateline,NM
+2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE19P9762132,Germain Toyota of Columbus,OH
+2023,Premium MT,Steel,RWD,31000,6784.0,37784.0,Factory to port,False,Available,JF1ZNBE19P9762163,Joe Myers Toyota,TX
+2023,Premium MT,Track bRED,RWD,31000,1895.0,32895.0,Factory to port,True,Available,JF1ZNBE19P9762227,Jim Norton Toyota,OK
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Factory to port,True,Available,JF1ZNBE19P9762289,Northshore Toyota,LA
 2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE19P9762373,Graham Toyota,OH
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE19P9762499,Middletown Toyota,CT
+2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE19P9762616,Oxmoor Toyota,KY
 2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE19P9762793,Toyota of Runnemede,NJ
-2023,Premium MT,Raven,RWD,31000,0.0,31000.0,At dealer,True,DealerHold,JF1ZNBE1XP9759062,Rudy Luther Toyota,MN
-2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,At dealer,False,DealerHold,JF1ZNBE1XP9759689,Ciocca Toyota of Williamsport,PA
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,At dealer,False,DealerHold,JF1ZNBE1XP9759823,DARCARS Toyota of Frederick,MD
 2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Port to dealer,True,DealerHold,JF1ZNBE1XP9759899,Baxter Toyota of La Vista,NE
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE1XP9759949,Jay Wolfe Toyota of West County,MO
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,At dealer,True,DealerHold,JF1ZNBE1XP9760096,Gerald Toyota of Matteson,IL
 2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Port to dealer,True,DealerHold,JF1ZNBE1XP9760177,Ed Martin Toyota,IN
-2023,Premium MT,Halo,RWD,31000,0.0,31000.0,At dealer,True,,JF1ZNBE1XP9760308,AutoNation Toyota Hayward,CA
+2023,Premium MT,Halo,RWD,31000,4273.0,35273.0,At dealer,False,,JF1ZNBE1XP9760308,AutoNation Toyota Hayward,CA
 2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE1XP9760311,Steet Toyota,NY
 2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE1XP9760342,Royal South Toyota,IN
-2023,Premium MT,Pavement,RWD,31000,888.0,31888.0,Factory to port,False,,JF1ZNBE1XP9760356,Romeoville Toyota,IL
+2023,Premium MT,Pavement,RWD,31000,888.0,31888.0,Port to dealer,False,,JF1ZNBE1XP9760356,Romeoville Toyota,IL
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE1XP9760387,Santa Cruz Toyota,CA
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,At dealer,False,DealerHold,JF1ZNBE1XP9760406,Toyota of Hackensack,NJ
 2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE1XP9760471,Peruzzi Toyota,PA
-2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE1XP9760518,Thompson Toyota,PA
-2023,Premium MT,Trueno Blue,RWD,31000,395.0,31395.0,Port to dealer,False,DealerHold,JF1ZNBE1XP9760535,Billion Toyota,SD
-2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Port to dealer,False,Available,JF1ZNBE1XP9760552,Metro Toyota,MI
+2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,At dealer,False,DealerHold,JF1ZNBE1XP9760518,Thompson Toyota,PA
+2023,Premium MT,Trueno Blue,RWD,31000,395.0,31395.0,Port to dealer,False,Available,JF1ZNBE1XP9760535,Billion Toyota,SD
+2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE1XP9760552,Metro Toyota,MI
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Port to dealer,True,DealerHold,JF1ZNBE1XP9760566,Conicelli Toyota of Springfield,PA
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Port to dealer,True,,JF1ZNBE1XP9760650,Team Toyota,OH
 2023,Premium MT,Raven,RWD,31000,1990.0,32990.0,Port to dealer,False,,JF1ZNBE1XP9760714,East Madison Toyota,WI
@@ -813,20 +898,26 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE1XP9761345,Wyatt Johnson Toyota,TN
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE1XP9761376,Berglund Toyota,VA
 2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE1XP9761409,Toyota of Clermont,FL
-2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE1XP9761443,Manhattan Beach Toyota,CA
+2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Port to dealer,False,DealerHold,JF1ZNBE1XP9761443,Manhattan Beach Toyota,CA
 2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE1XP9761510,Toyota of Nashua,NH
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE1XP9761684,Baxter Toyota of Lincoln,NE
 2023,Premium MT,Steel,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE1XP9761782,Dan Deery Toyota,IA
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,At dealer,False,,JF1ZNBE1XP9761801,Brent Brown Toyota,UT
 2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE1XP9762012,Atlantic Toyota,MA
-2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE1XP9762074,Toyota of Cedar Park,TX
-2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE1XP9762494,Fox Toyota,MI
+2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE1XP9762043,Toyota South,KY
+2023,Premium MT,Pavement,RWD,31000,1098.0,32098.0,Factory to port,True,DealerHold,JF1ZNBE1XP9762074,Toyota of Cedar Park,TX
+2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE1XP9762088,Toyota of Gallatin,TN
+2023,Premium MT,Track bRED,RWD,31000,0.0,31000.0,Factory to port,False,Available,JF1ZNBE1XP9762303,Lynch Toyota,CT
+2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Factory to port,True,DealerHold,JF1ZNBE1XP9762320,Toyota of Bowling Green,KY
+2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Factory to port,True,DealerHold,JF1ZNBE1XP9762351,Edmark Toyota,ID
+2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE1XP9762379,Wyatt Johnson Toyota,TN
+2023,Premium MT,Trueno Blue,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE1XP9762494,Fox Toyota,MI
 2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE1XP9762639,Toyota of Murfreesboro,TN
 2023,Premium MT,Pavement,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE1XP9762642,Toyota of Ashland,KY
+2023,Premium MT,Raven,RWD,31000,0.0,31000.0,Factory to port,False,,JF1ZNBE1XP9762771,Mann Toyota,KY
 2023,Premium MT,Halo,RWD,31000,0.0,31000.0,Factory to port,False,DealerHold,JF1ZNBE1XP9762799,Toyota West,OH
 2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Factory to port,False,DealerHold,JF1ZNBF10P8757700,Earnhardt Toyota,AZ
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Factory to port,False,Available,JF1ZNBF10P8757809,Oak Lawn Toyota,IL
-2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,At dealer,False,,JF1ZNBF10P8759589,Plaza Toyota,NY
 2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,At dealer,False,,JF1ZNBF10P8759592,Perry Motors Toyota,CA
 2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,At dealer,False,DealerHold,JF1ZNBF10P8759818,Bill Kidd's Timonium Toyota,MD
 2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Factory to port,False,DealerHold,JF1ZNBF10P8759866,Jones Toyota,MD
@@ -844,13 +935,23 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Port to dealer,False,DealerHold,JF1ZNBF10P8761004,Big Two Toyota of Chandler,AZ
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF10P8761021,City Toyota,CA
 2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Factory to port,True,Available,JF1ZNBF10P8761147,Don McGill Toyota of Katy,TX
-2023,Premium AT,Trueno Blue,RWD,32500,1000.0,33500.0,At dealer,False,,JF1ZNBF10P8761309,San Francisco Toyota,CA
+2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,At dealer,False,,JF1ZNBF10P8761309,San Francisco Toyota,CA
 2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,Factory to port,True,Available,JF1ZNBF10P8761438,Don McGill Toyota,TX
 2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Port to dealer,False,,JF1ZNBF10P8761648,Toyota of DeKalb,IL
 2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,False,DealerHold,JF1ZNBF10P8761844,Town Toyota,WA
 2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF10P8761858,Cobb County Toyota,GA
 2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Port to dealer,False,,JF1ZNBF10P8761889,Kirksville Toyota,MO
 2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF10P8762024,Route 44 Toyota,MA
+2023,Premium AT,Halo,RWD,32500,2273.0,34773.0,Factory to port,False,,JF1ZNBF10P8762105,AutoNation Toyota Hayward,CA
+2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF10P8762167,Hometown Toyota,OR
+2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF10P8762234,Eddy's Toyota of Wichita,KS
+2023,Premium AT,Halo,RWD,32500,1295.0,33795.0,Factory to port,False,,JF1ZNBF10P8762346,Jimmy Vasser Toyota,CA
+2023,Premium AT,Halo,RWD,32500,1190.0,33690.0,Factory to port,False,,JF1ZNBF10P8762444,Simi Valley Toyota,CA
+2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF10P8762590,Hendrick Toyota Merriam,KS
+2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF10P8762637,Centennial Toyota,NV
+2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF10P8762699,Tustin Toyota,CA
+2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF10P8762704,Earnhardt Toyota,AZ
+2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF10P8762797,Toyota of Des Moines,IA
 2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,Port to dealer,False,DealerHold,JF1ZNBF11P8758807,Crown Toyota,KS
 2023,Premium AT,Halo,RWD,32500,2250.0,34750.0,At dealer,False,DealerHold,JF1ZNBF11P8759083,Toyota of Manhattan,NY
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Port to dealer,False,,JF1ZNBF11P8759665,Baxter Toyota of Lincoln,NE
@@ -861,21 +962,30 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Port to dealer,True,DealerHold,JF1ZNBF11P8760055,Carlson Toyota,MN
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF11P8760234,Atlantic Toyota,MA
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,At dealer,False,Available,JF1ZNBF11P8760279,Columbia Gorge Toyota,OR
-2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Factory to port,False,Available,JF1ZNBF11P8760539,Sam Leman Toyota Bloomington,IL
+2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Port to dealer,False,Available,JF1ZNBF11P8760539,Sam Leman Toyota Bloomington,IL
 2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,Port to dealer,False,DealerHold,JF1ZNBF11P8760587,Little Apple Toyota,KS
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Port to dealer,False,DealerHold,JF1ZNBF11P8760637,John Weiss' Toyota of South County,MO
 2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,Port to dealer,False,,JF1ZNBF11P8760749,Toyota of Muscatine,IA
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Port to dealer,False,,JF1ZNBF11P8760833,Riverhead Toyota,NY
+2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Port to dealer,False,,JF1ZNBF11P8760847,Haddad Toyota,MA
 2023,Premium AT,Steel,RWD,32500,2488.0,34988.0,Factory to port,False,Available,JF1ZNBF11P8760881,Toyota of Plano,TX
 2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Port to dealer,False,,JF1ZNBF11P8760914,Earnhardt Toyota,AZ
-2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,True,Available,JF1ZNBF11P8761352,Don McGill Toyota,TX
+2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,False,Available,JF1ZNBF11P8761352,Don McGill Toyota,TX
 2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Port to dealer,True,DealerHold,JF1ZNBF11P8761576,Minot Toyota Center,ND
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Port to dealer,False,,JF1ZNBF11P8761688,Elko Toyota,NV
 2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Factory to port,True,DealerHold,JF1ZNBF11P8761724,Vandergriff Toyota,TX
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Port to dealer,False,,JF1ZNBF11P8761755,Beaverton Toyota,OR
+2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF11P8762016,Stevens Creek Toyota,CA
 2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,False,DealerHold,JF1ZNBF11P8762050,Imperial Toyota,MA
+2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF11P8762100,Atlantic Toyota,NY
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF11P8762162,Paul Miller Toyota of West Caldwell,NJ
+2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF11P8762257,Modesto Toyota,CA
 2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,False,DealerHold,JF1ZNBF11P8762324,Right Toyota,AZ
+2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF11P8762534,Mountain States Toyota,CO
+2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF11P8762632,Hosmer Toyota,IA
+2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF11P8762646,Camelback Toyota,AZ
+2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF11P8762694,Tom Pappas Toyota,MO
+2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF11P8762792,Legends Toyota,KS
 2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,Factory to port,False,DealerHold,JF1ZNBF12P8759951,Haley Toyota of Richmond,VA
 2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,At dealer,False,DealerHold,JF1ZNBF12P8760002,Carver Toyota of Columbus,IN
 2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Port to dealer,False,DealerHold,JF1ZNBF12P8760016,Charlie's Toyota,ME
@@ -885,16 +995,16 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,Factory to port,True,Available,JF1ZNBF12P8760243,Don McGill Toyota,TX
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Port to dealer,False,,JF1ZNBF12P8760341,Hoffman Toyota,CT
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Port to dealer,False,Available,JF1ZNBF12P8760467,Smart Toyota of Quad Cities,IA
-2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Port to dealer,False,Available,JF1ZNBF12P8760470,Hendrick Toyota Merriam,KS
+2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Port to dealer,False,DealerHold,JF1ZNBF12P8760470,Hendrick Toyota Merriam,KS
 2023,Premium AT,Halo,RWD,32500,0.0,32500.0,At dealer,False,,JF1ZNBF12P8760484,Hansel Toyota,CA
-2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Port to dealer,False,,JF1ZNBF12P8760565,City Toyota,CA
+2023,Premium AT,Halo,RWD,32500,0.0,32500.0,At dealer,False,,JF1ZNBF12P8760565,City Toyota,CA
 2023,Premium AT,Halo,RWD,32500,4488.0,36988.0,At dealer,False,Available,JF1ZNBF12P8760582,Toyota of Renton,WA
 2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Port to dealer,False,,JF1ZNBF12P8760694,Precision Toyota of Tucson,AZ
 2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Port to dealer,False,DealerHold,JF1ZNBF12P8760761,Langway Toyota of Newport,RI
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,At dealer,False,Available,JF1ZNBF12P8760792,Headquarter Toyota,FL
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Port to dealer,False,,JF1ZNBF12P8760906,Camelback Toyota,AZ
 2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,Factory to port,True,DealerHold,JF1ZNBF12P8760923,Kendall Toyota of Bend,OR
-2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Factory to port,False,Available,JF1ZNBF12P8760968,Longo Toyota of Prosper,TX
+2023,Premium AT,Steel,RWD,32500,399.0,32899.0,Factory to port,True,Available,JF1ZNBF12P8760968,Longo Toyota of Prosper,TX
 2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,Port to dealer,False,,JF1ZNBF12P8761005,Elk Grove Toyota,CA
 2023,Premium AT,Trueno Blue,RWD,32500,395.0,32895.0,Port to dealer,True,DealerHold,JF1ZNBF12P8761036,Toyota of Olympia,WA
 2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Factory to port,False,Available,JF1ZNBF12P8761053,Pat Lobb Toyota of McKinney,TX
@@ -914,16 +1024,23 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF12P8761893,Crown Toyota,KS
 2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,False,DealerHold,JF1ZNBF12P8761912,Lou Fusz Toyota,MO
 2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Factory to port,True,,JF1ZNBF12P8761957,One Toyota of Oakland,CA
-2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Factory to port,False,Available,JF1ZNBF12P8762140,AutoNation Toyota Corpus Christi,TX
+2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF12P8761988,Peterson Toyota,ID
+2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF12P8762090,Heritage Toyota,VT
+2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,True,,JF1ZNBF12P8762137,Avondale Toyota,AZ
+2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Factory to port,True,Available,JF1ZNBF12P8762140,AutoNation Toyota Corpus Christi,TX
+2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF12P8762199,Adams Toyota Lee's Summit,MO
+2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF12P8762249,Briggs Toyota of Fort Scott,KS
+2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Factory to port,False,DealerHold,JF1ZNBF12P8762493,Bob Smith Toyota,CA
+2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Factory to port,False,DealerHold,JF1ZNBF12P8762686,Claremont Toyota,CA
+2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF12P8762798,New Country Toyota of Clifton Park,NY
 2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,At dealer,False,,JF1ZNBF13P8757593,Team Toyota,NE
 2023,Premium AT,Steel,RWD,32500,0.0,32500.0,At dealer,False,,JF1ZNBF13P8757609,Fremont Toyota,WY
 2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Port to dealer,False,DealerHold,JF1ZNBF13P8758582,"Molle Toyota, Inc.",MO
-2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,At dealer,True,Available,JF1ZNBF13P8758663,Lia Toyota of Northampton,MA
 2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Port to dealer,True,DealerHold,JF1ZNBF13P8759151,Seeger Toyota of St. Robert,MO
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Port to dealer,False,DealerHold,JF1ZNBF13P8759215,Crown Toyota,KS
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Port to dealer,False,DealerHold,JF1ZNBF13P8759599,Joe Machens Toyota,MO
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Port to dealer,True,DealerHold,JF1ZNBF13P8759974,Labadie Toyota,MI
-2023,Premium AT,Halo,RWD,32500,2495.0,34995.0,At dealer,False,Available,JF1ZNBF13P8760011,Toyota of Smithfield,RI
+2023,Premium AT,Halo,RWD,32500,2495.0,34995.0,At dealer,False,DealerHold,JF1ZNBF13P8760011,Toyota of Smithfield,RI
 2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,At dealer,True,,JF1ZNBF13P8760168,Sierra Toyota,AZ
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Factory to port,True,Available,JF1ZNBF13P8760249,Toyota of Del Rio,TX
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Port to dealer,True,DealerHold,JF1ZNBF13P8760302,Capitol Toyota of Salem,OR
@@ -939,7 +1056,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF13P8761031,Lee Toyota,ME
 2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Port to dealer,False,DealerHold,JF1ZNBF13P8761126,Right Toyota,AZ
 2023,Premium AT,Pavement,RWD,32500,999.0,33499.0,Factory to port,False,Available,JF1ZNBF13P8761143,Janzen Toyota,OK
-2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF13P8761238,City Toyota,CA
+2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Port to dealer,False,,JF1ZNBF13P8761238,City Toyota,CA
 2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Factory to port,False,Available,JF1ZNBF13P8761241,Mike Shaw Toyota,TX
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Factory to port,False,DealerHold,JF1ZNBF13P8761286,Westchester Toyota,NY
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Port to dealer,False,DealerHold,JF1ZNBF13P8761322,Motor Inn Toyota of Carroll,IA
@@ -953,29 +1070,38 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Premium AT,Pavement,RWD,32500,1995.0,34495.0,Factory to port,True,Available,JF1ZNBF13P8761773,Toyota of Killeen,TX
 2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF13P8761806,Peterson Toyota,ID
 2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Factory to port,False,Available,JF1ZNBF13P8761868,Toyota of Fort Walton Beach,FL
+2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Factory to port,True,DealerHold,JF1ZNBF13P8761935,West Coast Toyota of Long Beach,CA
 2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF13P8761949,Jerry Ackerman Toyota,MO
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF13P8761952,City Toyota,CA
 2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF13P8761966,Toyota of North Hollywood,CA
-2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,False,Available,JF1ZNBF13P8762213,Family Toyota of Arlington,TX
+2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF13P8762051,Capitol Toyota of Salem,OR
+2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF13P8762101,Sansone Toyota,NJ
+2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,True,DealerHold,JF1ZNBF13P8762213,Family Toyota of Arlington,TX
+2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,False,DealerHold,JF1ZNBF13P8762390,Carson City Toyota,NV
+2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Factory to port,False,DealerHold,JF1ZNBF13P8762437,Toyota of Huntington Beach,CA
+2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF13P8762454,Autoland Toyota,NJ
+2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF13P8762728,Gateway Toyota,NJ
+2023,Premium AT,Halo,RWD,32500,1397.0,33897.0,Factory to port,False,,JF1ZNBF13P8762731,DCH Wappingers Falls Toyota,NY
+2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,Factory to port,False,DealerHold,JF1ZNBF13P8762776,Claremont Toyota,CA
+2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF13P8762843,Conicelli Toyota,PA
+2023,Premium AT,Halo,RWD,32500,0.0,32500.0,At dealer,False,Available,JF1ZNBF14P8757375,Toyota of Cedar Park,TX
 2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Port to dealer,True,DealerHold,JF1ZNBF14P8758686,Maplewood Toyota,MN
 2023,Premium AT,Halo,RWD,32500,0.0,32500.0,At dealer,False,Available,JF1ZNBF14P8759806,City Toyota,CA
 2023,Premium AT,Steel,RWD,32500,3265.0,35765.0,Port to dealer,False,DealerHold,JF1ZNBF14P8759854,Toyota of Bedford,OH
-2023,Premium AT,Raven,RWD,32500,0.0,32500.0,At dealer,False,DealerHold,JF1ZNBF14P8759885,Haley Toyota,VA
-2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,At dealer,False,Available,JF1ZNBF14P8760003,Sam Leman Toyota Bloomington,IL
 2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Port to dealer,False,DealerHold,JF1ZNBF14P8760051,Clint Bowyer Toyota,KS
 2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,At dealer,False,,JF1ZNBF14P8760065,Chicago Northside Toyota,IL
 2023,Premium AT,Raven,RWD,32500,5000.0,37500.0,Factory to port,False,Available,JF1ZNBF14P8760227,Toyota of Dallas,TX
 2023,Premium AT,Halo,RWD,32500,798.0,33298.0,Port to dealer,False,,JF1ZNBF14P8760423,Newbold Toyota,IL
-2023,Premium AT,Halo,RWD,32500,1990.0,34490.0,At dealer,False,DealerHold,JF1ZNBF14P8760499,Andrew Toyota,WI
+2023,Premium AT,Halo,RWD,32500,1990.0,34490.0,At dealer,False,Available,JF1ZNBF14P8760499,Andrew Toyota,WI
 2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,Port to dealer,False,DealerHold,JF1ZNBF14P8760647,"Molle Toyota, Inc.",MO
 2023,Premium AT,Halo,RWD,32500,699.0,33199.0,Factory to port,True,Available,JF1ZNBF14P8760664,Landers Toyota,AR
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Port to dealer,False,DealerHold,JF1ZNBF14P8760700,Nourse Toyota,OH
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,At dealer,False,Available,JF1ZNBF14P8760776,Toyota of Goldsboro,NC
 2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Factory to port,True,Available,JF1ZNBF14P8760812,Philpott Toyota,TX
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Port to dealer,False,DealerHold,JF1ZNBF14P8760860,Right Toyota,AZ
-2023,Premium AT,Trueno Blue,RWD,32500,8162.0,40662.0,Port to dealer,False,,JF1ZNBF14P8761149,Toyota of Tacoma,WA
+2023,Premium AT,Trueno Blue,RWD,32500,798.0,33298.0,Port to dealer,False,,JF1ZNBF14P8761149,Toyota of Tacoma,WA
 2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Factory to port,True,,JF1ZNBF14P8761183,Basil Toyota,NY
-2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF14P8761250,Dublin Toyota,CA
+2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,Port to dealer,False,,JF1ZNBF14P8761250,Dublin Toyota,CA
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF14P8761314,Steven Toyota,VA
 2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF14P8761331,McGee Toyota of Dudley,MA
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Port to dealer,False,DealerHold,JF1ZNBF14P8761412,Jerry Ackerman Toyota,MO
@@ -988,30 +1114,37 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Port to dealer,False,Available,JF1ZNBF14P8761832,Seeger Toyota,MO
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Port to dealer,False,,JF1ZNBF14P8761846,City Toyota,MT
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Port to dealer,True,Available,JF1ZNBF14P8761961,San Francisco Toyota,CA
+2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Factory to port,False,Available,JF1ZNBF14P8762138,Earnhardt Toyota,AZ
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF14P8762169,DCH Brunswick Toyota,NJ
+2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF14P8762222,Toyota of Pullman,WA
+2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF14P8762267,Tony Divino Toyota,UT
+2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF14P8762365,Kinderhook Toyota,NY
+2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF14P8762382,Lewis Toyota of Garden City,KS
+2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF14P8762429,Elmore Toyota,CA
+2023,Premium AT,Pavement,RWD,32500,5580.0,38080.0,Factory to port,False,,JF1ZNBF14P8762527,Kearny Mesa Toyota,CA
+2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF14P8762558,Corwin Toyota of Bellevue,NE
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Port to dealer,True,DealerHold,JF1ZNBF15P8758700,Fox Toyota,MI
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,At dealer,False,Available,JF1ZNBF15P8758762,Oakbrook Toyota in Westmont,IL
 2023,Premium AT,Halo,RWD,32500,0.0,32500.0,At dealer,False,,JF1ZNBF15P8759586,Magnussen's Toyota of Palo Alto,CA
+2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Port to dealer,False,DealerHold,JF1ZNBF15P8759782,Eddy's Toyota of Wichita,KS
 2023,Premium AT,Halo,RWD,32500,0.0,32500.0,At dealer,True,DealerHold,JF1ZNBF15P8759880,Hertrich Toyota of Pocomoke,MD
-2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Port to dealer,True,DealerHold,JF1ZNBF15P8759927,Toyota on Nicholasville,KY
+2023,Premium AT,Raven,RWD,32500,0.0,32500.0,At dealer,True,DealerHold,JF1ZNBF15P8759927,Toyota on Nicholasville,KY
 2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Factory to port,False,DealerHold,JF1ZNBF15P8759930,Boch Toyota South,MA
 2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,Factory to port,False,DealerHold,JF1ZNBF15P8759992,Expressway Toyota,MA
-2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,At dealer,False,DealerHold,JF1ZNBF15P8760026,Uebelhor Toyota,IN
 2023,Premium AT,Track bRED,RWD,32500,5895.0,38395.0,Factory to port,False,DealerHold,JF1ZNBF15P8760088,Mike Calvert Toyota,TX
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Port to dealer,True,,JF1ZNBF15P8760558,Wilson Toyota,IA
 2023,Premium AT,Halo,RWD,32500,0.0,32500.0,At dealer,False,DealerHold,JF1ZNBF15P8760575,Edmark Toyota,ID
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Port to dealer,False,,JF1ZNBF15P8760642,Sharp Chevrolet-Toyota,SD
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,At dealer,False,DealerHold,JF1ZNBF15P8760673,Don Jacobs Toyota,WI
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Port to dealer,False,DealerHold,JF1ZNBF15P8760737,Joe Machens Toyota,MO
-2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF15P8760821,City Toyota,CA
+2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Port to dealer,False,,JF1ZNBF15P8760821,City Toyota,CA
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,At dealer,False,Available,JF1ZNBF15P8760916,Stevens Creek Toyota,CA
 2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,Factory to port,True,Available,JF1ZNBF15P8760950,Don McGill Toyota,TX
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF15P8761046,New Country Toyota of Saratoga Springs,NY
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Port to dealer,True,,JF1ZNBF15P8761130,One Toyota of Oakland,CA
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,At dealer,False,Available,JF1ZNBF15P8761161,Toyota of Lompoc,CA
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Port to dealer,False,,JF1ZNBF15P8761242,Corwin Toyota,ND
-2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,At dealer,False,DealerHold,JF1ZNBF15P8761399,Toyota of Huntington Beach,CA
-2023,Premium AT,Trueno Blue,RWD,32500,1000.0,33500.0,At dealer,False,,JF1ZNBF15P8761418,San Francisco Toyota,CA
+2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,At dealer,False,,JF1ZNBF15P8761418,San Francisco Toyota,CA
 2023,Premium AT,Steel,RWD,32500,2000.0,34500.0,Factory to port,False,Available,JF1ZNBF15P8761452,North Park Toyota of San Antonio,TX
 2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Factory to port,False,DealerHold,JF1ZNBF15P8761547,355 Toyota,MD
 2023,Premium AT,Pavement,RWD,32500,4273.0,36773.0,Factory to port,True,,JF1ZNBF15P8761600,AutoNation Toyota Hayward,CA
@@ -1021,7 +1154,15 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Factory to port,False,Available,JF1ZNBF15P8761807,Toyota of Easley,SC
 2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF15P8761872,Arlington Toyota,FL
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Factory to port,False,DealerHold,JF1ZNBF15P8761922,Town Toyota,WA
+2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF15P8761967,Irwin Toyota,NH
+2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Factory to port,True,DealerHold,JF1ZNBF15P8762004,Freeman Toyota,CA
+2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF15P8762018,"Bristol Toyota, Inc.",MA
 2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,False,DealerHold,JF1ZNBF15P8762181,Valenti Toyota,RI
+2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF15P8762195,Camelback Toyota,AZ
+2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF15P8762259,Millennium Toyota,NY
+2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Factory to port,True,,JF1ZNBF15P8762469,Rivera Toyota of Mt. Kisco,NY
+2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF15P8762617,New Country Toyota of Westport,CT
+2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,False,DealerHold,JF1ZNBF15P8762651,Big Two Toyota of Chandler,AZ
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF15P8762729,"Gale Toyota, Inc.",CT
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,At dealer,False,DealerHold,JF1ZNBF16P8758088,Deery Brothers Toyota,IA
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Port to dealer,False,DealerHold,JF1ZNBF16P8759547,Hendrick Toyota Merriam,KS
@@ -1030,7 +1171,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Port to dealer,False,Available,JF1ZNBF16P8760181,Straatmann Toyota,MO
 2023,Premium AT,Pavement,RWD,32500,5490.0,37990.0,At dealer,False,,JF1ZNBF16P8760259,Berge Toyota,AZ
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Port to dealer,False,Available,JF1ZNBF16P8760276,Nashville Toyota North,TN
-2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Factory to port,True,DealerHold,JF1ZNBF16P8760360,Rudy Luther Toyota,MN
+2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Port to dealer,True,DealerHold,JF1ZNBF16P8760360,Rudy Luther Toyota,MN
 2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Port to dealer,True,DealerHold,JF1ZNBF16P8760598,Vancouver Toyota,WA
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Port to dealer,False,DealerHold,JF1ZNBF16P8760617,Crown Toyota,KS
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Factory to port,False,Available,JF1ZNBF16P8760715,Inver Grove Toyota,MN
@@ -1049,18 +1190,22 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Factory to port,True,,JF1ZNBF16P8761525,Toyota of Boardman,OH
 2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF16P8761542,Dublin Toyota,CA
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF16P8761637,Ira Toyota of Manchester,NH
-2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,False,Available,JF1ZNBF16P8761671,Serra Toyota of Decatur,AL
 2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF16P8761735,Larry Lassen Toyota,OR
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Port to dealer,False,,JF1ZNBF16P8761749,Toyota of Lake City,WA
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF16P8761752,Toyota of Lincoln Park,IL
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Factory to port,True,DealerHold,JF1ZNBF16P8761900,Heart City Toyota,IN
+2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF16P8762111,Toyota Marin,CA
+2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF16P8762271,Toyota on Edens,IL
+2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF16P8762416,Olathe Toyota,KS
+2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Factory to port,False,Available,JF1ZNBF16P8762447,Eddy's Toyota of Wichita,KS
+2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF16P8762464,Sierra Toyota,AZ
 2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Port to dealer,False,DealerHold,JF1ZNBF17P8758598,Kari Toyota,WI
 2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,At dealer,False,Available,JF1ZNBF17P8759637,Western Slope Toyota,CO
-2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Port to dealer,True,,JF1ZNBF17P8759847,McDaniel Toyota,OH
+2023,Premium AT,Steel,RWD,32500,0.0,32500.0,At dealer,True,,JF1ZNBF17P8759847,McDaniel Toyota,OH
 2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Port to dealer,False,DealerHold,JF1ZNBF17P8759959,Rochester Toyota,MN
 2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Port to dealer,False,DealerHold,JF1ZNBF17P8760111,McCarthy Toyota of Sedalia,MO
 2023,Premium AT,Pavement,RWD,32500,2596.0,35096.0,Port to dealer,False,DealerHold,JF1ZNBF17P8760237,Gresham Toyota,OR
-2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Port to dealer,True,DealerHold,JF1ZNBF17P8760240,Ira Toyota,MA
+2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,At dealer,True,DealerHold,JF1ZNBF17P8760240,Ira Toyota,MA
 2023,Premium AT,Steel,RWD,32500,1798.0,34298.0,Port to dealer,False,,JF1ZNBF17P8760318,Toyota of Portland on Broadway,OR
 2023,Premium AT,Pavement,RWD,32500,1098.0,33598.0,Factory to port,True,DealerHold,JF1ZNBF17P8760397,Toyota of Cedar Park,TX
 2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Port to dealer,False,DealerHold,JF1ZNBF17P8760495,Fort Wayne Toyota,IN
@@ -1069,27 +1214,39 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Port to dealer,False,DealerHold,JF1ZNBF17P8760609,Oakbrook Toyota in Westmont,IL
 2023,Premium AT,Halo,RWD,32500,7282.0,39782.0,At dealer,False,,JF1ZNBF17P8760674,Toyota of Kirkland,WA
 2023,Premium AT,Steel,RWD,32500,3568.0,36068.0,Port to dealer,False,,JF1ZNBF17P8760819,Bell Road Toyota,AZ
-2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,Port to dealer,True,DealerHold,JF1ZNBF17P8760920,Toyota of Clovis,CA
-2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Factory to port,False,Available,JF1ZNBF17P8760948,West Kendall Toyota,FL
+2023,Premium AT,Raven,RWD,32500,0.0,32500.0,At dealer,False,Available,JF1ZNBF17P8760948,West Kendall Toyota,FL
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF17P8761002,Olathe Toyota,KS
 2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,False,DealerHold,JF1ZNBF17P8761064,Down East Toyota,ME
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Port to dealer,True,,JF1ZNBF17P8761100,Avondale Toyota,AZ
-2023,Premium AT,Trueno Blue,RWD,32500,1000.0,33500.0,At dealer,False,,JF1ZNBF17P8761128,San Francisco Toyota,CA
+2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,At dealer,False,,JF1ZNBF17P8761128,San Francisco Toyota,CA
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Port to dealer,True,,JF1ZNBF17P8761145,Charles Toyota,CT
 2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Port to dealer,False,,JF1ZNBF17P8761193,Earnhardt Toyota,AZ
-2023,Premium AT,Pavement,RWD,32500,1995.0,34495.0,Factory to port,True,DealerHold,JF1ZNBF17P8761324,Toyota Carlsbad,CA
-2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Factory to port,False,DealerHold,JF1ZNBF17P8761422,Fred Haas Toyota World,TX
+2023,Premium AT,Pavement,RWD,32500,1995.0,34495.0,Port to dealer,True,DealerHold,JF1ZNBF17P8761324,Toyota Carlsbad,CA
+2023,Premium AT,Steel,RWD,32500,3490.0,35990.0,Factory to port,False,DealerHold,JF1ZNBF17P8761422,Fred Haas Toyota World,TX
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,At dealer,False,,JF1ZNBF17P8761453,Toyota of Riverside,CA
 2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF17P8761484,Fiore Toyota,PA
 2023,Premium AT,Raven,RWD,32500,1495.0,33995.0,Factory to port,True,DealerHold,JF1ZNBF17P8761517,Sterling McCall Toyota,TX
 2023,Premium AT,Raven,RWD,32500,5895.0,38395.0,Factory to port,True,DealerHold,JF1ZNBF17P8761548,Mike Calvert Toyota,TX
 2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Factory to port,False,DealerHold,JF1ZNBF17P8761601,Woburn Toyota,MA
-2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Factory to port,False,Available,JF1ZNBF17P8761789,Bryan College Station Toyota,TX
+2023,Premium AT,Halo,RWD,32500,2995.0,35495.0,Factory to port,True,DealerHold,JF1ZNBF17P8761789,Bryan College Station Toyota,TX
 2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Port to dealer,False,DealerHold,JF1ZNBF17P8761792,Lithia Toyota of Springfield,OR
 2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Factory to port,False,DealerHold,JF1ZNBF17P8761825,Hanlees Fairfield Toyota,CA
 2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF17P8761890,Hansel Toyota,CA
+2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,Factory to port,True,,JF1ZNBF17P8761906,Avondale Toyota,AZ
+2023,Premium AT,Halo,RWD,32500,2295.0,34795.0,Factory to port,True,,JF1ZNBF17P8761954,Desert Toyota of Tucson,AZ
 2023,Premium AT,Pavement,RWD,32500,1495.0,33995.0,Factory to port,True,Available,JF1ZNBF17P8762067,Bohn Toyota,LA
+2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF17P8762103,Riverhead Toyota,NY
+2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF17P8762229,Grieco Toyota,RI
+2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Factory to port,False,DealerHold,JF1ZNBF17P8762408,West Herr Toyota of Orchard Park,NY
+2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,False,DealerHold,JF1ZNBF17P8762439,Big Two Toyota of Chandler,AZ
+2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF17P8762599,Earnhardt Toyota,AZ
+2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Factory to port,False,Available,JF1ZNBF17P8762604,Culver City Toyota,CA
+2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF17P8762702,Earnhardt Toyota,AZ
+2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF17P8762716,"Cedar Rapids Toyota, Inc.",IA
+2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF17P8762733,Seeger Toyota,MO
+2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF17P8762764,AutoNation Toyota Las Vegas,NV
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF17P8762781,Smart Toyota of Quad Cities,IA
+2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF17P8762800,John Weiss' Toyota of South County,MO
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,At dealer,False,,JF1ZNBF18P8757556,Okoboji Toyota,IA
 2023,Premium AT,Raven,RWD,32500,1899.0,34399.0,Port to dealer,True,DealerHold,JF1ZNBF18P8758951,Frank Fletcher Toyota,MO
 2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Port to dealer,True,,JF1ZNBF18P8758979,One Toyota of Oakland,CA
@@ -1108,21 +1265,22 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,Factory to port,True,Available,JF1ZNBF18P8761347,Don McGill Toyota,TX
 2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Port to dealer,False,DealerHold,JF1ZNBF18P8761428,Tom Pappas Toyota,MO
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF18P8761445,Bay Ridge Toyota,NY
-2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Port to dealer,False,,JF1ZNBF18P8761560,Stevens Creek Toyota,CA
+2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,At dealer,False,,JF1ZNBF18P8761560,Stevens Creek Toyota,CA
 2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,Factory to port,False,DealerHold,JF1ZNBF18P8761588,Lombard Toyota,IL
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Factory to port,False,DealerHold,JF1ZNBF18P8761638,Laurel Toyota,PA
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF18P8761641,Toyota of Dartmouth,MA
-2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF18P8761834,Damian Lillard Toyota,OR
+2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Factory to port,False,DealerHold,JF1ZNBF18P8761834,Damian Lillard Toyota,OR
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF18P8761865,Lithia Toyota of Billings,MT
 2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF18P8762076,Baxter Toyota of La Vista,NE
-2023,Premium AT,Steel,RWD,32500,988.0,33488.0,Factory to port,False,Available,JF1ZNBF18P8762109,Longo Toyota of Prosper,TX
+2023,Premium AT,Steel,RWD,32500,1387.0,33887.0,Factory to port,False,Available,JF1ZNBF18P8762109,Longo Toyota of Prosper,TX
 2023,Premium AT,Track bRED,RWD,32500,2985.0,35485.0,Factory to port,False,,JF1ZNBF18P8762188,Toyota World of Lakewood,NJ
+2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF18P8762353,Future Toyota of Yuba City,CA
 2023,Premium AT,Steel,RWD,32500,0.0,32500.0,At dealer,False,Available,JF1ZNBF19P8758151,Coad Toyota,MO
 2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Port to dealer,False,DealerHold,JF1ZNBF19P8759669,Earnhardt Toyota,AZ
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Port to dealer,False,DealerHold,JF1ZNBF19P8759722,Adams Toyota Lee's Summit,MO
-2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Factory to port,True,Available,JF1ZNBF19P8759977,Carlock Toyota of Tupelo,MS
+2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Port to dealer,True,Available,JF1ZNBF19P8759977,Carlock Toyota of Tupelo,MS
 2023,Premium AT,Steel,RWD,32500,2295.0,34795.0,Port to dealer,True,Available,JF1ZNBF19P8759994,Desert Toyota of Tucson,AZ
-2023,Premium AT,Pavement,RWD,32500,1495.0,33995.0,Port to dealer,True,DealerHold,JF1ZNBF19P8760028,Sterling McCall Toyota,TX
+2023,Premium AT,Pavement,RWD,32500,1495.0,33995.0,At dealer,True,DealerHold,JF1ZNBF19P8760028,Sterling McCall Toyota,TX
 2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Factory to port,True,Available,JF1ZNBF19P8760319,Texas Toyota of Grapevine,TX
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Port to dealer,False,Available,JF1ZNBF19P8760465,Baxter Toyota of La Vista,NE
 2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Factory to port,False,Available,JF1ZNBF19P8760563,Toyota of Laredo,TX
@@ -1130,17 +1288,17 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Factory to port,True,Available,JF1ZNBF19P8760742,Toyota of Rockwall,TX
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,At dealer,False,DealerHold,JF1ZNBF19P8760806,Parks Toyota of Deland,FL
 2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Port to dealer,False,,JF1ZNBF19P8760823,Stephen Wade Toyota,UT
-2023,Premium AT,Steel,RWD,32500,2295.0,34795.0,Port to dealer,False,Available,JF1ZNBF19P8760837,Desert Toyota of Tucson,AZ
+2023,Premium AT,Steel,RWD,32500,2295.0,34795.0,Port to dealer,True,DealerHold,JF1ZNBF19P8760837,Desert Toyota of Tucson,AZ
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Port to dealer,True,,JF1ZNBF19P8760918,Toyota of Des Moines,IA
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Factory to port,False,DealerHold,JF1ZNBF19P8761034,Atlantic Toyota,NY
 2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,Factory to port,False,Available,JF1ZNBF19P8761048,Toyota of Laredo,TX
 2023,Premium AT,Pavement,RWD,32500,5169.0,37669.0,Factory to port,True,DealerHold,JF1ZNBF19P8761079,Poe Toyota,TX
 2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Port to dealer,False,DealerHold,JF1ZNBF19P8761132,Baldwin Toyota,MO
 2023,Premium AT,Halo,RWD,32500,0.0,32500.0,At dealer,False,Available,JF1ZNBF19P8761227,Ammaar's Toyota Vacaville,CA
-2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF19P8761230,Gosch Toyota,CA
-2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,False,Available,JF1ZNBF19P8761258,Don McGill Toyota,TX
+2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Port to dealer,False,,JF1ZNBF19P8761230,Gosch Toyota,CA
+2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,True,Available,JF1ZNBF19P8761258,Don McGill Toyota,TX
 2023,Premium AT,Trueno Blue,RWD,32500,6493.0,38993.0,Factory to port,True,DealerHold,JF1ZNBF19P8761261,Keating Toyota,TX
-2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF19P8761311,Moss Bros. Toyota,CA
+2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Port to dealer,False,,JF1ZNBF19P8761311,Moss Bros. Toyota,CA
 2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Port to dealer,False,,JF1ZNBF19P8761339,Elk Grove Toyota,CA
 2023,Premium AT,Pavement,RWD,32500,1495.0,33995.0,Factory to port,True,Available,JF1ZNBF19P8761356,Toyota of Fort Worth,TX
 2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Port to dealer,False,,JF1ZNBF19P8761437,Rick Collins Toyota,IA
@@ -1154,8 +1312,14 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Port to dealer,False,DealerHold,JF1ZNBF19P8761826,Seeger Toyota of St. Robert,MO
 2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF19P8761910,City Toyota,CA
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Factory to port,False,DealerHold,JF1ZNBF19P8761938,Toyota of Vallejo,CA
+2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Factory to port,False,DealerHold,JF1ZNBF19P8762071,Toyota of Pasadena,CA
+2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF19P8762099,Centennial Toyota,NV
 2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,False,DealerHold,JF1ZNBF19P8762264,Right Toyota,AZ
+2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF19P8762281,Empire Toyota of Huntington,NY
+2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Factory to port,False,DealerHold,JF1ZNBF19P8762426,Fred Beans Toyota of Flemington,NJ
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF19P8762538,Wilson Toyota,IA
+2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Factory to port,True,,JF1ZNBF19P8762541,Avondale Toyota,AZ
+2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF19P8762670,Corwin Toyota,ND
 2023,Premium AT,Halo,RWD,32500,0.0,32500.0,At dealer,False,DealerHold,JF1ZNBF1XP8758255,Bert Ogden Toyota of Harlingen,TX
 2023,Premium AT,Halo,RWD,32500,1495.0,33995.0,At dealer,True,DealerHold,JF1ZNBF1XP8759776,Sterling McCall Toyota,TX
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,At dealer,False,DealerHold,JF1ZNBF1XP8759907,Koch 33 Toyota,PA
@@ -1169,7 +1333,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Port to dealer,False,DealerHold,JF1ZNBF1XP8761091,Jay Wolfe Toyota,MO
 2023,Premium AT,Pavement,RWD,32500,0.0,32500.0,Port to dealer,False,DealerHold,JF1ZNBF1XP8761107,Toyota of Hackensack,NJ
 2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Port to dealer,False,Available,JF1ZNBF1XP8761155,Northtown Toyota,NY
-2023,Premium AT,Pavement,RWD,32500,2490.0,34990.0,Port to dealer,True,Available,JF1ZNBF1XP8761222,Toyota of El Cajon,CA
+2023,Premium AT,Pavement,RWD,32500,2490.0,34990.0,Port to dealer,True,DealerHold,JF1ZNBF1XP8761222,Toyota of El Cajon,CA
 2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Factory to port,True,DealerHold,JF1ZNBF1XP8761253,Toyota West,OH
 2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Factory to port,False,DealerHold,JF1ZNBF1XP8761382,Jay Wolfe Toyota,MO
 2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Factory to port,False,DealerHold,JF1ZNBF1XP8761396,Adams Toyota Lee's Summit,MO
@@ -1180,5 +1344,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF1XP8761687,Toyota On Western,IL
 2023,Premium AT,Raven,RWD,32500,0.0,32500.0,Factory to port,False,Available,JF1ZNBF1XP8761947,Toyota of Clovis,CA
 2023,Premium AT,Track bRED,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF1XP8762032,Hoselton Toyota,NY
+2023,Premium AT,Steel,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF1XP8762046,Stephen Wade Toyota,UT
+2023,Premium AT,Trueno Blue,RWD,32500,0.0,32500.0,Factory to port,False,,JF1ZNBF1XP8762340,San Francisco Toyota,CA
+2023,Premium AT,Halo,RWD,32500,0.0,32500.0,Factory to port,False,DealerHold,JF1ZNBF1XP8762712,Toyota of Huntington Beach,CA
 2023,10th Anniversary Special Edition,Solar Shift,RWD,34360,0.0,34360.0,Port to dealer,False,DealerHold,JF1ZNBG12P9755424,Hendrick Toyota Merriam,KS
 2023,10th Anniversary Special Edition,Solar Shift,RWD,34360,0.0,34360.0,At dealer,False,Available,JF1ZNBG1XP9755378,Dahl Toyota,MN
