@@ -5,7 +5,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,SE,Cutting Edge,FWD,32350,0.0,32350.0,Port to dealer,False,DealerHold,JTDACACU0P3003098,McGee Toyota,MA
 2023,XSE,Guardian Gray,FWD,35600,0.0,35600.0,Factory to port,False,,JTDACACU0P3003425,Route 22 Toyota,NJ
 2023,SE,GUARDIAN GRAY,FWD,32350,0.0,32350.0,Factory to port,True,Available,JTDACACU0P3003473,Toyota of Rockwall,TX
-2023,XSE,Wind Chill Pearl,FWD,35600,0.0,35600.0,Port to dealer,True,DealerHold,JTDACACU0P3003599,Fitzgerald Toyota Gaithersburg,MD
+2023,XSE,Wind Chill Pearl,FWD,35600,0.0,35600.0,At dealer,True,DealerHold,JTDACACU0P3003599,Fitzgerald Toyota Gaithersburg,MD
 2023,SE,GUARDIAN GRAY,FWD,32350,4680.0,37030.0,Factory to port,False,DealerHold,JTDACACU0P3003635,Fred Haas Toyota World,TX
 2023,SE,Reservoir Blue,FWD,32350,0.0,32350.0,Port to dealer,False,DealerHold,JTDACACU0P3003716,Girard Toyota-BMW,CT
 2023,SE,Midnight Black Metallic,FWD,32350,0.0,32350.0,Port to dealer,False,,JTDACACU0P3003859,Gault Toyota,NY
@@ -58,6 +58,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,SE,Midnight Black Metallic,FWD,32350,0.0,32350.0,Factory to port,False,DealerHold,JTDACACU0P3005627,White River Toyota,VT
 2023,SE,Wind Chill Pearl,FWD,32350,0.0,32350.0,Factory to port,False,DealerHold,JTDACACU0P3005644,Ira Toyota,MA
 2023,XSE,Wind Chill Pearl,FWD,35600,2985.0,38585.0,Factory to port,False,,JTDACACU0P3005658,Toyota World of Lakewood,NJ
+2023,XSE,Midnight Black Metallic,FWD,35600,0.0,35600.0,Factory to port,False,,JTDACACU0P3005689,Hartford Toyota,CT
 2023,SE,Midnight Black Metallic,FWD,32350,0.0,32350.0,Factory to port,False,,JTDACACU0P3005787,Boch Toyota South,MA
 2023,SE,Wind Chill Pearl,FWD,32350,0.0,32350.0,Factory to port,False,DealerHold,JTDACACU0P3005790,Toyota Place,CA
 2023,SE,Reservoir Blue,FWD,32350,0.0,32350.0,At dealer,False,DealerHold,JTDACACU1P3002820,Luv Toyota,NY
@@ -100,7 +101,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,SE,Reservoir Blue,FWD,32350,0.0,32350.0,Factory to port,False,,JTDACACU1P3005068,Mossy Toyota,CA
 2023,XSE,Supersonic Red,FWD,35600,0.0,35600.0,Factory to port,False,,JTDACACU1P3005152,Pohanka Toyota of Salisbury,MD
 2023,XSE,Wind Chill Pearl,FWD,35600,0.0,35600.0,Factory to port,False,DealerHold,JTDACACU1P3005202,Toyota of Vallejo,CA
-2023,SE,Wind Chill Pearl,FWD,32350,0.0,32350.0,Factory to port,False,,JTDACACU1P3005247,San Francisco Toyota,CA
+2023,SE,Wind Chill Pearl,FWD,32350,0.0,32350.0,Factory to port,True,,JTDACACU1P3005247,San Francisco Toyota,CA
 2023,XSE,Midnight Black Metallic,FWD,35600,0.0,35600.0,Factory to port,False,,JTDACACU1P3005250,Romeo Toyota of Glens Falls,NY
 2023,XSE,Guardian Gray,FWD,35600,0.0,35600.0,Factory to port,False,Available,JTDACACU1P3005264,Charles Toyota,CT
 2023,XSE,Wind Chill Pearl,FWD,35600,2985.0,38585.0,Factory to port,False,,JTDACACU1P3005409,Toyota World of Lakewood,NJ
@@ -109,7 +110,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,SE,Supersonic Red,FWD,32350,0.0,32350.0,Factory to port,False,DealerHold,JTDACACU1P3005684,Jones Toyota,MD
 2023,SE,Cutting Edge,FWD,32350,0.0,32350.0,Factory to port,False,,JTDACACU1P3005698,Heritage Toyota Owings Mills,MD
 2023,XSE,Wind Chill Pearl,FWD,35600,4273.0,39873.0,Factory to port,True,,JTDACACU1P3005734,AutoNation Toyota Hayward,CA
-2023,SE,Guardian Gray,FWD,32350,0.0,32350.0,Factory to port,False,,JTDACACU1P3005765,San Francisco Toyota,CA
+2023,SE,Guardian Gray,FWD,32350,0.0,32350.0,Factory to port,True,,JTDACACU1P3005765,San Francisco Toyota,CA
 2023,XSE,Wind Chill Pearl,FWD,35600,0.0,35600.0,Factory to port,True,DealerHold,JTDACACU1P3005779,I-10 Toyota,CA
 2023,XSE,Cutting Edge,FWD,35600,0.0,35600.0,At dealer,False,DealerHold,JTDACACU2P3002857,Fox Toyota,NY
 2023,SE,GUARDIAN GRAY,FWD,32350,11784.0,44134.0,Factory to port,False,Available,JTDACACU2P3003135,Joe Myers Toyota,TX
@@ -133,11 +134,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,SE,Reservoir Blue,FWD,32350,1995.0,34345.0,Factory to port,True,Available,JTDACACU2P3004351,Freeman Toyota,TX
 2023,SE,Wind Chill Pearl,FWD,32350,0.0,32350.0,Factory to port,False,DealerHold,JTDACACU2P3004477,Toyota of Stamford,CT
 2023,XSE,Wind Chill Pearl,FWD,35600,0.0,35600.0,Factory to port,False,DealerHold,JTDACACU2P3004494,Koons Easton Toyota,MD
-2023,XSE,Wind Chill Pearl,FWD,35600,0.0,35600.0,Port to dealer,False,DealerHold,JTDACACU2P3004673,Freeman Toyota,CA
+2023,XSE,Wind Chill Pearl,FWD,35600,0.0,35600.0,Port to dealer,True,DealerHold,JTDACACU2P3004673,Freeman Toyota,CA
 2023,XSE,Guardian Gray,FWD,35600,0.0,35600.0,Factory to port,False,,JTDACACU2P3004687,Team Toyota of Princeton,NJ
 2023,SE,Guardian Gray,FWD,32350,0.0,32350.0,Port to dealer,True,,JTDACACU2P3004740,San Francisco Toyota,CA
 2023,XSE,Reservoir Blue,FWD,35600,2594.0,38194.0,Factory to port,False,DealerHold,JTDACACU2P3004804,Hudson Toyota,NJ
-2023,XSE,Reservoir Blue,FWD,35600,0.0,35600.0,Factory to port,False,,JTDACACU2P3004883,Mossy Toyota,CA
+2023,XSE,Reservoir Blue,FWD,35600,0.0,35600.0,Factory to port,True,DealerHold,JTDACACU2P3004883,Mossy Toyota,CA
 2023,XSE,Cutting Edge,FWD,35600,0.0,35600.0,Factory to port,True,DealerHold,JTDACACU2P3004902,Toyota of Corvallis,OR
 2023,SE,Midnight Black Metallic,FWD,32350,0.0,32350.0,Factory to port,False,,JTDACACU2P3004978,Culver City Toyota,CA
 2023,SE,Reservoir Blue,FWD,32350,0.0,32350.0,Factory to port,False,Available,JTDACACU2P3005015,Toyota of Plano,TX
@@ -145,7 +146,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XSE,Wind Chill Pearl,FWD,35600,0.0,35600.0,Factory to port,False,DealerHold,JTDACACU2P3005094,Elmore Toyota,CA
 2023,XSE,Cutting Edge,FWD,35600,0.0,35600.0,Factory to port,False,,JTDACACU2P3005127,Johnstons Toyota,NY
 2023,SE,Guardian Gray,FWD,32350,3990.0,36340.0,Factory to port,False,,JTDACACU2P3005130,Toyota Carlsbad,CA
-2023,XSE,Cutting Edge,FWD,35600,0.0,35600.0,Factory to port,False,,JTDACACU2P3005208,Toyota of The Desert,CA
+2023,XSE,Cutting Edge,FWD,35600,0.0,35600.0,Factory to port,True,DealerHold,JTDACACU2P3005208,Toyota of The Desert,CA
 2023,XSE,Cutting Edge,FWD,35600,0.0,35600.0,Factory to port,False,,JTDACACU2P3005340,Concord Toyota,CA
 2023,SE,Reservoir Blue,FWD,32350,0.0,32350.0,Factory to port,False,DealerHold,JTDACACU2P3005371,Emerson Toyota,ME
 2023,XSE,Cutting Edge,FWD,35600,3590.0,39190.0,Factory to port,True,DealerHold,JTDACACU2P3005385,Toyota of Clovis,CA
@@ -182,6 +183,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,SE,Guardian Gray,FWD,32350,0.0,32350.0,Port to dealer,True,DealerHold,JTDACACU3P3004083,Woburn Toyota,MA
 2023,XSE,Wind Chill Pearl,FWD,35600,0.0,35600.0,Port to dealer,False,Available,JTDACACU3P3004097,Riverhead Toyota,NY
 2023,XSE,Guardian Gray,FWD,35600,0.0,35600.0,Port to dealer,False,DealerHold,JTDACACU3P3004116,A-1 Toyota,CT
+2023,XSE,Cutting Edge,FWD,35600,0.0,35600.0,Factory to port,True,,JTDACACU3P3004181,Hartford Toyota,CT
 2023,SE,Guardian Gray,FWD,32350,0.0,32350.0,Factory to port,False,DealerHold,JTDACACU3P3004195,Harr Toyota,MA
 2023,XSE,Guardian Gray,FWD,35600,0.0,35600.0,Port to dealer,True,DealerHold,JTDACACU3P3004200,Temecula Valley Toyota,CA
 2023,XSE,Guardian Gray,FWD,35600,0.0,35600.0,Factory to port,False,,JTDACACU3P3004309,Lia Toyota of Colonie,NY
@@ -252,7 +254,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XSE,Cutting Edge,FWD,35600,4966.0,40566.0,Factory to port,False,DealerHold,JTDACACU4P3005212,Toyota of Turnersville,NJ
 2023,SE,Wind Chill Pearl,FWD,32350,0.0,32350.0,Factory to port,False,DealerHold,JTDACACU4P3005288,Lake Country Toyota,MN
 2023,XSE,Guardian Gray,FWD,35600,0.0,35600.0,Factory to port,False,,JTDACACU4P3005291,Elmore Toyota,CA
-2023,SE,Reservoir Blue,FWD,32350,0.0,32350.0,Factory to port,False,,JTDACACU4P3005310,San Francisco Toyota,CA
+2023,SE,Reservoir Blue,FWD,32350,0.0,32350.0,Factory to port,True,,JTDACACU4P3005310,San Francisco Toyota,CA
 2023,SE,Supersonic Red,FWD,32350,0.0,32350.0,Factory to port,False,DealerHold,JTDACACU4P3005338,Hertrich Toyota of Pocomoke,MD
 2023,XSE Premium,Midnight Black Metallic,FWD,39170,0.0,39170.0,Factory to port,False,,JTDACACU4P3005341,John Weiss' Toyota of South County,MO
 2023,XSE,Wind Chill Pearl,FWD,35600,0.0,35600.0,Factory to port,False,,JTDACACU4P3005405,Galaxy Toyota,NJ
@@ -306,7 +308,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XSE,Cutting Edge,FWD,35600,0.0,35600.0,Factory to port,False,,JTDACACU5P3005140,North Bakersfield Toyota,CA
 2023,XSE,Guardian Gray,FWD,35600,0.0,35600.0,Factory to port,False,DealerHold,JTDACACU5P3005168,Toyota of Runnemede,NJ
 2023,XSE,Guardian Gray,FWD,35600,0.0,35600.0,Factory to port,False,,JTDACACU5P3005218,Hansel Toyota,CA
-2023,XSE,Guardian Gray,FWD,35600,0.0,35600.0,Factory to port,False,,JTDACACU5P3005249,San Francisco Toyota,CA
+2023,XSE,Guardian Gray,FWD,35600,0.0,35600.0,Factory to port,True,,JTDACACU5P3005249,San Francisco Toyota,CA
 2023,XSE,Wind Chill Pearl,FWD,35600,0.0,35600.0,Factory to port,False,DealerHold,JTDACACU5P3005252,Colonial Toyota,CT
 2023,SE,Wind Chill Pearl,FWD,32350,0.0,32350.0,Factory to port,False,,JTDACACU5P3005297,Gosch Toyota,CA
 2023,XSE,Midnight Black Metallic,FWD,35600,0.0,35600.0,Factory to port,False,,JTDACACU5P3005316,Thousand Oaks Toyota,CA
@@ -319,12 +321,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,SE,Wind Chill Pearl,FWD,32350,0.0,32350.0,Factory to port,False,DealerHold,JTDACACU5P3005641,Markquart Toyota,WI
 2023,XSE,Midnight Black Metallic,FWD,35600,0.0,35600.0,Factory to port,False,,JTDACACU5P3005770,Lia Toyota of Colonie,NY
 2023,XSE Premium,Midnight Black Metallic,FWD,39170,0.0,39170.0,Factory to port,False,,JTDACACU5P3005848,Heritage Toyota Owings Mills,MD
-2023,XSE,Wind Chill Pearl,FWD,35600,0.0,35600.0,Port to dealer,True,DealerHold,JTDACACU6P3002814,Waite Toyota,NY
+2023,XSE,Wind Chill Pearl,FWD,35600,0.0,35600.0,At dealer,True,DealerHold,JTDACACU6P3002814,Waite Toyota,NY
 2023,XSE,Cutting Edge,FWD,35600,0.0,35600.0,Port to dealer,False,DealerHold,JTDACACU6P3003106,Williams Toyota of Elmira,NY
 2023,XSE,Wind Chill Pearl,FWD,35600,0.0,35600.0,Port to dealer,False,DealerHold,JTDACACU6P3003171,Atlantic Toyota,NY
 2023,XSE Premium,Guardian Gray,FWD,39170,0.0,39170.0,Port to dealer,False,DealerHold,JTDACACU6P3003266,Olathe Toyota,KS
 2023,XSE,Cutting Edge,FWD,35600,0.0,35600.0,Factory to port,True,DealerHold,JTDACACU6P3003302,Fitzgerald Toyota Gaithersburg,MD
-2023,XSE Premium,Midnight Black Metallic,FWD,39170,1098.0,40268.0,Port to dealer,True,Available,JTDACACU6P3003333,Toyota of Cedar Park,TX
+2023,XSE Premium,Midnight Black Metallic,FWD,39170,1098.0,40268.0,At dealer,True,Available,JTDACACU6P3003333,Toyota of Cedar Park,TX
 2023,SE,Guardian Gray,FWD,32350,0.0,32350.0,At dealer,False,Available,JTDACACU6P3003414,Ammaar's Toyota Vacaville,CA
 2023,SE,Wind Chill Pearl,FWD,32350,0.0,32350.0,Factory to port,True,Available,JTDACACU6P3003445,Toyota of Del Rio,TX
 2023,XSE,Midnight Black Metallic,FWD,35600,0.0,35600.0,Port to dealer,False,DealerHold,JTDACACU6P3003512,Jaffarian Toyota,MA
@@ -358,13 +360,16 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,SE,Wind Chill Pearl,FWD,32350,0.0,32350.0,Factory to port,False,,JTDACACU6P3004756,Toyota of Santa Maria,CA
 2023,SE,Wind Chill Pearl,FWD,32350,0.0,32350.0,Factory to port,False,,JTDACACU6P3004837,Lithia Toyota of Redding,CA
 2023,XSE,Guardian Gray,FWD,35600,0.0,35600.0,Factory to port,False,DealerHold,JTDACACU6P3004871,Acton Toyota of Littleton,MA
+2023,XSE,Supersonic Red,FWD,35600,0.0,35600.0,Factory to port,False,DealerHold,JTDACACU6P3004904,Kendall Toyota of Bend,OR
 2023,SE,Wind Chill Pearl,FWD,32350,0.0,32350.0,Factory to port,False,,JTDACACU6P3004935,Toyota Santa Monica,CA
 2023,SE,Reservoir Blue,FWD,32350,0.0,32350.0,Factory to port,False,,JTDACACU6P3004952,Toyota of Downtown LA,CA
 2023,SE,Cutting Edge,FWD,32350,1290.0,33640.0,Factory to port,False,,JTDACACU6P3005003,Toyota of Redlands,CA
 2023,XSE,Guardian Gray,FWD,35600,0.0,35600.0,Factory to port,False,,JTDACACU6P3005017,New Country Toyota of Westport,CT
 2023,SE,Wind Chill Pearl,FWD,32350,0.0,32350.0,Factory to port,True,Available,JTDACACU6P3005034,Middletown Toyota,CT
 2023,SE,Reservoir Blue,FWD,32350,0.0,32350.0,Factory to port,False,DealerHold,JTDACACU6P3005065,Acton Toyota of Littleton,MA
+2023,XSE,Guardian Gray,FWD,35600,0.0,35600.0,Factory to port,True,,JTDACACU6P3005129,Hartford Toyota,CT
 2023,SE,Midnight Black Metallic,FWD,32350,0.0,32350.0,Factory to port,False,DealerHold,JTDACACU6P3005163,Imperial Toyota,MA
+2023,XSE,Cutting Edge,FWD,35600,0.0,35600.0,Factory to port,False,DealerHold,JTDACACU6P3005244,Stevens Creek Toyota,CA
 2023,SE,Reservoir Blue,FWD,32350,0.0,32350.0,Factory to port,False,DealerHold,JTDACACU6P3005308,Claremont Toyota,CA
 2023,SE,Midnight Black Metallic,FWD,32350,0.0,32350.0,Factory to port,False,,JTDACACU6P3005325,Fitzgerald Toyota Gaithersburg,MD
 2023,XSE,Reservoir Blue,FWD,35600,0.0,35600.0,Factory to port,True,DealerHold,JTDACACU6P3005342,Freeman Toyota,CA
@@ -380,7 +385,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XSE,Guardian Gray,FWD,35600,0.0,35600.0,Factory to port,False,DealerHold,JTDACACU6P3005728,Steet Toyota,NY
 2023,SE,Reservoir Blue,FWD,32350,0.0,32350.0,Factory to port,False,,JTDACACU6P3005731,Lexington Toyota,MA
 2023,XSE,Guardian Gray,FWD,35600,0.0,35600.0,Factory to port,False,,JTDACACU6P3005745,Putnam Toyota,CA
-2023,SE,Cutting Edge,FWD,32350,0.0,32350.0,Factory to port,False,,JTDACACU6P3005762,San Francisco Toyota,CA
+2023,SE,Cutting Edge,FWD,32350,0.0,32350.0,Factory to port,True,,JTDACACU6P3005762,San Francisco Toyota,CA
 2023,SE,Wind Chill Pearl,FWD,32350,0.0,32350.0,Factory to port,False,,JTDACACU6P3005793,AutoNation Toyota Libertyville,IL
 2023,XSE Premium,Reservoir Blue,FWD,39170,7000.0,46170.0,At dealer,False,Available,JTDACACU7P3001476,San Marcos Toyota,TX
 2023,XSE,Wind Chill Pearl,FWD,35600,0.0,35600.0,Factory to port,False,,JTDACACU7P3002501,Magnussen's Toyota of Palo Alto,CA
@@ -396,7 +401,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XSE,Wind Chill Pearl,FWD,35600,0.0,35600.0,Port to dealer,False,DealerHold,JTDACACU7P3003860,Koons Westminster Toyota,MD
 2023,XSE,Guardian Gray,FWD,35600,0.0,35600.0,Factory to port,False,DealerHold,JTDACACU7P3003972,DARCARS Toyota of Frederick,MD
 2023,SE,Midnight Black Metallic,FWD,32350,0.0,32350.0,Port to dealer,False,,JTDACACU7P3004054,McGee Toyota of Dudley,MA
-2023,XSE,Wind Chill Pearl,FWD,35600,0.0,35600.0,Factory to port,False,,JTDACACU7P3004183,Penn Toyota,NY
+2023,XSE,Wind Chill Pearl,FWD,35600,0.0,35600.0,Factory to port,False,DealerHold,JTDACACU7P3004183,Penn Toyota,NY
 2023,SE,Supersonic Red,FWD,32350,0.0,32350.0,Factory to port,False,DealerHold,JTDACACU7P3004250,White River Toyota,VT
 2023,XSE,Cutting Edge,FWD,35600,0.0,35600.0,Port to dealer,False,DealerHold,JTDACACU7P3004264,Toyota Walnut Creek,CA
 2023,SE,Cutting Edge,FWD,32350,0.0,32350.0,Port to dealer,False,,JTDACACU7P3004281,Metro Toyota,OH
@@ -438,7 +443,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XSE,Supersonic Red,FWD,35600,0.0,35600.0,Factory to port,False,,JTDACACU7P3005818,Toyota of Runnemede,NJ
 2023,XSE,Wind Chill Pearl,FWD,35600,0.0,35600.0,Factory to port,False,,JTDACACU7P3005981,Koons Easton Toyota,MD
 2023,XSE,Cutting Edge,FWD,35600,0.0,35600.0,At dealer,True,DealerHold,JTDACACU8P3002720,Younger Toyota,MD
-2023,XSE,Wind Chill Pearl,FWD,35600,0.0,35600.0,At dealer,False,DealerHold,JTDACACU8P3002796,Penn Toyota,NY
 2023,XSE,Cutting Edge,FWD,35600,1790.0,37390.0,At dealer,False,,JTDACACU8P3003009,Liberty Toyota,NJ
 2023,XSE,Wind Chill Pearl,FWD,35600,0.0,35600.0,Port to dealer,True,DealerHold,JTDACACU8P3003110,Kinderhook Toyota,NY
 2023,XSE,Cutting Edge,FWD,35600,4966.0,40566.0,Factory to port,True,DealerHold,JTDACACU8P3003141,Toyota of Turnersville,NJ
@@ -446,12 +450,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,SE,Cutting Edge,FWD,32350,0.0,32350.0,Factory to port,True,DealerHold,JTDACACU8P3003432,Fred Beans Toyota of Flemington,NJ
 2023,XSE,Cutting Edge,FWD,35600,0.0,35600.0,Port to dealer,False,DealerHold,JTDACACU8P3003494,A-1 Toyota,CT
 2023,XSE,Wind Chill Pearl,FWD,35600,0.0,35600.0,Port to dealer,False,Available,JTDACACU8P3003530,New Rochelle Toyota,NY
-2023,XSE,Guardian Gray,FWD,35600,0.0,35600.0,At dealer,False,DealerHold,JTDACACU8P3003690,Bob Smith Toyota,CA
 2023,XSE,Cutting Edge,FWD,35600,0.0,35600.0,Port to dealer,False,,JTDACACU8P3003706,"Glen Motors, Inc.",NJ
 2023,XSE,Cutting Edge,FWD,35600,0.0,35600.0,Port to dealer,False,,JTDACACU8P3003768,City World Toyota,NY
 2023,XSE,Cutting Edge,FWD,35600,0.0,35600.0,Port to dealer,False,DealerHold,JTDACACU8P3003804,Central Maine Toyota,ME
 2023,XSE,Guardian Gray,FWD,35600,0.0,35600.0,Port to dealer,True,DealerHold,JTDACACU8P3003818,Heritage Toyota Catonsville,MD
-2023,SE,Guardian Gray,FWD,32350,1295.0,33645.0,Port to dealer,False,,JTDACACU8P3003947,Jimmy Vasser Toyota,CA
+2023,SE,Guardian Gray,FWD,32350,1295.0,33645.0,At dealer,False,,JTDACACU8P3003947,Jimmy Vasser Toyota,CA
 2023,XSE,Cutting Edge,FWD,35600,0.0,35600.0,Port to dealer,True,DealerHold,JTDACACU8P3004001,Northway Toyota,NY
 2023,SE,Reservoir Blue,FWD,32350,0.0,32350.0,Factory to port,False,DealerHold,JTDACACU8P3004015,Westchester Toyota,NY
 2023,XSE,Guardian Gray,FWD,35600,0.0,35600.0,Port to dealer,True,,JTDACACU8P3004080,Rivera Toyota of Mt. Kisco,NY
@@ -498,6 +501,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,SE,Midnight Black Metallic,FWD,32350,0.0,32350.0,Port to dealer,False,,JTDACACU9P3003584,Stephen Toyota,CT
 2023,XSE,Wind Chill Pearl,FWD,35600,0.0,35600.0,Port to dealer,False,Available,JTDACACU9P3003603,Smithtown Toyota,NY
 2023,XSE,Cutting Edge,FWD,35600,0.0,35600.0,At dealer,False,,JTDACACU9P3003617,Hillside Toyota,NY
+2023,XSE,Wind Chill Pearl,FWD,35600,0.0,35600.0,Port to dealer,True,Available,JTDACACU9P3003634,Smithtown Toyota,NY
 2023,XSE Premium,Midnight Black Metallic,FWD,39170,0.0,39170.0,Port to dealer,False,DealerHold,JTDACACU9P3003679,Brunswick Toyota,OH
 2023,SE,Cutting Edge,FWD,32350,998.0,33348.0,Port to dealer,True,DealerHold,JTDACACU9P3003715,Webb Chevrolet-Toyota,NM
 2023,XSE,Guardian Gray,FWD,35600,0.0,35600.0,Factory to port,False,DealerHold,JTDACACU9P3003763,Toyota of Manhattan,NY
@@ -539,7 +543,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,SE,Guardian Gray,FWD,32350,0.0,32350.0,Factory to port,False,DealerHold,JTDACACU9P3005450,Expressway Toyota,MA
 2023,XSE,Supersonic Red,FWD,35600,0.0,35600.0,Factory to port,False,,JTDACACU9P3005464,Lithia Toyota,OR
 2023,SE,Wind Chill Pearl,FWD,32350,0.0,32350.0,Factory to port,False,DealerHold,JTDACACU9P3005562,Temecula Valley Toyota,CA
-2023,XSE,Midnight Black Metallic,FWD,35600,0.0,35600.0,Factory to port,False,,JTDACACU9P3005576,San Francisco Toyota,CA
+2023,XSE,Midnight Black Metallic,FWD,35600,0.0,35600.0,Factory to port,True,,JTDACACU9P3005576,San Francisco Toyota,CA
 2023,XSE,Cutting Edge,FWD,35600,0.0,35600.0,Factory to port,False,Available,JTDACACU9P3005643,Gault Toyota,NY
 2023,XSE,Supersonic Red,FWD,35600,0.0,35600.0,Factory to port,False,,JTDACACU9P3005724,Lithia Toyota of Springfield,OR
 2023,SE,Wind Chill Pearl,FWD,32350,0.0,32350.0,Factory to port,False,,JTDACACU9P3005738,Santa Cruz Toyota,CA
@@ -565,7 +569,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,SE,Reservoir Blue,FWD,32350,0.0,32350.0,Port to dealer,False,,JTDACACUXP3003819,Gault Toyota,NY
 2023,SE,Guardian Gray,FWD,32350,0.0,32350.0,At dealer,False,,JTDACACUXP3003836,Elk Grove Toyota,CA
 2023,XSE,Wind Chill Pearl,FWD,35600,0.0,35600.0,Port to dealer,False,,JTDACACUXP3003903,Sansone Toyota,NJ
-2023,XSE,Cutting Edge,FWD,35600,0.0,35600.0,At dealer,False,Available,JTDACACUXP3003920,AutoNation Toyota Hayward,CA
 2023,XSE,Cutting Edge,FWD,35600,0.0,35600.0,Factory to port,False,DealerHold,JTDACACUXP3003951,New Country Toyota of Saratoga Springs,NY
 2023,SE,Wind Chill Pearl,FWD,32350,0.0,32350.0,Port to dealer,False,DealerHold,JTDACACUXP3004078,Bernardi Toyota,MA
 2023,SE,Wind Chill Pearl,FWD,32350,0.0,32350.0,Factory to port,True,DealerHold,JTDACACUXP3004145,Toyota of Irving,TX
@@ -591,7 +594,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XSE,Reservoir Blue,FWD,35600,0.0,35600.0,Factory to port,False,,JTDACACUXP3005120,Koons Westminster Toyota,MD
 2023,SE,Cutting Edge,FWD,32350,4173.0,36523.0,Factory to port,False,,JTDACACUXP3005151,AutoNation Toyota Irvine,CA
 2023,XSE,Guardian Gray,FWD,35600,4995.0,40595.0,Factory to port,False,DealerHold,JTDACACUXP3005196,South Coast Toyota,CA
-2023,XSE,Guardian Gray,FWD,35600,0.0,35600.0,Factory to port,False,,JTDACACUXP3005280,Hamer Toyota,CA
+2023,XSE,Guardian Gray,FWD,35600,0.0,35600.0,Factory to port,True,DealerHold,JTDACACUXP3005280,Hamer Toyota,CA
 2023,XSE,Cutting Edge,FWD,35600,0.0,35600.0,Factory to port,False,,JTDACACUXP3005358,Mountain States Toyota,CO
 2023,SE,Cutting Edge,FWD,32350,0.0,32350.0,Factory to port,False,DealerHold,JTDACACUXP3005375,Claremont Toyota,CA
 2023,SE,Supersonic Red,FWD,32350,0.0,32350.0,Factory to port,False,,JTDACACUXP3005439,Toyota of Lancaster,CA
@@ -600,7 +603,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,SE,Wind Chill Pearl,FWD,32350,0.0,32350.0,Factory to port,False,,JTDACACUXP3005487,Stevens Creek Toyota,CA
 2023,SE,Wind Chill Pearl,FWD,32350,0.0,32350.0,Factory to port,False,,JTDACACUXP3005490,Santa Margarita Toyota,CA
 2023,XSE,Cutting Edge,FWD,35600,0.0,35600.0,Factory to port,False,DealerHold,JTDACACUXP3005506,Claremont Toyota,CA
-2023,XSE,Cutting Edge,FWD,35600,0.0,35600.0,Factory to port,False,DealerHold,JTDACACUXP3005523,Larry Lassen Toyota,OR
+2023,XSE,Cutting Edge,FWD,35600,0.0,35600.0,Factory to port,True,DealerHold,JTDACACUXP3005523,Larry Lassen Toyota,OR
 2023,XSE,Guardian Gray,FWD,35600,0.0,35600.0,Factory to port,True,,JTDACACUXP3005621,AutoNation Toyota Hayward,CA
 2023,XSE,Wind Chill Pearl,FWD,35600,0.0,35600.0,Factory to port,False,,JTDACACUXP3005635,Galaxy Toyota,NJ
 2023,XSE,Midnight Black Metallic,FWD,35600,0.0,35600.0,Factory to port,False,,JTDACACUXP3005652,Marina Del Rey Toyota,CA
