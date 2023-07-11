@@ -4,6 +4,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Black,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF0P3003130,Butler Toyota,GA
 2023,Limited,Black,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF0P3004553,Mid City Toyota,CA
 2023,Limited,Black,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF0P3004925,Byers Toyota,OH
+2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,True,Available,JTDAAAAF0P3005007,Alderman's Toyota,VT
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF0P3005072,Don Moore Toyota,KY
 2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF0P3005556,Hamilton Toyota,NM
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF0P3005752,Classic Toyota,OH
@@ -16,14 +17,13 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF0P3006173,Fiore Toyota,PA
 2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF0P3006190,Toyota of Glendora,CA
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,DealerHold,JTDAAAAF0P3006254,Toyota City,NY
-2023,Limited,Black,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAF0P3006285,Penn Toyota,NY
 2023,Limited,OXYGEN WHITE,AWD,45550,1995.0,47545.0,At dealer,False,Available,JTDAAAAF0P3006352,Kim's Toyota,MS
-2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF0P3006402,Walser Bloomington Toyota,MN
+2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF0P3006402,Walser Bloomington Toyota,MN
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAF0P3006514,Woburn Toyota,MA
-2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAF0P3006562,Toyota of Dartmouth,MA
+2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF0P3006562,Toyota of Dartmouth,MA
 2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF0P3006609,Oxford Toyota,MS
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF0P3006626,Basil Toyota,NY
-2023,Limited,Oxygen White,AWD,45550,1978.0,47528.0,Port to dealer,False,,JTDAAAAF0P3006643,Chuck Hutton Toyota,TN
+2023,Limited,Oxygen White,AWD,45550,1978.0,47528.0,At dealer,False,,JTDAAAAF0P3006643,Chuck Hutton Toyota,TN
 2023,Limited,HEAVY METAL,AWD,45550,6000.0,51550.0,At dealer,False,Available,JTDAAAAF0P3006660,Vic Vaughan Toyota of Boerne,TX
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF0P3006674,Riverside Toyota of Escanaba,MI
 2023,XLE,Black,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF0P3006707,Hanover Toyota,PA
@@ -35,8 +35,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF0P3006898,Toyota of Manhattan,NY
 2023,XLE,Black,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF0P3006920,Bill Walsh Toyota,IL
 2023,Limited,GRAY ME.,AWD,45550,1999.0,47549.0,At dealer,False,Available,JTDAAAAF0P3006965,Karl Malone Toyota of Ruston,LA
-2023,XLE,Black Onyx,AWD,39950,2895.0,42845.0,Factory to port,False,Available,JTDAAAAF0P3006982,Jim Norton Toyota,OK
-2023,Limited,HEAVY METAL,AWD,45550,0.0,45550.0,Port to dealer,False,Available,JTDAAAAF0P3007002,Carlock Toyota of Tupelo,MS
+2023,XLE,Black Onyx,AWD,39950,2895.0,42845.0,Factory to port,True,Available,JTDAAAAF0P3006982,Jim Norton Toyota,OK
+2023,Limited,HEAVY METAL,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF0P3007002,Carlock Toyota of Tupelo,MS
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF0P3007016,Ken Ganley Toyota,PA
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF0P3007050,Carver Toyota of Columbus,IN
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF0P3007064,Claremont Toyota,CA
@@ -46,11 +46,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,HEAVY METAL,AWD,45550,6795.0,52345.0,At dealer,True,DealerHold,JTDAAAAF0P3007193,Universal Toyota,TX
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF0P3007226,Westbury Toyota,NY
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF0P3007243,Mechanicsville Toyota,VA
-2023,Limited,HEAVY METAL,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF0P3007288,Don McGill Toyota of Katy,TX
+2023,Limited,HEAVY METAL,AWD,45550,0.0,45550.0,Port to dealer,False,Available,JTDAAAAF0P3007288,Don McGill Toyota of Katy,TX
 2023,XLE,Black,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF0P3007310,Adams Toyota Lee's Summit,MO
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Port to dealer,True,DealerHold,JTDAAAAF0P3007369,Inver Grove Toyota,MN
 2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF0P3007372,Village Pointe Toyota,NE
-2023,XLE,HEAVY METAL,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF0P3007422,Supreme Toyota of Hammond,LA
+2023,XLE,HEAVY METAL,AWD,39950,0.0,39950.0,Port to dealer,False,Available,JTDAAAAF0P3007422,Supreme Toyota of Hammond,LA
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF0P3007436,Toyota of Orange,CA
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Port to dealer,False,DealerHold,JTDAAAAF0P3007484,Autoland Toyota,NJ
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Port to dealer,True,DealerHold,JTDAAAAF0P3007503,Maplewood Toyota,MN
@@ -61,12 +61,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF0P3007551,Envision Toyota of West Covina,CA
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF0P3007579,Sheehy Toyota of Laurel,MD
 2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF0P3007596,Greg Leblanc Toyota,LA
-2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF0P3007601,Perry Motors Toyota,CA
+2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF0P3007601,Perry Motors Toyota,CA
 2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF0P3007615,DARCARS Toyota,MD
-2023,XLE,Black,AWD,39950,0.0,39950.0,Port to dealer,False,DealerHold,JTDAAAAF0P3007646,Hendrick Toyota Merriam,KS
+2023,XLE,Black,AWD,39950,0.0,39950.0,At dealer,False,DealerHold,JTDAAAAF0P3007646,Hendrick Toyota Merriam,KS
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF0P3007663,Ourisman Fairfax Toyota,VA
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF0P3007694,White River Toyota,VT
-2023,Limited,SUPERSONIC RED,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF0P3007727,AutoNation Toyota Corpus Christi,TX
+2023,Limited,SUPERSONIC RED,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF0P3007727,AutoNation Toyota Corpus Christi,TX
 2023,XLE,Black,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF0P3007730,Walser Bloomington Toyota,MN
 2023,Limited,Oxygen White,AWD,45550,2985.0,48535.0,At dealer,False,,JTDAAAAF0P3007744,Toyota World of Lakewood,NJ
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Port to dealer,True,DealerHold,JTDAAAAF0P3007758,Toyota of Grand Rapids,MI
@@ -83,9 +83,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,OXYGEN WHITE,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF0P3007940,Kirk Toyota,MS
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF0P3008005,Waite Toyota,NY
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAF0P3008019,Rusty Wallace Toyota,TN
-2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Port to dealer,False,DealerHold,JTDAAAAF0P3008036,Anderson-Weber Toyota,IA
+2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Port to dealer,False,Available,JTDAAAAF0P3008036,Anderson-Weber Toyota,IA
 2023,Limited,HEAVY METAL,AWD,45550,5995.0,51545.0,Factory to port,False,Available,JTDAAAAF0P3008084,Toyota of Richardson,TX
-2023,Limited,GRAY ME.,AWD,45550,1495.0,47045.0,Port to dealer,False,Available,JTDAAAAF0P3008103,Sterling McCall Toyota,TX
+2023,Limited,GRAY ME.,AWD,45550,1495.0,47045.0,At dealer,False,Available,JTDAAAAF0P3008103,Sterling McCall Toyota,TX
 2023,XLE,HEAVY METAL,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF0P3008117,Toyota of Dallas,TX
 2023,XLE,GRAY ME.,AWD,39950,6795.0,46745.0,Factory to port,False,DealerHold,JTDAAAAF0P3008182,Universal Toyota,TX
 2023,Limited,Black,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAF0P3008215,Toyota of Glendale,CA
@@ -121,21 +121,21 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF0P3008781,Ball Toyota of Charleston,WV
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Port to dealer,True,DealerHold,JTDAAAAF0P3008814,Vancouver Toyota,WA
 2023,Limited,Black,AWD,45550,0.0,45550.0,Port to dealer,False,Available,JTDAAAAF0P3008831,Joseph Toyota of Cincinnati,OH
-2023,XLE,Black,AWD,39950,3525.0,43475.0,Factory to port,False,Available,JTDAAAAF0P3008845,Toyota of Turnersville,NJ
+2023,XLE,Black,AWD,39950,3525.0,43475.0,Port to dealer,False,Available,JTDAAAAF0P3008845,Toyota of Turnersville,NJ
 2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF0P3008859,Jeff Hunter Toyota,TX
-2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAF0P3008862,Autoland Toyota,NJ
-2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF0P3008893,Lia Toyota of Colonie,NY
+2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Port to dealer,False,DealerHold,JTDAAAAF0P3008862,Autoland Toyota,NJ
+2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF0P3008893,Lia Toyota of Colonie,NY
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF0P3008912,Toyota of Lincolnwood,IL
-2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF0P3008926,Sheehy Toyota of Fredericksburg,VA
+2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF0P3008926,Sheehy Toyota of Fredericksburg,VA
 2023,Limited,PRECIOUS METAL,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF0P3008943,Four Stars Toyota,OK
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF0P3008988,Yark Toyota,OH
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAF0P3008991,Toyota of Louisville,KY
 2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF0P3009008,Herb Chambers Toyota of Boston,MA
-2023,XLE,OXYGEN WHITE,AWD,39950,1295.0,41245.0,Factory to port,False,Available,JTDAAAAF0P3009011,Lone Star Toyota of Lewisville,TX
+2023,XLE,OXYGEN WHITE,AWD,39950,6295.0,46245.0,Factory to port,False,Available,JTDAAAAF0P3009011,Lone Star Toyota of Lewisville,TX
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF0P3009039,Schaumburg Toyota,IL
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF0P3009042,Newark Toyotaworld,DE
 2023,Limited,BLACK,AWD,45550,2980.0,48530.0,Factory to port,False,Available,JTDAAAAF0P3009073,Toyota of Longview,TX
-2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF0P3009106,Sansone Toyota,NJ
+2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF0P3009106,Sansone Toyota,NJ
 2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAF0P3009123,Balise Toyota of Warwick,RI
 2023,Limited,PRECIOUS METAL,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF0P3009140,Joe Myers Toyota,TX
 2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF0P3009199,Jeff Wyler Toyota of Clarksville,IN
@@ -144,6 +144,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF0P3009249,First Team Toyota,VA
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Port to dealer,True,,JTDAAAAF0P3009252,Toyota of Des Moines,IA
 2023,XLE,SUPERSONIC RED,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF0P3009266,Alamo Toyota,TX
+2023,XLE,Oxygen White,AWD,39950,1995.0,41945.0,Port to dealer,False,,JTDAAAAF0P3009283,Berge Toyota,AZ
 2023,XLE,OXYGEN WHITE,AWD,39950,1495.0,41445.0,Factory to port,False,Available,JTDAAAAF0P3009297,Sterling McCall Toyota,TX
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,DealerHold,JTDAAAAF0P3009302,Steet Toyota,NY
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF0P3009333,Camelback Toyota,AZ
@@ -163,7 +164,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Black,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF0P3009526,City Toyota,CA
 2023,Limited,MAGNETIC GRAY METALLIC,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF0P3009557,Principle Toyota of Hernando,MS
 2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF0P3009560,Serra Toyota of Traverse City,MI
-2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF0P3009574,Oakbrook Toyota in Westmont,IL
+2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF0P3009574,Pauly Toyota,IL
 2023,XLE,Heavy Metal,AWD,39950,8112.0,48062.0,Port to dealer,False,,JTDAAAAF0P3009591,Norm Reeves Toyota San Diego,CA
 2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF0P3009610,McGee Toyota of Epping,NH
 2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF0P3009624,Napleton's Toyota of Urbana,IL
@@ -184,16 +185,17 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF0P3009879,Capitol Toyota of Salem,OR
 2023,XLE,OXYGEN WHITE,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF0P3009901,Principle Toyota of Hernando,MS
 2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAF0P3009929,Rogers Toyota of Hermiston,OR
-2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF0P3009946,Prestige Toyota of Ramsey,NJ
+2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF0P3009946,Prestige Toyota of Ramsey,NJ
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF0P3009963,"Cedar Rapids Toyota, Inc.",IA
 2023,Limited,MAGNETIC GRAY METALLIC,AWD,45550,2895.0,48445.0,Factory to port,False,Available,JTDAAAAF0P3009994,Jim Norton Toyota,OK
 2023,Limited,OXYGEN WHITE,AWD,45550,3490.0,49040.0,Factory to port,False,Available,JTDAAAAF0P3010000,Fred Haas Toyota World,TX
 2023,XLE,BLACK,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF0P3010014,Jeff Hunter Toyota,TX
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF0P3010028,Claremont Toyota,CA
 2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF0P3010031,Fitzgerald Toyota Chambersburg,PA
+2023,Limited,PRECIOUS METAL,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF0P3010062,Don McGill Toyota of Katy,TX
 2023,XLE,OXYGEN WHITE,AWD,39950,2595.0,42545.0,Factory to port,False,Available,JTDAAAAF0P3010076,Cowboy Toyota,TX
 2023,XLE,OXYGEN WHITE,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF0P3010093,Pat Lobb Toyota of McKinney,TX
-2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF0P3010109,Right Toyota,AZ
+2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF0P3010109,Right Toyota,AZ
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF0P3010112,Toyota of Gallatin,TN
 2023,Limited,Heavy Metal,AWD,45550,2987.0,48537.0,Factory to port,False,,JTDAAAAF0P3010126,South Coast Toyota,CA
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF0P3010143,Camelback Toyota,AZ
@@ -203,12 +205,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF0P3010238,Colonial Toyota,PA
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF0P3010241,Autoland Toyota,NJ
 2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF0P3010272,Balise Toyota,MA
-2023,XLE,Oxygen White,AWD,39950,1634.0,41584.0,Factory to port,False,,JTDAAAAF0P3010286,AutoNation Toyota Hayward,CA
+2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF0P3010286,AutoNation Toyota Hayward,CA
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAF0P3010319,Zanesville Toyota,OH
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF0P3010384,Advantage Toyota of River Oaks,IL
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF0P3010417,Toyota Marin,CA
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF0P3010434,Toyota of Bowie,MD
-2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF0P3010465,Ramey Toyota,WV
+2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAF0P3010465,Ramey Toyota,WV
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF0P3010496,Teton Toyota,ID
 2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF0P3010529,Langway Toyota of Newport,RI
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF0P3010577,Camelback Toyota,AZ
@@ -221,6 +223,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAF0P3010739,Irwin Toyota,NH
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF0P3010742,Queensboro Toyota,NY
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF0P3010787,Kendall Toyota of Bend,OR
+2023,XLE,Black,AWD,39950,399.0,40349.0,Factory to port,False,,JTDAAAAF0P3010806,"Westboro Toyota, Inc.",MA
 2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF0P3010837,Parker Toyota,ID
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF0P3010840,Bernardi Toyota,MA
 2023,Limited,Magnetic Gray Metallic,AWD,45550,1999.0,47549.0,Factory to port,False,,JTDAAAAF0P3010871,Foothills Toyota,WA
@@ -252,15 +255,14 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Port to dealer,False,DealerHold,JTDAAAAF1P3005372,Chester Berg Toyota,MN
 2023,Limited,Black,AWD,45550,0.0,45550.0,Port to dealer,False,DealerHold,JTDAAAAF1P3005761,"Molle Toyota, Inc.",MO
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF1P3005789,DARCARS Toyota of Frederick,MD
-2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAF1P3006053,Classic Toyota Galveston,TX
+2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,At dealer,True,DealerHold,JTDAAAAF1P3006053,Classic Toyota Galveston,TX
 2023,Limited,OXYGEN WHITE,AWD,45550,1599.0,47149.0,At dealer,False,DealerHold,JTDAAAAF1P3006067,Silsbee Toyota,TX
 2023,XLE,Black,AWD,39950,0.0,39950.0,Port to dealer,False,DealerHold,JTDAAAAF1P3006117,Crown Toyota,KS
-2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF1P3006229,Prestige Toyota of Ramsey,NJ
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF1P3006246,Buckhannon Toyota,WV
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF1P3006280,Corwin Toyota,ND
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF1P3006294,Ciocca Toyota of Williamsport,PA
 2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF1P3006330,Newark Toyotaworld,DE
-2023,Limited,Black,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF1P3006411,Herb Chambers Toyota of Boston,MA
+2023,Limited,Black,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF1P3006411,Herb Chambers Toyota of Boston,MA
 2023,Limited,Black Onyx,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF1P3006442,Carlock Toyota of Tupelo,MS
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF1P3006540,Toyota of Gallatin,TN
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF1P3006571,Marion Toyota,IL
@@ -269,7 +271,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,SUPERSONIC RED,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAF1P3006666,J. Pauley Toyota,AR
 2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF1P3006697,Shottenkirk Toyota Weatherford,TX
 2023,XLE,Black,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF1P3006702,Toyota Sunnyvale,CA
-2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Port to dealer,False,Available,JTDAAAAF1P3006747,Baxter Toyota of La Vista,NE
+2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Port to dealer,True,DealerHold,JTDAAAAF1P3006747,Baxter Toyota of La Vista,NE
 2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF1P3006750,Towne Toyota,NJ
 2023,Limited,Black,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF1P3006778,Rivera Toyota of Mt. Kisco,NY
 2023,Limited,OXYGEN WHITE,AWD,45550,4169.0,49719.0,Factory to port,True,DealerHold,JTDAAAAF1P3006814,Poe Toyota,TX
@@ -288,14 +290,15 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Black,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF1P3007221,Toyota of Gladstone,OR
 2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF1P3007235,Atlantic Toyota,MA
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Port to dealer,False,Available,JTDAAAAF1P3007249,Toyota of Bowling Green,KY
+2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF1P3007252,Hoselton Toyota,NY
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF1P3007316,Toyota of Bowie,MD
-2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Port to dealer,False,DealerHold,JTDAAAAF1P3007347,Rochester Toyota,MN
+2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,DealerHold,JTDAAAAF1P3007347,Rochester Toyota,MN
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,At dealer,False,DealerHold,JTDAAAAF1P3007364,Arlington Toyota,IL
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF1P3007381,New Country Toyota of Clifton Park,NY
 2023,Limited,GRAY ME.,AWD,45550,5493.0,51043.0,Port to dealer,False,Available,JTDAAAAF1P3007395,Keating Toyota,TX
 2023,Limited,Black,AWD,45550,0.0,45550.0,At dealer,True,DealerHold,JTDAAAAF1P3007400,Dolan Toyota,NV
-2023,XLE,SUPERSONIC RED,AWD,39950,0.0,39950.0,Port to dealer,False,Available,JTDAAAAF1P3007414,Toyota of Hattiesburg,MS
-2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF1P3007428,Toyota of Greensburg,PA
+2023,XLE,SUPERSONIC RED,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF1P3007414,Toyota of Hattiesburg,MS
+2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,Port to dealer,True,,JTDAAAAF1P3007428,Toyota of Greensburg,PA
 2023,Limited,HEAVY METAL,AWD,45550,2895.0,48445.0,At dealer,False,Available,JTDAAAAF1P3007431,Jim Norton Toyota,OK
 2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAF1P3007459,Empire Toyota of Huntington,NY
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF1P3007462,Younger Toyota,MD
@@ -308,37 +311,39 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,GRAY ME.,AWD,45550,2887.0,48437.0,At dealer,False,Available,JTDAAAAF1P3007607,Lost Pines Toyota,TX
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF1P3007638,Heritage Toyota Catonsville,MD
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF1P3007669,Dan Deery Toyota,IA
-2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Port to dealer,False,Available,JTDAAAAF1P3007672,Acton Toyota of Littleton,MA
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF1P3007686,Team Toyota,IN
+2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAF1P3007705,Warrenton Toyota,VA
+2023,Limited,GRAY ME.,AWD,45550,1895.0,47445.0,At dealer,False,Available,JTDAAAAF1P3007722,Central Toyota,AR
 2023,Limited,Black,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF1P3007753,Green's Toyota of Lexington,KY
 2023,Limited,Black,AWD,45550,0.0,45550.0,Port to dealer,False,DealerHold,JTDAAAAF1P3007767,Interstate Toyota,NY
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF1P3007784,Nourse Toyota,OH
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF1P3007817,Toyota of Louisville,KY
 2023,XLE,Black,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF1P3007834,Green Toyota,IL
-2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF1P3007851,Smithtown Toyota,NY
+2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF1P3007851,Smithtown Toyota,NY
 2023,Limited,Black,AWD,45550,2495.0,48045.0,Port to dealer,False,,JTDAAAAF1P3007879,Toyota of Hopkinsville,KY
 2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF1P3007896,Advantage Toyota,NY
 2023,XLE,HEAVY METAL,AWD,39950,1495.0,41445.0,Factory to port,False,Available,JTDAAAAF1P3007901,Bohn Toyota,LA
 2023,Limited,GRAY ME.,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF1P3007915,Mike Calvert Toyota,TX
 2023,XLE,Black,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF1P3007929,Sam Leman Toyota Bloomington,IL
 2023,XLE,HEAVY METAL,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF1P3007963,Toyota of Slidell,LA
+2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF1P3008014,Classic Toyota,IL
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF1P3008031,Central Maine Toyota,ME
 2023,XLE,Black,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF1P3008076,Elgin Toyota,IL
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF1P3008143,Koons Tysons Toyota,VA
 2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,Port to dealer,False,DealerHold,JTDAAAAF1P3008188,Motorworld Toyota,PA
-2023,Limited,Black,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAF1P3008191,Kool Toyota,MI
+2023,Limited,Black,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF1P3008191,Serra Toyota of Saginaw,MI
 2023,XLE,Heavy Metal,AWD,39950,1990.0,41940.0,Port to dealer,False,,JTDAAAAF1P3008207,East Madison Toyota,WI
 2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF1P3008238,Heritage Toyota,VT
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF1P3008241,Toyota of Wooster,OH
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Port to dealer,False,Available,JTDAAAAF1P3008255,Cumberland Toyota,TN
 2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF1P3008286,Oakbrook Toyota in Westmont,IL
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Port to dealer,False,DealerHold,JTDAAAAF1P3008305,Conicelli Toyota,PA
-2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF1P3008367,Kokomo Toyota,IN
-2023,XLE,GRAY ME.,AWD,39950,0.0,39950.0,Port to dealer,False,Available,JTDAAAAF1P3008370,Don McGill Toyota of Katy,TX
+2023,XLE,Oxygen White,AWD,39950,1495.0,41445.0,Port to dealer,False,,JTDAAAAF1P3008367,Kokomo Toyota,IN
+2023,XLE,GRAY ME.,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF1P3008370,Don McGill Toyota of Katy,TX
 2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF1P3008384,Wills Toyota,ID
 2023,Limited,Black,AWD,45550,0.0,45550.0,Port to dealer,False,Available,JTDAAAAF1P3008398,Prestige Toyota of Ramsey,NJ
 2023,XLE,HEAVY METAL,AWD,39950,1995.0,41945.0,Factory to port,False,Available,JTDAAAAF1P3008417,Toyota of Killeen,TX
-2023,Limited,GRAY ME.,AWD,45550,3490.0,49040.0,Port to dealer,False,Available,JTDAAAAF1P3008420,Fred Haas Toyota World,TX
+2023,Limited,GRAY ME.,AWD,45550,3490.0,49040.0,At dealer,False,Available,JTDAAAAF1P3008420,Fred Haas Toyota World,TX
 2023,XLE,Black,AWD,39950,0.0,39950.0,Port to dealer,False,DealerHold,JTDAAAAF1P3008448,Orland Toyota,IL
 2023,Limited,GRAY ME.,AWD,45550,0.0,45550.0,Factory to port,True,DealerHold,JTDAAAAF1P3008451,Pat Lobb Toyota of McKinney,TX
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Port to dealer,True,DealerHold,JTDAAAAF1P3008482,Labadie Toyota,MI
@@ -357,10 +362,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Port to dealer,False,DealerHold,JTDAAAAF1P3008773,Lombard Toyota,IL
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF1P3008787,Team Toyota of Glen Mills,PA
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF1P3008790,Don Jacobs Toyota,WI
-2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF1P3008806,Avondale Toyota,AZ
+2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF1P3008806,Avondale Toyota,AZ
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF1P3008823,Beechmont Toyota,OH
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF1P3008885,Bill Page Toyota,VA
-2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF1P3008904,Koons Tysons Toyota,VA
+2023,XLE,Black,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF1P3008904,Koons Tysons Toyota,VA
 2023,Limited,SUPERSONIC RED,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF1P3008918,Pat Lobb Toyota of McKinney,TX
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,DealerHold,JTDAAAAF1P3008921,Toyota Knoxville,TN
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF1P3008935,Tom Pappas Toyota,MO
@@ -397,10 +402,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF1P3009583,Ourisman Fairfax Toyota,VA
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF1P3009602,Toyota of Lincoln Park,IL
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,True,DealerHold,JTDAAAAF1P3009616,Aubrey Alexander Toyota,PA
-2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF1P3009647,Toyota of Denton,TX
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF1P3009678,Matick Toyota,MI
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF1P3009695,Preston Toyota,PA
-2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF1P3009700,Oakbrook Toyota in Westmont,IL
 2023,Limited,BLACK,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF1P3009731,Bubba Oustalet Toyota,LA
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF1P3009745,Golling Toyota of Warren,MI
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF1P3009759,Toyota of Des Moines,IA
@@ -409,14 +412,15 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF1P3009793,Toyota of Hollywood,CA
 2023,XLE,SUPERSONIC RED,AWD,39950,1098.0,41048.0,Factory to port,False,Available,JTDAAAAF1P3009809,Toyota of Cedar Park,TX
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF1P3009812,Mountain States Toyota,CO
-2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF1P3009826,Culver City Toyota,CA
+2023,Limited,Black,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF1P3009826,Culver City Toyota,CA
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF1P3009843,Newburgh Toyota,NY
 2023,XLE,Oxygen White,AWD,39950,1978.0,41928.0,Factory to port,False,,JTDAAAAF1P3009888,Chuck Hutton Toyota,TN
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF1P3009924,Toyota of Lake City,WA
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAF1P3009938,Damian Lillard Toyota,OR
 2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAF1P3009941,Heartland Toyota,WA
+2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Port to dealer,False,DealerHold,JTDAAAAF1P3009969,Findlay Toyota,NV
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF1P3010023,802 Toyota,VT
-2023,Limited,Black,AWD,45550,1634.0,47184.0,Factory to port,False,,JTDAAAAF1P3010040,AutoNation Toyota Hayward,CA
+2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF1P3010040,AutoNation Toyota Hayward,CA
 2023,Limited,MAGNETIC GRAY METALLIC,AWD,45550,3493.0,49043.0,Factory to port,False,Available,JTDAAAAF1P3010054,Keating Toyota,TX
 2023,Limited,BLACK,AWD,45550,2995.0,48545.0,Factory to port,False,DealerHold,JTDAAAAF1P3010085,Jim Norton Toyota of Oklahoma City,OK
 2023,XLE,Oxygen White,AWD,39950,2985.0,42935.0,Factory to port,False,,JTDAAAAF1P3010099,Toyota World of Lakewood,NJ
@@ -437,7 +441,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF1P3010460,Lombard Toyota,IL
 2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF1P3010488,Victory Toyota,MI
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF1P3010507,Heritage Toyota Catonsville,MD
-2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,True,DealerHold,JTDAAAAF1P3010524,Sheehy Toyota of Fredericksburg,VA
+2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAF1P3010524,Sheehy Toyota of Fredericksburg,VA
 2023,XLE,Magnetic Gray Metallic,AWD,39950,1877.0,41827.0,Factory to port,False,,JTDAAAAF1P3010653,AutoNation Toyota Las Vegas,NV
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF1P3010667,Walser Bloomington Toyota,MN
 2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF1P3010670,Northtown Toyota,NY
@@ -460,18 +464,16 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF1P3011205,Koons Westminster Toyota,MD
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,True,DealerHold,JTDAAAAF1P3011303,Thompson Toyota,PA
 2023,Limited,Black,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF2P3000844,Toyota South,KY
-2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF2P3001024,Wilsonville Toyota,OR
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,At dealer,False,DealerHold,JTDAAAAF2P3001038,Steet Toyota,NY
 2023,Limited,BLACK,AWD,45550,1999.0,47549.0,At dealer,False,Available,JTDAAAAF2P3002903,Karl Malone Toyota of Ruston,LA
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF2P3004411,Toyota of Brookfield,WI
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF2P3005106,Byers Toyota,OH
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,At dealer,False,DealerHold,JTDAAAAF2P3005509,Toyota of Portsmouth,NH
 2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAF2P3005784,Van-Trow Toyota,LA
-2023,Limited,Black,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF2P3005915,Metro Toyota,OH
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF2P3005932,Koons Tysons Toyota,VA
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Port to dealer,False,DealerHold,JTDAAAAF2P3005946,Lake Toyota,ND
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF2P3006062,Toyota of Hollywood,CA
-2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF2P3006093,Victory Toyota of Midtown,IL
+2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF2P3006093,Oakbrook Toyota in Westmont,IL
 2023,XLE,HEAVY METAL,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF2P3006157,Oxford Toyota,MS
 2023,XLE,Heavy Metal,AWD,39950,1495.0,41445.0,At dealer,False,,JTDAAAAF2P3006210,Kolar Toyota,MN
 2023,Limited,SUPERSONIC RED,AWD,45550,799.0,46349.0,At dealer,False,Available,JTDAAAAF2P3006353,Landers Toyota NWA,AR
@@ -484,14 +486,13 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Black Onyx,AWD,45550,6795.0,52345.0,At dealer,True,DealerHold,JTDAAAAF2P3006644,Universal Toyota,TX
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAF2P3006675,Kinderhook Toyota,NY
 2023,XLE,HEAVY METAL,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF2P3006692,Bob Howard Toyota,OK
-2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF2P3006708,Four Stars Toyota,OK
 2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF2P3006739,J. Allen Toyota,MS
 2023,Limited,OXYGEN WHITE,AWD,45550,1495.0,47045.0,At dealer,False,Available,JTDAAAAF2P3006742,Price LeBlanc Toyota,LA
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF2P3006756,802 Toyota,VT
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF2P3006787,Coughlin Toyota,OH
 2023,Limited,SUPERSONIC RED,AWD,45550,0.0,45550.0,Factory to port,True,Available,JTDAAAAF2P3006868,Mike Shaw Toyota,TX
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF2P3006885,Western Slope Toyota,CO
-2023,Limited,Black Onyx,AWD,45550,699.0,46249.0,Port to dealer,False,Available,JTDAAAAF2P3006904,Landers Toyota,AR
+2023,Limited,Black Onyx,AWD,45550,699.0,46249.0,At dealer,False,Available,JTDAAAAF2P3006904,Landers Toyota,AR
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF2P3006918,Cochran Toyota,PA
 2023,Limited,Black Onyx,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF2P3006935,Lakeside Toyota,LA
 2023,Limited,Black,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF2P3006952,Coad Toyota Paducah,KY
@@ -508,8 +509,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF2P3007213,Community Toyota,TX
 2023,XLE,Heavy Metal,AWD,39950,888.0,40838.0,Port to dealer,False,,JTDAAAAF2P3007227,Romeoville Toyota,IL
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF2P3007244,Folsom Lake Toyota,CA
-2023,Limited,OXYGEN WHITE,AWD,45550,699.0,46249.0,Factory to port,False,Available,JTDAAAAF2P3007258,Landers Toyota,AR
+2023,Limited,OXYGEN WHITE,AWD,45550,699.0,46249.0,Port to dealer,False,Available,JTDAAAAF2P3007258,Landers Toyota,AR
 2023,Limited,Heavy Metal,AWD,45550,1899.0,47449.0,Port to dealer,True,DealerHold,JTDAAAAF2P3007342,Frank Fletcher Toyota,MO
+2023,XLE,HEAVY METAL,AWD,39950,1995.0,41945.0,At dealer,False,Available,JTDAAAAF2P3007373,Kim's Toyota,MS
 2023,Limited,Black,AWD,45550,0.0,45550.0,Port to dealer,False,Available,JTDAAAAF2P3007423,Jay Wolfe Toyota,MO
 2023,XLE,Black Onyx,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF2P3007437,Vandergriff Toyota,TX
 2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,Port to dealer,False,Available,JTDAAAAF2P3007440,Four Stars Toyota,OK
@@ -528,30 +530,30 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF2P3007745,Bill Kidd's Timonium Toyota,MD
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Port to dealer,True,DealerHold,JTDAAAAF2P3007759,Ardmore Toyota,PA
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF2P3007776,McGee Toyota,MA
-2023,Limited,HEAVY METAL,AWD,45550,1098.0,46648.0,Factory to port,True,DealerHold,JTDAAAAF2P3007793,Toyota of Cedar Park,TX
+2023,Limited,HEAVY METAL,AWD,45550,1098.0,46648.0,Factory to port,True,Available,JTDAAAAF2P3007793,Toyota of Cedar Park,TX
 2023,Limited,HEAVY METAL,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF2P3007809,North Park Toyota of San Antonio,TX
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Port to dealer,False,DealerHold,JTDAAAAF2P3007826,Kolosso Toyota,WI
-2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF2P3007843,Millennium Toyota,NY
+2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF2P3007843,Millennium Toyota,NY
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,At dealer,True,DealerHold,JTDAAAAF2P3007860,Fitzgerald Toyota Chambersburg,PA
 2023,XLE,HEAVY METAL,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF2P3007874,Sterling McCall Toyota Fort Bend,TX
 2023,XLE,Black Onyx,AWD,39950,2995.0,42945.0,Factory to port,False,Available,JTDAAAAF2P3007888,Toyota of Victoria,TX
 2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,Port to dealer,False,DealerHold,JTDAAAAF2P3007891,Performance Toyota,OH
-2023,Limited,Black,AWD,45550,0.0,45550.0,Port to dealer,False,DealerHold,JTDAAAAF2P3007907,Woburn Toyota,MA
+2023,Limited,Black,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAF2P3007907,Woburn Toyota,MA
 2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,Port to dealer,False,DealerHold,JTDAAAAF2P3007924,Coad Toyota,MO
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF2P3007941,Lia Toyota of Rockland,NY
 2023,XLE,Black,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF2P3007955,Marion Toyota,IL
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Port to dealer,False,DealerHold,JTDAAAAF2P3007969,Berglund Toyota,VA
-2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF2P3007972,Right Toyota,AZ
-2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF2P3008023,Sansone Toyota,NJ
+2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF2P3007972,Right Toyota,AZ
+2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF2P3008023,Sansone Toyota,NJ
 2023,XLE,Heavy Metal,AWD,39950,1487.0,41437.0,Port to dealer,False,,JTDAAAAF2P3008037,LeadCar Toyota Wausau,WI
-2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,At dealer,False,DealerHold,JTDAAAAF2P3008040,Paul Miller Toyota of West Caldwell,NJ
-2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAF2P3008054,Newburgh Toyota,NY
+2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF2P3008040,Paul Miller Toyota of West Caldwell,NJ
+2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF2P3008054,Newburgh Toyota,NY
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Port to dealer,True,,JTDAAAAF2P3008099,Firelands Toyota,OH
 2023,XLE,OXYGEN WHITE,AWD,39950,399.0,40349.0,Factory to port,False,Available,JTDAAAAF2P3008118,Toyota of Paris,TX
 2023,Limited,Black,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF2P3008121,Lia Toyota of Northampton,MA
 2023,Limited,HEAVY METAL,AWD,45550,1495.0,47045.0,Factory to port,False,Available,JTDAAAAF2P3008135,Sterling McCall Toyota,TX
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF2P3008149,Antioch Toyota,CA
-2023,XLE,SUPERSONIC RED,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF2P3008152,Philpott Toyota,TX
+2023,XLE,SUPERSONIC RED,AWD,39950,0.0,39950.0,Factory to port,True,Available,JTDAAAAF2P3008152,Philpott Toyota,TX
 2023,XLE,Heavy Metal,AWD,39950,1595.0,41545.0,At dealer,False,,JTDAAAAF2P3008166,Toyota of Smithfield,RI
 2023,Limited,Black Onyx,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF2P3008197,Mac Haik Toyota,TX
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,At dealer,False,DealerHold,JTDAAAAF2P3008247,Lithia Toyota of Redding,CA
@@ -596,11 +598,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF2P3008894,Classic Toyota,TX
 2023,Limited,MAGNETIC GRAY METALLIC,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF2P3008913,AutoNation Toyota Corpus Christi,TX
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF2P3008927,Toyota Direct,OH
-2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,Factory to port,True,DealerHold,JTDAAAAF2P3008930,Sheehy Toyota of Stafford,VA
+2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,Port to dealer,True,DealerHold,JTDAAAAF2P3008930,Sheehy Toyota of Stafford,VA
 2023,XLE,Black,AWD,39950,1899.0,41849.0,Factory to port,False,,JTDAAAAF2P3008961,Wolfchase Toyota,TN
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF2P3008975,A-1 Toyota,CT
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Port to dealer,False,DealerHold,JTDAAAAF2P3008989,Walser Bloomington Toyota,MN
 2023,XLE,OXYGEN WHITE,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF2P3009026,Bruner Toyota,TX
+2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF2P3009043,Victory Toyota of Midtown,IL
 2023,XLE,Black,AWD,39950,1978.0,41928.0,Factory to port,False,,JTDAAAAF2P3009057,Chuck Hutton Toyota,TN
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF2P3009124,Oxmoor Toyota,KY
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF2P3009138,Girard Toyota-BMW,CT
@@ -656,8 +659,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF2P3010175,Jeff Wyler Toyota of Springfield,OH
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF2P3010242,Colonial Toyota,CT
 2023,XLE,MAGNETIC GRAY METALLIC,AWD,39950,1875.0,41825.0,Factory to port,False,Available,JTDAAAAF2P3010273,Red McCombs Toyota,TX
+2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAF2P3010287,Lloyds Toyota,ND
 2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF2P3010306,Sansone Toyota,NJ
-2023,XLE,Heavy Metal,AWD,39950,1877.0,41827.0,Factory to port,False,,JTDAAAAF2P3010354,AutoNation Toyota Las Vegas,NV
+2023,XLE,Heavy Metal,AWD,39950,1877.0,41827.0,Port to dealer,False,,JTDAAAAF2P3010354,AutoNation Toyota Las Vegas,NV
 2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF2P3010368,Claremont Toyota,CA
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF2P3010385,Toyota of Surprise,AZ
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,True,,JTDAAAAF2P3010399,Toyota of Merrillville,IN
@@ -667,18 +671,20 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF2P3010595,Westbury Toyota,NY
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF2P3010614,Capistrano Valley Toyota,CA
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF2P3010631,Oxmoor Toyota,KY
+2023,Limited,Magnetic Gray Metallic,AWD,45550,1773.0,47323.0,Factory to port,False,,JTDAAAAF2P3010659,AutoNation Toyota Tempe,AZ
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF2P3010693,Folsom Lake Toyota,CA
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF2P3010726,Toyota of Glendale,CA
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF2P3010757,Rivera Toyota of Mt. Kisco,NY
-2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF2P3010760,Toyota of Grand Rapids,MI
+2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,True,DealerHold,JTDAAAAF2P3010760,Toyota of Grand Rapids,MI
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF2P3010774,Mountain States Toyota,CO
 2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF2P3010788,Lithia Toyota of Billings,MT
-2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF2P3010807,Pauly Toyota,IL
+2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,True,DealerHold,JTDAAAAF2P3010807,O'Brien Toyota,IN
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF2P3010824,Jerry Ackerman Toyota,MO
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF2P3010841,Maplewood Toyota,MN
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF2P3010855,Toyota of Downtown LA,CA
 2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF2P3010869,St. Cloud Toyota,MN
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF2P3010919,DCH Brunswick Toyota,NJ
+2023,Limited,Heavy Metal,AWD,45550,1995.0,47545.0,Factory to port,False,,JTDAAAAF2P3010936,Berge Toyota,AZ
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF2P3010984,San Francisco Toyota,CA
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF2P3011021,McGeorge Toyota,VA
 2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,Factory to port,True,DealerHold,JTDAAAAF2P3011035,Inver Grove Toyota,MN
@@ -723,27 +729,30 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,DealerHold,JTDAAAAF3P3006717,Laurel Toyota,PA
 2023,XLE,HEAVY METAL,AWD,39950,0.0,39950.0,Port to dealer,False,Available,JTDAAAAF3P3006734,Community Toyota,TX
 2023,XLE,HEAVY METAL,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF3P3006748,Tejas Toyota,TX
-2023,Limited,Black,AWD,45550,0.0,45550.0,Port to dealer,False,Available,JTDAAAAF3P3006751,Seeger Toyota,MO
+2023,Limited,Black,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF3P3006751,Seeger Toyota,MO
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF3P3006779,Younger Toyota,MD
-2023,Limited,Black,AWD,45550,0.0,45550.0,Port to dealer,True,DealerHold,JTDAAAAF3P3006782,Principle Toyota,TN
+2023,Limited,Black,AWD,45550,0.0,45550.0,At dealer,True,DealerHold,JTDAAAAF3P3006782,Principle Toyota,TN
 2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF3P3006796,Beck Toyota,IN
 2023,Limited,OXYGEN WHITE,AWD,45550,7488.0,53038.0,Factory to port,True,DealerHold,JTDAAAAF3P3006863,Toyota of Plano,TX
-2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,At dealer,True,DealerHold,JTDAAAAF3P3006894,Golling Toyota of Warren,MI
+2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF3P3006894,Golling Toyota of Warren,MI
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF3P3006927,Hanover Toyota,PA
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF3P3006930,Route 44 Toyota,MA
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF3P3006944,Nashville Toyota North,TN
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF3P3006975,New Country Toyota of Clifton Park,NY
 2023,XLE,HEAVY METAL,AWD,39950,9995.0,49945.0,Factory to port,False,Available,JTDAAAAF3P3006989,Lithia Toyota of Odessa,TX
+2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF3P3006992,Hiland Toyota,IL
 2023,Limited,GRAY ME.,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF3P3007026,Don McGill Toyota,TX
 2023,Limited,Black,AWD,45550,0.0,45550.0,Port to dealer,True,DealerHold,JTDAAAAF3P3007057,DCH Freehold Toyota,NJ
 2023,XLE,HEAVY METAL,AWD,39950,3490.0,43440.0,At dealer,False,DealerHold,JTDAAAAF3P3007138,Fred Haas Toyota World,TX
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF3P3007172,Baxter Toyota of Lincoln,NE
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF3P3007267,Aubrey Alexander Toyota,PA
+2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF3P3007320,Alderman's Toyota,VT
 2023,XLE,Black,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF3P3007351,Evans Toyota,IN
-2023,XLE,OXYGEN WHITE,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF3P3007382,Toyota of Ardmore,OK
+2023,XLE,OXYGEN WHITE,AWD,39950,0.0,39950.0,Port to dealer,False,Available,JTDAAAAF3P3007382,Toyota of Ardmore,OK
 2023,Limited,Magnetic Gray Metallic,AWD,45550,3265.0,48815.0,Port to dealer,False,,JTDAAAAF3P3007401,Toyota of Bedford,OH
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF3P3007429,Sheehy Toyota of Fredericksburg,VA
-2023,Limited,HEAVY METAL,AWD,45550,3493.0,49043.0,At dealer,True,Available,JTDAAAAF3P3007477,Keating Toyota,TX
+2023,Limited,HEAVY METAL,AWD,45550,3493.0,49043.0,At dealer,False,Available,JTDAAAAF3P3007477,Keating Toyota,TX
+2023,Limited,Black Onyx,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAF3P3007480,Post Oak Toyota,OK
 2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,Factory to port,True,DealerHold,JTDAAAAF3P3007494,Classic Toyota,TX
 2023,XLE,HEAVY METAL,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF3P3007530,Fowler Toyota of Tulsa,OK
 2023,Limited,Magnetic Gray Metallic,AWD,45550,395.0,45945.0,Port to dealer,True,DealerHold,JTDAAAAF3P3007575,Toyota of Olympia,WA
@@ -759,7 +768,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Black,AWD,45550,1899.0,47449.0,Port to dealer,False,,JTDAAAAF3P3007866,Wolfchase Toyota,TN
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF3P3007883,Toyota Knoxville,TN
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF3P3007933,Ammaar's Toyota Vacaville,CA
-2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF3P3007947,Right Toyota,AZ
+2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF3P3007947,Right Toyota,AZ
 2023,XLE,Black,AWD,39950,0.0,39950.0,At dealer,False,DealerHold,JTDAAAAF3P3007950,Fitzgerald Toyota Gaithersburg,MD
 2023,Limited,Black,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF3P3007964,Lynch Toyota,CT
 2023,XLE,HEAVY METAL,AWD,39950,2995.0,42945.0,Factory to port,False,Available,JTDAAAAF3P3007981,Huntsville Toyota,TX
@@ -769,17 +778,17 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF3P3008046,Walser Bloomington Toyota,MN
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Port to dealer,False,DealerHold,JTDAAAAF3P3008077,Joseph Toyota of Cincinnati,OH
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Port to dealer,True,,JTDAAAAF3P3008094,Avondale Toyota,AZ
-2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF3P3008113,Precision Toyota of Tucson,AZ
-2023,Limited,Black,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF3P3008127,Millennium Toyota,NY
+2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF3P3008113,Precision Toyota of Tucson,AZ
+2023,Limited,Black,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF3P3008127,Millennium Toyota,NY
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF3P3008130,Rivera Toyota of Mt. Kisco,NY
 2023,XLE,Black,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF3P3008144,Toyota of Corvallis,OR
 2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,At dealer,False,DealerHold,JTDAAAAF3P3008158,Hometown Toyota,OR
-2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF3P3008189,Precision Toyota of Tucson,AZ
+2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF3P3008189,Precision Toyota of Tucson,AZ
 2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF3P3008208,Toyota of Wellesley,MA
 2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF3P3008211,"Glen Motors, Inc.",NJ
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Factory to port,True,DealerHold,JTDAAAAF3P3008225,Fitzgerald Toyota Gaithersburg,MD
 2023,Limited,HEAVY METAL,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF3P3008256,J. Allen Toyota,MS
-2023,XLE,Black,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF3P3008323,Toyota of Orange,CA
+2023,XLE,Black,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF3P3008323,Toyota of Orange,CA
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF3P3008368,Straatmann Toyota,MO
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF3P3008404,Stevens Creek Toyota,CA
 2023,Limited,HEAVY METAL,AWD,45550,1387.0,46937.0,Factory to port,False,Available,JTDAAAAF3P3008421,Longo Toyota of Prosper,TX
@@ -834,7 +843,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF3P3009472,Toyota of Santa Maria,CA
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF3P3009486,Camelback Toyota,AZ
 2023,Limited,Magnetic Gray Metallic,AWD,45550,2490.0,48040.0,At dealer,False,,JTDAAAAF3P3009505,Toyota of El Cajon,CA
-2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF3P3009519,Toyota of Bowling Green,KY
+2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF3P3009519,O'Brien Toyota,IN
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF3P3009536,Toyota of Stamford,CT
 2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF3P3009553,Toyota of Bozeman,MT
 2023,Limited,OXYGEN WHITE,AWD,45550,499.0,46049.0,Factory to port,False,Available,JTDAAAAF3P3009584,Caldwell Toyota,AR
@@ -852,9 +861,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF3P3009813,DARCARS Toyota,MD
 2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF3P3009827,Van-Trow Toyota,LA
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF3P3009830,Royal Moore Toyota,OR
+2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF3P3009908,Williams Toyota of Sayre,PA
 2023,XLE,Oxygen White,AWD,39950,3568.0,43518.0,Factory to port,False,,JTDAAAAF3P3009911,Bell Road Toyota,AZ
 2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF3P3009925,I-10 Toyota,CA
-2023,Limited,Oxygen White,AWD,45550,2295.0,47845.0,Factory to port,False,,JTDAAAAF3P3009942,Desert Toyota of Tucson,AZ
+2023,Limited,Oxygen White,AWD,45550,2295.0,47845.0,Port to dealer,False,,JTDAAAAF3P3009942,Desert Toyota of Tucson,AZ
 2023,Limited,OXYGEN WHITE,AWD,45550,2595.0,48145.0,Factory to port,False,Available,JTDAAAAF3P3009956,Cowboy Toyota,TX
 2023,Limited,OXYGEN WHITE,AWD,45550,1995.0,47545.0,Factory to port,True,Available,JTDAAAAF3P3009987,Toyota of Killeen,TX
 2023,Limited,OXYGEN WHITE,AWD,45550,3490.0,49040.0,Factory to port,False,Available,JTDAAAAF3P3010007,Fred Haas Toyota World,TX
@@ -871,9 +881,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF3P3010248,Heritage Toyota Harrisburg,PA
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF3P3010265,Moss Bros. Toyota,CA
 2023,Limited,Black,AWD,45550,395.0,45945.0,Factory to port,False,,JTDAAAAF3P3010279,Toyota of Olympia,WA
+2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF3P3010296,Allegheny Toyota,PA
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF3P3010315,Ken Ganley Toyota Akron,OH
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF3P3010329,Serra Toyota of Saginaw,MI
-2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF3P3010332,Hertrich Toyota,DE
+2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAF3P3010332,Hertrich Toyota,DE
+2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF3P3010363,Ardmore Toyota,PA
 2023,Limited,Magnetic Gray Metallic,AWD,45550,2594.0,48144.0,Factory to port,False,,JTDAAAAF3P3010380,Hudson Toyota,NJ
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF3P3010394,Toyota Santa Monica,CA
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF3P3010461,Walser Bloomington Toyota,MN
@@ -887,6 +899,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF3P3010606,Boch Toyota,MA
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF3P3010637,Riverhead Toyota,NY
 2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF3P3010685,Team Toyota of Glen Mills,PA
+2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAF3P3010749,Warrenton Toyota,VA
+2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF3P3010816,Smart Toyota of Quad Cities,IA
 2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF3P3010833,Colonial Toyota,CT
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF3P3010847,Toyota San Luis Obispo,CA
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF3P3010864,Bighorn Toyota,CO
@@ -894,11 +908,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF3P3010914,Toyota of Warsaw,IN
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,DealerHold,JTDAAAAF3P3010928,Performance Toyota Bountiful,UT
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF3P3010976,I-5 Toyota,WA
-2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF3P3010993,Toyota of Terre Haute,IN
+2023,Limited,Heavy Metal,AWD,45550,1098.0,46648.0,Factory to port,False,,JTDAAAAF3P3010993,Toyota of Terre Haute,IN
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF3P3011027,Steet Toyota,NY
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF3P3011058,Camelback Toyota,AZ
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF3P3011061,Mills Toyota,MN
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF3P3011089,Kirksville Toyota,MO
+2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF3P3011111,Ardmore Toyota,PA
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF3P3011125,Sheehy Toyota of Fredericksburg,VA
 2023,XLE,Oxygen White,AWD,39950,895.0,40845.0,Factory to port,False,,JTDAAAAF3P3011240,Bennett Toyota,PA
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF3P3011271,South Hills Toyota,PA
@@ -916,7 +931,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF4P3005883,International Toyota,WI
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Port to dealer,False,DealerHold,JTDAAAAF4P3005902,Sharp Chevrolet-Toyota,SD
 2023,Limited,Black,AWD,45550,0.0,45550.0,At dealer,True,DealerHold,JTDAAAAF4P3005978,Inver Grove Toyota,MN
-2023,Limited,Black,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF4P3006001,Lia Toyota of Northampton,MA
+2023,Limited,Black,AWD,45550,995.0,46545.0,At dealer,False,,JTDAAAAF4P3006001,Lia Toyota of Northampton,MA
 2023,Limited,Black,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAF4P3006015,Brunswick Toyota,OH
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF4P3006063,Precision Toyota of Tucson,AZ
 2023,Limited,HEAVY METAL,AWD,45550,995.0,46545.0,At dealer,False,Available,JTDAAAAF4P3006144,Toyota of Slidell,LA
@@ -925,7 +940,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Oxygen White,AWD,45550,1695.0,47245.0,At dealer,False,,JTDAAAAF4P3006208,Findlay Toyota Prescott,AZ
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAF4P3006211,Colonial Toyota,CT
 2023,Limited,GRAY ME.,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF4P3006273,Northshore Toyota,LA
-2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF4P3006337,Smart Toyota of Quad Cities,IA
+2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF4P3006337,Smart Toyota of Quad Cities,IA
 2023,XLE,Black,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF4P3006340,Joel Confer Toyota,PA
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Port to dealer,False,DealerHold,JTDAAAAF4P3006354,Kings Toyota,OH
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAF4P3006368,Westbury Toyota,NY
@@ -947,8 +962,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,OXYGEN WHITE,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF4P3006953,Toyota of Pharr,TX
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAF4P3006970,Maguire Toyota,NY
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF4P3006984,Performance Motors Toyota,PA
-2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,Port to dealer,False,Available,JTDAAAAF4P3006998,Superior Toyota,WV
-2023,Limited,Black Onyx,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF4P3007004,Don McGill Toyota of Katy,TX
+2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,Port to dealer,False,DealerHold,JTDAAAAF4P3006998,Superior Toyota,WV
+2023,Limited,Black Onyx,AWD,45550,0.0,45550.0,Port to dealer,False,Available,JTDAAAAF4P3007004,Don McGill Toyota of Katy,TX
 2023,Limited,OXYGEN WHITE,AWD,45550,1098.0,46648.0,Factory to port,True,Available,JTDAAAAF4P3007021,Toyota of Cedar Park,TX
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Port to dealer,False,DealerHold,JTDAAAAF4P3007035,Casey Toyota,VA
 2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF4P3007052,Westbrook Toyota,CT
@@ -967,12 +982,14 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF4P3007407,Royal South Toyota,IN
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF4P3007410,Team Toyota of Glen Mills,PA
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Port to dealer,False,DealerHold,JTDAAAAF4P3007424,Hosmer Toyota,IA
+2023,Limited,Black Onyx,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF4P3007441,John O'Neil Johnson Toyota,MS
 2023,Limited,Oxygen White,AWD,45550,1695.0,47245.0,Port to dealer,False,,JTDAAAAF4P3007505,Findlay Toyota Prescott,AZ
 2023,XLE,HEAVY METAL,AWD,39950,1387.0,41337.0,Factory to port,False,Available,JTDAAAAF4P3007519,Longo Toyota of Prosper,TX
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Port to dealer,False,DealerHold,JTDAAAAF4P3007567,Schaumburg Toyota,IL
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF4P3007584,Byers Toyota,OH
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF4P3007603,Valenti Toyota,RI
-2023,Limited,Black,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF4P3007620,Williams Toyota of Elmira,NY
+2023,XLE,OXYGEN WHITE,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF4P3007617,AutoNation Toyota South Austin,TX
+2023,Limited,Black,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF4P3007620,Williams Toyota of Elmira,NY
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Port to dealer,False,DealerHold,JTDAAAAF4P3007648,Kings Toyota,OH
 2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF4P3007651,Gene Messer Toyota,TX
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF4P3007665,DARCARS Toyota,MD
@@ -1006,7 +1023,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF4P3008301,Harr Toyota,SD
 2023,XLE,Black,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF4P3008315,Ken Nelson Toyota,IL
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF4P3008332,Serra Toyota of Saginaw,MI
-2023,XLE,Black,AWD,39950,0.0,39950.0,Port to dealer,False,Available,JTDAAAAF4P3008346,Rogers Toyota of Hermiston,OR
+2023,XLE,Black,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF4P3008346,Rogers Toyota of Hermiston,OR
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF4P3008363,Ventura Toyota,CA
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF4P3008377,Brent Brown Toyota,UT
 2023,XLE,HEAVY METAL,AWD,39950,1098.0,41048.0,At dealer,False,Available,JTDAAAAF4P3008380,Toyota of Cedar Park,TX
@@ -1016,7 +1033,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF4P3008430,"Gale Toyota, Inc.",CT
 2023,Limited,Black Onyx,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF4P3008444,Mike Calvert Toyota,TX
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF4P3008461,Lia Toyota of Colonie,NY
-2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF4P3008475,Kolosso Toyota,WI
+2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Port to dealer,False,DealerHold,JTDAAAAF4P3008475,Kolosso Toyota,WI
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF4P3008492,Oxmoor Toyota,KY
 2023,Limited,OXYGEN WHITE,AWD,45550,499.0,46049.0,Factory to port,False,Available,JTDAAAAF4P3008525,Caldwell Toyota,AR
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF4P3008539,Waldorf Toyota,MD
@@ -1055,14 +1072,13 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,PRECIOUS METAL,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF4P3009187,Greg Leblanc Toyota,LA
 2023,XLE,Supersonic Red,AWD,39950,1877.0,41827.0,At dealer,False,,JTDAAAAF4P3009190,AutoNation Toyota Las Vegas,NV
 2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAF4P3009237,Toyota of Portsmouth,NH
-2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF4P3009240,Claremont Toyota,CA
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF4P3009254,Avondale Toyota,AZ
 2023,XLE,OXYGEN WHITE,AWD,39950,0.0,39950.0,Factory to port,False,DealerHold,JTDAAAAF4P3009271,Oakes Toyota,MS
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF4P3009285,Kari Toyota,WI
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF4P3009304,Millennium Toyota,NY
 2023,XLE,Oxygen White,AWD,39950,3265.0,43215.0,Factory to port,False,,JTDAAAAF4P3009318,Toyota of Bedford,OH
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF4P3009366,Toyota of Cool Springs,TN
-2023,XLE,Magnetic Gray Metallic,AWD,39950,2995.0,42945.0,Port to dealer,False,,JTDAAAAF4P3009383,South Bay Toyota,CA
+2023,XLE,Magnetic Gray Metallic,AWD,39950,2995.0,42945.0,At dealer,False,,JTDAAAAF4P3009383,South Bay Toyota,CA
 2023,XLE,OXYGEN WHITE,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF4P3009397,Fred Haas Toyota Country,TX
 2023,Limited,PRECIOUS METAL,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF4P3009416,Toyota of Brookhaven,MS
 2023,XLE,OXYGEN WHITE,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF4P3009433,Supreme Toyota of Hammond,LA
@@ -1103,9 +1119,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF4P3010050,Sheehy Toyota of Laurel,MD
 2023,Limited,SUPERSONIC RED,AWD,45550,2299.0,47849.0,Factory to port,False,Available,JTDAAAAF4P3010064,Round Rock Toyota,TX
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAF4P3010114,White River Toyota,VT
+2023,XLE,OXYGEN WHITE,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF4P3010128,Walker Toyota,LA
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF4P3010131,Corwin Toyota of Bellevue,NE
 2023,XLE,OXYGEN WHITE,AWD,39950,1495.0,41445.0,Factory to port,False,Available,JTDAAAAF4P3010145,Price LeBlanc Toyota,LA
-2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF4P3010162,Fred Haas Toyota Country,TX
+2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,Factory to port,True,Available,JTDAAAAF4P3010162,Fred Haas Toyota Country,TX
 2023,XLE,OXYGEN WHITE,AWD,39950,1098.0,41048.0,Factory to port,False,Available,JTDAAAAF4P3010176,Toyota of Cedar Park,TX
 2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF4P3010209,Sam Leman Toyota Bloomington,IL
 2023,Limited,OXYGEN WHITE,AWD,45550,1098.0,46648.0,Factory to port,False,DealerHold,JTDAAAAF4P3010212,Toyota of Cedar Park,TX
@@ -1117,22 +1134,24 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF4P3010324,Harr Toyota,SD
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF4P3010338,Lithia Toyota,OR
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAF4P3010372,Olathe Toyota,KS
-2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF4P3010386,Rochester Toyota,MN
+2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,DealerHold,JTDAAAAF4P3010386,Rochester Toyota,MN
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF4P3010419,Landers McLarty Toyota,TN
-2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,DealerHold,JTDAAAAF4P3010422,Kerry Toyota,KY
+2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,True,DealerHold,JTDAAAAF4P3010422,Kerry Toyota,KY
 2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF4P3010436,Fitzgerald Toyota Gaithersburg,MD
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF4P3010517,University Toyota,WV
+2023,Limited,Heavy Metal,AWD,45550,2791.0,48341.0,Factory to port,False,,JTDAAAAF4P3010534,Billion Toyota,SD
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF4P3010565,Classic Toyota,OH
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF4P3010579,Byers Toyota,OH
 2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF4P3010629,A-1 Toyota,CT
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAF4P3010646,Fort Wayne Toyota,IN
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,DealerHold,JTDAAAAF4P3010713,Rusty Wallace Toyota,TN
+2023,XLE,Oxygen White,AWD,39950,888.0,40838.0,Factory to port,False,,JTDAAAAF4P3010758,Romeoville Toyota,IL
 2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF4P3010775,Toyota of Downtown LA,CA
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF4P3010792,Ourisman Chantilly Toyota,VA
 2023,Limited,Black,AWD,45550,3525.0,49075.0,Factory to port,False,,JTDAAAAF4P3010811,Toyota of Turnersville,NJ
 2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF4P3010839,Toyota of Massapequa,NY
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF4P3010842,Bill Page Toyota,VA
-2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF4P3010873,Laurel Toyota,PA
+2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAF4P3010873,Laurel Toyota,PA
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF4P3010906,Toyota of Erie,PA
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF4P3010923,Metro Toyota,MI
 2023,XLE,Magnetic Gray Metallic,AWD,39950,3568.0,43518.0,Factory to port,False,,JTDAAAAF4P3010937,Bell Road Toyota,AZ
@@ -1155,7 +1174,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,MAGNETIC GRAY METALLIC,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF5P3004693,Classic Toyota of Texoma,TX
 2023,XLE,Black,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF5P3004984,Sam Leman Toyota Bloomington,IL
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF5P3005147,Thornhill Toyota,WV
-2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF5P3005455,Checkered Flag Toyota,VA
 2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF5P3005570,Toyota of Fayetteville,AR
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Port to dealer,False,DealerHold,JTDAAAAF5P3005634,Kings Toyota,OH
 2023,XLE,Black,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF5P3006041,Temecula Valley Toyota,CA
@@ -1191,13 +1209,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Black,AWD,39950,895.0,40845.0,At dealer,False,DealerHold,JTDAAAAF5P3007013,Andrew Toyota,WI
 2023,Limited,SUPERSONIC RED,AWD,45550,1495.0,47045.0,Factory to port,False,Available,JTDAAAAF5P3007061,Sterling McCall Toyota,TX
 2023,XLE,SUPERSONIC RED,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF5P3007108,Northcutt Toyota,OK
-2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAF5P3007125,Post Oak Toyota,OK
 2023,Limited,Oxygen White,AWD,45550,4490.0,50040.0,At dealer,False,,JTDAAAAF5P3007139,Berge Toyota,AZ
 2023,XLE,Black,AWD,39950,0.0,39950.0,Port to dealer,True,DealerHold,JTDAAAAF5P3007156,Maplewood Toyota,MN
 2023,XLE,Black Onyx,AWD,39950,2299.0,42249.0,At dealer,False,Available,JTDAAAAF5P3007173,Round Rock Toyota,TX
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF5P3007187,Koons Tysons Toyota,VA
 2023,Limited,Black,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF5P3007190,Green's Toyota of Lexington,KY
-2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF5P3007223,Lone Star Toyota of Lewisville,TX
+2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,Port to dealer,False,Available,JTDAAAAF5P3007223,Lone Star Toyota of Lewisville,TX
 2023,Limited,GRAY ME.,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF5P3007237,J. Allen Toyota,MS
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF5P3007285,Summit Toyota of Akron,OH
 2023,XLE,GRAY ME.,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF5P3007304,Mike Calvert Toyota,TX
@@ -1224,7 +1241,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,HEAVY METAL,AWD,45550,0.0,45550.0,Factory to port,True,DealerHold,JTDAAAAF5P3007710,Brownsville Toyota,TX
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAF5P3007738,Wilsonville Toyota,OR
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF5P3007741,Groove Toyota,CO
-2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF5P3007755,Big Two Toyota of Chandler,AZ
+2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF5P3007755,Big Two Toyota of Chandler,AZ
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF5P3007772,Toyota Direct,OH
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF5P3007805,Rohrich Toyota,PA
 2023,XLE,Magnetic Gray Metallic,AWD,39950,1274.0,41224.0,Port to dealer,False,,JTDAAAAF5P3007819,Tom Wood Toyota,IN
@@ -1245,7 +1262,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF5P3008064,Team Toyota of Glen Mills,PA
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAF5P3008078,Hertrich Toyota,DE
 2023,XLE,Black,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF5P3008095,Hillside Toyota,NY
-2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF5P3008100,"Westboro Toyota, Inc.",MA
+2023,XLE,Magnetic Gray Metallic,AWD,39950,399.0,40349.0,At dealer,False,,JTDAAAAF5P3008100,"Westboro Toyota, Inc.",MA
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF5P3008114,McDonough Toyota,VA
 2023,XLE,Black,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF5P3008159,Luther Brookdale Toyota,MN
 2023,Limited,OXYGEN WHITE,AWD,45550,1098.0,46648.0,Factory to port,True,DealerHold,JTDAAAAF5P3008176,Toyota of Cedar Park,TX
@@ -1280,13 +1297,13 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,OXYGEN WHITE,AWD,39950,0.0,39950.0,Factory to port,False,DealerHold,JTDAAAAF5P3008744,Universal Toyota,TX
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF5P3008775,Rudy Luther Toyota,MN
 2023,Limited,Black,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF5P3008789,Ron Tonkin Toyota,OR
-2023,XLE,Oxygen White,AWD,39950,1278.0,41228.0,Factory to port,False,,JTDAAAAF5P3008842,AutoNation Toyota Irvine,CA
+2023,XLE,Oxygen White,AWD,39950,1278.0,41228.0,Port to dealer,False,,JTDAAAAF5P3008842,AutoNation Toyota Irvine,CA
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF5P3008890,Kolosso Toyota,WI
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF5P3008906,Ken Ganley Toyota Akron,OH
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF5P3008937,Toyota of Bowie,MD
 2023,Limited,Heavy Metal,AWD,45550,8112.0,53662.0,At dealer,False,,JTDAAAAF5P3008940,Norm Reeves Toyota San Diego,CA
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF5P3008954,Bill Wright Toyota,CA
-2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF5P3008985,Rivera Toyota of Mt. Kisco,NY
+2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF5P3008985,Rivera Toyota of Mt. Kisco,NY
 2023,Limited,PRECIOUS METAL,AWD,45550,1495.0,47045.0,Factory to port,False,Available,JTDAAAAF5P3009053,Toyota of Fort Worth,TX
 2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAF5P3009067,Anderson-Weber Toyota,IA
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF5P3009084,Maguire Toyota,NY
@@ -1316,7 +1333,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF5P3009487,Kinderhook Toyota,NY
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF5P3009554,Baxter Toyota of La Vista,NE
 2023,XLE,OXYGEN WHITE,AWD,39950,2379.0,42329.0,Factory to port,False,Available,JTDAAAAF5P3009568,Gullo Toyota of Conroe,TX
-2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF5P3009585,Toyota of North Hollywood,CA
+2023,Limited,Black,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF5P3009585,Toyota of North Hollywood,CA
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF5P3009599,"Bristol Toyota, Inc.",MA
 2023,XLE,SUPERSONIC RED,AWD,39950,1098.0,41048.0,Factory to port,False,Available,JTDAAAAF5P3009621,Toyota of Cedar Park,TX
 2023,Limited,PRECIOUS METAL,AWD,45550,2379.0,47929.0,Factory to port,False,Available,JTDAAAAF5P3009635,Gullo Toyota of Conroe,TX
@@ -1346,7 +1363,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,OXYGEN WHITE,AWD,45550,2995.0,48545.0,Factory to port,False,Available,JTDAAAAF5P3010039,Jim Norton Toyota of Oklahoma City,OK
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF5P3010073,Green's Toyota of Lexington,KY
 2023,Limited,Magnetic Gray Metallic,AWD,45550,3265.0,48815.0,Factory to port,False,,JTDAAAAF5P3010087,Toyota of Bedford,OH
-2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF5P3010123,O'Brien Toyota,IN
+2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF5P3010123,Pauly Toyota,IL
 2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAF5P3010140,Peterson Toyota,ID
 2023,Limited,OXYGEN WHITE,AWD,45550,2895.0,48445.0,Factory to port,False,Available,JTDAAAAF5P3010154,Jim Norton Toyota,OK
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF5P3010168,Koons Westminster Toyota,MD
@@ -1357,6 +1374,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAF5P3010218,Seeger Toyota of St. Robert,MO
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF5P3010297,Sansone Toyota,NJ
 2023,XLE,Black,AWD,39950,299.0,40249.0,Factory to port,False,,JTDAAAAF5P3010316,Team Toyota,PA
+2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF5P3010350,Ardmore Toyota,PA
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF5P3010395,Toyota of Glendora,CA
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF5P3010414,Mid City Toyota,CA
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAF5P3010431,Expressway Toyota,MA
@@ -1386,7 +1404,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF6P3003844,Little Apple Toyota,KS
 2023,XLE,OXYGEN WHITE,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF6P3004055,Ryburn Toyota,AR
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF6P3004928,Thayer Toyota,OH
-2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,DealerHold,JTDAAAAF6P3005139,Maplewood Toyota,MN
+2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF6P3005139,Maplewood Toyota,MN
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,DealerHold,JTDAAAAF6P3005271,Metro Toyota,MI
 2023,Limited,PRECIOUS METAL,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF6P3005559,Stewart Toyota,TX
 2023,Limited,Black Onyx,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF6P3005626,Principle Toyota of Hernando,MS
@@ -1397,13 +1415,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Black Onyx,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF6P3006131,Gene Messer Toyota,TX
 2023,XLE,HEAVY METAL,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF6P3006193,Stewart Toyota,TX
 2023,XLE,Black,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF6P3006209,Heritage Toyota Catonsville,MD
-2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF6P3006226,Lithia Toyota,OR
 2023,XLE,Black,AWD,39950,0.0,39950.0,Port to dealer,False,DealerHold,JTDAAAAF6P3006307,"Molle Toyota, Inc.",MO
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF6P3006324,Sheehy Toyota of Fredericksburg,VA
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,DealerHold,JTDAAAAF6P3006341,Spitzer Toyota,PA
-2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF6P3006405,Waldorf Toyota,MD
 2023,Limited,Black Onyx,AWD,45550,1499.0,47049.0,At dealer,False,Available,JTDAAAAF6P3006422,Robbins Toyota,TX
-2023,XLE,Black,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF6P3006596,Checkered Flag Toyota,VA
 2023,Limited,Oxygen White,AWD,45550,9999.0,55549.0,At dealer,False,Available,JTDAAAAF6P3006601,Toyota of Warren,OH
 2023,XLE,OXYGEN WHITE,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF6P3006663,Mitchell Toyota,TX
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF6P3006713,Mike Kelly Toyota of Uniontown,PA
@@ -1415,10 +1430,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF6P3006906,Toyota of Riverside,CA
 2023,XLE,HEAVY METAL,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF6P3006923,Fox Toyota of El Paso,TX
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF6P3006968,Conicelli Toyota of Springfield,PA
+2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,DealerHold,JTDAAAAF6P3006971,Warrenton Toyota,VA
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,At dealer,False,DealerHold,JTDAAAAF6P3006999,Toyota of Pasadena,CA
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF6P3007005,AutoNation Toyota Leesburg,VA
 2023,XLE,Heavy Metal,AWD,39950,995.0,40945.0,At dealer,False,,JTDAAAAF6P3007019,Future Toyota of Yuba City,CA
-2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAF6P3007036,Serra Toyota of Saginaw,MI
 2023,Limited,OXYGEN WHITE,AWD,45550,6295.0,51845.0,At dealer,False,Available,JTDAAAAF6P3007053,Lone Star Toyota of Lewisville,TX
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF6P3007070,Sloane Toyota of Philadelphia,PA
 2023,XLE,Magnetic Gray Metallic,AWD,39950,888.0,40838.0,Port to dealer,False,,JTDAAAAF6P3007084,Romeoville Toyota,IL
@@ -1428,9 +1443,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF6P3007179,Andy Mohr Toyota,IN
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF6P3007196,Walser Bloomington Toyota,MN
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAF6P3007201,Mojave Toyota of Barstow,CA
+2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF6P3007215,Allegheny Toyota,PA
 2023,XLE,Magnetic Gray Metallic,AWD,39950,698.0,40648.0,Port to dealer,False,,JTDAAAAF6P3007229,Newbold Toyota,IL
-2023,Limited,OXYGEN WHITE,AWD,45550,3000.0,48550.0,Factory to port,False,Available,JTDAAAAF6P3007246,Toyota of Hattiesburg,MS
-2023,XLE,HEAVY METAL,AWD,39950,3490.0,43440.0,At dealer,False,Available,JTDAAAAF6P3007263,Fred Haas Toyota World,TX
+2023,Limited,OXYGEN WHITE,AWD,45550,3000.0,48550.0,Port to dealer,False,Available,JTDAAAAF6P3007246,Toyota of Hattiesburg,MS
+2023,XLE,HEAVY METAL,AWD,39950,3490.0,43440.0,At dealer,False,DealerHold,JTDAAAAF6P3007263,Fred Haas Toyota World,TX
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,True,DealerHold,JTDAAAAF6P3007277,Shelor Toyota,VA
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF6P3007280,Sheehy Toyota of Laurel,MD
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF6P3007294,Laurel Toyota,PA
@@ -1438,6 +1454,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Black Onyx,AWD,45550,499.0,46049.0,Factory to port,False,Available,JTDAAAAF6P3007344,Caldwell Toyota,AR
 2023,XLE,GRAY ME.,AWD,39950,1995.0,41945.0,At dealer,False,Available,JTDAAAAF6P3007358,Cavender Toyota,TX
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF6P3007408,Bill Estes Toyota,IN
+2023,Limited,Oxygen White,AWD,45550,989.0,46539.0,Factory to port,False,,JTDAAAAF6P3007411,Dayton Toyota,NJ
 2023,Limited,Black Onyx,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAF6P3007425,Gray-Daniels Toyota,MS
 2023,XLE,GRAY ME.,AWD,39950,0.0,39950.0,At dealer,False,DealerHold,JTDAAAAF6P3007487,Mark McLarty Toyota,AR
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF6P3007506,Miller Toyota,VA
@@ -1447,6 +1464,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Black Onyx,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF6P3007585,Red River Toyota,AR
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF6P3007599,"Pedersen Toyota, Ltd.",CO
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF6P3007747,A-1 Toyota,CT
+2023,Limited,HEAVY METAL,AWD,45550,1995.0,47545.0,At dealer,True,DealerHold,JTDAAAAF6P3007764,Cavender Toyota,TX
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF6P3007781,Steven Toyota,VA
 2023,XLE,Black,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF6P3007795,New Country Toyota of Saratoga Springs,NY
 2023,XLE,Black,AWD,39950,2596.0,42546.0,At dealer,False,Available,JTDAAAAF6P3007800,Gresham Toyota,OR
@@ -1455,9 +1473,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,GRAY ME.,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF6P3007859,Shottenkirk Toyota Weatherford,TX
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF6P3007912,Advantage Toyota of River Oaks,IL
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF6P3007960,Toyota Chula Vista,CA
-2023,XLE,Heavy Metal,AWD,39950,299.0,40249.0,Port to dealer,True,,JTDAAAAF6P3007974,Team Toyota,PA
+2023,XLE,Heavy Metal,AWD,39950,299.0,40249.0,At dealer,True,,JTDAAAAF6P3007974,Team Toyota,PA
 2023,Limited,Black,AWD,45550,0.0,45550.0,Port to dealer,False,DealerHold,JTDAAAAF6P3007991,Fox Toyota,MI
-2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF6P3008011,Kalispell Toyota,MT
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF6P3008025,Joseph Airport Toyota,OH
 2023,Limited,Black Onyx,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF6P3008042,Pat Lobb Toyota of McKinney,TX
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Port to dealer,False,Available,JTDAAAAF6P3008090,Toyota of Bourbonnais,IL
@@ -1473,13 +1490,14 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,HEAVY METAL,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF6P3008297,Gene Messer Toyota,TX
 2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF6P3008302,Toyota of Mt. Pleasant,TX
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF6P3008316,Big Two Toyota of Chandler,AZ
+2023,Limited,Black,AWD,45550,0.0,45550.0,Port to dealer,False,Available,JTDAAAAF6P3008431,West Herr Toyota of Canandaigua,NY
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Factory to port,False,DealerHold,JTDAAAAF6P3008462,Faulkner Toyota,PA
 2023,Limited,Black,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF6P3008509,Manhattan Beach Toyota,CA
 2023,XLE,Heavy Metal,AWD,39950,299.0,40249.0,Port to dealer,False,,JTDAAAAF6P3008512,Team Toyota,PA
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF6P3008543,Grieco Toyota,RI
 2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF6P3008574,Mitchell Toyota,TX
 2023,XLE,HEAVY METAL,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF6P3008588,Mike Calvert Toyota,TX
-2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF6P3008591,Victory Toyota of Midtown,IL
+2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Port to dealer,False,DealerHold,JTDAAAAF6P3008591,Victory Toyota of Midtown,IL
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF6P3008607,Toyota of Gallatin,TN
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF6P3008610,Toyota of Downtown LA,CA
 2023,Limited,Black Onyx,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF6P3008672,North Park Toyota of San Antonio,TX
@@ -1492,6 +1510,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,OXYGEN WHITE,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF6P3008848,Toyota of Fayetteville,AR
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF6P3008865,Longo Toyota,CA
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF6P3008879,Fremont Toyota,CA
+2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF6P3008882,Advantage Toyota,WV
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF6P3008932,McDonough Toyota,VA
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF6P3008946,New Rochelle Toyota,NY
 2023,Limited,OXYGEN WHITE,AWD,45550,999.0,46549.0,Factory to port,False,Available,JTDAAAAF6P3008977,Janzen Toyota,OK
@@ -1505,11 +1524,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF6P3009112,Sierra Toyota,AZ
 2023,XLE,Magnetic Gray Metallic,AWD,39950,1990.0,41940.0,Port to dealer,False,,JTDAAAAF6P3009126,East Madison Toyota,WI
 2023,Limited,Black,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF6P3009143,Jeff Wyler Toyota of Springfield,OH
+2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF6P3009160,Copeland Toyota,MA
 2023,Limited,OXYGEN WHITE,AWD,45550,799.0,46349.0,Factory to port,False,Available,JTDAAAAF6P3009188,Landers Toyota NWA,AR
-2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF6P3009191,Spitzer Toyota,PA
+2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF6P3009191,Spitzer Toyota,PA
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Port to dealer,False,Available,JTDAAAAF6P3009224,St. Charles Toyota,IL
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF6P3009238,"Cedar Rapids Toyota, Inc.",IA
-2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF6P3009286,Stephen Wade Toyota,UT
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF6P3009322,Johnstons Toyota,NY
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF6P3009336,DARCARS Toyota of Frederick,MD
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF6P3009367,Del Toyota,PA
@@ -1525,7 +1544,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF6P3009515,Mossy Toyota,CA
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Port to dealer,False,Available,JTDAAAAF6P3009532,Heart City Toyota,IN
 2023,XLE,OXYGEN WHITE,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF6P3009580,Gulf Coast Toyota,TX
-2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF6P3009594,Valley Hi Toyota,CA
+2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF6P3009594,Valley Hi Toyota,CA
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF6P3009627,Right Toyota,AZ
 2023,XLE,Magnetic Gray Metallic,AWD,39950,1290.0,41240.0,Port to dealer,False,,JTDAAAAF6P3009658,Toyota of Redlands,CA
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Port to dealer,False,DealerHold,JTDAAAAF6P3009661,Tony Divino Toyota,UT
@@ -1553,7 +1572,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Oxygen White,AWD,39950,1298.0,41248.0,Factory to port,False,,JTDAAAAF6P3010082,Sunshine Toyota,MI
 2023,Limited,PRECIOUS METAL,AWD,45550,1495.0,47045.0,Factory to port,False,Available,JTDAAAAF6P3010096,Sterling McCall Toyota,TX
 2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF6P3010101,"Pedersen Toyota, Ltd.",CO
-2023,Limited,SUPERSONIC RED,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF6P3010115,Toyota of Denton,TX
 2023,Limited,Black,AWD,45550,1899.0,47449.0,Factory to port,False,,JTDAAAAF6P3010129,Wolfchase Toyota,TN
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF6P3010132,Robinson Toyota,TN
 2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF6P3010146,Toyota of Runnemede,NJ
@@ -1562,6 +1580,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Oxygen White,AWD,45550,130.0,45680.0,Factory to port,False,,JTDAAAAF6P3010227,Toyota of DeKalb,IL
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF6P3010230,Centennial Toyota,NV
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF6P3010261,Team Toyota,NE
+2023,Limited,Magnetic Gray Metallic,AWD,45550,989.0,46539.0,Factory to port,False,,JTDAAAAF6P3010289,Dayton Toyota,NJ
 2023,Limited,Oxygen White,AWD,45550,1190.0,46740.0,Factory to port,False,,JTDAAAAF6P3010292,Simi Valley Toyota,CA
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF6P3010308,Jim Coleman Toyota,MD
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF6P3010339,Hertrich Toyota of Pocomoke,MD
@@ -1569,7 +1588,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF6P3010373,Thayer Toyota,OH
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF6P3010390,Gresham Toyota,OR
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Factory to port,False,DealerHold,JTDAAAAF6P3010406,Toyota Knoxville,TN
-2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF6P3010423,Toyota of Des Moines,IA
+2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,True,,JTDAAAAF6P3010423,Toyota of Des Moines,IA
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF6P3010437,Mossy Toyota,CA
 2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF6P3010440,New Country Toyota of Westport,CT
 2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF6P3010454,Herb Chambers Toyota of Auburn,MA
@@ -1586,6 +1605,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF6P3010731,Penn Toyota,NY
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF6P3010745,Kearny Mesa Toyota,CA
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF6P3010762,Lake Country Toyota,MN
+2023,XLE,Oxygen White,AWD,39950,1773.0,41723.0,Factory to port,False,,JTDAAAAF6P3010776,AutoNation Toyota Tempe,AZ
 2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF6P3010793,Ourisman Chantilly Toyota,VA
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF6P3010809,John Weiss' Toyota of South County,MO
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF6P3010843,Tansky Sawmill Toyota,OH
@@ -1624,30 +1644,29 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Black,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF7P3006283,Mann Toyota,KY
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF7P3006414,Bill Page Toyota,VA
 2023,Limited,Black,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF7P3006431,Parkway Toyota,NJ
-2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,At dealer,True,DealerHold,JTDAAAAF7P3006557,Maplewood Toyota,MN
+2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF7P3006557,Maplewood Toyota,MN
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF7P3006574,Thompson Toyota,PA
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF7P3006607,Fremont Toyota of Sheridan,WY
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Port to dealer,False,DealerHold,JTDAAAAF7P3006610,Hendrick Toyota Merriam,KS
 2023,Limited,Black,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF7P3006638,DCH Brunswick Toyota,NJ
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF7P3006655,Crystal Toyota,NJ
-2023,Limited,GRAY ME.,AWD,45550,6000.0,51550.0,At dealer,False,Available,JTDAAAAF7P3006767,Vic Vaughan Toyota of Boerne,TX
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF7P3006784,Langway Toyota of Newport,RI
 2023,Limited,Black Onyx,AWD,45550,1495.0,47045.0,At dealer,False,Available,JTDAAAAF7P3006798,Sterling McCall Toyota,TX
+2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAF7P3006817,Jones Toyota,MD
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF7P3006848,Precision Toyota of Tucson,AZ
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF7P3006879,Lou Fusz Toyota,MO
 2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAF7P3006896,Empire Toyota of Huntington,NY
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF7P3006929,St. Cloud Toyota,MN
+2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAF7P3006932,Mark McLarty Toyota,AR
 2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF7P3006980,"Bristol Toyota, Inc.",MA
-2023,XLE,GRAY ME.,AWD,39950,0.0,39950.0,Port to dealer,True,Available,JTDAAAAF7P3006994,Cecil Atkission Toyota,TX
+2023,XLE,GRAY ME.,AWD,39950,0.0,39950.0,At dealer,True,DealerHold,JTDAAAAF7P3006994,Cecil Atkission Toyota,TX
 2023,Limited,GRAY ME.,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF7P3007045,North Park Toyota of San Antonio,TX
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Port to dealer,False,Available,JTDAAAAF7P3007076,Jim White Toyota,OH
 2023,XLE,GRAY ME.,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF7P3007093,Toyota of Pharr,TX
 2023,XLE,Black,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF7P3007109,Bredemann Toyota,IL
 2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF7P3007160,Five Star Toyota,WA
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAF7P3007174,Imperial Toyota,MA
-2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF7P3007188,Chicago Northside Toyota,IL
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF7P3007224,Sheehy Toyota of Fredericksburg,VA
-2023,Limited,OXYGEN WHITE,AWD,45550,2299.0,47849.0,At dealer,False,Available,JTDAAAAF7P3007269,Round Rock Toyota,TX
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF7P3007319,Toyota of Stamford,CT
 2023,Limited,Black Onyx,AWD,45550,2990.0,48540.0,Factory to port,False,DealerHold,JTDAAAAF7P3007336,Fred Haas Toyota World,TX
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Port to dealer,False,DealerHold,JTDAAAAF7P3007370,Oakbrook Toyota in Westmont,IL
@@ -1659,7 +1678,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Port to dealer,True,DealerHold,JTDAAAAF7P3007501,Carlson Toyota,MN
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF7P3007515,Spitzer Toyota,PA
 2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,Port to dealer,False,Available,JTDAAAAF7P3007532,Oakes Toyota,MS
-2023,XLE,GRAY ME.,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF7P3007563,Principle Toyota of Hernando,MS
+2023,XLE,GRAY ME.,AWD,39950,0.0,39950.0,Port to dealer,False,Available,JTDAAAAF7P3007563,Principle Toyota of Hernando,MS
 2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF7P3007580,Bruner Toyota,TX
 2023,XLE,HEAVY METAL,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF7P3007594,Fred Haas Toyota Country,TX
 2023,Limited,HEAVY METAL,AWD,45550,1495.0,47045.0,Factory to port,False,Available,JTDAAAAF7P3007613,Toyota of Fort Worth,TX
@@ -1673,7 +1692,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF7P3007773,Dick Hannah Toyota,WA
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF7P3007790,Claremont Toyota,CA
 2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF7P3007806,Toyota of Muncie,IN
-2023,XLE,GRAY ME.,AWD,39950,4169.0,44119.0,Port to dealer,False,Available,JTDAAAAF7P3007840,Poe Toyota,TX
+2023,XLE,GRAY ME.,AWD,39950,4169.0,44119.0,At dealer,False,Available,JTDAAAAF7P3007840,Poe Toyota,TX
 2023,Limited,Oxygen White,AWD,45550,2098.0,47648.0,Port to dealer,True,DealerHold,JTDAAAAF7P3007868,Toyota of Surprise,AZ
 2023,Limited,Black Onyx,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF7P3007871,Toyota of Plano,TX
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF7P3007885,Kenny Kent Toyota,IN
@@ -1696,7 +1715,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,OXYGEN WHITE,AWD,45550,2299.0,47849.0,Factory to port,False,Available,JTDAAAAF7P3008230,Round Rock Toyota,TX
 2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF7P3008258,Gene Messer Toyota,TX
 2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF7P3008275,DCH Brunswick Toyota,NJ
-2023,XLE,GRAY ME.,AWD,39950,995.0,40945.0,At dealer,False,Available,JTDAAAAF7P3008289,Toyota of Slidell,LA
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF7P3008308,Classic Toyota,OH
 2023,XLE,Black,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF7P3008311,Claremont Toyota,CA
 2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,Port to dealer,False,Available,JTDAAAAF7P3008325,Shottenkirk Toyota,IL
@@ -1732,12 +1750,13 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF7P3008972,Napleton's Toyota of Urbana,IL
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF7P3009006,Camelback Toyota,AZ
 2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF7P3009037,Sheehy Toyota of Laurel,MD
+2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF7P3009040,Hoselton Toyota,NY
 2023,XLE,OXYGEN WHITE,AWD,39950,0.0,39950.0,Factory to port,True,Available,JTDAAAAF7P3009071,Shottenkirk Toyota Weatherford,TX
 2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF7P3009085,Mungenast Alton Toyota,IL
-2023,Limited,Heavy Metal,AWD,45550,2295.0,47845.0,Port to dealer,False,,JTDAAAAF7P3009099,Desert Toyota of Tucson,AZ
+2023,Limited,Heavy Metal,AWD,45550,2295.0,47845.0,At dealer,False,,JTDAAAAF7P3009099,Desert Toyota of Tucson,AZ
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF7P3009118,I-10 Toyota,CA
 2023,XLE,OXYGEN WHITE,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF7P3009121,J. Allen Toyota,MS
-2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF7P3009135,Plaza Toyota,NY
+2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF7P3009135,Plaza Toyota,NY
 2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF7P3009152,Wagner Toyota,NE
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF7P3009166,Heritage Toyota Owings Mills,MD
 2023,XLE,BLACK,AWD,39950,599.0,40549.0,Factory to port,False,Available,JTDAAAAF7P3009183,South Toyota,TX
@@ -1779,16 +1798,16 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Magnetic Gray Metallic,AWD,39950,7282.0,47232.0,Factory to port,False,,JTDAAAAF7P3009863,Toyota of Kirkland,WA
 2023,XLE,OXYGEN WHITE,AWD,39950,2995.0,42945.0,Factory to port,False,Available,JTDAAAAF7P3009877,Jim Norton Toyota of Oklahoma City,OK
 2023,XLE,SUPERSONIC RED,AWD,39950,1098.0,41048.0,Factory to port,False,Available,JTDAAAAF7P3009894,Toyota of Cedar Park,TX
-2023,Limited,PRECIOUS METAL,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF7P3009927,Toyota of Denton,TX
+2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF7P3009913,Fernelius Toyota,MI
 2023,XLE,OXYGEN WHITE,AWD,39950,2980.0,42930.0,Factory to port,False,Available,JTDAAAAF7P3009930,Toyota of Longview,TX
 2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF7P3009961,Fremont Toyota,CA
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF7P3009975,McCarthy Toyota of Sedalia,MO
-2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF7P3009989,Marion Toyota,IL
-2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF7P3010012,Pauly Toyota,IL
+2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAF7P3010012,Pauly Toyota,IL
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF7P3010060,Toyota of Lincoln Park,IL
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF7P3010074,Roswell Toyota,NM
 2023,XLE,Oxygen White,AWD,39950,395.0,40345.0,Factory to port,False,,JTDAAAAF7P3010091,Toyota 101,CA
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF7P3010107,Haley Toyota of Richmond,VA
+2023,XLE,OXYGEN WHITE,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF7P3010124,Carlock Toyota of Tupelo,MS
 2023,XLE,OXYGEN WHITE,AWD,39950,1875.0,41825.0,Factory to port,False,DealerHold,JTDAAAAF7P3010138,Red McCombs Toyota,TX
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF7P3010169,Toyota of North Hollywood,CA
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF7P3010172,Plaza Toyota,NY
@@ -1813,11 +1832,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF7P3010687,Lithia Toyota of Springfield,OR
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF7P3010723,McDaniel Toyota,OH
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF7P3010754,Conicelli Toyota,PA
+2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF7P3010771,Alderman's Toyota,VT
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF7P3010785,Shelor Toyota,VA
-2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF7P3010799,Fox Toyota,MI
+2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,DealerHold,JTDAAAAF7P3010799,Fox Toyota,MI
 2023,Limited,Magnetic Gray Metallic,AWD,45550,3525.0,49075.0,Factory to port,False,,JTDAAAAF7P3010804,Toyota of Turnersville,NJ
-2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF7P3010818,Williams Toyota of Sayre,PA
-2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF7P3010821,Kokomo Toyota,IN
+2023,Limited,Oxygen White,AWD,45550,1495.0,47045.0,Factory to port,False,,JTDAAAAF7P3010821,Kokomo Toyota,IN
 2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF7P3010933,Andy Mohr Toyota,IN
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAF7P3010947,Edmark Toyota,ID
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF7P3010981,Toyota Place,CA
@@ -1838,12 +1857,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF8P3005675,East Coast Toyota,NJ
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF8P3005868,Carlson Toyota,MN
 2023,XLE,Supersonic Red,AWD,39950,2250.0,42200.0,At dealer,False,,JTDAAAAF8P3005904,Toyota of Manhattan,NY
-2023,Limited,MAGNETIC GRAY METALLIC,AWD,45550,5000.0,50550.0,At dealer,False,Available,JTDAAAAF8P3005921,Toyota of New Orleans,LA
 2023,XLE,Black,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF8P3005935,Andy Mohr Toyota,IN
 2023,Limited,OXYGEN WHITE,AWD,45550,995.0,46545.0,At dealer,False,Available,JTDAAAAF8P3006003,Toyota of Slidell,LA
 2023,XLE,Oxygen White,AWD,39950,4490.0,44440.0,Port to dealer,False,,JTDAAAAF8P3006017,Berge Toyota,AZ
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Port to dealer,False,DealerHold,JTDAAAAF8P3006129,Motor Inn Toyota of Carroll,IA
-2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,At dealer,True,DealerHold,JTDAAAAF8P3006132,Seeger Toyota of St. Robert,MO
 2023,XLE,HEAVY METAL,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF8P3006258,John Harvey Toyota,LA
 2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF8P3006342,Walker Toyota,LA
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF8P3006356,Toyota on Edens,IL
@@ -1855,7 +1872,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Black,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF8P3006681,Ramey Toyota,WV
 2023,Limited,HEAVY METAL,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF8P3006695,Vandergriff Toyota,TX
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF8P3006731,Greentree Toyota,CT
-2023,Limited,Oxygen White,AWD,45550,1695.0,47245.0,At dealer,True,DealerHold,JTDAAAAF8P3006776,Anderson Toyota,AZ
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF8P3006793,Toyota of Muskegon,MI
 2023,XLE,Black,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF8P3006809,Corwin Toyota of Bellevue,NE
 2023,Limited,OXYGEN WHITE,AWD,45550,5000.0,50550.0,Factory to port,False,Available,JTDAAAAF8P3006874,Toyota of Dallas,TX
@@ -1863,6 +1879,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Black,AWD,45550,0.0,45550.0,Port to dealer,False,Available,JTDAAAAF8P3006907,Ira Toyota,MA
 2023,XLE,HEAVY METAL,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF8P3006969,Don McGill Toyota,TX
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF8P3007023,Frankfort Toyota,KY
+2023,Limited,Black,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF8P3007037,Falmouth Toyota,MA
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Port to dealer,False,DealerHold,JTDAAAAF8P3007054,Twin City Toyota,MO
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF8P3007085,Toyota Town,CA
 2023,Limited,Black,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF8P3007135,Rolling Hills Toyota,MO
@@ -1875,7 +1892,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAF8P3007328,Toyota of Morristown,NJ
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF8P3007331,Toyota West,OH
 2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF8P3007345,Yokem Toyota,LA
-2023,XLE,HEAVY METAL,AWD,39950,3490.0,43440.0,Port to dealer,False,Available,JTDAAAAF8P3007359,Fred Haas Toyota World,TX
+2023,XLE,HEAVY METAL,AWD,39950,3490.0,43440.0,At dealer,False,Available,JTDAAAAF8P3007359,Fred Haas Toyota World,TX
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Port to dealer,True,DealerHold,JTDAAAAF8P3007409,Rochester Toyota,MN
 2023,Limited,OXYGEN WHITE,AWD,45550,2895.0,48445.0,Factory to port,True,Available,JTDAAAAF8P3007474,Jim Norton Toyota,OK
 2023,XLE,Black,AWD,39950,0.0,39950.0,Port to dealer,True,DealerHold,JTDAAAAF8P3007488,Luther Brookdale Toyota,MN
@@ -1884,12 +1901,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF8P3007569,McCarthy Toyota of Sedalia,MO
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF8P3007605,Watermark Toyota,KY
 2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF8P3007622,Cronin Toyota of  Richmond,IN
-2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Port to dealer,False,Available,JTDAAAAF8P3007636,Ardmore Toyota,PA
+2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Port to dealer,False,DealerHold,JTDAAAAF8P3007636,Ardmore Toyota,PA
 2023,XLE,GRAY ME.,AWD,39950,0.0,39950.0,At dealer,True,Available,JTDAAAAF8P3007653,Sterling McCall Toyota Fort Bend,TX
 2023,Limited,Black Onyx,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF8P3007667,Doc's Toyota,MS
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF8P3007698,Marina Del Rey Toyota,CA
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF8P3007717,Heritage Toyota Harrisburg,PA
-2023,Limited,HEAVY METAL,AWD,45550,0.0,45550.0,Port to dealer,False,Available,JTDAAAAF8P3007734,Yokem Toyota,LA
+2023,Limited,HEAVY METAL,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF8P3007734,Yokem Toyota,LA
 2023,XLE,HEAVY METAL,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF8P3007748,Mike Calvert Toyota,TX
 2023,Limited,Black Onyx,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF8P3007779,Vic Vaughan Toyota of Boerne,TX
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,DealerHold,JTDAAAAF8P3007829,Zanesville Toyota,OH
@@ -1903,10 +1920,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF8P3007975,John Roberts Toyota,TN
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF8P3007992,Bill Page Toyota,VA
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF8P3008012,Diehl Toyota of Butler,PA
-2023,Limited,Black,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF8P3008026,Toyota Universe,NJ
 2023,XLE,HEAVY METAL,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF8P3008043,Toyota of New Orleans,LA
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF8P3008057,Berlin City Toyota of Portland,ME
-2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF8P3008060,Waldorf Toyota,MD
+2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF8P3008060,Waldorf Toyota,MD
 2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAF8P3008074,Ball Toyota of Charleston,WV
 2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,Port to dealer,False,DealerHold,JTDAAAAF8P3008088,Kings Toyota,OH
 2023,Limited,Black,AWD,45550,0.0,45550.0,Port to dealer,True,,JTDAAAAF8P3008110,Toyota of Des Moines,IA
@@ -1920,10 +1936,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Black Onyx,AWD,45550,3490.0,49040.0,Factory to port,False,Available,JTDAAAAF8P3008284,Fred Haas Toyota World,TX
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF8P3008320,Serra Toyota of Traverse City,MI
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF8P3008334,Sheehy Toyota of Laurel,MD
-2023,Limited,Oxygen White,AWD,45550,7146.0,52696.0,Port to dealer,False,,JTDAAAAF8P3008348,Toyota of Turnersville,NJ
+2023,Limited,Oxygen White,AWD,45550,3525.0,49075.0,Port to dealer,False,,JTDAAAAF8P3008348,Toyota of Turnersville,NJ
 2023,XLE,HEAVY METAL,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF8P3008351,Toyota of Fayetteville,AR
 2023,Limited,SUPERSONIC RED,AWD,45550,1495.0,47045.0,Factory to port,False,Available,JTDAAAAF8P3008365,Toyota of Fort Worth,TX
-2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,Factory to port,True,Available,JTDAAAAF8P3008379,Fred Haas Toyota Country,TX
+2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF8P3008379,Fred Haas Toyota Country,TX
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF8P3008401,Route 22 Toyota,NJ
 2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF8P3008429,Johnstons Toyota,NY
 2023,Limited,Black Onyx,AWD,45550,2990.0,48540.0,Factory to port,False,DealerHold,JTDAAAAF8P3008463,Fred Haas Toyota World,TX
@@ -2001,7 +2017,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF8P3010049,Modesto Toyota,CA
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF8P3010066,Toyota City,NY
 2023,Limited,PRECIOUS METAL,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF8P3010083,Texas Toyota of Grapevine,TX
-2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF8P3010097,Elgin Toyota,IL
+2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,True,DealerHold,JTDAAAAF8P3010097,Elgin Toyota,IL
 2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF8P3010116,Shelor Toyota,VA
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF8P3010147,Pohanka Toyota of Salisbury,MD
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF8P3010150,Del Toyota,PA
@@ -2011,7 +2027,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF8P3010214,Island Toyota,NY
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF8P3010231,Sheehy Toyota of Laurel,MD
 2023,XLE,OXYGEN WHITE,AWD,39950,1098.0,41048.0,Factory to port,False,Available,JTDAAAAF8P3010245,Toyota of Cedar Park,TX
+2023,XLE,Black,AWD,39950,2490.0,42440.0,Factory to port,False,,JTDAAAAF8P3010293,Toyota of El Cajon,CA
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF8P3010309,Right Toyota,AZ
+2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF8P3010326,Victory Toyota of Midtown,IL
 2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF8P3010357,Bergeron Toyota,MI
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF8P3010424,Right Toyota,AZ
 2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF8P3010441,Parkway Toyota,NJ
@@ -2031,7 +2049,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF8P3010682,Centennial Toyota,NV
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF8P3010729,Coad Toyota Paducah,KY
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF8P3010763,Summit Toyota of Akron,OH
-2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF8P3010777,Sam Leman Toyota Bloomington,IL
+2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAF8P3010777,Sam Leman Toyota Bloomington,IL
 2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF8P3010844,Pearson Toyota,VA
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF8P3010858,Santa Margarita Toyota,CA
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF8P3010861,Tony Divino Toyota,UT
@@ -2057,21 +2075,20 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF9P3005457,Toyota of Vero Beach,FL
 2023,Limited,PRECIOUS METAL,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF9P3005507,John O'Neil Johnson Toyota,MS
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF9P3005930,Westbrook Toyota,CT
-2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,At dealer,True,DealerHold,JTDAAAAF9P3005961,Labadie Toyota,MI
 2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF9P3006043,Performance Motors Toyota,PA
 2023,XLE,GRAY ME.,AWD,39950,648.0,40598.0,At dealer,False,Available,JTDAAAAF9P3006088,Don Ringler Toyota,TX
 2023,Limited,HEAVY METAL,AWD,45550,7995.0,53545.0,At dealer,False,Available,JTDAAAAF9P3006107,Bryan College Station Toyota,TX
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,At dealer,False,DealerHold,JTDAAAAF9P3006155,Jordan Toyota,IN
-2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF9P3006253,Toyota of Stamford,CT
+2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF9P3006253,Toyota of Stamford,CT
 2023,XLE,Black,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF9P3006317,Kendall Toyota of Bend,OR
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF9P3006379,Aubrey Alexander Toyota,PA
 2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF9P3006382,Gault Toyota,NY
 2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF9P3006429,DCH Brunswick Toyota,NJ
-2023,XLE,Black,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF9P3006463,Oakbrook Toyota in Westmont,IL
-2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAF9P3006477,"Cedar Rapids Toyota, Inc.",IA
+2023,XLE,Black,AWD,39950,0.0,39950.0,At dealer,False,DealerHold,JTDAAAAF9P3006463,Oakbrook Toyota in Westmont,IL
 2023,Limited,OXYGEN WHITE,AWD,45550,399.0,45949.0,At dealer,False,Available,JTDAAAAF9P3006544,Supreme Toyota of Hammond,LA
-2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Port to dealer,False,DealerHold,JTDAAAAF9P3006558,Jay Wolfe Toyota of West County,MO
+2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAF9P3006558,Jay Wolfe Toyota of West County,MO
 2023,XLE,Black,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF9P3006561,Sam Leman Toyota Bloomington,IL
+2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF9P3006575,Lia Toyota of Colonie,NY
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAF9P3006592,John Weiss' Toyota of South County,MO
 2023,XLE,SUPERSONIC RED,AWD,39950,0.0,39950.0,Factory to port,True,DealerHold,JTDAAAAF9P3006608,Toyota of Irving,TX
 2023,XLE,Black,AWD,39950,888.0,40838.0,At dealer,False,,JTDAAAAF9P3006611,Romeoville Toyota,IL
@@ -2097,22 +2114,22 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF9P3007130,Thompson Toyota,PA
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF9P3007144,Hartford Toyota,CT
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Port to dealer,True,Available,JTDAAAAF9P3007161,Hesser Toyota,WI
-2023,XLE,OXYGEN WHITE,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF9P3007192,North Park Toyota of San Antonio,TX
+2023,XLE,OXYGEN WHITE,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAF9P3007192,North Park Toyota of San Antonio,TX
 2023,XLE,HEAVY METAL,AWD,39950,1875.0,41825.0,Factory to port,True,Available,JTDAAAAF9P3007208,Red McCombs Toyota,TX
 2023,XLE,Black,AWD,39950,0.0,39950.0,Port to dealer,False,Available,JTDAAAAF9P3007242,Rudy Luther Toyota,MN
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF9P3007323,Premier Toyota of Amherst,OH
+2023,Limited,HEAVY METAL,AWD,45550,1995.0,47545.0,At dealer,False,Available,JTDAAAAF9P3007354,Cavender Toyota,TX
 2023,XLE,Black,AWD,39950,0.0,39950.0,Port to dealer,False,Available,JTDAAAAF9P3007385,DCH Brunswick Toyota,NJ
 2023,Limited,Black Onyx,AWD,45550,1599.0,47149.0,Factory to port,True,DealerHold,JTDAAAAF9P3007418,Fowler Toyota,OK
 2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAF9P3007421,Peruzzi Toyota,PA
 2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,Port to dealer,False,DealerHold,JTDAAAAF9P3007466,Ruda Chevrolet/Toyota,WI
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,DealerHold,JTDAAAAF9P3007497,Brewer Airport Toyota,PA
 2023,Limited,Black,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF9P3007516,Dolan Toyota,NV
-2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF9P3007547,Bert Ogden Toyota of Harlingen,TX
 2023,Limited,OXYGEN WHITE,AWD,45550,2294.0,47844.0,Factory to port,False,Available,JTDAAAAF9P3007564,Team Toyota,LA
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF9P3007595,Baxter Toyota of La Vista,NE
 2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAF9P3007600,Tri County Toyota,PA
 2023,XLE,Supersonic Red,AWD,39950,1999.0,41949.0,At dealer,False,,JTDAAAAF9P3007614,Foothills Toyota,WA
-2023,XLE,HEAVY METAL,AWD,39950,1495.0,41445.0,Port to dealer,False,Available,JTDAAAAF9P3007659,Sterling McCall Toyota,TX
+2023,XLE,HEAVY METAL,AWD,39950,1495.0,41445.0,At dealer,False,Available,JTDAAAAF9P3007659,Sterling McCall Toyota,TX
 2023,XLE,Black,AWD,39950,1278.0,41228.0,At dealer,False,,JTDAAAAF9P3007662,AutoNation Toyota Irvine,CA
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Port to dealer,False,DealerHold,JTDAAAAF9P3007676,Graham Toyota,OH
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,At dealer,False,DealerHold,JTDAAAAF9P3007693,Price Toyota,DE
@@ -2128,11 +2145,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,GRAY ME.,AWD,45550,0.0,45550.0,Port to dealer,True,DealerHold,JTDAAAAF9P3007872,Pat Lobb Toyota of McKinney,TX
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF9P3007886,Ernst Toyota,NE
 2023,Limited,HEAVY METAL,AWD,45550,0.0,45550.0,Port to dealer,False,Available,JTDAAAAF9P3007905,Toyota of Denton,TX
-2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAF9P3007919,Peterson Toyota,ID
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF9P3007953,Fox Toyota of Cadillac,MI
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF9P3007984,Brunswick Toyota,OH
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAF9P3007998,Bob Smith Toyota,CA
-2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAF9P3008018,Ira Toyota,MA
+2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF9P3008018,Ira Toyota,MA
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAF9P3008066,Toyota on Nicholasville,KY
 2023,XLE,Black,AWD,39950,0.0,39950.0,Port to dealer,False,Available,JTDAAAAF9P3008083,Schaumburg Toyota,IL
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF9P3008102,Ourisman Fairfax Toyota,VA
@@ -2147,7 +2163,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Oxygen White,AWD,45550,3568.0,49118.0,Port to dealer,False,,JTDAAAAF9P3008326,Bell Road Toyota,AZ
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF9P3008360,Toyota Carlsbad,CA
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAF9P3008374,Penske Toyota,CA
-2023,Limited,GRAY ME.,AWD,45550,0.0,45550.0,Port to dealer,False,Available,JTDAAAAF9P3008438,Don McGill Toyota of Katy,TX
+2023,Limited,GRAY ME.,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAF9P3008438,Don McGill Toyota of Katy,TX
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF9P3008486,Auburn Toyota,CA
 2023,XLE,GRAY ME.,AWD,39950,3493.0,43443.0,Factory to port,False,Available,JTDAAAAF9P3008536,Keating Toyota,TX
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Port to dealer,True,,JTDAAAAF9P3008553,Toyota of Boardman,OH
@@ -2177,7 +2193,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Port to dealer,True,,JTDAAAAF9P3008956,Avondale Toyota,AZ
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF9P3008987,Cumberland Toyota,TN
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF9P3009010,Checkered Flag Toyota,VA
-2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Port to dealer,False,DealerHold,JTDAAAAF9P3009024,Tony Divino Toyota,UT
+2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAF9P3009024,Tony Divino Toyota,UT
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAF9P3009041,Claremont Toyota,CA
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF9P3009055,Thompson Toyota,PA
 2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF9P3009069,Toyota of Scranton,PA
@@ -2186,7 +2202,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF9P3009217,DARCARS Toyota,MD
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF9P3009220,AutoNation Toyota Leesburg,VA
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Port to dealer,True,DealerHold,JTDAAAAF9P3009234,Kerry Toyota,KY
-2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAF9P3009248,Coggins Toyota of Bennington,VT
+2023,Limited,Black,AWD,45550,0.0,45550.0,Port to dealer,False,DealerHold,JTDAAAAF9P3009248,Coggins Toyota of Bennington,VT
 2023,Limited,OXYGEN WHITE,AWD,45550,2895.0,48445.0,Factory to port,False,Available,JTDAAAAF9P3009251,Jim Norton Toyota,OK
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF9P3009265,Tri County Toyota,PA
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF9P3009279,Toyota on Nicholasville,KY
@@ -2227,11 +2243,13 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,OXYGEN WHITE,AWD,39950,1098.0,41048.0,Factory to port,False,Available,JTDAAAAF9P3010111,Toyota of Cedar Park,TX
 2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF9P3010125,Ken Nelson Toyota,IL
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAF9P3010139,Heritage Toyota Owings Mills,MD
+2023,XLE,OXYGEN WHITE,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAF9P3010142,Red River Toyota,AR
 2023,XLE,SUPERSONIC RED,AWD,39950,1098.0,41048.0,Factory to port,False,DealerHold,JTDAAAAF9P3010156,Toyota of Cedar Park,TX
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF9P3010173,Northway Toyota,NY
 2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF9P3010187,Principle Toyota,TN
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,DealerHold,JTDAAAAF9P3010190,Kings Toyota,OH
 2023,Limited,SUPERSONIC RED,AWD,45550,2895.0,48445.0,Factory to port,False,Available,JTDAAAAF9P3010206,Jim Norton Toyota,OK
+2023,XLE,Oxygen White,AWD,39950,1995.0,41945.0,Factory to port,False,,JTDAAAAF9P3010237,Berge Toyota,AZ
 2023,Limited,PRECIOUS METAL,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAF9P3010240,Lithia Toyota of Abilene,TX
 2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,DealerHold,JTDAAAAF9P3010254,Kings Toyota,OH
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAF9P3010268,Earnhardt Toyota,AZ
@@ -2280,34 +2298,32 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAFXP3005063,Fitzgerald Toyota Chambersburg,PA
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAFXP3005239,Ken Ganley Toyota Akron,OH
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAFXP3005516,Newburgh Toyota,NY
-2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Port to dealer,False,Available,JTDAAAAFXP3005693,Adams Toyota Lee's Summit,MO
-2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Port to dealer,False,DealerHold,JTDAAAAFXP3005757,Joe Machens Toyota,MO
+2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAFXP3005693,Adams Toyota Lee's Summit,MO
+2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAFXP3005757,Joe Machens Toyota,MO
 2023,Limited,Black,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAFXP3005953,Team Toyota,NE
-2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,At dealer,False,DealerHold,JTDAAAAFXP3006004,Performance Toyota,OH
 2023,XLE,SUPERSONIC RED,AWD,39950,3995.0,43945.0,At dealer,False,Available,JTDAAAAFXP3006052,Gregg Orr Toyota,AR
 2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAFXP3006116,Allegheny Toyota,PA
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAFXP3006360,Toyota of Fox Lake,IL
+2023,XLE,Supersonic Red,AWD,39950,0.0,39950.0,At dealer,False,DealerHold,JTDAAAAFXP3006374,Riverside Toyota,MI
 2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAFXP3006407,Nalley Toyota of Roswell,GA
 2023,XLE,HEAVY METAL,AWD,39950,1495.0,41445.0,At dealer,False,Available,JTDAAAAFXP3006410,Price LeBlanc Toyota,LA
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAFXP3006469,Diehl Toyota of Butler,PA
 2023,Limited,Black,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAFXP3006486,Grappone Toyota,NH
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAFXP3006505,Robinson Toyota,TN
-2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAFXP3006536,McCarthy Toyota of Sedalia,MO
-2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,Port to dealer,True,Available,JTDAAAAFXP3006570,Bert Ogden Toyota of Harlingen,TX
+2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAFXP3006536,McCarthy Toyota of Sedalia,MO
+2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,At dealer,True,Available,JTDAAAAFXP3006570,Bert Ogden Toyota of Harlingen,TX
 2023,Limited,GRAY ME.,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAFXP3006620,Freeman Toyota,TX
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAFXP3006651,Mechanicsville Toyota,VA
-2023,XLE,Black Onyx,AWD,39950,6795.0,46745.0,Port to dealer,True,Available,JTDAAAAFXP3006665,Universal Toyota,TX
+2023,XLE,Black Onyx,AWD,39950,6795.0,46745.0,Port to dealer,False,Available,JTDAAAAFXP3006665,Universal Toyota,TX
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Port to dealer,True,,JTDAAAAFXP3006715,Toyota of Des Moines,IA
 2023,XLE,HEAVY METAL,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAFXP3006729,Family Toyota of Burleson,TX
 2023,Limited,GRAY ME.,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAFXP3006746,Don McGill Toyota of Katy,TX
-2023,Limited,GRAY ME.,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAFXP3006763,Mike Calvert Toyota,TX
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAFXP3006794,Bobby Rahal Toyota,PA
-2023,XLE,GRAY ME.,AWD,39950,0.0,39950.0,Port to dealer,False,Available,JTDAAAAFXP3006858,Family Toyota of Burleson,TX
+2023,XLE,GRAY ME.,AWD,39950,0.0,39950.0,At dealer,False,Available,JTDAAAAFXP3006858,Family Toyota of Burleson,TX
 2023,Limited,HEAVY METAL,AWD,45550,0.0,45550.0,Port to dealer,False,Available,JTDAAAAFXP3006861,Toyota of Mt. Pleasant,TX
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Port to dealer,True,Available,JTDAAAAFXP3006875,Crown Toyota,MI
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAFXP3006889,Hertrich Toyota,DE
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAFXP3006892,East Coast Toyota,NJ
-2023,Limited,OXYGEN WHITE,AWD,45550,2995.0,48545.0,At dealer,False,Available,JTDAAAAFXP3006908,Toyota of Victoria,TX
 2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAFXP3006925,Post Oak Toyota,OK
 2023,Limited,HEAVY METAL,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAFXP3006939,Principle Toyota of Hernando,MS
 2023,Limited,HEAVY METAL,AWD,45550,1098.0,46648.0,At dealer,False,Available,JTDAAAAFXP3007010,Toyota of Cedar Park,TX
@@ -2316,14 +2332,14 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,DealerHold,JTDAAAAFXP3007069,355 Toyota,MD
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAFXP3007086,Toyota Universe,NJ
 2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAFXP3007105,Toyota of Manhattan,NY
-2023,Limited,HEAVY METAL,AWD,45550,0.0,45550.0,Factory to port,True,Available,JTDAAAAFXP3007119,Philpott Toyota,TX
+2023,Limited,HEAVY METAL,AWD,45550,0.0,45550.0,Port to dealer,True,Available,JTDAAAAFXP3007119,Philpott Toyota,TX
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAFXP3007136,Toyota of Somerset,KY
 2023,XLE,HEAVY METAL,AWD,39950,499.0,40449.0,Factory to port,False,Available,JTDAAAAFXP3007170,Caldwell Toyota,AR
 2023,Limited,Black,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAFXP3007248,Coad Toyota Paducah,KY
 2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAFXP3007296,Toyota City,NY
 2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAFXP3007315,Jim Coleman Toyota,MD
 2023,Limited,OXYGEN WHITE,AWD,45550,1875.0,47425.0,Factory to port,True,Available,JTDAAAAFXP3007329,Red McCombs Toyota,TX
-2023,XLE,Black Onyx,AWD,39950,3495.0,43445.0,Port to dealer,False,Available,JTDAAAAFXP3007332,Toyota of Irving,TX
+2023,XLE,Black Onyx,AWD,39950,3495.0,43445.0,At dealer,False,DealerHold,JTDAAAAFXP3007332,Toyota of Irving,TX
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAFXP3007346,Beaman Toyota,TN
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAFXP3007394,Frankfort Toyota,KY
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAFXP3007413,Toyota of Hollywood,CA
@@ -2333,25 +2349,23 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAFXP3007461,Toyota of Murray,KY
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAFXP3007489,Napleton's Toyota of Urbana,IL
 2023,Limited,Black,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAFXP3007508,Toyota South,KY
-2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,DealerHold,JTDAAAAFXP3007511,Visalia Toyota,CA
 2023,XLE,Black,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAFXP3007539,Cochran Toyota,PA
 2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAFXP3007542,Boch Toyota,MA
 2023,Limited,HEAVY METAL,AWD,45550,1495.0,47045.0,At dealer,False,Available,JTDAAAAFXP3007556,Bohn Toyota,LA
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAFXP3007573,Bernardi Toyota,MA
-2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAFXP3007587,Santa Cruz Toyota,CA
 2023,Limited,Black Onyx,AWD,45550,1995.0,47545.0,At dealer,False,Available,JTDAAAAFXP3007606,Toyota of Killeen,TX
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAFXP3007623,Irwin Toyota,NH
 2023,Limited,Black,AWD,45550,0.0,45550.0,Port to dealer,False,DealerHold,JTDAAAAFXP3007718,SVG Toyota,OH
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAFXP3007735,Camelback Toyota,AZ
-2023,XLE,Supersonic Red,AWD,39950,3568.0,43518.0,Port to dealer,False,,JTDAAAAFXP3007749,Bell Road Toyota,AZ
+2023,XLE,Supersonic Red,AWD,39950,3568.0,43518.0,At dealer,False,,JTDAAAAFXP3007749,Bell Road Toyota,AZ
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Port to dealer,False,DealerHold,JTDAAAAFXP3007752,Le Mieux & Son Toyota,WI
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAFXP3007766,Germain Toyota of Columbus,OH
 2023,Limited,OXYGEN WHITE,AWD,45550,2995.0,48545.0,Factory to port,False,Available,JTDAAAAFXP3007783,Jim Norton Toyota of Oklahoma City,OK
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAFXP3007833,Toyota on Edens,IL
-2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,At dealer,True,Available,JTDAAAAFXP3007864,J. Allen Toyota,MS
-2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,Factory to port,True,DealerHold,JTDAAAAFXP3007878,Toyota of Ardmore,OK
+2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,At dealer,False,Available,JTDAAAAFXP3007864,J. Allen Toyota,MS
+2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,Port to dealer,True,DealerHold,JTDAAAAFXP3007878,Toyota of Ardmore,OK
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAFXP3007900,Toyota of Southern Maryland,MD
-2023,Limited,OXYGEN WHITE,AWD,45550,1875.0,47425.0,Port to dealer,True,Available,JTDAAAAFXP3007928,Red McCombs Toyota,TX
+2023,Limited,OXYGEN WHITE,AWD,45550,1875.0,47425.0,At dealer,True,Available,JTDAAAAFXP3007928,Red McCombs Toyota,TX
 2023,Limited,SUPERSONIC RED,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAFXP3007962,Toyota of Pharr,TX
 2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAFXP3007976,Lakeside Toyota,LA
 2023,Limited,GRAY ME.,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAFXP3007993,J. Allen Toyota,MS
@@ -2360,9 +2374,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,At dealer,False,,JTDAAAAFXP3008044,Hamer Toyota,CA
 2023,Limited,GRAY ME.,AWD,45550,2895.0,48445.0,Factory to port,False,Available,JTDAAAAFXP3008058,Jim Norton Toyota,OK
 2023,Limited,Black,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAFXP3008061,Advantage Toyota,NY
-2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAFXP3008075,Toyota of Dartmouth,MA
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAFXP3008089,Toyota of Bowie,MD
-2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,At dealer,False,DealerHold,JTDAAAAFXP3008092,Koons Tysons Toyota,VA
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Port to dealer,True,DealerHold,JTDAAAAFXP3008108,Mark Toyota of Plover,WI
 2023,Limited,Oxygen White,AWD,45550,2295.0,47845.0,Port to dealer,False,,JTDAAAAFXP3008125,Desert Toyota of Tucson,AZ
 2023,Limited,GRAY ME.,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAFXP3008142,Brownsville Toyota,TX
@@ -2412,14 +2424,14 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Heavy Metal,AWD,39950,3996.0,43946.0,Factory to port,False,,JTDAAAAFXP3009047,Rodland Toyota,WA
 2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAFXP3009050,Colonial Toyota,CT
 2023,XLE,MAGNETIC GRAY METALLIC,AWD,39950,2995.0,42945.0,Factory to port,False,Available,JTDAAAAFXP3009064,Toyota of Victoria,TX
-2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAFXP3009078,Waldorf Toyota,MD
+2023,Limited,Black,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAFXP3009078,Waldorf Toyota,MD
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAFXP3009131,Envision Toyota of West Covina,CA
 2023,XLE,Oxygen White,AWD,39950,1995.0,41945.0,Factory to port,False,,JTDAAAAFXP3009145,Danville Toyota,VA
 2023,Limited,Magnetic Gray Metallic,AWD,45550,1274.0,46824.0,Factory to port,False,,JTDAAAAFXP3009162,Tom Wood Toyota,IN
-2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAFXP3009176,Manhattan Beach Toyota,CA
+2023,Limited,Black,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAFXP3009176,Manhattan Beach Toyota,CA
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAFXP3009193,LaFontaine Toyota,MI
 2023,Limited,PRECIOUS METAL,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAFXP3009209,North Park Toyota of San Antonio,TX
-2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAFXP3009243,Miller Toyota,VA
+2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAFXP3009243,Miller Toyota,VA
 2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAFXP3009257,Family Toyota of Burleson,TX
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAFXP3009260,Romeo Toyota of Glens Falls,NY
 2023,Limited,Black,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAFXP3009274,Thousand Oaks Toyota,CA
@@ -2430,12 +2442,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAFXP3009355,Robinson Toyota,TN
 2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAFXP3009369,Gault Toyota,NY
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Port to dealer,False,,JTDAAAAFXP3009372,Toyota of Clovis,CA
-2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,Port to dealer,False,,JTDAAAAFXP3009386,Centennial Toyota,NV
+2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,At dealer,False,,JTDAAAAFXP3009386,Centennial Toyota,NV
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAFXP3009405,Bennett Toyota of Lebanon,PA
 2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAFXP3009419,Passport Toyota,MD
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,True,,JTDAAAAFXP3009534,Toyota of Greensburg,PA
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAFXP3009548,Ourisman Chantilly Toyota,VA
-2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAFXP3009551,Toyota of Denton,TX
 2023,XLE,Oxygen White,AWD,39950,1295.0,41245.0,Factory to port,False,,JTDAAAAFXP3009596,Jimmy Vasser Toyota,CA
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAFXP3009601,Toyota South,KY
 2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAFXP3009629,Carlson Toyota,MN
@@ -2452,13 +2463,16 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAFXP3009887,Dahl Toyota,MN
 2023,Limited,PRECIOUS METAL,AWD,45550,2190.0,47740.0,Factory to port,False,DealerHold,JTDAAAAFXP3009890,Cannon Toyota,MS
 2023,XLE,OXYGEN WHITE,AWD,39950,3493.0,43443.0,Factory to port,False,Available,JTDAAAAFXP3009923,Keating Toyota,TX
+2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAFXP3009940,Evans Toyota,IN
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAFXP3010005,Smart Toyota,WI
+2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAFXP3010036,Pauly Toyota,IL
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAFXP3010067,Toyota of Laramie,WY
 2023,XLE,OXYGEN WHITE,AWD,39950,0.0,39950.0,Factory to port,False,Available,JTDAAAAFXP3010070,Lakeside Toyota,LA
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAFXP3010084,Big Two Toyota of Chandler,AZ
 2023,Limited,OXYGEN WHITE,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAFXP3010120,Joe Myers Toyota,TX
 2023,XLE,Magnetic Gray Metallic,AWD,39950,3525.0,43475.0,Factory to port,False,Available,JTDAAAAFXP3010232,Toyota of Turnersville,NJ
-2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAFXP3010294,McGeorge Toyota,VA
+2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAFXP3010294,McGeorge Toyota,VA
+2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAFXP3010327,Monken Toyota of Mt. Vernon,IL
 2023,Limited,Black,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAFXP3010375,Empire Toyota of Huntington,NY
 2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAFXP3010392,LaFontaine Toyota,MI
 2023,Limited,Magnetic Gray Metallic,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAFXP3010408,Bergstrom Toyota,WI
@@ -2473,12 +2487,13 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAFXP3010635,DARCARS Toyota,MD
 2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAFXP3010649,Smart Toyota of Quad Cities,IA
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAFXP3010652,Toyota Carlsbad,CA
+2023,XLE,Black,AWD,39950,888.0,40838.0,Factory to port,False,,JTDAAAAFXP3010666,Romeoville Toyota,IL
 2023,Limited,Oxygen White,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAFXP3010697,Toyota of Gallatin,TN
 2023,XLE,Heavy Metal,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAFXP3010702,Hillside Toyota,NY
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAFXP3010733,Advantage Toyota,NY
 2023,XLE,Black,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAFXP3010747,Conicelli Toyota,PA
 2023,XLE,Magnetic Gray Metallic,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAFXP3010764,Brent Brown Toyota,UT
-2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,Available,JTDAAAAFXP3010781,Valenti Toyota,RI
+2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,True,DealerHold,JTDAAAAFXP3010781,Valenti Toyota,RI
 2023,Limited,Heavy Metal,AWD,45550,0.0,45550.0,Factory to port,False,,JTDAAAAFXP3010831,Wondries Toyota,CA
 2023,XLE,Oxygen White,AWD,39950,0.0,39950.0,Factory to port,False,,JTDAAAAFXP3010845,Casey Toyota,VA
 2023,Limited,Supersonic Red,AWD,45550,0.0,45550.0,Factory to port,False,DealerHold,JTDAAAAFXP3010859,Ira Toyota of Manchester,NH
@@ -2497,7 +2512,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Platinum,OXYGEN WHITE,AWD,52350,0.0,52350.0,At dealer,False,Available,JTDAFAAF0P3001783,Vandergriff Toyota,TX
 2023,Platinum,Supersonic Red,AWD,52350,895.0,53245.0,At dealer,False,,JTDAFAAF0P3002111,Bennett Toyota,PA
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,1098.0,53448.0,At dealer,False,Available,JTDAFAAF0P3002142,Toyota of Terre Haute,IN
-2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,Port to dealer,False,DealerHold,JTDAFAAF0P3002190,Cumberland Toyota,TN
+2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,At dealer,False,DealerHold,JTDAFAAF0P3002190,Cumberland Toyota,TN
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,Port to dealer,True,DealerHold,JTDAFAAF0P3002237,AutoNation Toyota Libertyville,IL
 2023,Platinum,BRONZE AGE/BLACK,AWD,52350,0.0,52350.0,At dealer,False,Available,JTDAFAAF0P3002268,Joe Myers Toyota,TX
 2023,Platinum,BRONZE AGE/BLACK,AWD,52350,6795.0,59145.0,Factory to port,True,DealerHold,JTDAFAAF0P3002304,Universal Toyota,TX
@@ -2506,7 +2521,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,Port to dealer,False,DealerHold,JTDAFAAF0P3002433,Seeger Toyota,MO
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,Port to dealer,True,DealerHold,JTDAFAAF0P3002447,Toyota of Greenwich,CT
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,Port to dealer,True,Available,JTDAFAAF0P3002514,St. Cloud Toyota,MN
-2023,Platinum,Black,AWD,52350,0.0,52350.0,Factory to port,False,,JTDAFAAF0P3002528,Hall Toyota Virginia Beach,VA
+2023,Platinum,Black,AWD,52350,0.0,52350.0,Port to dealer,False,,JTDAFAAF0P3002528,Hall Toyota Virginia Beach,VA
 2023,Platinum,Heavy Metal,AWD,52350,0.0,52350.0,Factory to port,False,DealerHold,JTDAFAAF0P3002612,Sam Leman Toyota Bloomington,IL
 2023,Platinum,Magnetic Gray Metallic,AWD,52350,0.0,52350.0,Factory to port,False,,JTDAFAAF0P3002688,Big Two Toyota of Chandler,AZ
 2023,Platinum,Heavy Metal,AWD,52350,0.0,52350.0,Factory to port,False,,JTDAFAAF0P3002755,Beechmont Toyota,OH
@@ -2516,7 +2531,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Platinum,Supersonic Red,AWD,52350,0.0,52350.0,Factory to port,False,,JTDAFAAF0P3002870,Thornhill Toyota,WV
 2023,Platinum,Supersonic Red,AWD,52350,0.0,52350.0,Factory to port,False,,JTDAFAAF0P3002903,Toyota of Anaheim,CA
 2023,Platinum,Supersonic Red,AWD,52350,0.0,52350.0,Factory to port,False,,JTDAFAAF0P3002982,Performance Motors Toyota,PA
-2023,Platinum,Black,AWD,52350,0.0,52350.0,Factory to port,False,DealerHold,JTDAFAAF1P3000724,Beechmont Toyota,OH
 2023,Platinum,Oxygen White,AWD,52350,0.0,52350.0,At dealer,False,DealerHold,JTDAFAAF1P3001369,Irwin Toyota,NH
 2023,Platinum,Magnetic Gray Metallic,AWD,52350,1274.0,53624.0,At dealer,False,,JTDAFAAF1P3001503,Tom Wood Toyota,IN
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,At dealer,False,Available,JTDAFAAF1P3001534,Longo Toyota,CA
@@ -2525,8 +2539,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,At dealer,False,,JTDAFAAF1P3002246,Roswell Toyota,NM
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,At dealer,False,,JTDAFAAF1P3002263,Toyota of Santa Fe,NM
 2023,Platinum,BRONZE AGE/BLACK,AWD,52350,6000.0,58350.0,Factory to port,False,Available,JTDAFAAF1P3002294,Vic Vaughan Toyota of Boerne,TX
-2023,Platinum,BRONZE AGE/BLACK,AWD,52350,1875.0,54225.0,Factory to port,False,Available,JTDAFAAF1P3002313,Red McCombs Toyota,TX
-2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,Port to dealer,False,DealerHold,JTDAFAAF1P3002327,Toyota of Nashua,NH
+2023,Platinum,BRONZE AGE/BLACK,AWD,52350,1875.0,54225.0,Port to dealer,False,Available,JTDAFAAF1P3002313,Red McCombs Toyota,TX
+2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,At dealer,False,DealerHold,JTDAFAAF1P3002327,Toyota of Nashua,NH
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,Port to dealer,False,Available,JTDAFAAF1P3002439,AutoNation Toyota Hayward,CA
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,Port to dealer,False,,JTDAFAAF1P3002456,Nashville Toyota North,TN
 2023,Platinum,Supersonic Red,AWD,52350,0.0,52350.0,Factory to port,False,,JTDAFAAF1P3002554,Buckhannon Toyota,WV
@@ -2542,7 +2556,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Platinum,Black,AWD,52350,0.0,52350.0,At dealer,False,DealerHold,JTDAFAAF2P3000294,Groove Toyota,CO
 2023,Platinum,Oxygen White,AWD,52350,0.0,52350.0,At dealer,False,Available,JTDAFAAF2P3001753,Koons Tysons Toyota,VA
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,At dealer,False,,JTDAFAAF2P3001932,Hoffman Toyota,CT
-2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,Port to dealer,False,,JTDAFAAF2P3002336,Curry Toyota,NY
+2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,At dealer,False,,JTDAFAAF2P3002336,Curry Toyota,NY
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,At dealer,False,,JTDAFAAF2P3002353,AutoNation Toyota Arapahoe,CO
 2023,Platinum,Black,AWD,52350,0.0,52350.0,At dealer,False,Available,JTDAFAAF2P3002403,Del Toyota,PA
 2023,Platinum,Supersonic Red,AWD,52350,0.0,52350.0,Port to dealer,False,,JTDAFAAF2P3002448,First Team Toyota,VA
@@ -2550,7 +2564,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,Port to dealer,False,DealerHold,JTDAFAAF2P3002482,Lombard Toyota,IL
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,Port to dealer,True,DealerHold,JTDAFAAF2P3002496,Walker Toyota,OH
 2023,Platinum,BRONZE AGE/BLACK,AWD,52350,0.0,52350.0,Factory to port,False,Available,JTDAFAAF2P3002501,Don McGill Toyota of Katy,TX
-2023,Platinum,BLACK(227)/BRONZE(4Y6),AWD,52350,10000.0,62350.0,Factory to port,False,Available,JTDAFAAF2P3002529,Keating Toyota,TX
+2023,Platinum,BLACK(227)/BRONZE(4Y6),AWD,52350,13493.0,65843.0,Factory to port,False,Available,JTDAFAAF2P3002529,Keating Toyota,TX
 2023,Platinum,Heavy Metal with Black bi-tone,AWD,52350,1790.0,54140.0,Factory to port,False,,JTDAFAAF2P3002546,Liberty Toyota,NJ
 2023,Platinum,BLACK(227)/BRONZE(4Y6),AWD,52350,0.0,52350.0,Factory to port,False,Available,JTDAFAAF2P3002580,Fowler Toyota,OK
 2023,Platinum,Supersonic Red,AWD,52350,0.0,52350.0,Factory to port,False,,JTDAFAAF2P3002613,Hartford Toyota,CT
@@ -2559,12 +2573,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Platinum,SUPERSONIC RED/BLACK,AWD,52350,2595.0,54945.0,Factory to port,False,DealerHold,JTDAFAAF2P3002708,Cowboy Toyota,TX
 2023,Platinum,Black,AWD,52350,0.0,52350.0,Factory to port,False,DealerHold,JTDAFAAF2P3002742,Seeger Toyota,MO
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,Factory to port,True,DealerHold,JTDAFAAF2P3002787,Precision Toyota of Tucson,AZ
-2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,Factory to port,False,,JTDAFAAF2P3002840,New Country Toyota of Saratoga Springs,NY
+2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,Factory to port,False,DealerHold,JTDAFAAF2P3002840,New Country Toyota of Saratoga Springs,NY
 2023,Platinum,Magnetic Gray Metallic,AWD,52350,0.0,52350.0,Factory to port,True,DealerHold,JTDAFAAF2P3002899,Bennett Toyota of Lebanon,PA
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,Factory to port,False,,JTDAFAAF2P3002904,Westbury Toyota,NY
 2023,Platinum,Black,AWD,52350,0.0,52350.0,Factory to port,False,,JTDAFAAF2P3002918,Millennium Toyota,NY
 2023,Platinum,Heavy Metal,AWD,52350,0.0,52350.0,Factory to port,False,,JTDAFAAF2P3002952,Atlantic Toyota,NY
-2023,Platinum,Supersonic Red,AWD,52350,0.0,52350.0,Factory to port,False,,JTDAFAAF2P3003065,McDonough Toyota,VA
+2023,Platinum,Supersonic Red,AWD,52350,0.0,52350.0,Factory to port,True,,JTDAFAAF2P3003065,McDonough Toyota,VA
 2023,Platinum,Black,AWD,52350,0.0,52350.0,At dealer,True,DealerHold,JTDAFAAF3P3000241,Toyota of Lincoln Park,IL
 2023,Platinum,Heavy Metal,AWD,52350,0.0,52350.0,At dealer,False,Available,JTDAFAAF3P3001714,Valenti Toyota,RI
 2023,Platinum,Black,AWD,52350,0.0,52350.0,At dealer,False,Available,JTDAFAAF3P3001924,Romeo Toyota of Glens Falls,NY
@@ -2591,7 +2605,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Platinum,Oxygen White with Black bi-tone,AWD,52350,0.0,52350.0,Factory to port,False,,JTDAFAAF3P3002815,Toyota of Muskegon,MI
 2023,Platinum,Supersonic Red,AWD,52350,0.0,52350.0,Factory to port,False,,JTDAFAAF3P3002913,Westchester Toyota,NY
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,Factory to port,False,,JTDAFAAF3P3002944,Mungenast Alton Toyota,IL
-2023,Platinum,Heavy Metal,AWD,52350,0.0,52350.0,Factory to port,False,,JTDAFAAF3P3002992,Voss Toyota,OH
+2023,Platinum,Heavy Metal,AWD,52350,0.0,52350.0,Factory to port,False,DealerHold,JTDAFAAF3P3002992,Voss Toyota,OH
 2023,Platinum,Magnetic Gray Metallic,AWD,52350,0.0,52350.0,Factory to port,False,,JTDAFAAF3P3003057,Sloane Toyota of Philadelphia,PA
 2023,Platinum,Supersonic Red,AWD,52350,0.0,52350.0,At dealer,False,DealerHold,JTDAFAAF4P3001480,Performance Toyota,OH
 2023,Platinum,Oxygen White,AWD,52350,0.0,52350.0,At dealer,False,,JTDAFAAF4P3001821,Toyota of Erie,PA
@@ -2603,7 +2617,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Platinum,SUPERSONIC RED,AWD,52350,3490.0,55840.0,Factory to port,True,DealerHold,JTDAFAAF4P3002581,Fred Haas Toyota World,TX
 2023,Platinum,Supersonic Red with Black bi-tone,AWD,52350,0.0,52350.0,Factory to port,False,DealerHold,JTDAFAAF4P3002614,Corwin Toyota,ND
 2023,Platinum,Heavy Metal with Black bi-tone,AWD,52350,0.0,52350.0,Factory to port,False,DealerHold,JTDAFAAF4P3002645,Kerry Toyota,KY
-2023,Platinum,Magnetic Gray Metallic,AWD,52350,0.0,52350.0,Factory to port,False,,JTDAFAAF4P3002709,Twin City Toyota,MO
+2023,Platinum,Magnetic Gray Metallic,AWD,52350,0.0,52350.0,Factory to port,False,DealerHold,JTDAFAAF4P3002709,Olathe Toyota,KS
 2023,Platinum,Magnetic Gray Metallic,AWD,52350,0.0,52350.0,Factory to port,False,,JTDAFAAF4P3002757,Toyota of Escondido,CA
 2023,Platinum,Heavy Metal,AWD,52350,0.0,52350.0,Factory to port,False,,JTDAFAAF4P3002760,Manhattan Beach Toyota,CA
 2023,Platinum,Heavy Metal,AWD,52350,0.0,52350.0,Factory to port,False,,JTDAFAAF4P3002788,Emerson Toyota,ME
@@ -2616,9 +2630,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Platinum,Magnetic Gray Metallic,AWD,52350,0.0,52350.0,At dealer,False,Available,JTDAFAAF5P3001262,Preston Toyota,PA
 2023,Platinum,Oxygen White with Black bi-tone,AWD,52350,0.0,52350.0,At dealer,False,DealerHold,JTDAFAAF5P3001472,Victory Toyota of Midtown,IL
 2023,Platinum,Oxygen White,AWD,52350,0.0,52350.0,At dealer,True,DealerHold,JTDAFAAF5P3001861,Atlantic Toyota,MA
-2023,Platinum,OXYGEN WHITE,AWD,52350,11894.0,64244.0,At dealer,False,Available,JTDAFAAF5P3002010,Joe Myers Toyota,TX
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,Port to dealer,False,,JTDAFAAF5P3002198,Legends Toyota,KS
-2023,Platinum,BRONZE AGE/BLACK,AWD,52350,2488.0,54838.0,Factory to port,False,DealerHold,JTDAFAAF5P3002234,Toyota of Plano,TX
+2023,Platinum,BRONZE AGE/BLACK,AWD,52350,2488.0,54838.0,At dealer,False,DealerHold,JTDAFAAF5P3002234,Toyota of Plano,TX
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,At dealer,False,Available,JTDAFAAF5P3002458,"Pedersen Toyota, Ltd.",CO
 2023,Platinum,PRECIOUS METAL,AWD,52350,1999.0,54349.0,Factory to port,True,Available,JTDAFAAF5P3002542,Karl Malone Toyota of Ruston,LA
 2023,Platinum,Magnetic Gray Metallic,AWD,52350,0.0,52350.0,Factory to port,False,DealerHold,JTDAFAAF5P3002671,Motorworld Toyota,PA
@@ -2643,7 +2656,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,Port to dealer,False,DealerHold,JTDAFAAF6P3002307,A-1 Toyota,CT
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,Port to dealer,True,DealerHold,JTDAFAAF6P3002338,Carlson Toyota,MN
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,Port to dealer,False,Available,JTDAFAAF6P3002341,Tom Pappas Toyota,MO
-2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,Port to dealer,False,DealerHold,JTDAFAAF6P3002372,Steet Toyota,NY
+2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,At dealer,False,DealerHold,JTDAFAAF6P3002372,Steet Toyota,NY
 2023,Platinum,BRONZE AGE/BLACK,AWD,52350,10000.0,62350.0,At dealer,False,DealerHold,JTDAFAAF6P3002386,Toyota of Dallas,TX
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,Port to dealer,False,DealerHold,JTDAFAAF6P3002419,White's Toyota of Lima,OH
 2023,Platinum,BRONZE AGE/BLACK,AWD,52350,0.0,52350.0,Factory to port,False,Available,JTDAFAAF6P3002484,Shottenkirk Toyota Granbury,TX
@@ -2663,7 +2676,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Platinum,Oxygen White,AWD,52350,0.0,52350.0,At dealer,False,DealerHold,JTDAFAAF7P3001666,McGee Toyota,MA
 2023,Platinum,OXYGEN WHITE,AWD,52350,1098.0,53448.0,At dealer,False,DealerHold,JTDAFAAF7P3001795,Toyota of Cedar Park,TX
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,1990.0,54340.0,At dealer,True,,JTDAFAAF7P3002087,East Madison Toyota,WI
-2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,Port to dealer,False,,JTDAFAAF7P3002235,Voss Toyota,OH
+2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,Port to dealer,True,DealerHold,JTDAFAAF7P3002235,Voss Toyota,OH
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,Port to dealer,False,,JTDAFAAF7P3002283,Toyota Direct,OH
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,Port to dealer,False,,JTDAFAAF7P3002297,Thayer Toyota,OH
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,Port to dealer,False,,JTDAFAAF7P3002333,Tansky Sawmill Toyota,OH
@@ -2703,12 +2716,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Platinum,Black,AWD,52350,0.0,52350.0,At dealer,False,Available,JTDAFAAF9P3002088,Charlie's Toyota,ME
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,Port to dealer,False,DealerHold,JTDAFAAF9P3002155,Crown Toyota,KS
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,1274.0,53624.0,Port to dealer,False,,JTDAFAAF9P3002172,Tom Wood Toyota,IN
-2023,Platinum,BRONZE AGE/BLACK,AWD,52350,0.0,52350.0,At dealer,True,DealerHold,JTDAFAAF9P3002186,Brownsville Toyota,TX
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,At dealer,False,,JTDAFAAF9P3002219,"Hellman Toyota, Inc.",CO
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,Port to dealer,False,DealerHold,JTDAFAAF9P3002303,Bommarito Toyota,MO
 2023,Platinum,Supersonic Red,AWD,52350,895.0,53245.0,Port to dealer,False,,JTDAFAAF9P3002351,Bennett Toyota,PA
 2023,Platinum,Supersonic Red,AWD,52350,0.0,52350.0,At dealer,False,,JTDAFAAF9P3002382,Casey Toyota,VA
-2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,At dealer,False,,JTDAFAAF9P3002463,Centennial Toyota,NV
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,Port to dealer,False,,JTDAFAAF9P3002494,City World Toyota,NY
 2023,Platinum,SUPERSONIC RED,AWD,52350,0.0,52350.0,Factory to port,False,Available,JTDAFAAF9P3002513,Carlock Toyota of Tupelo,MS
 2023,Platinum,Oxygen White with Black bi-tone,AWD,52350,0.0,52350.0,Port to dealer,False,DealerHold,JTDAFAAF9P3002527,John Weiss' Toyota of South County,MO
@@ -2717,7 +2728,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,Factory to port,False,DealerHold,JTDAFAAF9P3002561,"Molle Toyota, Inc.",MO
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,At dealer,False,Available,JTDAFAAF9P3002592,Toyota of Lancaster,CA
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,Port to dealer,False,Available,JTDAFAAF9P3002608,"Pedersen Toyota, Ltd.",CO
-2023,Platinum,Oxygen White,AWD,52350,0.0,52350.0,Factory to port,False,,JTDAFAAF9P3002611,Shelor Toyota,VA
+2023,Platinum,Oxygen White,AWD,52350,0.0,52350.0,Factory to port,False,DealerHold,JTDAFAAF9P3002611,Shelor Toyota,VA
 2023,Platinum,BLACK(227)/BRONZE(4Y6),AWD,52350,0.0,52350.0,Factory to port,False,Available,JTDAFAAF9P3002639,Toyota of Laredo,TX
 2023,Platinum,Oxygen White,AWD,52350,0.0,52350.0,Port to dealer,False,,JTDAFAAF9P3002690,Thousand Oaks Toyota,CA
 2023,Platinum,Oxygen White with Black bi-tone,AWD,52350,0.0,52350.0,Port to dealer,False,,JTDAFAAF9P3002706,Findlay Toyota,NV
@@ -2728,11 +2739,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,Platinum,Heavy Metal,AWD,52350,0.0,52350.0,Factory to port,True,DealerHold,JTDAFAAF9P3003158,Baxter Toyota of La Vista,NE
 2023,Platinum,Heavy Metal with Black bi-tone,AWD,52350,0.0,52350.0,At dealer,False,Available,JTDAFAAFXP3000575,Penn Toyota,NY
 2023,Platinum,Heavy Metal,AWD,52350,0.0,52350.0,At dealer,False,Available,JTDAFAAFXP3001872,Penn Toyota,NY
-2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,At dealer,False,Available,JTDAFAAFXP3001953,Toyota of Colchester,CT
+2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,At dealer,False,DealerHold,JTDAFAAFXP3001953,Toyota of Colchester,CT
 2023,Platinum,Magnetic Gray Metallic,AWD,52350,0.0,52350.0,At dealer,False,Available,JTDAFAAFXP3002035,Down East Toyota,ME
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,At dealer,False,,JTDAFAAFXP3002097,Smithtown Toyota,NY
-2023,Platinum,BRONZE AGE/BLACK,AWD,52350,0.0,52350.0,Factory to port,True,Available,JTDAFAAFXP3002164,John Eagle Sport City Toyota,TX
-2023,Platinum,BRONZE AGE/BLACK,AWD,52350,648.0,52998.0,At dealer,True,DealerHold,JTDAFAAFXP3002181,Don Ringler Toyota,TX
+2023,Platinum,BRONZE AGE/BLACK,AWD,52350,0.0,52350.0,Port to dealer,True,Available,JTDAFAAFXP3002164,John Eagle Sport City Toyota,TX
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,Port to dealer,False,DealerHold,JTDAFAAFXP3002259,Premier Toyota,NE
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,Port to dealer,True,DealerHold,JTDAFAAFXP3002391,Denny Menholt Toyota,SD
 2023,Platinum,Bronze Age with Black bi-tone,AWD,52350,0.0,52350.0,Port to dealer,False,Available,JTDAFAAFXP3002410,Northway Toyota,NY
